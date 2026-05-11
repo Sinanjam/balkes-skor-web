@@ -1,4 +1,5 @@
 const BASE = "data/";
+const GOATCOUNTER_TOTAL_URL = "https://balkesskor.goatcounter.com/counter/TOTAL.json";
 const $ = (s) => document.querySelector(s);
 const $$ = (s) => [...document.querySelectorAll(s)];
 const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (m) => ({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#39;"}[m]));
@@ -42,6 +43,23 @@ function setStatus(text, source="") {
 }
 function matchHaystack(m) {
   return norm([m.stage, m.dateDisplay, m.homeTeam, m.awayTeam, m.score?.display, m.balkes?.opponent, m.roundType, m.venue].join(" "));
+}
+
+function renderVisitorTotal() {
+  const el = $("#metric-visitors");
+  if (!el) return;
+  fetch(GOATCOUNTER_TOTAL_URL, { cache: "no-cache", mode: "cors" })
+    .then((res) => {
+      if (!res.ok) throw new Error(`GoatCounter sayaç yanıtı: ${res.status}`);
+      return res.json();
+    })
+    .then((data) => {
+      el.textContent = data?.count || "—";
+      el.closest(".metric-card")?.classList.add("counter-loaded");
+    })
+    .catch(() => {
+      el.textContent = "—";
+    });
 }
 
 function renderMetrics() {
@@ -235,6 +253,7 @@ async function init() {
     seasons = [...(manifest.availableSeasons || [])].sort((a,b)=>String(b.id).localeCompare(String(a.id)));
     if (!seasons.length) throw new Error("Manifest içinde sezon bulunamadı.");
     renderMetrics();
+    renderVisitorTotal();
     renderPlayers();
     renderOpponents();
     await loadSeason(seasons[0].id);

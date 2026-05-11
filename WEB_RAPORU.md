@@ -31,3 +31,10 @@ Hedef site:
 ```text
 https://sinanjam.github.io/balkes-skor-web/
 ```
+
+
+## v0.5.1 mini güncelleme
+
+- Ana özet kartlarına `Toplam Ziyaretçi Sayısı` kartı eklendi.
+- Kart GoatCounter `TOTAL` sayacını JSON endpoint üzerinden okur.
+- Karanlık/premium tasarıma uyumlu kırmızı vurgulu görünüm eklendi.

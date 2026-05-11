@@ -76,11 +76,32 @@ p { color: var(--muted); line-height: 1.65; }
 #data-status { display:block; font-size: 22px; letter-spacing: -.04em; }
 #data-source { color: var(--muted); }
 main { max-width: var(--max); margin: 0 auto; padding: 0 16px 46px; }
-.metric-grid { display: grid; grid-template-columns: repeat(4, minmax(0,1fr)); gap: 14px; margin: 14px 0; }
+.metric-grid { display: grid; grid-template-columns: repeat(5, minmax(0,1fr)); gap: 14px; margin: 14px 0; }
 .metric-card { padding: 18px; }
 .metric-card span { color: var(--muted); font-weight: 800; }
 .metric-card strong { display:block; font-size: clamp(28px, 5vw, 48px); letter-spacing: -.07em; margin-top: 5px; }
 .metric-card small { color: var(--red3); font-weight: 900; }
+.visitor-metric {
+  position: relative;
+  overflow: hidden;
+  border-color: rgba(239,35,60,.28);
+  background:
+    radial-gradient(circle at 82% 18%, rgba(239,35,60,.28), transparent 34%),
+    linear-gradient(180deg, rgba(239,35,60,.12), rgba(255,255,255,.035));
+}
+.visitor-metric::after {
+  content: "";
+  position: absolute;
+  inset: auto -38px -54px auto;
+  width: 142px;
+  height: 142px;
+  border-radius: 999px;
+  background: rgba(239,35,60,.16);
+  filter: blur(2px);
+}
+.visitor-metric span, .visitor-metric strong, .visitor-metric small { position: relative; z-index: 1; }
+.visitor-metric strong { color: #fff; text-shadow: 0 0 28px rgba(239,35,60,.28); }
+.visitor-metric.counter-loaded { border-color: rgba(239,35,60,.48); }
 .panel { padding: clamp(16px, 2.6vw, 24px); margin: 14px 0; }
 .wide { overflow:hidden; }
 .grid-2 { display: grid; grid-template-columns: minmax(0,1fr) minmax(0,1fr); gap: 14px; align-items: start; }
@@ -191,4 +212,8 @@ tr.balkes { background: rgba(239,35,60,.12); color: #fff; font-weight: 950; }
 @media (max-width: 420px) {
   .metric-grid, .season-stats, .player-grid { grid-template-columns: 1fr; }
   .brand span { display:none; }
+}
+
+@media (min-width: 981px) and (max-width: 1100px) {
+  .metric-grid { grid-template-columns: repeat(3, minmax(0,1fr)); }
 }

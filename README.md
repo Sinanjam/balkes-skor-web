@@ -30,3 +30,8 @@ GoatCounter kodu siteye eklidir:
 ```html
 <script data-goatcounter="https://balkesskor.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
 ```
+
+
+## Mini güncelleme
+
+Sitede GoatCounter üzerinden `Toplam Ziyaretçi Sayısı` kartı gösterilir. GoatCounter panelinde visitor counter izninin açık olması gerekir.
