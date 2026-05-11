@@ -1,0 +1,870 @@
+[
+  {
+    "id": "251165",
+    "season": "2023-2024",
+    "competition": "TFF 3. LEAGUE (Professional Team)",
+    "roundType": "league",
+    "week": 1,
+    "stage": "1. Maç",
+    "date": "2023-09-09",
+    "time": "16:30",
+    "dateDisplay": "9.09.2023 - 16:30",
+    "homeTeam": "BURSA YILDIRIM SPOR",
+    "awayTeam": "Balıkesirspor",
+    "score": {
+      "home": 2,
+      "away": 1,
+      "display": "2-1",
+      "played": true
+    },
+    "balkes": {
+      "isHome": false,
+      "opponent": "BURSA YILDIRIM SPOR",
+      "goalsFor": 1,
+      "goalsAgainst": 2,
+      "result": "L"
+    },
+    "detailUrl": "seasons/2023-2024/matches/251165.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=251165&pageID=528"
+    }
+  },
+  {
+    "id": "251172",
+    "season": "2023-2024",
+    "competition": "TFF 3. LEAGUE (Professional Team)",
+    "roundType": "league",
+    "week": 2,
+    "stage": "2. Maç",
+    "date": "2023-09-17",
+    "time": "19:00",
+    "dateDisplay": "17.09.2023 - 19:00",
+    "homeTeam": "Balıkesirspor",
+    "awayTeam": "ÇATALCASPOR",
+    "score": {
+      "home": 1,
+      "away": 1,
+      "display": "1-1",
+      "played": true
+    },
+    "balkes": {
+      "isHome": true,
+      "opponent": "ÇATALCASPOR",
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "result": "D"
+    },
+    "detailUrl": "seasons/2023-2024/matches/251172.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=251172&pageID=528"
+    }
+  },
+  {
+    "id": "251180",
+    "season": "2023-2024",
+    "competition": "TFF 3. LEAGUE (Professional Team)",
+    "roundType": "league",
+    "week": 3,
+    "stage": "3. Maç",
+    "date": "2023-09-23",
+    "time": "15:30",
+    "dateDisplay": "23.09.2023 - 15:30",
+    "homeTeam": "NEVŞEHİR BELEDİYE SPOR",
+    "awayTeam": "Balıkesirspor",
+    "score": {
+      "home": 0,
+      "away": 1,
+      "display": "0-1",
+      "played": true
+    },
+    "balkes": {
+      "isHome": false,
+      "opponent": "NEVŞEHİR BELEDİYE SPOR",
+      "goalsFor": 1,
+      "goalsAgainst": 0,
+      "result": "W"
+    },
+    "detailUrl": "seasons/2023-2024/matches/251180.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=251180&pageID=528"
+    }
+  },
+  {
+    "id": "251186",
+    "season": "2023-2024",
+    "competition": "TFF 3. LEAGUE (Professional Team)",
+    "roundType": "league",
+    "week": 4,
+    "stage": "4. Maç",
+    "date": "2023-10-01",
+    "time": "19:00",
+    "dateDisplay": "1.10.2023 - 19:00",
+    "homeTeam": "Balıkesirspor",
+    "awayTeam": "23 ELAZIĞ FUTBOL KULÜBÜ",
+    "score": {
+      "home": 0,
+      "away": 0,
+      "display": "0-0",
+      "played": true
+    },
+    "balkes": {
+      "isHome": true,
+      "opponent": "23 ELAZIĞ FUTBOL KULÜBÜ",
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "result": "D"
+    },
+    "detailUrl": "seasons/2023-2024/matches/251186.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=251186&pageID=528"
+    }
+  },
+  {
+    "id": "251195",
+    "season": "2023-2024",
+    "competition": "TFF 3. LEAGUE (Professional Team)",
+    "roundType": "league",
+    "week": 5,
+    "stage": "5. Maç",
+    "date": "2023-10-08",
+    "time": "14:30",
+    "dateDisplay": "8.10.2023 - 14:30",
+    "homeTeam": "MUŞ 1984 MUŞSPOR",
+    "awayTeam": "Balıkesirspor",
+    "score": {
+      "home": 2,
+      "away": 0,
+      "display": "2-0",
+      "played": true
+    },
+    "balkes": {
+      "isHome": false,
+      "opponent": "MUŞ 1984 MUŞSPOR",
+      "goalsFor": 0,
+      "goalsAgainst": 2,
+      "result": "L"
+    },
+    "detailUrl": "seasons/2023-2024/matches/251195.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=251195&pageID=528"
+    }
+  },
+  {
+    "id": "251200",
+    "season": "2023-2024",
+    "competition": "TFF 3. LEAGUE (Professional Team)",
+    "roundType": "league",
+    "week": 6,
+    "stage": "6. Maç",
+    "date": "2023-10-15",
+    "time": "19:00",
+    "dateDisplay": "15.10.2023 - 19:00",
+    "homeTeam": "Balıkesirspor",
+    "awayTeam": "ARMONİ ALANYA KESTELSPOR",
+    "score": {
+      "home": 0,
+      "away": 0,
+      "display": "0-0",
+      "played": true
+    },
+    "balkes": {
+      "isHome": true,
+      "opponent": "ARMONİ ALANYA KESTELSPOR",
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "result": "D"
+    },
+    "detailUrl": "seasons/2023-2024/matches/251200.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=251200&pageID=528"
+    }
+  },
+  {
+    "id": "251210",
+    "season": "2023-2024",
+    "competition": "TFF 3. LEAGUE (Professional Team)",
+    "roundType": "league",
+    "week": 7,
+    "stage": "7. Maç",
+    "date": "2023-10-21",
+    "time": "18:00",
+    "dateDisplay": "21.10.2023 - 18:00",
+    "homeTeam": "ORDUSPOR 1967 A.Ş.",
+    "awayTeam": "Balıkesirspor",
+    "score": {
+      "home": 4,
+      "away": 0,
+      "display": "4-0",
+      "played": true
+    },
+    "balkes": {
+      "isHome": false,
+      "opponent": "ORDUSPOR 1967 A.Ş.",
+      "goalsFor": 0,
+      "goalsAgainst": 4,
+      "result": "L"
+    },
+    "detailUrl": "seasons/2023-2024/matches/251210.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=251210&pageID=528"
+    }
+  },
+  {
+    "id": "251214",
+    "season": "2023-2024",
+    "competition": "TFF 3. LEAGUE (Professional Team)",
+    "roundType": "league",
+    "week": 8,
+    "stage": "8. Maç",
+    "date": "2023-10-28",
+    "time": "14:00",
+    "dateDisplay": "28.10.2023 - 14:00",
+    "homeTeam": "Balıkesirspor",
+    "awayTeam": "SİİRT İL ÖZEL İDARESİ SPOR",
+    "score": {
+      "home": 1,
+      "away": 1,
+      "display": "1-1",
+      "played": true
+    },
+    "balkes": {
+      "isHome": true,
+      "opponent": "SİİRT İL ÖZEL İDARESİ SPOR",
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "result": "D"
+    },
+    "detailUrl": "seasons/2023-2024/matches/251214.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=251214&pageID=528"
+    }
+  },
+  {
+    "id": "251225",
+    "season": "2023-2024",
+    "competition": "TFF 3. LEAGUE (Professional Team)",
+    "roundType": "league",
+    "week": 9,
+    "stage": "9. Maç",
+    "date": "2023-11-05",
+    "time": "14:00",
+    "dateDisplay": "5.11.2023 - 14:00",
+    "homeTeam": "SULTANBEYLİ BELEDİYE SPOR",
+    "awayTeam": "Balıkesirspor",
+    "score": {
+      "home": 3,
+      "away": 2,
+      "display": "3-2",
+      "played": true
+    },
+    "balkes": {
+      "isHome": false,
+      "opponent": "SULTANBEYLİ BELEDİYE SPOR",
+      "goalsFor": 2,
+      "goalsAgainst": 3,
+      "result": "L"
+    },
+    "detailUrl": "seasons/2023-2024/matches/251225.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=251225&pageID=528"
+    }
+  },
+  {
+    "id": "251228",
+    "season": "2023-2024",
+    "competition": "TFF 3. LEAGUE (Professional Team)",
+    "roundType": "league",
+    "week": 10,
+    "stage": "10. Maç",
+    "date": "2023-11-12",
+    "time": "14:00",
+    "dateDisplay": "12.11.2023 - 14:00",
+    "homeTeam": "Balıkesirspor",
+    "awayTeam": "GÜNEŞ HOLDİNG ÇANKAYA SPOR KULÜBÜ",
+    "score": {
+      "home": 2,
+      "away": 1,
+      "display": "2-1",
+      "played": true
+    },
+    "balkes": {
+      "isHome": true,
+      "opponent": "GÜNEŞ HOLDİNG ÇANKAYA SPOR KULÜBÜ",
+      "goalsFor": 2,
+      "goalsAgainst": 1,
+      "result": "W"
+    },
+    "detailUrl": "seasons/2023-2024/matches/251228.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=251228&pageID=528"
+    }
+  },
+  {
+    "id": "251240",
+    "season": "2023-2024",
+    "competition": "TFF 3. LEAGUE (Professional Team)",
+    "roundType": "league",
+    "week": 11,
+    "stage": "11. Maç",
+    "date": "2023-11-19",
+    "time": "14:00",
+    "dateDisplay": "19.11.2023 - 14:00",
+    "homeTeam": "SEBAT GENÇLİK SPOR",
+    "awayTeam": "Balıkesirspor",
+    "score": {
+      "home": 2,
+      "away": 0,
+      "display": "2-0",
+      "played": true
+    },
+    "balkes": {
+      "isHome": false,
+      "opponent": "SEBAT GENÇLİK SPOR",
+      "goalsFor": 0,
+      "goalsAgainst": 2,
+      "result": "L"
+    },
+    "detailUrl": "seasons/2023-2024/matches/251240.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=251240&pageID=528"
+    }
+  },
+  {
+    "id": "251242",
+    "season": "2023-2024",
+    "competition": "TFF 3. LEAGUE (Professional Team)",
+    "roundType": "league",
+    "week": 12,
+    "stage": "12. Maç",
+    "date": "2023-11-26",
+    "time": "14:00",
+    "dateDisplay": "26.11.2023 - 14:00",
+    "homeTeam": "Balıkesirspor",
+    "awayTeam": "BITEXEN ADANA 1954 FUTBOL KULÜBÜ",
+    "score": {
+      "home": 0,
+      "away": 0,
+      "display": "0-0",
+      "played": true
+    },
+    "balkes": {
+      "isHome": true,
+      "opponent": "BITEXEN ADANA 1954 FUTBOL KULÜBÜ",
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "result": "D"
+    },
+    "detailUrl": "seasons/2023-2024/matches/251242.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=251242&pageID=528"
+    }
+  },
+  {
+    "id": "251255",
+    "season": "2023-2024",
+    "competition": "TFF 3. LEAGUE (Professional Team)",
+    "roundType": "league",
+    "week": 13,
+    "stage": "13. Maç",
+    "date": "2023-12-02",
+    "time": "14:00",
+    "dateDisplay": "2.12.2023 - 14:00",
+    "homeTeam": "TOKAT BELEDİYE PLEVNE SPOR",
+    "awayTeam": "Balıkesirspor",
+    "score": {
+      "home": 1,
+      "away": 1,
+      "display": "1-1",
+      "played": true
+    },
+    "balkes": {
+      "isHome": false,
+      "opponent": "TOKAT BELEDİYE PLEVNE SPOR",
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "result": "D"
+    },
+    "detailUrl": "seasons/2023-2024/matches/251255.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=251255&pageID=528"
+    }
+  },
+  {
+    "id": "251256",
+    "season": "2023-2024",
+    "competition": "TFF 3. LEAGUE (Professional Team)",
+    "roundType": "league",
+    "week": 14,
+    "stage": "14. Maç",
+    "date": "2023-12-10",
+    "time": "14:00",
+    "dateDisplay": "10.12.2023 - 14:00",
+    "homeTeam": "Balıkesirspor",
+    "awayTeam": "BERGAMA SPORTİF FAALİYETLER A.Ş",
+    "score": {
+      "home": 2,
+      "away": 2,
+      "display": "2-2",
+      "played": true
+    },
+    "balkes": {
+      "isHome": true,
+      "opponent": "BERGAMA SPORTİF FAALİYETLER A.Ş",
+      "goalsFor": 2,
+      "goalsAgainst": 2,
+      "result": "D"
+    },
+    "detailUrl": "seasons/2023-2024/matches/251256.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=251256&pageID=528"
+    }
+  },
+  {
+    "id": "251270",
+    "season": "2023-2024",
+    "competition": "TFF 3. LEAGUE (Professional Team)",
+    "roundType": "league",
+    "week": 15,
+    "stage": "15. Maç",
+    "date": "2024-01-21",
+    "time": "14:00",
+    "dateDisplay": "21.01.2024 - 14:00",
+    "homeTeam": "Balıkesirspor",
+    "awayTeam": "BURSA YILDIRIM SPOR",
+    "score": {
+      "home": 1,
+      "away": 0,
+      "display": "1-0",
+      "played": true
+    },
+    "balkes": {
+      "isHome": true,
+      "opponent": "BURSA YILDIRIM SPOR",
+      "goalsFor": 1,
+      "goalsAgainst": 0,
+      "result": "W"
+    },
+    "detailUrl": "seasons/2023-2024/matches/251270.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=251270&pageID=528"
+    }
+  },
+  {
+    "id": "251277",
+    "season": "2023-2024",
+    "competition": "TFF 3. LEAGUE (Professional Team)",
+    "roundType": "league",
+    "week": 16,
+    "stage": "16. Maç",
+    "date": "2024-01-28",
+    "time": "14:00",
+    "dateDisplay": "28.01.2024 - 14:00",
+    "homeTeam": "İDAŞ ÇATALCASPOR",
+    "awayTeam": "Balıkesirspor",
+    "score": {
+      "home": 1,
+      "away": 1,
+      "display": "1-1",
+      "played": true
+    },
+    "balkes": {
+      "isHome": false,
+      "opponent": "İDAŞ ÇATALCASPOR",
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "result": "D"
+    },
+    "detailUrl": "seasons/2023-2024/matches/251277.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=251277&pageID=528"
+    }
+  },
+  {
+    "id": "251285",
+    "season": "2023-2024",
+    "competition": "TFF 3. LEAGUE (Professional Team)",
+    "roundType": "league",
+    "week": 17,
+    "stage": "17. Maç",
+    "date": "2024-02-04",
+    "time": "14:00",
+    "dateDisplay": "4.02.2024 - 14:00",
+    "homeTeam": "Balıkesirspor",
+    "awayTeam": "NEVŞEHİR BELEDİYE SPOR",
+    "score": {
+      "home": 2,
+      "away": 0,
+      "display": "2-0",
+      "played": true
+    },
+    "balkes": {
+      "isHome": true,
+      "opponent": "NEVŞEHİR BELEDİYE SPOR",
+      "goalsFor": 2,
+      "goalsAgainst": 0,
+      "result": "W"
+    },
+    "detailUrl": "seasons/2023-2024/matches/251285.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=251285&pageID=528"
+    }
+  },
+  {
+    "id": "251291",
+    "season": "2023-2024",
+    "competition": "TFF 3. LEAGUE (Professional Team)",
+    "roundType": "league",
+    "week": 18,
+    "stage": "18. Maç",
+    "date": "2024-02-11",
+    "time": "14:00",
+    "dateDisplay": "11.02.2024 - 14:00",
+    "homeTeam": "23 ELAZIĞ FUTBOL KULÜBÜ",
+    "awayTeam": "Balıkesirspor",
+    "score": {
+      "home": 1,
+      "away": 0,
+      "display": "1-0",
+      "played": true
+    },
+    "balkes": {
+      "isHome": false,
+      "opponent": "23 ELAZIĞ FUTBOL KULÜBÜ",
+      "goalsFor": 0,
+      "goalsAgainst": 1,
+      "result": "L"
+    },
+    "detailUrl": "seasons/2023-2024/matches/251291.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=251291&pageID=528"
+    }
+  },
+  {
+    "id": "251300",
+    "season": "2023-2024",
+    "competition": "TFF 3. LEAGUE (Professional Team)",
+    "roundType": "league",
+    "week": 19,
+    "stage": "19. Maç",
+    "date": "2024-02-18",
+    "time": "14:00",
+    "dateDisplay": "18.02.2024 - 14:00",
+    "homeTeam": "Balıkesirspor",
+    "awayTeam": "MUŞ 1984 MUŞSPOR",
+    "score": {
+      "home": 0,
+      "away": 0,
+      "display": "0-0",
+      "played": true
+    },
+    "balkes": {
+      "isHome": true,
+      "opponent": "MUŞ 1984 MUŞSPOR",
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "result": "D"
+    },
+    "detailUrl": "seasons/2023-2024/matches/251300.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=251300&pageID=528"
+    }
+  },
+  {
+    "id": "251305",
+    "season": "2023-2024",
+    "competition": "TFF 3. LEAGUE (Professional Team)",
+    "roundType": "league",
+    "week": 20,
+    "stage": "20. Maç",
+    "date": "2024-02-25",
+    "time": "14:00",
+    "dateDisplay": "25.02.2024 - 14:00",
+    "homeTeam": "ARMONİ ALANYA KESTELSPOR",
+    "awayTeam": "Balıkesirspor",
+    "score": {
+      "home": 0,
+      "away": 3,
+      "display": "0-3",
+      "played": true
+    },
+    "balkes": {
+      "isHome": false,
+      "opponent": "ARMONİ ALANYA KESTELSPOR",
+      "goalsFor": 3,
+      "goalsAgainst": 0,
+      "result": "W"
+    },
+    "detailUrl": "seasons/2023-2024/matches/251305.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=251305&pageID=528"
+    }
+  },
+  {
+    "id": "251315",
+    "season": "2023-2024",
+    "competition": "TFF 3. LEAGUE (Professional Team)",
+    "roundType": "league",
+    "week": 21,
+    "stage": "21. Maç",
+    "date": "2024-03-03",
+    "time": "14:00",
+    "dateDisplay": "3.03.2024 - 14:00",
+    "homeTeam": "Balıkesirspor",
+    "awayTeam": "ORDUSPOR 1967 A.Ş.",
+    "score": {
+      "home": 1,
+      "away": 4,
+      "display": "1-4",
+      "played": true
+    },
+    "balkes": {
+      "isHome": true,
+      "opponent": "ORDUSPOR 1967 A.Ş.",
+      "goalsFor": 1,
+      "goalsAgainst": 4,
+      "result": "L"
+    },
+    "detailUrl": "seasons/2023-2024/matches/251315.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=251315&pageID=528"
+    }
+  },
+  {
+    "id": "251319",
+    "season": "2023-2024",
+    "competition": "TFF 3. LEAGUE (Professional Team)",
+    "roundType": "league",
+    "week": 22,
+    "stage": "22. Maç",
+    "date": "2024-03-10",
+    "time": "14:00",
+    "dateDisplay": "10.03.2024 - 14:00",
+    "homeTeam": "SİİRT İL ÖZEL İDARESİ SPOR",
+    "awayTeam": "Balıkesirspor",
+    "score": {
+      "home": 0,
+      "away": 1,
+      "display": "0-1",
+      "played": true
+    },
+    "balkes": {
+      "isHome": false,
+      "opponent": "SİİRT İL ÖZEL İDARESİ SPOR",
+      "goalsFor": 1,
+      "goalsAgainst": 0,
+      "result": "W"
+    },
+    "detailUrl": "seasons/2023-2024/matches/251319.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=251319&pageID=528"
+    }
+  },
+  {
+    "id": "251330",
+    "season": "2023-2024",
+    "competition": "TFF 3. LEAGUE (Professional Team)",
+    "roundType": "league",
+    "week": 23,
+    "stage": "23. Maç",
+    "date": "2024-03-17",
+    "time": "14:00",
+    "dateDisplay": "17.03.2024 - 14:00",
+    "homeTeam": "Balıkesirspor",
+    "awayTeam": "SULTANBEYLİ BELEDİYE SPOR",
+    "score": {
+      "home": 1,
+      "away": 1,
+      "display": "1-1",
+      "played": true
+    },
+    "balkes": {
+      "isHome": true,
+      "opponent": "SULTANBEYLİ BELEDİYE SPOR",
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "result": "D"
+    },
+    "detailUrl": "seasons/2023-2024/matches/251330.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=251330&pageID=528"
+    }
+  },
+  {
+    "id": "251333",
+    "season": "2023-2024",
+    "competition": "TFF 3. LEAGUE (Professional Team)",
+    "roundType": "league",
+    "week": 24,
+    "stage": "24. Maç",
+    "date": "2024-03-24",
+    "time": "14:00",
+    "dateDisplay": "24.03.2024 - 14:00",
+    "homeTeam": "GÜNEŞ HOLDİNG ÇANKAYA SPOR KULÜBÜ",
+    "awayTeam": "Balıkesirspor",
+    "score": {
+      "home": 0,
+      "away": 0,
+      "display": "0-0",
+      "played": true
+    },
+    "balkes": {
+      "isHome": false,
+      "opponent": "GÜNEŞ HOLDİNG ÇANKAYA SPOR KULÜBÜ",
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "result": "D"
+    },
+    "detailUrl": "seasons/2023-2024/matches/251333.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=251333&pageID=528"
+    }
+  },
+  {
+    "id": "251345",
+    "season": "2023-2024",
+    "competition": "TFF 3. LEAGUE (Professional Team)",
+    "roundType": "league",
+    "week": 25,
+    "stage": "25. Maç",
+    "date": "2024-04-03",
+    "time": "15:00",
+    "dateDisplay": "3.04.2024 - 15:00",
+    "homeTeam": "Balıkesirspor",
+    "awayTeam": "SEBAT GENÇLİK SPOR",
+    "score": {
+      "home": 4,
+      "away": 1,
+      "display": "4-1",
+      "played": true
+    },
+    "balkes": {
+      "isHome": true,
+      "opponent": "SEBAT GENÇLİK SPOR",
+      "goalsFor": 4,
+      "goalsAgainst": 1,
+      "result": "W"
+    },
+    "detailUrl": "seasons/2023-2024/matches/251345.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=251345&pageID=528"
+    }
+  },
+  {
+    "id": "251347",
+    "season": "2023-2024",
+    "competition": "TFF 3. LEAGUE (Professional Team)",
+    "roundType": "league",
+    "week": 26,
+    "stage": "26. Maç",
+    "date": "2024-04-07",
+    "time": "15:00",
+    "dateDisplay": "7.04.2024 - 15:00",
+    "homeTeam": "BITEXEN ADANA 1954 FUTBOL KULÜBÜ",
+    "awayTeam": "Balıkesirspor",
+    "score": {
+      "home": 2,
+      "away": 1,
+      "display": "2-1",
+      "played": true
+    },
+    "balkes": {
+      "isHome": false,
+      "opponent": "BITEXEN ADANA 1954 FUTBOL KULÜBÜ",
+      "goalsFor": 1,
+      "goalsAgainst": 2,
+      "result": "L"
+    },
+    "detailUrl": "seasons/2023-2024/matches/251347.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=251347&pageID=528"
+    }
+  },
+  {
+    "id": "251360",
+    "season": "2023-2024",
+    "competition": "TFF 3. LEAGUE (Professional Team)",
+    "roundType": "league",
+    "week": 27,
+    "stage": "27. Maç",
+    "date": "2024-04-14",
+    "time": "15:00",
+    "dateDisplay": "14.04.2024 - 15:00",
+    "homeTeam": "Balıkesirspor",
+    "awayTeam": "TOKAT BELEDİYE PLEVNE SPOR",
+    "score": {
+      "home": 1,
+      "away": 1,
+      "display": "1-1",
+      "played": true
+    },
+    "balkes": {
+      "isHome": true,
+      "opponent": "TOKAT BELEDİYE PLEVNE SPOR",
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "result": "D"
+    },
+    "detailUrl": "seasons/2023-2024/matches/251360.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=251360&pageID=528"
+    }
+  },
+  {
+    "id": "251361",
+    "season": "2023-2024",
+    "competition": "TFF 3. LEAGUE (Professional Team)",
+    "roundType": "league",
+    "week": 28,
+    "stage": "28. Maç",
+    "date": "2024-04-21",
+    "time": "15:00",
+    "dateDisplay": "21.04.2024 - 15:00",
+    "homeTeam": "BERGAMA SPORTİF FAALİYETLER A.Ş",
+    "awayTeam": "Balıkesirspor",
+    "score": {
+      "home": 2,
+      "away": 1,
+      "display": "2-1",
+      "played": true
+    },
+    "balkes": {
+      "isHome": false,
+      "opponent": "BERGAMA SPORTİF FAALİYETLER A.Ş",
+      "goalsFor": 1,
+      "goalsAgainst": 2,
+      "result": "L"
+    },
+    "detailUrl": "seasons/2023-2024/matches/251361.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=251361&pageID=528"
+    }
+  }
+]

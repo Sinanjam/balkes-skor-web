@@ -1,0 +1,430 @@
+{
+  "id": "305262",
+  "tff_match_id": "305262",
+  "season": "2025-2026",
+  "competition": "Ziraat Turkish Cup (Professional Team)",
+  "roundType": "cup",
+  "week": 3,
+  "stage": "3. Maç",
+  "date": "2025-09-17",
+  "time": "19:00",
+  "dateDisplay": "17.09.2025 - 19:00",
+  "homeTeam": "Balıkesirspor",
+  "awayTeam": "YALOVA FK 77 SPOR KULÜBÜ",
+  "homeTeamRaw": "NEV SAĞLIK GRUBU BALIKESİRSPOR",
+  "awayTeamRaw": "YALOVA FK 77 SPOR KULÜBÜ",
+  "score": {
+    "home": 1,
+    "away": 2,
+    "display": "1-2",
+    "played": true
+  },
+  "balkes": {
+    "isHome": true,
+    "opponent": "YALOVA FK 77 SPOR KULÜBÜ",
+    "goalsFor": 1,
+    "goalsAgainst": 2,
+    "result": "L"
+  },
+  "detailUrl": "seasons/2025-2026/matches/305262.json",
+  "source": {
+    "name": "TFF",
+    "url": "https://www.tff.org/Default.aspx?macId=305262&pageID=528"
+  },
+  "match_code": "(2. Tour)",
+  "venue": "BALIKESİR ATATÜRK - BALIKESİR - BALIKESİR MERKEZ",
+  "referees": [
+    {
+      "name": "BERAT OSMANCIKLI",
+      "role": "Referee"
+    },
+    {
+      "name": "ABDULLAH ÖZCAN",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "DEMİRHAN EMİR",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "BEDİRHAN YİĞİTBAŞ",
+      "role": "Fourth Official"
+    },
+    {
+      "name": "KEMAL M. SERBES",
+      "role": "Observer"
+    },
+    {
+      "name": "ERDOĞAN KURT",
+      "role": "Delegate"
+    }
+  ],
+  "lineups": {
+    "home": {
+      "team": "Balıkesirspor",
+      "team_raw": "NEV SAĞLIK GRUBU BALIKESİRSPOR",
+      "starting11": [
+        {
+          "shirt_no": "26.",
+          "name": "YASİN YİĞİT BERBER"
+        },
+        {
+          "shirt_no": "66.",
+          "name": "MEHMET BAĞCI"
+        },
+        {
+          "shirt_no": "33.",
+          "name": "YİĞİT EPÖZDEMİR"
+        },
+        {
+          "shirt_no": "6.",
+          "name": "HARUN TOPRAK"
+        },
+        {
+          "shirt_no": "29.",
+          "name": "AHMET NECAT AYDIN"
+        },
+        {
+          "shirt_no": "8.",
+          "name": "TALHA DOĞUŞ"
+        },
+        {
+          "shirt_no": "78.",
+          "name": "YİĞİT BAYINDIR"
+        },
+        {
+          "shirt_no": "27.",
+          "name": "ERŞAN YAŞA"
+        },
+        {
+          "shirt_no": "17.",
+          "name": "BORA YILMAZ"
+        },
+        {
+          "shirt_no": "21.",
+          "name": "HASAN GÜNDOĞDU"
+        },
+        {
+          "shirt_no": "70.",
+          "name": "ALİ TOPÇU"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "77.",
+          "name": "FURKAN YARDIM"
+        },
+        {
+          "shirt_no": "41.",
+          "name": "MİKDAT ÇİL"
+        },
+        {
+          "shirt_no": "10.",
+          "name": "SEDAT YİĞİT KURNAZ"
+        },
+        {
+          "shirt_no": "20.",
+          "name": "YEKTA SÖNMEZ"
+        },
+        {
+          "shirt_no": "7.",
+          "name": "CELAL EMİR DEDE"
+        },
+        {
+          "shirt_no": "11.",
+          "name": "ALİ SİNAN GAYLA"
+        },
+        {
+          "shirt_no": "9.",
+          "name": "ARTUN AKÇAKIN"
+        },
+        {
+          "shirt_no": "18.",
+          "name": "OĞUZCAN KESGİN"
+        },
+        {
+          "shirt_no": "19.",
+          "name": "KAAN BOZKURT"
+        },
+        {
+          "shirt_no": "83.",
+          "name": "EFE OKUTAN"
+        }
+      ],
+      "coach": "CEM KAVÇAK"
+    },
+    "away": {
+      "team": "YALOVA FK 77 SPOR KULÜBÜ",
+      "team_raw": "YALOVA FK 77 SPOR KULÜBÜ",
+      "starting11": [
+        {
+          "shirt_no": "13.",
+          "name": "DOĞUKAN ÖZKAN"
+        },
+        {
+          "shirt_no": "23.",
+          "name": "BARAN ÇETİN"
+        },
+        {
+          "shirt_no": "58.",
+          "name": "ALİ YEŞİLYURT"
+        },
+        {
+          "shirt_no": "28.",
+          "name": "MURAT AKÇA"
+        },
+        {
+          "shirt_no": "88.",
+          "name": "ARDA YAVUZ"
+        },
+        {
+          "shirt_no": "15.",
+          "name": "ERGÜN NAZLI"
+        },
+        {
+          "shirt_no": "52.",
+          "name": "İZZET TOPATAR"
+        },
+        {
+          "shirt_no": "19.",
+          "name": "BEHLÜL AYDIN"
+        },
+        {
+          "shirt_no": "90.",
+          "name": "METEHAN MUSTAFA MOLLAOĞLU"
+        },
+        {
+          "shirt_no": "21.",
+          "name": "MUHAMMED HASAN YILDIRIM"
+        },
+        {
+          "shirt_no": "9.",
+          "name": "ONUR ARI"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "27.",
+          "name": "MİRAÇ FATİH DEĞİRMENCİ"
+        },
+        {
+          "shirt_no": "17.",
+          "name": "EFE TECİMER"
+        },
+        {
+          "shirt_no": "97.",
+          "name": "MUSTAFA ÖZBAY"
+        },
+        {
+          "shirt_no": "25.",
+          "name": "ÖMER FARUK ÖZDEMİR"
+        },
+        {
+          "shirt_no": "54.",
+          "name": "BERKAN GÜNER"
+        },
+        {
+          "shirt_no": "34.",
+          "name": "ATA ÖZTÜRK"
+        },
+        {
+          "shirt_no": "20.",
+          "name": "EREN AKDEMİR"
+        },
+        {
+          "shirt_no": "99.",
+          "name": "ARİF RIŞVANOĞLU"
+        },
+        {
+          "shirt_no": "37.",
+          "name": "KAAN GEÇİM"
+        },
+        {
+          "shirt_no": "30.",
+          "name": "İBRAHİM YILMAZ ÇİÇEK"
+        }
+      ],
+      "coach": "FATİH AKYEL"
+    }
+  },
+  "events": [
+    {
+      "type": "goal",
+      "player": "BORA YILMAZ",
+      "minute": 11,
+      "minute_text": "11. dk",
+      "note": "Ayak",
+      "team": "Balıkesirspor"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "TALHA DOĞUŞ",
+      "minute": 18,
+      "minute_text": "18. dk"
+    },
+    {
+      "type": "goal",
+      "player": "MURAT AKÇA",
+      "minute": 26,
+      "minute_text": "26. dk",
+      "note": "Ayak",
+      "team": "YALOVA FK 77 SPOR KULÜBÜ"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "ERŞAN YAŞA",
+      "minute": 29,
+      "minute_text": "29. dk"
+    },
+    {
+      "type": "card",
+      "team": "YALOVA FK 77 SPOR KULÜBÜ",
+      "player": "MURAT AKÇA",
+      "minute": 45.1,
+      "minute_text": "45+1. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "HASAN GÜNDOĞDU",
+      "minute": 51,
+      "minute_text": "51. dk"
+    },
+    {
+      "type": "card",
+      "team": "YALOVA FK 77 SPOR KULÜBÜ",
+      "player": "ERGÜN NAZLI",
+      "minute": 57,
+      "minute_text": "57. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "AHMET NECAT AYDIN",
+      "player_in": "ARTUN AKÇAKIN",
+      "minute": 61,
+      "minute_text": "61. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "YİĞİT BAYINDIR",
+      "player_in": "CELAL EMİR DEDE",
+      "minute": 61,
+      "minute_text": "61. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "YALOVA FK 77 SPOR KULÜBÜ",
+      "player_out": "ERGÜN NAZLI",
+      "player_in": "ÖMER FARUK ÖZDEMİR",
+      "minute": 61,
+      "minute_text": "61. dk"
+    },
+    {
+      "type": "goal",
+      "player": "İZZET TOPATAR",
+      "minute": 64,
+      "minute_text": "64. dk",
+      "note": "Ayak",
+      "team": "YALOVA FK 77 SPOR KULÜBÜ"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "ERŞAN YAŞA",
+      "player_in": "ALİ SİNAN GAYLA",
+      "minute": 68,
+      "minute_text": "68. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "ALİ TOPÇU",
+      "player_in": "SEDAT YİĞİT KURNAZ",
+      "minute": 68,
+      "minute_text": "68. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "YALOVA FK 77 SPOR KULÜBÜ",
+      "player_out": "MUHAMMED HASAN YILDIRIM",
+      "player_in": "MUSTAFA ÖZBAY",
+      "minute": 69,
+      "minute_text": "69. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "ARTUN AKÇAKIN",
+      "minute": 81,
+      "minute_text": "81. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "HARUN TOPRAK",
+      "minute": 81,
+      "minute_text": "81. dk"
+    },
+    {
+      "type": "card",
+      "team": "YALOVA FK 77 SPOR KULÜBÜ",
+      "player": "MİRAÇ FATİH DEĞİRMENCİ",
+      "minute": 81,
+      "minute_text": "81. dk"
+    },
+    {
+      "type": "card",
+      "team": "YALOVA FK 77 SPOR KULÜBÜ",
+      "player": "İZZET TOPATAR",
+      "minute": 81,
+      "minute_text": "81. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "YİĞİT EPÖZDEMİR",
+      "player_in": "MİKDAT ÇİL",
+      "minute": 86,
+      "minute_text": "86. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "YALOVA FK 77 SPOR KULÜBÜ",
+      "player_out": "BEHLÜL AYDIN",
+      "player_in": "İBRAHİM YILMAZ ÇİÇEK",
+      "minute": 90,
+      "minute_text": "90. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "YALOVA FK 77 SPOR KULÜBÜ",
+      "player_out": "İZZET TOPATAR",
+      "player_in": "BERKAN GÜNER",
+      "minute": 90,
+      "minute_text": "90. dk"
+    },
+    {
+      "type": "card",
+      "team": "YALOVA FK 77 SPOR KULÜBÜ",
+      "player": "İBRAHİM YILMAZ ÇİÇEK",
+      "minute": 90.1,
+      "minute_text": "90+1. dk"
+    },
+    {
+      "type": "card",
+      "team": "YALOVA FK 77 SPOR KULÜBÜ",
+      "player": "ARDA YAVUZ",
+      "minute": 90.2,
+      "minute_text": "90+2. dk"
+    }
+  ],
+  "dataQuality": {
+    "lineupsAvailable": true,
+    "eventsAvailable": true,
+    "sourceType": "tff_detail_page"
+  }
+}

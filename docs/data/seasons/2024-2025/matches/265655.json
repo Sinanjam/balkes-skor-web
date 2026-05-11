@@ -1,0 +1,412 @@
+{
+  "id": "265655",
+  "tff_match_id": "265655",
+  "season": "2024-2025",
+  "competition": "Nesine 3. League (Professional Team)",
+  "roundType": "league",
+  "week": 6,
+  "stage": "6. Maç",
+  "date": "2024-10-13",
+  "time": "14:00",
+  "dateDisplay": "13.10.2024 - 14:00",
+  "homeTeam": "AMASYASPOR FUTBOL KULÜBÜ",
+  "awayTeam": "Balıkesirspor",
+  "homeTeamRaw": "AMASYASPOR FUTBOL KULÜBÜ",
+  "awayTeamRaw": "BALIKESİRSPOR",
+  "score": {
+    "home": 2,
+    "away": 1,
+    "display": "2-1",
+    "played": true
+  },
+  "balkes": {
+    "isHome": false,
+    "opponent": "AMASYASPOR FUTBOL KULÜBÜ",
+    "goalsFor": 1,
+    "goalsAgainst": 2,
+    "result": "L"
+  },
+  "detailUrl": "seasons/2024-2025/matches/265655.json",
+  "source": {
+    "name": "TFF",
+    "url": "https://www.tff.org/Default.aspx?macId=265655&pageID=528"
+  },
+  "match_code": "4314",
+  "venue": "12 HAZİRAN STADI - AMASYA - AMASYA MERKEZ",
+  "referees": [
+    {
+      "name": "TANER TUNCER",
+      "role": "Referee"
+    },
+    {
+      "name": "OSMAN BARUK",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "HAKAN ERKAN",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "BEDİRHAN EFEAKDOĞAN",
+      "role": "Fourth Official"
+    },
+    {
+      "name": "NEŞET MERDİN",
+      "role": "Observer"
+    },
+    {
+      "name": "ERDİNÇ ERGÜN ANGIN",
+      "role": "Delegate"
+    }
+  ],
+  "lineups": {
+    "home": {
+      "team": "AMASYASPOR FUTBOL KULÜBÜ",
+      "team_raw": "AMASYASPOR FUTBOL KULÜBÜ",
+      "starting11": [
+        {
+          "shirt_no": "31.",
+          "name": "UMUT KESECİ"
+        },
+        {
+          "shirt_no": "22.",
+          "name": "EMİRHAN TAK"
+        },
+        {
+          "shirt_no": "4.",
+          "name": "YUNUS EMRE ÇAKIR"
+        },
+        {
+          "shirt_no": "24.",
+          "name": "BERKAY ARSLAN"
+        },
+        {
+          "shirt_no": "6.",
+          "name": "MUHAMMED ENES DOĞAN"
+        },
+        {
+          "shirt_no": "88.",
+          "name": "ONUR PAKSOY"
+        },
+        {
+          "shirt_no": "92.",
+          "name": "HAKAN OLKAN"
+        },
+        {
+          "shirt_no": "61.",
+          "name": "YUNUS EMRE AYDEMİR"
+        },
+        {
+          "shirt_no": "27.",
+          "name": "FATİH KIRAN"
+        },
+        {
+          "shirt_no": "99.",
+          "name": "MUSTAFA ETHEM ERBOĞA"
+        },
+        {
+          "shirt_no": "17.",
+          "name": "HASAN TÜRKYILMAZ"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "35.",
+          "name": "OZAN CAN ORUÇ"
+        },
+        {
+          "shirt_no": "9.",
+          "name": "AHMED KAĞAN GÜRBÜZ"
+        },
+        {
+          "shirt_no": "5.",
+          "name": "ENES SALİH ÇAVDAR"
+        },
+        {
+          "shirt_no": "10.",
+          "name": "OĞUZHAN ÖZTÜRK"
+        },
+        {
+          "shirt_no": "15.",
+          "name": "SABİT HAKAN YILMAZ"
+        },
+        {
+          "shirt_no": "80.",
+          "name": "BUĞRA ÇAĞLIYAN"
+        },
+        {
+          "shirt_no": "54.",
+          "name": "BEDİRHAN AKBABA"
+        },
+        {
+          "shirt_no": "44.",
+          "name": "HALİTCAN HİCİN"
+        },
+        {
+          "shirt_no": "50.",
+          "name": "BERKAN ASLAN"
+        },
+        {
+          "shirt_no": "55.",
+          "name": "BATUHAN AYVAZ"
+        }
+      ],
+      "coach": "ZAFER UYSAL"
+    },
+    "away": {
+      "team": "Balıkesirspor",
+      "team_raw": "BALIKESİRSPOR",
+      "starting11": [
+        {
+          "shirt_no": "1.",
+          "name": "HÜSEYİN ALTINTAŞ"
+        },
+        {
+          "shirt_no": "56.",
+          "name": "YİĞİT EPÖZDEMİR"
+        },
+        {
+          "shirt_no": "2.",
+          "name": "MUHAMMET ARAZ"
+        },
+        {
+          "shirt_no": "68.",
+          "name": "VOLKAN ALTINSOY"
+        },
+        {
+          "shirt_no": "16.",
+          "name": "ŞAHİN ŞAFAKOĞLU"
+        },
+        {
+          "shirt_no": "7.",
+          "name": "CELAL EMİR DEDE"
+        },
+        {
+          "shirt_no": "21.",
+          "name": "SERDAR GÜNCÜ"
+        },
+        {
+          "shirt_no": "8.",
+          "name": "ÖZER ÖZDEMİR"
+        },
+        {
+          "shirt_no": "80.",
+          "name": "MUHAMMED DEMİRCİ"
+        },
+        {
+          "shirt_no": "19.",
+          "name": "ARTUN AKÇAKIN"
+        },
+        {
+          "shirt_no": "9.",
+          "name": "BERTUĞ BAYAR"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "26.",
+          "name": "YASİN YİĞİT BERBER"
+        },
+        {
+          "shirt_no": "53.",
+          "name": "GÜVENÇ USTA"
+        },
+        {
+          "shirt_no": "3.",
+          "name": "AHMET GÜLAY"
+        },
+        {
+          "shirt_no": "22.",
+          "name": "TAYFUN KIRCA"
+        },
+        {
+          "shirt_no": "61.",
+          "name": "MUHAMMED EREN TÜRKMEN"
+        },
+        {
+          "shirt_no": "38.",
+          "name": "RAMAZAN KARAKUZU"
+        },
+        {
+          "shirt_no": "15.",
+          "name": "ASIM HAMZAÇEBİ"
+        },
+        {
+          "shirt_no": "32.",
+          "name": "ALİ KARAKAYA"
+        },
+        {
+          "shirt_no": "5.",
+          "name": "KAĞAN KAYALI"
+        }
+      ],
+      "coach": "LEVENT ERİŞ"
+    }
+  },
+  "events": [
+    {
+      "type": "card",
+      "team": "AMASYASPOR FUTBOL KULÜBÜ",
+      "player": "BERKAY ARSLAN",
+      "minute": 29,
+      "minute_text": "29. dk"
+    },
+    {
+      "type": "goal",
+      "player": "BERTUĞ BAYAR",
+      "minute": 31,
+      "minute_text": "31. dk",
+      "note": "Ayak",
+      "team": "Balıkesirspor"
+    },
+    {
+      "type": "card",
+      "team": "AMASYASPOR FUTBOL KULÜBÜ",
+      "player": "YUNUS EMRE ÇAKIR",
+      "minute": 31,
+      "minute_text": "31. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "ŞAHİN ŞAFAKOĞLU",
+      "player_in": "TAYFUN KIRCA",
+      "minute": 37,
+      "minute_text": "37. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "AMASYASPOR FUTBOL KULÜBÜ",
+      "player_out": "EMİRHAN TAK",
+      "player_in": "BATUHAN AYVAZ",
+      "minute": 46,
+      "minute_text": "46. dk"
+    },
+    {
+      "type": "card",
+      "team": "AMASYASPOR FUTBOL KULÜBÜ",
+      "player": "MUSTAFA ETHEM ERBOĞA",
+      "minute": 53,
+      "minute_text": "53. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "AMASYASPOR FUTBOL KULÜBÜ",
+      "player_out": "MUSTAFA ETHEM ERBOĞA",
+      "player_in": "AHMED KAĞAN GÜRBÜZ",
+      "minute": 57,
+      "minute_text": "57. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "AMASYASPOR FUTBOL KULÜBÜ",
+      "player_out": "MUHAMMED ENES DOĞAN",
+      "player_in": "BUĞRA ÇAĞLIYAN",
+      "minute": 57,
+      "minute_text": "57. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "MUHAMMED DEMİRCİ",
+      "player_in": "ASIM HAMZAÇEBİ",
+      "minute": 63,
+      "minute_text": "63. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "AMASYASPOR FUTBOL KULÜBÜ",
+      "player_out": "YUNUS EMRE AYDEMİR",
+      "player_in": "SABİT HAKAN YILMAZ",
+      "minute": 70,
+      "minute_text": "70. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "ASIM HAMZAÇEBİ",
+      "minute": 78,
+      "minute_text": "78. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "AMASYASPOR FUTBOL KULÜBÜ",
+      "player_out": "FATİH KIRAN",
+      "player_in": "OĞUZHAN ÖZTÜRK",
+      "minute": 78,
+      "minute_text": "78. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "ÖZER ÖZDEMİR",
+      "minute": 79,
+      "minute_text": "79. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "ARTUN AKÇAKIN",
+      "player_in": "ALİ KARAKAYA",
+      "minute": 81,
+      "minute_text": "81. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "BERTUĞ BAYAR",
+      "player_in": "AHMET GÜLAY",
+      "minute": 81,
+      "minute_text": "81. dk"
+    },
+    {
+      "type": "goal",
+      "player": "OĞUZHAN ÖZTÜRK",
+      "minute": 84,
+      "minute_text": "84. dk",
+      "note": "Ayak",
+      "team": "AMASYASPOR FUTBOL KULÜBÜ"
+    },
+    {
+      "type": "goal",
+      "player": "AHMED KAĞAN GÜRBÜZ",
+      "minute": 88,
+      "minute_text": "88. dk",
+      "note": "Ayak",
+      "team": "AMASYASPOR FUTBOL KULÜBÜ"
+    },
+    {
+      "type": "card",
+      "team": "AMASYASPOR FUTBOL KULÜBÜ",
+      "player": "MUHAMMED ENES DOĞAN",
+      "minute": 90.2,
+      "minute_text": "90+2. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "ŞAHİN ŞAFAKOĞLU",
+      "minute": 90.2,
+      "minute_text": "90+2. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "YİĞİT EPÖZDEMİR",
+      "minute": 90.2,
+      "minute_text": "90+2. dk"
+    },
+    {
+      "type": "card",
+      "team": "AMASYASPOR FUTBOL KULÜBÜ",
+      "player": "ONUR PAKSOY",
+      "minute": 91.1,
+      "minute_text": "90+11. dk"
+    }
+  ],
+  "dataQuality": {
+    "lineupsAvailable": true,
+    "eventsAvailable": true,
+    "sourceType": "tff_detail_page"
+  }
+}

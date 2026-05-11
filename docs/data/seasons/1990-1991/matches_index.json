@@ -1,0 +1,64 @@
+[
+  {
+    "id": "63715",
+    "season": "1990-1991",
+    "competition": "3. League (Professional Team)",
+    "roundType": "league",
+    "week": 1,
+    "stage": "1. Maç",
+    "date": "1990-11-11",
+    "time": "13:00",
+    "dateDisplay": "11.11.1990 - 13:00",
+    "homeTeam": "EDREMITSPOR",
+    "awayTeam": "Balıkesirspor",
+    "score": {
+      "home": 1,
+      "away": 0,
+      "display": "1-0",
+      "played": true
+    },
+    "balkes": {
+      "isHome": false,
+      "opponent": "EDREMITSPOR",
+      "goalsFor": 0,
+      "goalsAgainst": 1,
+      "result": "L"
+    },
+    "detailUrl": "seasons/1990-1991/matches/63715.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=63715&pageID=528"
+    }
+  },
+  {
+    "id": "65773",
+    "season": "1990-1991",
+    "competition": "3. League (Professional Team)",
+    "roundType": "league",
+    "week": 2,
+    "stage": "2. Maç",
+    "date": "1991-04-28",
+    "time": "15:00",
+    "dateDisplay": "28.04.1991 - 15:00",
+    "homeTeam": "Balıkesirspor",
+    "awayTeam": "THY",
+    "score": {
+      "home": 0,
+      "away": 1,
+      "display": "0-1",
+      "played": true
+    },
+    "balkes": {
+      "isHome": true,
+      "opponent": "THY",
+      "goalsFor": 0,
+      "goalsAgainst": 1,
+      "result": "L"
+    },
+    "detailUrl": "seasons/1990-1991/matches/65773.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=65773&pageID=528"
+    }
+  }
+]

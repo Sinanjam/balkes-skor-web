@@ -1,0 +1,425 @@
+{
+  "id": "235838",
+  "tff_match_id": "235838",
+  "season": "2022-2023",
+  "competition": "TFF 2.League (Professional Team)",
+  "roundType": "league",
+  "week": 25,
+  "stage": "25. Maç",
+  "date": "2023-03-11",
+  "time": "14:00",
+  "dateDisplay": "11.03.2023 - 14:00",
+  "homeTeam": "Balıkesirspor",
+  "awayTeam": "KOCAELİSPOR",
+  "homeTeamRaw": "BAYNET İNŞAAT BALIKESİRSPOR",
+  "awayTeamRaw": "KOCAELİSPOR",
+  "score": {
+    "home": 1,
+    "away": 6,
+    "display": "1-6",
+    "played": true
+  },
+  "balkes": {
+    "isHome": true,
+    "opponent": "KOCAELİSPOR",
+    "goalsFor": 1,
+    "goalsAgainst": 6,
+    "result": "L"
+  },
+  "detailUrl": "seasons/2022-2023/matches/235838.json",
+  "source": {
+    "name": "TFF",
+    "url": "https://www.tff.org/Default.aspx?macId=235838&pageID=528"
+  },
+  "match_code": "3449",
+  "venue": "BALIKESİR ATATÜRK - BALIKESİR",
+  "referees": [
+    {
+      "name": "BAYRAM BAŞKAN",
+      "role": "Referee"
+    },
+    {
+      "name": "MÜCAHİT DEĞERMENCİ",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "ALİ GÜN",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "SAFA YILMAZ",
+      "role": "Fourth Official"
+    },
+    {
+      "name": "HÜSEYİN ALTINTAŞ",
+      "role": "Observer"
+    },
+    {
+      "name": "MURAT ILGIN",
+      "role": "Delegate"
+    },
+    {
+      "name": "SERDAR PEHLİVAN",
+      "role": "Delegate"
+    }
+  ],
+  "lineups": {
+    "home": {
+      "team": "Balıkesirspor",
+      "team_raw": "BAYNET İNŞAAT BALIKESİRSPOR",
+      "starting11": [
+        {
+          "shirt_no": "1.",
+          "name": "YİĞİTHAN KIR"
+        },
+        {
+          "shirt_no": "4.",
+          "name": "BİROL PARLAK"
+        },
+        {
+          "shirt_no": "15.",
+          "name": "KAĞAN KAYALI"
+        },
+        {
+          "shirt_no": "39.",
+          "name": "HÜSEYİN KARABEY"
+        },
+        {
+          "shirt_no": "3.",
+          "name": "BERAT AYDOĞDU"
+        },
+        {
+          "shirt_no": "63.",
+          "name": "İBRAHİM HALİL ÇOLAK"
+        },
+        {
+          "shirt_no": "7.",
+          "name": "ANDAÇ GÜLERYÜZ"
+        },
+        {
+          "shirt_no": "5.",
+          "name": "SEDAT DURSUN"
+        },
+        {
+          "shirt_no": "10.",
+          "name": "OĞUZ HAN AYNAOĞLU"
+        },
+        {
+          "shirt_no": "21.",
+          "name": "SEDAT YİĞİT KURNAZ"
+        },
+        {
+          "shirt_no": "99.",
+          "name": "EMİRHAN ÇAKIR"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "26.",
+          "name": "YASİN YİĞİT BERBER"
+        },
+        {
+          "shirt_no": "44.",
+          "name": "GÖRKEM ALTUN"
+        },
+        {
+          "shirt_no": "23.",
+          "name": "ENES KARABULUT"
+        },
+        {
+          "shirt_no": "97.",
+          "name": "BERKAY AYKURT"
+        },
+        {
+          "shirt_no": "20.",
+          "name": "BERK TOSUN"
+        },
+        {
+          "shirt_no": "25.",
+          "name": "ABDULLAH ADIYAMAN"
+        },
+        {
+          "shirt_no": "27.",
+          "name": "DOĞANAY AVCI"
+        },
+        {
+          "shirt_no": "67.",
+          "name": "ARDA İBRAHİM AKGÜN"
+        },
+        {
+          "shirt_no": "80.",
+          "name": "ÜMİT DOĞRU"
+        },
+        {
+          "shirt_no": "61.",
+          "name": "HASAN CAN BİNGÜL"
+        }
+      ],
+      "coach": "CAN CANGÖK"
+    },
+    "away": {
+      "team": "KOCAELİSPOR",
+      "team_raw": "KOCAELİSPOR",
+      "starting11": [
+        {
+          "shirt_no": "35.",
+          "name": "GÖKHAN DEĞİRMENCİ"
+        },
+        {
+          "shirt_no": "2.",
+          "name": "ALİHAN KUBALAS"
+        },
+        {
+          "shirt_no": "3.",
+          "name": "YALÇIN KILINÇ"
+        },
+        {
+          "shirt_no": "7.",
+          "name": "CEM EKİNCİ"
+        },
+        {
+          "shirt_no": "8.",
+          "name": "YUSUF CİHAT ÇELİK"
+        },
+        {
+          "shirt_no": "10.",
+          "name": "TAYFUN AYDOĞAN"
+        },
+        {
+          "shirt_no": "14.",
+          "name": "İLYAS KUBİLAY YAVUZ"
+        },
+        {
+          "shirt_no": "20.",
+          "name": "MEHMET SAK"
+        },
+        {
+          "shirt_no": "32.",
+          "name": "MEHMET YILMAZ"
+        },
+        {
+          "shirt_no": "48.",
+          "name": "MERTAN CANER ÖZTÜRK"
+        },
+        {
+          "shirt_no": "80.",
+          "name": "BEYKAN ŞİMŞEK"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "17.",
+          "name": "İSMET YUMAKOĞULLARI"
+        },
+        {
+          "shirt_no": "24.",
+          "name": "EREN BİLEN"
+        },
+        {
+          "shirt_no": "5.",
+          "name": "DIOGO ALEKSIS ÖZÇAKMAK"
+        },
+        {
+          "shirt_no": "9.",
+          "name": "OKAN EKEN"
+        },
+        {
+          "shirt_no": "18.",
+          "name": "MERT ÇÖLGEÇEN"
+        },
+        {
+          "shirt_no": "11.",
+          "name": "HAZARHAN KARACA"
+        },
+        {
+          "shirt_no": "25.",
+          "name": "SERHAT DOĞUKAN TAŞDEMİR"
+        },
+        {
+          "shirt_no": "27.",
+          "name": "EMRE NEFİZ"
+        },
+        {
+          "shirt_no": "44.",
+          "name": "CENGİZHAN AKGÜN"
+        },
+        {
+          "shirt_no": "77.",
+          "name": "SAMED ALİ KAYA"
+        }
+      ],
+      "coach": "FIRAT GÜL"
+    }
+  },
+  "events": [
+    {
+      "type": "goal",
+      "player": "EMİRHAN ÇAKIR",
+      "minute": 22,
+      "minute_text": "22. dk",
+      "note": "Ayak",
+      "team": "Balıkesirspor"
+    },
+    {
+      "type": "substitution",
+      "team": "KOCAELİSPOR",
+      "player_out": "GÖKHAN DEĞİRMENCİ",
+      "player_in": "İSMET YUMAKOĞULLARI",
+      "minute": 25,
+      "minute_text": "25. dk"
+    },
+    {
+      "type": "goal",
+      "player": "BEYKAN ŞİMŞEK",
+      "minute": 45,
+      "minute_text": "45. dk",
+      "note": "Ayak",
+      "team": "KOCAELİSPOR"
+    },
+    {
+      "type": "goal",
+      "player": "BEYKAN ŞİMŞEK",
+      "minute": 56,
+      "minute_text": "56. dk",
+      "note": "Ayak",
+      "team": "KOCAELİSPOR"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "ANDAÇ GÜLERYÜZ",
+      "minute": 56,
+      "minute_text": "56. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "KOCAELİSPOR",
+      "player_out": "MERTAN CANER ÖZTÜRK",
+      "player_in": "OKAN EKEN",
+      "minute": 63,
+      "minute_text": "63. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "KOCAELİSPOR",
+      "player_out": "İLYAS KUBİLAY YAVUZ",
+      "player_in": "CENGİZHAN AKGÜN",
+      "minute": 63,
+      "minute_text": "63. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "KOCAELİSPOR",
+      "player_out": "BEYKAN ŞİMŞEK",
+      "player_in": "MERT ÇÖLGEÇEN",
+      "minute": 63,
+      "minute_text": "63. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "SEDAT YİĞİT KURNAZ",
+      "player_in": "GÖRKEM ALTUN",
+      "minute": 66,
+      "minute_text": "66. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "ANDAÇ GÜLERYÜZ",
+      "player_in": "DOĞANAY AVCI",
+      "minute": 66,
+      "minute_text": "66. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "BİROL PARLAK",
+      "minute": 69,
+      "minute_text": "69. dk"
+    },
+    {
+      "type": "goal",
+      "player": "OKAN EKEN",
+      "minute": 71,
+      "minute_text": "71. dk",
+      "note": "Ayak",
+      "team": "KOCAELİSPOR"
+    },
+    {
+      "type": "goal",
+      "player": "OKAN EKEN",
+      "minute": 74,
+      "minute_text": "74. dk",
+      "note": "Ayak",
+      "team": "KOCAELİSPOR"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "SEDAT DURSUN",
+      "player_in": "BERK TOSUN",
+      "minute": 74,
+      "minute_text": "74. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "OĞUZ HAN AYNAOĞLU",
+      "player_in": "HASAN CAN BİNGÜL",
+      "minute": 74,
+      "minute_text": "74. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "KOCAELİSPOR",
+      "player_out": "YUSUF CİHAT ÇELİK",
+      "player_in": "EMRE NEFİZ",
+      "minute": 77,
+      "minute_text": "77. dk"
+    },
+    {
+      "type": "goal",
+      "player": "TAYFUN AYDOĞAN",
+      "minute": 78,
+      "minute_text": "78. dk",
+      "note": "Penaltı",
+      "team": "KOCAELİSPOR"
+    },
+    {
+      "type": "card",
+      "team": "KOCAELİSPOR",
+      "player": "YALÇIN KILINÇ",
+      "minute": 81,
+      "minute_text": "81. dk"
+    },
+    {
+      "type": "goal",
+      "player": "CEM EKİNCİ",
+      "minute": 82,
+      "minute_text": "82. dk",
+      "note": "Ayak",
+      "team": "KOCAELİSPOR"
+    },
+    {
+      "type": "card",
+      "team": "KOCAELİSPOR",
+      "player": "MEHMET SAK",
+      "minute": 86,
+      "minute_text": "86. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "İBRAHİM HALİL ÇOLAK",
+      "player_in": "BERKAY AYKURT",
+      "minute": 89,
+      "minute_text": "89. dk"
+    }
+  ],
+  "dataQuality": {
+    "lineupsAvailable": true,
+    "eventsAvailable": true,
+    "sourceType": "tff_detail_page"
+  }
+}

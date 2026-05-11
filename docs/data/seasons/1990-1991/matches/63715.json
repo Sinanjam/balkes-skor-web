@@ -1,0 +1,280 @@
+{
+  "id": "63715",
+  "tff_match_id": "63715",
+  "season": "1990-1991",
+  "competition": "3. League (Professional Team)",
+  "roundType": "league",
+  "week": 1,
+  "stage": "1. Maç",
+  "date": "1990-11-11",
+  "time": "13:00",
+  "dateDisplay": "11.11.1990 - 13:00",
+  "homeTeam": "EDREMITSPOR",
+  "awayTeam": "Balıkesirspor",
+  "homeTeamRaw": "EDREMITSPOR",
+  "awayTeamRaw": "BALIKESIRSPOR",
+  "score": {
+    "home": 1,
+    "away": 0,
+    "display": "1-0",
+    "played": true
+  },
+  "balkes": {
+    "isHome": false,
+    "opponent": "EDREMITSPOR",
+    "goalsFor": 0,
+    "goalsAgainst": 1,
+    "result": "L"
+  },
+  "detailUrl": "seasons/1990-1991/matches/63715.json",
+  "source": {
+    "name": "TFF",
+    "url": "https://www.tff.org/Default.aspx?macId=63715&pageID=528"
+  },
+  "match_code": "4916",
+  "venue": "EDREMİT Ş.HAMDİBEY",
+  "referees": [
+    {
+      "name": "BAHRİ CEYLAN",
+      "role": "Referee"
+    },
+    {
+      "name": "YOLCU YILMAZ",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "SALİH KARABAĞLI",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "ZİHNİ ALEMDAR",
+      "role": "Observer"
+    }
+  ],
+  "lineups": {
+    "home": {
+      "team": "EDREMITSPOR",
+      "team_raw": "EDREMITSPOR",
+      "starting11": [
+        {
+          "shirt_no": "1.",
+          "name": "HÜSEYİN GÖKDEMİR"
+        },
+        {
+          "shirt_no": "2.",
+          "name": "CAHİT ALAETTİN ÇEPELOĞLU"
+        },
+        {
+          "shirt_no": "3.",
+          "name": "HASAN ONUR"
+        },
+        {
+          "shirt_no": "4.",
+          "name": "VEHBİ DALGIÇ"
+        },
+        {
+          "shirt_no": "5.",
+          "name": "MEHMET İRFAN"
+        },
+        {
+          "shirt_no": "6.",
+          "name": "TANER ERKİN"
+        },
+        {
+          "shirt_no": "7.",
+          "name": "MUSTAFA KAPLAN"
+        },
+        {
+          "shirt_no": "8.",
+          "name": "SİNAN NİLOFER"
+        },
+        {
+          "shirt_no": "9.",
+          "name": "RAMAZAN ÜNALDI"
+        },
+        {
+          "shirt_no": "10.",
+          "name": "ENGİN ERGAT"
+        },
+        {
+          "shirt_no": "11.",
+          "name": "TUNCAY GÜLAY"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "12.",
+          "name": "MURAT GÜNAYDIN"
+        },
+        {
+          "shirt_no": "13.",
+          "name": "OSMAN ABİŞOĞLU"
+        },
+        {
+          "shirt_no": "14.",
+          "name": "AHMET GÜÇLÜ"
+        },
+        {
+          "shirt_no": "15.",
+          "name": "TEZER DİŞSİZ"
+        },
+        {
+          "shirt_no": "254.",
+          "name": "EROL CAMKIRAN"
+        }
+      ]
+    },
+    "away": {
+      "team": "Balıkesirspor",
+      "team_raw": "BALIKESIRSPOR",
+      "starting11": [
+        {
+          "shirt_no": "1.",
+          "name": "KÜRŞAD KÜÇÜKKAYALAR"
+        },
+        {
+          "shirt_no": "2.",
+          "name": "İSMAİL AŞKAN"
+        },
+        {
+          "shirt_no": "3.",
+          "name": "NURİ KAYA"
+        },
+        {
+          "shirt_no": "4.",
+          "name": "MESUT DİLSÖZ"
+        },
+        {
+          "shirt_no": "5.",
+          "name": "ÜNAL UZBAY"
+        },
+        {
+          "shirt_no": "6.",
+          "name": "ADEM SALUR"
+        },
+        {
+          "shirt_no": "7.",
+          "name": "MURAT BÖLÜKBAŞI"
+        },
+        {
+          "shirt_no": "8.",
+          "name": "İSMET GÜMÜŞ"
+        },
+        {
+          "shirt_no": "9.",
+          "name": "OSMAN KARADENİZ"
+        },
+        {
+          "shirt_no": "10.",
+          "name": "MÜCAHİT BOZDEMİR"
+        },
+        {
+          "shirt_no": "11.",
+          "name": "SANCAR KİRAZLI"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "12.",
+          "name": "GÖKHAN TETİK"
+        },
+        {
+          "shirt_no": "13.",
+          "name": "AYVAZ ÖZTÜRK"
+        },
+        {
+          "shirt_no": "14.",
+          "name": "İLHAN DOĞRU"
+        },
+        {
+          "shirt_no": "15.",
+          "name": "TANJU AKÇE"
+        },
+        {
+          "shirt_no": "254.",
+          "name": "LEVENT UYSAL"
+        }
+      ]
+    }
+  },
+  "events": [
+    {
+      "type": "card",
+      "team": "EDREMITSPOR",
+      "player": "MUSTAFA KAPLAN",
+      "minute": 12,
+      "minute_text": "12. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "NURİ KAYA",
+      "minute": 12,
+      "minute_text": "12. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "İSMAİL AŞKAN",
+      "player_in": "AYVAZ ÖZTÜRK",
+      "minute": 17,
+      "minute_text": "17. dk"
+    },
+    {
+      "type": "card",
+      "team": "EDREMITSPOR",
+      "player": "CAHİT ALAETTİN ÇEPELOĞLU",
+      "minute": 25,
+      "minute_text": "25. dk"
+    },
+    {
+      "type": "card",
+      "team": "EDREMITSPOR",
+      "player": "HASAN ONUR",
+      "minute": 29,
+      "minute_text": "29. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "ADEM SALUR",
+      "minute": 60,
+      "minute_text": "60. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "EDREMITSPOR",
+      "player_out": "MUSTAFA KAPLAN",
+      "player_in": "AHMET GÜÇLÜ",
+      "minute": 60,
+      "minute_text": "60. dk"
+    },
+    {
+      "type": "card",
+      "team": "EDREMITSPOR",
+      "player": "VEHBİ DALGIÇ",
+      "minute": 65,
+      "minute_text": "65. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "EDREMITSPOR",
+      "player_out": "RAMAZAN ÜNALDI",
+      "player_in": "OSMAN ABİŞOĞLU",
+      "minute": 87,
+      "minute_text": "87. dk"
+    },
+    {
+      "type": "card",
+      "team": "EDREMITSPOR",
+      "player": "TUNCAY GÜLAY",
+      "minute": 90,
+      "minute_text": "90. dk"
+    }
+  ],
+  "dataQuality": {
+    "lineupsAvailable": true,
+    "eventsAvailable": true,
+    "sourceType": "tff_detail_page"
+  }
+}

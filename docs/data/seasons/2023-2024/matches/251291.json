@@ -1,0 +1,361 @@
+{
+  "id": "251291",
+  "tff_match_id": "251291",
+  "season": "2023-2024",
+  "competition": "TFF 3. LEAGUE (Professional Team)",
+  "roundType": "league",
+  "week": 18,
+  "stage": "18. Maç",
+  "date": "2024-02-11",
+  "time": "14:00",
+  "dateDisplay": "11.02.2024 - 14:00",
+  "homeTeam": "23 ELAZIĞ FUTBOL KULÜBÜ",
+  "awayTeam": "Balıkesirspor",
+  "homeTeamRaw": "23 ELAZIĞ FUTBOL KULÜBÜ",
+  "awayTeamRaw": "BALIKESİRSPOR",
+  "score": {
+    "home": 1,
+    "away": 0,
+    "display": "1-0",
+    "played": true
+  },
+  "balkes": {
+    "isHome": false,
+    "opponent": "23 ELAZIĞ FUTBOL KULÜBÜ",
+    "goalsFor": 0,
+    "goalsAgainst": 1,
+    "result": "L"
+  },
+  "detailUrl": "seasons/2023-2024/matches/251291.json",
+  "source": {
+    "name": "TFF",
+    "url": "https://www.tff.org/Default.aspx?macId=251291&pageID=528"
+  },
+  "match_code": "4757",
+  "venue": "ELAZIĞ DOĞUKENT STADI - ELAZIĞ - ELAZIĞ MERKEZ",
+  "referees": [
+    {
+      "name": "SAİT TUZCU",
+      "role": "Referee"
+    },
+    {
+      "name": "BERAT BİNBİR",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "HASAN GENÇ",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "YUNUS EMRE BULUT",
+      "role": "Fourth Official"
+    },
+    {
+      "name": "MURAT ŞENTÜRK",
+      "role": "Observer"
+    },
+    {
+      "name": "ÖMER ÇOBAN",
+      "role": "Delegate"
+    },
+    {
+      "name": "OLCAY KİREMİTCİ",
+      "role": "Delegate"
+    }
+  ],
+  "lineups": {
+    "home": {
+      "team": "23 ELAZIĞ FUTBOL KULÜBÜ",
+      "team_raw": "23 ELAZIĞ FUTBOL KULÜBÜ",
+      "starting11": [
+        {
+          "shirt_no": "22.",
+          "name": "RAMAZAN EVREN ÜSTÜNDAĞ"
+        },
+        {
+          "shirt_no": "86.",
+          "name": "SERDAR YILDIRIM"
+        },
+        {
+          "shirt_no": "25.",
+          "name": "EMRE KARADAĞ"
+        },
+        {
+          "shirt_no": "4.",
+          "name": "ŞEYHMUS ABDULKADİR AKSU"
+        },
+        {
+          "shirt_no": "6.",
+          "name": "METİN ESMER"
+        },
+        {
+          "shirt_no": "23.",
+          "name": "MURAT KAYALI"
+        },
+        {
+          "shirt_no": "35.",
+          "name": "HAKAN ÇITAK"
+        },
+        {
+          "shirt_no": "17.",
+          "name": "ARİF EMRE EREN"
+        },
+        {
+          "shirt_no": "10.",
+          "name": "DOĞUKAN DELİMEHMET"
+        },
+        {
+          "shirt_no": "9.",
+          "name": "GÜNEY YILMAZ"
+        },
+        {
+          "shirt_no": "73.",
+          "name": "BUĞRA CİVEK"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "66.",
+          "name": "MERT TOPUZ"
+        },
+        {
+          "shirt_no": "77.",
+          "name": "FATİH KIZILAY"
+        },
+        {
+          "shirt_no": "99.",
+          "name": "EREN ÇİNKILINÇ"
+        },
+        {
+          "shirt_no": "60.",
+          "name": "ENES YİĞİT"
+        },
+        {
+          "shirt_no": "70.",
+          "name": "MERT İSMET AŞICI"
+        },
+        {
+          "shirt_no": "55.",
+          "name": "GÖKHAN KAYRAN"
+        },
+        {
+          "shirt_no": "61.",
+          "name": "BATUHAN CALAP"
+        },
+        {
+          "shirt_no": "90.",
+          "name": "KUTAY KOMAÇ"
+        },
+        {
+          "shirt_no": "7.",
+          "name": "ÖMER SELİM AKAR"
+        },
+        {
+          "shirt_no": "11.",
+          "name": "EMİRHAN ÇAKIR"
+        }
+      ],
+      "coach": "HASAN UĞUR KARDAL"
+    },
+    "away": {
+      "team": "Balıkesirspor",
+      "team_raw": "BALIKESİRSPOR",
+      "starting11": [
+        {
+          "shirt_no": "12.",
+          "name": "HÜSEYİN ALTINTAŞ"
+        },
+        {
+          "shirt_no": "33.",
+          "name": "CUMA ALİ ÜZÜM"
+        },
+        {
+          "shirt_no": "29.",
+          "name": "ABDURRAHMAN AYHANOĞLU"
+        },
+        {
+          "shirt_no": "70.",
+          "name": "GÖKSU MUTLU"
+        },
+        {
+          "shirt_no": "77.",
+          "name": "BATUHAN SÜER"
+        },
+        {
+          "shirt_no": "15.",
+          "name": "ASIM HAMZAÇEBİ"
+        },
+        {
+          "shirt_no": "40.",
+          "name": "ERKAN SÜER"
+        },
+        {
+          "shirt_no": "7.",
+          "name": "ALİ SAY"
+        },
+        {
+          "shirt_no": "37.",
+          "name": "MUHAMMET HAŞİM ÇOBAN"
+        },
+        {
+          "shirt_no": "14.",
+          "name": "HAKAN AKGÜL"
+        },
+        {
+          "shirt_no": "96.",
+          "name": "BERTUĞ BAYAR"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "1.",
+          "name": "YİĞİTHAN KIR"
+        },
+        {
+          "shirt_no": "5.",
+          "name": "KAĞAN KAYALI"
+        },
+        {
+          "shirt_no": "10.",
+          "name": "SEDAT YİĞİT KURNAZ"
+        },
+        {
+          "shirt_no": "11.",
+          "name": "ARDA İBRAHİM AKGÜN"
+        },
+        {
+          "shirt_no": "55.",
+          "name": "OKTAY BALA"
+        },
+        {
+          "shirt_no": "54.",
+          "name": "ÖMER FARUK YAYLACI"
+        },
+        {
+          "shirt_no": "88.",
+          "name": "UTKAN GÖKÇEN"
+        },
+        {
+          "shirt_no": "28.",
+          "name": "BİLAL ŞEFLEK"
+        },
+        {
+          "shirt_no": "47.",
+          "name": "MEHMET ASLAN"
+        },
+        {
+          "shirt_no": "99.",
+          "name": "METEHAN GÖREL"
+        }
+      ],
+      "coach": "İSMAİL CEM CAMBAZ"
+    }
+  },
+  "events": [
+    {
+      "type": "card",
+      "team": "23 ELAZIĞ FUTBOL KULÜBÜ",
+      "player": "HAKAN ÇITAK",
+      "minute": 33,
+      "minute_text": "33. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "23 ELAZIĞ FUTBOL KULÜBÜ",
+      "player_out": "BUĞRA CİVEK",
+      "player_in": "EMİRHAN ÇAKIR",
+      "minute": 62,
+      "minute_text": "62. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "HAKAN AKGÜL",
+      "player_in": "ARDA İBRAHİM AKGÜN",
+      "minute": 65,
+      "minute_text": "65. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "23 ELAZIĞ FUTBOL KULÜBÜ",
+      "player_out": "DOĞUKAN DELİMEHMET",
+      "player_in": "FATİH KIZILAY",
+      "minute": 67,
+      "minute_text": "67. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "ERKAN SÜER",
+      "player_in": "KAĞAN KAYALI",
+      "minute": 72,
+      "minute_text": "72. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "CUMA ALİ ÜZÜM",
+      "minute": 76,
+      "minute_text": "76. dk"
+    },
+    {
+      "type": "goal",
+      "player": "MURAT KAYALI",
+      "minute": 77,
+      "minute_text": "77. dk",
+      "note": "Penaltı",
+      "team": "23 ELAZIĞ FUTBOL KULÜBÜ"
+    },
+    {
+      "type": "substitution",
+      "team": "23 ELAZIĞ FUTBOL KULÜBÜ",
+      "player_out": "ARİF EMRE EREN",
+      "player_in": "BATUHAN CALAP",
+      "minute": 83,
+      "minute_text": "83. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "MUHAMMET HAŞİM ÇOBAN",
+      "player_in": "MEHMET ASLAN",
+      "minute": 86,
+      "minute_text": "86. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "ASIM HAMZAÇEBİ",
+      "player_in": "METEHAN GÖREL",
+      "minute": 86,
+      "minute_text": "86. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "GÖKSU MUTLU",
+      "player_in": "BİLAL ŞEFLEK",
+      "minute": 86,
+      "minute_text": "86. dk"
+    },
+    {
+      "type": "card",
+      "team": "23 ELAZIĞ FUTBOL KULÜBÜ",
+      "player": "RAMAZAN EVREN ÜSTÜNDAĞ",
+      "minute": 87,
+      "minute_text": "87. dk"
+    },
+    {
+      "type": "card",
+      "team": "23 ELAZIĞ FUTBOL KULÜBÜ",
+      "player": "GÜNEY YILMAZ",
+      "minute": 89,
+      "minute_text": "89. dk"
+    }
+  ],
+  "dataQuality": {
+    "lineupsAvailable": true,
+    "eventsAvailable": true,
+    "sourceType": "tff_detail_page"
+  }
+}

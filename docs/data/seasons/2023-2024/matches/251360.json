@@ -1,0 +1,378 @@
+{
+  "id": "251360",
+  "tff_match_id": "251360",
+  "season": "2023-2024",
+  "competition": "TFF 3. LEAGUE (Professional Team)",
+  "roundType": "league",
+  "week": 27,
+  "stage": "27. Maç",
+  "date": "2024-04-14",
+  "time": "15:00",
+  "dateDisplay": "14.04.2024 - 15:00",
+  "homeTeam": "Balıkesirspor",
+  "awayTeam": "TOKAT BELEDİYE PLEVNE SPOR",
+  "homeTeamRaw": "BALIKESİRSPOR",
+  "awayTeamRaw": "TOKAT BELEDİYE PLEVNE SPOR",
+  "score": {
+    "home": 1,
+    "away": 1,
+    "display": "1-1",
+    "played": true
+  },
+  "balkes": {
+    "isHome": true,
+    "opponent": "TOKAT BELEDİYE PLEVNE SPOR",
+    "goalsFor": 1,
+    "goalsAgainst": 1,
+    "result": "D"
+  },
+  "detailUrl": "seasons/2023-2024/matches/251360.json",
+  "source": {
+    "name": "TFF",
+    "url": "https://www.tff.org/Default.aspx?macId=251360&pageID=528"
+  },
+  "match_code": "4826",
+  "venue": "BALIKESİR ATATÜRK - BALIKESİR",
+  "referees": [
+    {
+      "name": "KAAN KARA",
+      "role": "Referee"
+    },
+    {
+      "name": "ALİ CEM ZORBAY",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "ANIL ÇİFTÇİ",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "ÖZKAN CEYLAN",
+      "role": "Fourth Official"
+    },
+    {
+      "name": "ERDEM GÖKALP",
+      "role": "Observer"
+    },
+    {
+      "name": "BARIŞ ŞEREF",
+      "role": "Delegate"
+    },
+    {
+      "name": "RAMAZAN ÇOLAK",
+      "role": "Delegate"
+    }
+  ],
+  "lineups": {
+    "home": {
+      "team": "Balıkesirspor",
+      "team_raw": "BALIKESİRSPOR",
+      "starting11": [
+        {
+          "shirt_no": "12.",
+          "name": "HÜSEYİN ALTINTAŞ"
+        },
+        {
+          "shirt_no": "41.",
+          "name": "KORAY BAYKARA"
+        },
+        {
+          "shirt_no": "70.",
+          "name": "GÖKSU MUTLU"
+        },
+        {
+          "shirt_no": "29.",
+          "name": "ABDURRAHMAN AYHANOĞLU"
+        },
+        {
+          "shirt_no": "88.",
+          "name": "UTKAN GÖKÇEN"
+        },
+        {
+          "shirt_no": "15.",
+          "name": "ASIM HAMZAÇEBİ"
+        },
+        {
+          "shirt_no": "66.",
+          "name": "KADİR TORBACI"
+        },
+        {
+          "shirt_no": "7.",
+          "name": "ALİ SAY"
+        },
+        {
+          "shirt_no": "28.",
+          "name": "BİLAL ŞEFLEK"
+        },
+        {
+          "shirt_no": "11.",
+          "name": "ARDA İBRAHİM AKGÜN"
+        },
+        {
+          "shirt_no": "37.",
+          "name": "MUHAMMET HAŞİM ÇOBAN"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "1.",
+          "name": "YİĞİTHAN KIR"
+        },
+        {
+          "shirt_no": "77.",
+          "name": "BATUHAN SÜER"
+        },
+        {
+          "shirt_no": "47.",
+          "name": "MEHMET ASLAN"
+        },
+        {
+          "shirt_no": "10.",
+          "name": "SEDAT YİĞİT KURNAZ"
+        },
+        {
+          "shirt_no": "40.",
+          "name": "ERKAN SÜER"
+        },
+        {
+          "shirt_no": "6.",
+          "name": "BERAT AYDOĞDU"
+        },
+        {
+          "shirt_no": "14.",
+          "name": "HAKAN AKGÜL"
+        },
+        {
+          "shirt_no": "55.",
+          "name": "OKTAY BALA"
+        },
+        {
+          "shirt_no": "99.",
+          "name": "METEHAN GÖREL"
+        },
+        {
+          "shirt_no": "5.",
+          "name": "KAĞAN KAYALI"
+        }
+      ],
+      "coach": "İSMAİL CEM CAMBAZ"
+    },
+    "away": {
+      "team": "TOKAT BELEDİYE PLEVNE SPOR",
+      "team_raw": "TOKAT BELEDİYE PLEVNE SPOR",
+      "starting11": [
+        {
+          "shirt_no": "1.",
+          "name": "EBUBEKİR ELİHOŞ"
+        },
+        {
+          "shirt_no": "6.",
+          "name": "MUHSİN POLAT"
+        },
+        {
+          "shirt_no": "15.",
+          "name": "DOĞUKAN SUBAŞI"
+        },
+        {
+          "shirt_no": "87.",
+          "name": "BERK KAL"
+        },
+        {
+          "shirt_no": "17.",
+          "name": "FURKAN ŞAN"
+        },
+        {
+          "shirt_no": "5.",
+          "name": "YÜCEL YILDIRIM"
+        },
+        {
+          "shirt_no": "20.",
+          "name": "OZAN KILIÇOĞLU"
+        },
+        {
+          "shirt_no": "58.",
+          "name": "EREN KAYA"
+        },
+        {
+          "shirt_no": "30.",
+          "name": "BURAK EVREN"
+        },
+        {
+          "shirt_no": "94.",
+          "name": "BATUHAN YILMAZ"
+        },
+        {
+          "shirt_no": "9.",
+          "name": "MUHAMMED EMİR ÖZBİLEN"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "8.",
+          "name": "ARDA KARADEMİR"
+        },
+        {
+          "shirt_no": "29.",
+          "name": "AYHAN GENÇTÜRK"
+        },
+        {
+          "shirt_no": "22.",
+          "name": "KADİR ENES KIRA"
+        },
+        {
+          "shirt_no": "55.",
+          "name": "ARTUN KÜTÜKÇÜ"
+        },
+        {
+          "shirt_no": "77.",
+          "name": "YAKUP DURMAZ"
+        },
+        {
+          "shirt_no": "19.",
+          "name": "OĞUZHAN SİVRİKAYA"
+        },
+        {
+          "shirt_no": "3.",
+          "name": "EMİR CAN ÇELİK"
+        },
+        {
+          "shirt_no": "21.",
+          "name": "ABDULKADİR SÖNMEZ"
+        },
+        {
+          "shirt_no": "80.",
+          "name": "İSMAİL CAN FİDAN"
+        },
+        {
+          "shirt_no": "99.",
+          "name": "UMUTCAN YENİSOY"
+        }
+      ],
+      "coach": "SEMİH TOKATLI"
+    }
+  },
+  "events": [
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "ABDURRAHMAN AYHANOĞLU",
+      "minute": 33,
+      "minute_text": "33. dk"
+    },
+    {
+      "type": "goal",
+      "player": "ARDA İBRAHİM AKGÜN",
+      "minute": 38,
+      "minute_text": "38. dk",
+      "note": "Ayak",
+      "team": "Balıkesirspor"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "BİLAL ŞEFLEK",
+      "player_in": "MEHMET ASLAN",
+      "minute": 41,
+      "minute_text": "41. dk"
+    },
+    {
+      "type": "own_goal",
+      "player": "GÖKSU MUTLU",
+      "minute": 51,
+      "minute_text": "51. dk",
+      "note": "Kendi kalesine",
+      "team": "Balıkesirspor"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "ALİ SAY",
+      "player_in": "ERKAN SÜER",
+      "minute": 57,
+      "minute_text": "57. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "ARDA İBRAHİM AKGÜN",
+      "player_in": "HAKAN AKGÜL",
+      "minute": 57,
+      "minute_text": "57. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "TOKAT BELEDİYE PLEVNE SPOR",
+      "player_out": "EREN KAYA",
+      "player_in": "OĞUZHAN SİVRİKAYA",
+      "minute": 67,
+      "minute_text": "67. dk"
+    },
+    {
+      "type": "card",
+      "team": "TOKAT BELEDİYE PLEVNE SPOR",
+      "player": "YÜCEL YILDIRIM",
+      "minute": 73,
+      "minute_text": "73. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "TOKAT BELEDİYE PLEVNE SPOR",
+      "player_out": "OZAN KILIÇOĞLU",
+      "player_in": "ABDULKADİR SÖNMEZ",
+      "minute": 75,
+      "minute_text": "75. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "TOKAT BELEDİYE PLEVNE SPOR",
+      "player_out": "BATUHAN YILMAZ",
+      "player_in": "YAKUP DURMAZ",
+      "minute": 75,
+      "minute_text": "75. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "KADİR TORBACI",
+      "minute": 80,
+      "minute_text": "80. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "TOKAT BELEDİYE PLEVNE SPOR",
+      "player_out": "MUHAMMED EMİR ÖZBİLEN",
+      "player_in": "AYHAN GENÇTÜRK",
+      "minute": 84,
+      "minute_text": "84. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "TOKAT BELEDİYE PLEVNE SPOR",
+      "player_out": "BURAK EVREN",
+      "player_in": "ARDA KARADEMİR",
+      "minute": 84,
+      "minute_text": "84. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "KADİR TORBACI",
+      "player_in": "BERAT AYDOĞDU",
+      "minute": 87,
+      "minute_text": "87. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "ASIM HAMZAÇEBİ",
+      "player_in": "BATUHAN SÜER",
+      "minute": 87,
+      "minute_text": "87. dk"
+    }
+  ],
+  "dataQuality": {
+    "lineupsAvailable": true,
+    "eventsAvailable": true,
+    "sourceType": "tff_detail_page"
+  }
+}

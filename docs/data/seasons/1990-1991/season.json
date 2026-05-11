@@ -1,0 +1,33 @@
+{
+  "id": "1990-1991",
+  "name": "1990-1991",
+  "team": {
+    "id": "balikesirspor",
+    "name": "Balıkesirspor",
+    "tffClubId": "135"
+  },
+  "competition": "3. League (Professional Team)",
+  "group": "",
+  "summary": {
+    "matches": 2,
+    "leagueMatches": 2,
+    "playoffMatches": 0,
+    "cupMatches": 0,
+    "wins": 0,
+    "draws": 0,
+    "losses": 2,
+    "goalsFor": 0,
+    "goalsAgainst": 2,
+    "goalDifference": -2,
+    "points": 0,
+    "finalRank": null
+  },
+  "files": {
+    "matchesIndex": "seasons/1990-1991/matches_index.json",
+    "standingsByWeek": "seasons/1990-1991/standings_by_week.json"
+  },
+  "source": {
+    "name": "TFF",
+    "note": "Açık TFF sayfalarından dönüştürülmüş veri"
+  }
+}

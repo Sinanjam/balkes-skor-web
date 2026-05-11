@@ -1,0 +1,347 @@
+{
+  "id": "251333",
+  "tff_match_id": "251333",
+  "season": "2023-2024",
+  "competition": "TFF 3. LEAGUE (Professional Team)",
+  "roundType": "league",
+  "week": 24,
+  "stage": "24. Maç",
+  "date": "2024-03-24",
+  "time": "14:00",
+  "dateDisplay": "24.03.2024 - 14:00",
+  "homeTeam": "GÜNEŞ HOLDİNG ÇANKAYA SPOR KULÜBÜ",
+  "awayTeam": "Balıkesirspor",
+  "homeTeamRaw": "GÜNEŞ HOLDİNG ÇANKAYA SPOR KULÜBÜ",
+  "awayTeamRaw": "BALIKESİRSPOR",
+  "score": {
+    "home": 0,
+    "away": 0,
+    "display": "0-0",
+    "played": true
+  },
+  "balkes": {
+    "isHome": false,
+    "opponent": "GÜNEŞ HOLDİNG ÇANKAYA SPOR KULÜBÜ",
+    "goalsFor": 0,
+    "goalsAgainst": 0,
+    "result": "D"
+  },
+  "detailUrl": "seasons/2023-2024/matches/251333.json",
+  "source": {
+    "name": "TFF",
+    "url": "https://www.tff.org/Default.aspx?macId=251333&pageID=528"
+  },
+  "match_code": "4799",
+  "venue": "OSMANLI STADI - ANKARA",
+  "referees": [
+    {
+      "name": "GÖKHAN ÖZBULUT",
+      "role": "Referee"
+    },
+    {
+      "name": "SADETTİN EBRAR BALCI",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "ONUR TATAR",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "CİHAD SİZER",
+      "role": "Fourth Official"
+    },
+    {
+      "name": "BİROL GÜLDANE",
+      "role": "Observer"
+    },
+    {
+      "name": "SONER ÖZBAŞI",
+      "role": "Delegate"
+    },
+    {
+      "name": "BÜLENT KOÇ",
+      "role": "Delegate"
+    }
+  ],
+  "lineups": {
+    "home": {
+      "team": "GÜNEŞ HOLDİNG ÇANKAYA SPOR KULÜBÜ",
+      "team_raw": "GÜNEŞ HOLDİNG ÇANKAYA SPOR KULÜBÜ",
+      "starting11": [
+        {
+          "shirt_no": "35.",
+          "name": "HÜSEYİN GENÇ"
+        },
+        {
+          "shirt_no": "77.",
+          "name": "İSMAİL CEM KARA"
+        },
+        {
+          "shirt_no": "97.",
+          "name": "İLYAS URAL"
+        },
+        {
+          "shirt_no": "4.",
+          "name": "BURAK BÜYÜKKAYA"
+        },
+        {
+          "shirt_no": "23.",
+          "name": "SERHAT MUTLU"
+        },
+        {
+          "shirt_no": "72.",
+          "name": "OKAN TOPRAK"
+        },
+        {
+          "shirt_no": "5.",
+          "name": "AZAD FİLİZ"
+        },
+        {
+          "shirt_no": "66.",
+          "name": "METEHAN MERTÖZ"
+        },
+        {
+          "shirt_no": "24.",
+          "name": "ARDA KÖKSAL"
+        },
+        {
+          "shirt_no": "70.",
+          "name": "REŞO AKIN"
+        },
+        {
+          "shirt_no": "52.",
+          "name": "MUHAMMET ENES ERDEM"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "33.",
+          "name": "FURKAN YASİN ÇEVİK"
+        },
+        {
+          "shirt_no": "14.",
+          "name": "EMİRHAN KORKMAZ"
+        },
+        {
+          "shirt_no": "94.",
+          "name": "CAN DEMİR AKTAV"
+        },
+        {
+          "shirt_no": "10.",
+          "name": "MUTLU AKSU DOĞAN"
+        },
+        {
+          "shirt_no": "27.",
+          "name": "FATİH YİĞİT ŞANLİTÜRK"
+        },
+        {
+          "shirt_no": "45.",
+          "name": "BARAN KELEŞ"
+        },
+        {
+          "shirt_no": "7.",
+          "name": "BERAT EYÜPOĞLU"
+        },
+        {
+          "shirt_no": "99.",
+          "name": "MEHMET KAAN TÜRKMEN"
+        },
+        {
+          "shirt_no": "17.",
+          "name": "ÖMER FARUK DEMİREL"
+        },
+        {
+          "shirt_no": "8.",
+          "name": "ADA OSMAN ESELLER"
+        }
+      ],
+      "coach": "OKAN KÜÇÜK"
+    },
+    "away": {
+      "team": "Balıkesirspor",
+      "team_raw": "BALIKESİRSPOR",
+      "starting11": [
+        {
+          "shirt_no": "12.",
+          "name": "HÜSEYİN ALTINTAŞ"
+        },
+        {
+          "shirt_no": "29.",
+          "name": "ABDURRAHMAN AYHANOĞLU"
+        },
+        {
+          "shirt_no": "88.",
+          "name": "UTKAN GÖKÇEN"
+        },
+        {
+          "shirt_no": "15.",
+          "name": "ASIM HAMZAÇEBİ"
+        },
+        {
+          "shirt_no": "66.",
+          "name": "KADİR TORBACI"
+        },
+        {
+          "shirt_no": "47.",
+          "name": "MEHMET ASLAN"
+        },
+        {
+          "shirt_no": "33.",
+          "name": "CUMA ALİ ÜZÜM"
+        },
+        {
+          "shirt_no": "37.",
+          "name": "MUHAMMET HAŞİM ÇOBAN"
+        },
+        {
+          "shirt_no": "41.",
+          "name": "KORAY BAYKARA"
+        },
+        {
+          "shirt_no": "11.",
+          "name": "ARDA İBRAHİM AKGÜN"
+        },
+        {
+          "shirt_no": "28.",
+          "name": "BİLAL ŞEFLEK"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "6.",
+          "name": "BERAT AYDOĞDU"
+        },
+        {
+          "shirt_no": "1.",
+          "name": "YİĞİTHAN KIR"
+        },
+        {
+          "shirt_no": "99.",
+          "name": "METEHAN GÖREL"
+        },
+        {
+          "shirt_no": "96.",
+          "name": "BERTUĞ BAYAR"
+        },
+        {
+          "shirt_no": "5.",
+          "name": "KAĞAN KAYALI"
+        },
+        {
+          "shirt_no": "55.",
+          "name": "OKTAY BALA"
+        },
+        {
+          "shirt_no": "14.",
+          "name": "HAKAN AKGÜL"
+        },
+        {
+          "shirt_no": "70.",
+          "name": "GÖKSU MUTLU"
+        },
+        {
+          "shirt_no": "77.",
+          "name": "BATUHAN SÜER"
+        },
+        {
+          "shirt_no": "10.",
+          "name": "SEDAT YİĞİT KURNAZ"
+        }
+      ],
+      "coach": "İSMAİL CEM CAMBAZ"
+    }
+  },
+  "events": [
+    {
+      "type": "card",
+      "team": "GÜNEŞ HOLDİNG ÇANKAYA SPOR KULÜBÜ",
+      "player": "AZAD FİLİZ",
+      "minute": 36,
+      "minute_text": "36. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "GÜNEŞ HOLDİNG ÇANKAYA SPOR KULÜBÜ",
+      "player_out": "ARDA KÖKSAL",
+      "player_in": "MUTLU AKSU DOĞAN",
+      "minute": 46,
+      "minute_text": "46. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "ARDA İBRAHİM AKGÜN",
+      "player_in": "HAKAN AKGÜL",
+      "minute": 46,
+      "minute_text": "46. dk"
+    },
+    {
+      "type": "card",
+      "team": "GÜNEŞ HOLDİNG ÇANKAYA SPOR KULÜBÜ",
+      "player": "SERHAT MUTLU",
+      "minute": 58,
+      "minute_text": "58. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "GÜNEŞ HOLDİNG ÇANKAYA SPOR KULÜBÜ",
+      "player_out": "REŞO AKIN",
+      "player_in": "FATİH YİĞİT ŞANLİTÜRK",
+      "minute": 63,
+      "minute_text": "63. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "BİLAL ŞEFLEK",
+      "player_in": "BERTUĞ BAYAR",
+      "minute": 68,
+      "minute_text": "68. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "GÜNEŞ HOLDİNG ÇANKAYA SPOR KULÜBÜ",
+      "player_out": "OKAN TOPRAK",
+      "player_in": "MEHMET KAAN TÜRKMEN",
+      "minute": 77,
+      "minute_text": "77. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "MUHAMMET HAŞİM ÇOBAN",
+      "player_in": "BERAT AYDOĞDU",
+      "minute": 77,
+      "minute_text": "77. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "MEHMET ASLAN",
+      "player_in": "BATUHAN SÜER",
+      "minute": 77,
+      "minute_text": "77. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "GÜNEŞ HOLDİNG ÇANKAYA SPOR KULÜBÜ",
+      "player_out": "MUHAMMET ENES ERDEM",
+      "player_in": "BERAT EYÜPOĞLU",
+      "minute": 89,
+      "minute_text": "89. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "CUMA ALİ ÜZÜM",
+      "player_in": "OKTAY BALA",
+      "minute": 89,
+      "minute_text": "89. dk"
+    }
+  ],
+  "dataQuality": {
+    "lineupsAvailable": true,
+    "eventsAvailable": true,
+    "sourceType": "tff_detail_page"
+  }
+}

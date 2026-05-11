@@ -1,0 +1,381 @@
+{
+  "id": "265673",
+  "tff_match_id": "265673",
+  "season": "2024-2025",
+  "competition": "Nesine 3. League (Professional Team)",
+  "roundType": "league",
+  "week": 8,
+  "stage": "8. Maç",
+  "date": "2024-10-26",
+  "time": "19:00",
+  "dateDisplay": "26.10.2024 - 19:00",
+  "homeTeam": "TİRE 2021 FUTBOL KULÜBÜ",
+  "awayTeam": "Balıkesirspor",
+  "homeTeamRaw": "TİRE 2021 FUTBOL KULÜBÜ",
+  "awayTeamRaw": "BALIKESİRSPOR",
+  "score": {
+    "home": 1,
+    "away": 2,
+    "display": "1-2",
+    "played": true
+  },
+  "balkes": {
+    "isHome": false,
+    "opponent": "TİRE 2021 FUTBOL KULÜBÜ",
+    "goalsFor": 2,
+    "goalsAgainst": 1,
+    "result": "W"
+  },
+  "detailUrl": "seasons/2024-2025/matches/265673.json",
+  "source": {
+    "name": "TFF",
+    "url": "https://www.tff.org/Default.aspx?macId=265673&pageID=528"
+  },
+  "match_code": "4332",
+  "venue": "TİRE - GAZİ MUSTAFA KEMAL ATATÜRK STADI - İZMİR -",
+  "referees": [
+    {
+      "name": "SERKAN ERYILMAZ",
+      "role": "Referee"
+    },
+    {
+      "name": "TAHİR YALÇIN",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "OĞUZHAN ANIL",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "CEYHUN ELMAS",
+      "role": "Fourth Official"
+    },
+    {
+      "name": "MUKADDEM GÜLPINAR",
+      "role": "Observer"
+    },
+    {
+      "name": "FATİH MEZARCI",
+      "role": "Delegate"
+    },
+    {
+      "name": "HAKAN ŞAHİN",
+      "role": "Delegate"
+    }
+  ],
+  "lineups": {
+    "home": {
+      "team": "TİRE 2021 FUTBOL KULÜBÜ",
+      "team_raw": "TİRE 2021 FUTBOL KULÜBÜ",
+      "starting11": [
+        {
+          "shirt_no": "85.",
+          "name": "MERT DANIŞMAZ"
+        },
+        {
+          "shirt_no": "22.",
+          "name": "SEMİH GÖRER"
+        },
+        {
+          "shirt_no": "3.",
+          "name": "SAMET ÖNGER"
+        },
+        {
+          "shirt_no": "34.",
+          "name": "KADİR MERT ÖRENTEPE"
+        },
+        {
+          "shirt_no": "35.",
+          "name": "UMUT CAN ÇOBAN"
+        },
+        {
+          "shirt_no": "4.",
+          "name": "YASİN ELMAS"
+        },
+        {
+          "shirt_no": "7.",
+          "name": "MERTCAN AKTAŞ"
+        },
+        {
+          "shirt_no": "8.",
+          "name": "SAİD CAN AÇIKALIN"
+        },
+        {
+          "shirt_no": "99.",
+          "name": "MURAT ELKATMIŞ"
+        },
+        {
+          "shirt_no": "11.",
+          "name": "SERHAT BAŞTAN"
+        },
+        {
+          "shirt_no": "48.",
+          "name": "MUSA YÜKSEL"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "1.",
+          "name": "FATİH DEMİRLEK"
+        },
+        {
+          "shirt_no": "2.",
+          "name": "BERKE KILIÇ"
+        },
+        {
+          "shirt_no": "77.",
+          "name": "SİNAN AKGÖL"
+        },
+        {
+          "shirt_no": "80.",
+          "name": "AHMET CAN ÖZER"
+        },
+        {
+          "shirt_no": "20.",
+          "name": "DURMUŞ CAN EFE ÇAKMAK"
+        },
+        {
+          "shirt_no": "14.",
+          "name": "MUSTAFA EMİRHAN ÖZYAŞAR"
+        },
+        {
+          "shirt_no": "10.",
+          "name": "MEHMET TOSUN"
+        },
+        {
+          "shirt_no": "9.",
+          "name": "İLHAN ASLANOĞLU"
+        },
+        {
+          "shirt_no": "61.",
+          "name": "RECEP KARA"
+        },
+        {
+          "shirt_no": "23.",
+          "name": "MİRAN AVCI"
+        }
+      ],
+      "coach": "GALİP GÜNDOĞDU"
+    },
+    "away": {
+      "team": "Balıkesirspor",
+      "team_raw": "BALIKESİRSPOR",
+      "starting11": [
+        {
+          "shirt_no": "1.",
+          "name": "HÜSEYİN ALTINTAŞ"
+        },
+        {
+          "shirt_no": "22.",
+          "name": "TAYFUN KIRCA"
+        },
+        {
+          "shirt_no": "68.",
+          "name": "VOLKAN ALTINSOY"
+        },
+        {
+          "shirt_no": "2.",
+          "name": "MUHAMMET ARAZ"
+        },
+        {
+          "shirt_no": "21.",
+          "name": "SERDAR GÜNCÜ"
+        },
+        {
+          "shirt_no": "15.",
+          "name": "ASIM HAMZAÇEBİ"
+        },
+        {
+          "shirt_no": "53.",
+          "name": "GÜVENÇ USTA"
+        },
+        {
+          "shirt_no": "19.",
+          "name": "ARTUN AKÇAKIN"
+        },
+        {
+          "shirt_no": "80.",
+          "name": "MUHAMMED DEMİRCİ"
+        },
+        {
+          "shirt_no": "7.",
+          "name": "CELAL EMİR DEDE"
+        },
+        {
+          "shirt_no": "9.",
+          "name": "BERTUĞ BAYAR"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "48.",
+          "name": "DOĞUKAN ÖZÇİMEN"
+        },
+        {
+          "shirt_no": "26.",
+          "name": "YASİN YİĞİT BERBER"
+        },
+        {
+          "shirt_no": "61.",
+          "name": "MUHAMMED EREN TÜRKMEN"
+        },
+        {
+          "shirt_no": "77.",
+          "name": "MUSTAFA BURAK GÜNDOĞAN"
+        },
+        {
+          "shirt_no": "27.",
+          "name": "MERT TEKİN"
+        },
+        {
+          "shirt_no": "32.",
+          "name": "ALİ KARAKAYA"
+        },
+        {
+          "shirt_no": "3.",
+          "name": "AHMET GÜLAY"
+        },
+        {
+          "shirt_no": "5.",
+          "name": "KAĞAN KAYALI"
+        },
+        {
+          "shirt_no": "6.",
+          "name": "SAMET SEYMEN SARGIN"
+        },
+        {
+          "shirt_no": "10.",
+          "name": "SEDAT YİĞİT KURNAZ"
+        }
+      ]
+    }
+  },
+  "events": [
+    {
+      "type": "card",
+      "team": "TİRE 2021 FUTBOL KULÜBÜ",
+      "player": "YASİN ELMAS",
+      "minute": 42,
+      "minute_text": "42. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "TİRE 2021 FUTBOL KULÜBÜ",
+      "player_out": "YASİN ELMAS",
+      "player_in": "AHMET CAN ÖZER",
+      "minute": 46,
+      "minute_text": "46. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "TİRE 2021 FUTBOL KULÜBÜ",
+      "player_out": "MURAT ELKATMIŞ",
+      "player_in": "MEHMET TOSUN",
+      "minute": 46,
+      "minute_text": "46. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "TİRE 2021 FUTBOL KULÜBÜ",
+      "player_out": "MUSA YÜKSEL",
+      "player_in": "MUSTAFA EMİRHAN ÖZYAŞAR",
+      "minute": 46,
+      "minute_text": "46. dk"
+    },
+    {
+      "type": "card",
+      "team": "TİRE 2021 FUTBOL KULÜBÜ",
+      "player": "MEHMET TOSUN",
+      "minute": 61,
+      "minute_text": "61. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "TİRE 2021 FUTBOL KULÜBÜ",
+      "player_out": "SERHAT BAŞTAN",
+      "player_in": "DURMUŞ CAN EFE ÇAKMAK",
+      "minute": 64,
+      "minute_text": "64. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "TİRE 2021 FUTBOL KULÜBÜ",
+      "player_out": "MERTCAN AKTAŞ",
+      "player_in": "İLHAN ASLANOĞLU",
+      "minute": 64,
+      "minute_text": "64. dk"
+    },
+    {
+      "type": "goal",
+      "player": "İLHAN ASLANOĞLU",
+      "minute": 66,
+      "minute_text": "66. dk",
+      "note": "Ayak",
+      "team": "TİRE 2021 FUTBOL KULÜBÜ"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "SERDAR GÜNCÜ",
+      "minute": 68,
+      "minute_text": "68. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "ASIM HAMZAÇEBİ",
+      "minute": 71,
+      "minute_text": "71. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "MUHAMMED DEMİRCİ",
+      "player_in": "ALİ KARAKAYA",
+      "minute": 71,
+      "minute_text": "71. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "ARTUN AKÇAKIN",
+      "player_in": "AHMET GÜLAY",
+      "minute": 78,
+      "minute_text": "78. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "TAYFUN KIRCA",
+      "minute": 81,
+      "minute_text": "81. dk"
+    },
+    {
+      "type": "card",
+      "team": "TİRE 2021 FUTBOL KULÜBÜ",
+      "player": "AHMET CAN ÖZER",
+      "minute": 90.4,
+      "minute_text": "90+4. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "GÜVENÇ USTA",
+      "minute": 90.4,
+      "minute_text": "90+4. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "GÜVENÇ USTA",
+      "player_in": "KAĞAN KAYALI",
+      "minute": 90.4,
+      "minute_text": "90+4. dk"
+    }
+  ],
+  "dataQuality": {
+    "lineupsAvailable": true,
+    "eventsAvailable": true,
+    "sourceType": "tff_detail_page"
+  }
+}

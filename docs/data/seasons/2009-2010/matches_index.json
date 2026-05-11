@@ -1,0 +1,33 @@
+[
+  {
+    "id": "81237",
+    "season": "2009-2010",
+    "competition": "TFF 3. League Phase 1 (Professional Team)",
+    "roundType": "league",
+    "week": 1,
+    "stage": "1. Maç",
+    "date": "2009-11-25",
+    "time": "13:30",
+    "dateDisplay": "25.11.2009 - 13:30",
+    "homeTeam": "Balıkesirspor",
+    "awayTeam": "ALİBEYKÖY",
+    "score": {
+      "home": 2,
+      "away": 0,
+      "display": "2-0",
+      "played": true
+    },
+    "balkes": {
+      "isHome": true,
+      "opponent": "ALİBEYKÖY",
+      "goalsFor": 2,
+      "goalsAgainst": 0,
+      "result": "W"
+    },
+    "detailUrl": "seasons/2009-2010/matches/81237.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=81237&pageID=528"
+    }
+  }
+]

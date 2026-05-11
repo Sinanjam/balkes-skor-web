@@ -1,0 +1,400 @@
+{
+  "id": "251214",
+  "tff_match_id": "251214",
+  "season": "2023-2024",
+  "competition": "TFF 3. LEAGUE (Professional Team)",
+  "roundType": "league",
+  "week": 8,
+  "stage": "8. Maç",
+  "date": "2023-10-28",
+  "time": "14:00",
+  "dateDisplay": "28.10.2023 - 14:00",
+  "homeTeam": "Balıkesirspor",
+  "awayTeam": "SİİRT İL ÖZEL İDARESİ SPOR",
+  "homeTeamRaw": "BALIKESİRSPOR",
+  "awayTeamRaw": "SİİRT İL ÖZEL İDARESİ SPOR",
+  "score": {
+    "home": 1,
+    "away": 1,
+    "display": "1-1",
+    "played": true
+  },
+  "balkes": {
+    "isHome": true,
+    "opponent": "SİİRT İL ÖZEL İDARESİ SPOR",
+    "goalsFor": 1,
+    "goalsAgainst": 1,
+    "result": "D"
+  },
+  "detailUrl": "seasons/2023-2024/matches/251214.json",
+  "source": {
+    "name": "TFF",
+    "url": "https://www.tff.org/Default.aspx?macId=251214&pageID=528"
+  },
+  "match_code": "4680",
+  "venue": "BALIKESİR ATATÜRK - BALIKESİR",
+  "referees": [
+    {
+      "name": "MUHAMMED ÖMÜR",
+      "role": "Referee"
+    },
+    {
+      "name": "UMUT ERTEMEL",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "EMRAH ALTINDAĞ",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "HİKMET AYBERK HAN TİRYAKİ",
+      "role": "Fourth Official"
+    },
+    {
+      "name": "MEHMET GÜVEN",
+      "role": "Observer"
+    },
+    {
+      "name": "KANİ BAHADIR YEŞİLTEPE",
+      "role": "Delegate"
+    }
+  ],
+  "lineups": {
+    "home": {
+      "team": "Balıkesirspor",
+      "team_raw": "BALIKESİRSPOR",
+      "starting11": [
+        {
+          "shirt_no": "12.",
+          "name": "HÜSEYİN ALTINTAŞ"
+        },
+        {
+          "shirt_no": "19.",
+          "name": "ENES KARABULUT"
+        },
+        {
+          "shirt_no": "4.",
+          "name": "BİROL PARLAK"
+        },
+        {
+          "shirt_no": "21.",
+          "name": "MUHSİN YILDIRIM"
+        },
+        {
+          "shirt_no": "70.",
+          "name": "GÖKSU MUTLU"
+        },
+        {
+          "shirt_no": "5.",
+          "name": "KAĞAN KAYALI"
+        },
+        {
+          "shirt_no": "6.",
+          "name": "BERAT AYDOĞDU"
+        },
+        {
+          "shirt_no": "40.",
+          "name": "ERKAN SÜER"
+        },
+        {
+          "shirt_no": "11.",
+          "name": "ARDA İBRAHİM AKGÜN"
+        },
+        {
+          "shirt_no": "20.",
+          "name": "DOĞANAY AVCI"
+        },
+        {
+          "shirt_no": "55.",
+          "name": "OKTAY BALA"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "1.",
+          "name": "YİĞİTHAN KIR"
+        },
+        {
+          "shirt_no": "54.",
+          "name": "ÖMER FARUK YAYLACI"
+        },
+        {
+          "shirt_no": "14.",
+          "name": "HAKAN AKGÜL"
+        },
+        {
+          "shirt_no": "22.",
+          "name": "GÖRKEM ALTUN"
+        },
+        {
+          "shirt_no": "53.",
+          "name": "DOĞUKAN SARAL"
+        },
+        {
+          "shirt_no": "10.",
+          "name": "SEDAT YİĞİT KURNAZ"
+        },
+        {
+          "shirt_no": "15.",
+          "name": "ASIM HAMZAÇEBİ"
+        },
+        {
+          "shirt_no": "7.",
+          "name": "BERKAY AYKURT"
+        },
+        {
+          "shirt_no": "88.",
+          "name": "UTKAN GÖKÇEN"
+        },
+        {
+          "shirt_no": "29.",
+          "name": "VOLKAN PALA"
+        }
+      ],
+      "coach": "MEHMET DEMİRTAŞ"
+    },
+    "away": {
+      "team": "SİİRT İL ÖZEL İDARESİ SPOR",
+      "team_raw": "SİİRT İL ÖZEL İDARESİ SPOR",
+      "starting11": [
+        {
+          "shirt_no": "54.",
+          "name": "ALİ ALPER DOĞAN"
+        },
+        {
+          "shirt_no": "77.",
+          "name": "EMRULLAH ERTUŞ"
+        },
+        {
+          "shirt_no": "42.",
+          "name": "ÖMER FARUK CANBİRDİ"
+        },
+        {
+          "shirt_no": "22.",
+          "name": "GÜRAY FIRAT"
+        },
+        {
+          "shirt_no": "5.",
+          "name": "FURKAN YILDIRIM"
+        },
+        {
+          "shirt_no": "4.",
+          "name": "MUHAMMED ALİ KURT"
+        },
+        {
+          "shirt_no": "14.",
+          "name": "FATİH GÜRDEN"
+        },
+        {
+          "shirt_no": "18.",
+          "name": "HÜSEYİN MERT UYANIKER"
+        },
+        {
+          "shirt_no": "11.",
+          "name": "MEHMET SALİH YİĞİT"
+        },
+        {
+          "shirt_no": "13.",
+          "name": "İBRAHİM HALİL ÖNER"
+        },
+        {
+          "shirt_no": "70.",
+          "name": "FURKAN GÜNEŞ"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "1.",
+          "name": "HAMZA SULTAN"
+        },
+        {
+          "shirt_no": "2.",
+          "name": "ÖMER FARUK GÜMÜŞ"
+        },
+        {
+          "shirt_no": "6.",
+          "name": "AHMET KEŞLİ"
+        },
+        {
+          "shirt_no": "8.",
+          "name": "METEHAN ÜNAL"
+        },
+        {
+          "shirt_no": "9.",
+          "name": "GÖKBERK EFE"
+        },
+        {
+          "shirt_no": "10.",
+          "name": "HAKTAN ORAK"
+        },
+        {
+          "shirt_no": "21.",
+          "name": "SERHAT TARHAN"
+        },
+        {
+          "shirt_no": "30.",
+          "name": "YUSUF ASLANCI"
+        },
+        {
+          "shirt_no": "44.",
+          "name": "HAMZA ALPER"
+        },
+        {
+          "shirt_no": "56.",
+          "name": "MUHAMMED ARİF SOYSAL"
+        }
+      ],
+      "coach": "MUSTAFA KALAFATOĞLU"
+    }
+  },
+  "events": [
+    {
+      "type": "card",
+      "team": "SİİRT İL ÖZEL İDARESİ SPOR",
+      "player": "EMRULLAH ERTUŞ",
+      "minute": 31,
+      "minute_text": "31. dk"
+    },
+    {
+      "type": "goal",
+      "player": "ARDA İBRAHİM AKGÜN",
+      "minute": 45.4,
+      "minute_text": "45+4. dk",
+      "note": "Ayak",
+      "team": "Balıkesirspor"
+    },
+    {
+      "type": "substitution",
+      "team": "SİİRT İL ÖZEL İDARESİ SPOR",
+      "player_out": "İBRAHİM HALİL ÖNER",
+      "player_in": "GÖKBERK EFE",
+      "minute": 46,
+      "minute_text": "46. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "SİİRT İL ÖZEL İDARESİ SPOR",
+      "player_out": "FURKAN GÜNEŞ",
+      "player_in": "HAKTAN ORAK",
+      "minute": 46,
+      "minute_text": "46. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "SİİRT İL ÖZEL İDARESİ SPOR",
+      "player_out": "HÜSEYİN MERT UYANIKER",
+      "player_in": "SERHAT TARHAN",
+      "minute": 46,
+      "minute_text": "46. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "ARDA İBRAHİM AKGÜN",
+      "minute": 53,
+      "minute_text": "53. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "OKTAY BALA",
+      "player_in": "BERKAY AYKURT",
+      "minute": 58,
+      "minute_text": "58. dk"
+    },
+    {
+      "type": "card",
+      "team": "SİİRT İL ÖZEL İDARESİ SPOR",
+      "player": "ALİ ALPER DOĞAN",
+      "minute": 60,
+      "minute_text": "60. dk"
+    },
+    {
+      "type": "card",
+      "team": "SİİRT İL ÖZEL İDARESİ SPOR",
+      "player": "MUHAMMED ALİ KURT",
+      "minute": 60,
+      "minute_text": "60. dk"
+    },
+    {
+      "type": "goal",
+      "player": "SERHAT TARHAN",
+      "minute": 64,
+      "minute_text": "64. dk",
+      "note": "Kafa",
+      "team": "SİİRT İL ÖZEL İDARESİ SPOR"
+    },
+    {
+      "type": "card",
+      "team": "SİİRT İL ÖZEL İDARESİ SPOR",
+      "player": "MUHAMMED ARİF SOYSAL",
+      "minute": 69,
+      "minute_text": "69. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "BERKAY AYKURT",
+      "minute": 71,
+      "minute_text": "71. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "GÖKSU MUTLU",
+      "minute": 73,
+      "minute_text": "73. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "DOĞANAY AVCI",
+      "player_in": "VOLKAN PALA",
+      "minute": 78,
+      "minute_text": "78. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "SİİRT İL ÖZEL İDARESİ SPOR",
+      "player_out": "MUHAMMED ALİ KURT",
+      "player_in": "ÖMER FARUK GÜMÜŞ",
+      "minute": 81,
+      "minute_text": "81. dk"
+    },
+    {
+      "type": "card",
+      "team": "SİİRT İL ÖZEL İDARESİ SPOR",
+      "player": "FATİH GÜRDEN",
+      "minute": 86,
+      "minute_text": "86. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "SİİRT İL ÖZEL İDARESİ SPOR",
+      "player_out": "EMRULLAH ERTUŞ",
+      "player_in": "HAMZA ALPER",
+      "minute": 86,
+      "minute_text": "86. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "MUHSİN YILDIRIM",
+      "player_in": "SEDAT YİĞİT KURNAZ",
+      "minute": 88,
+      "minute_text": "88. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "BİROL PARLAK",
+      "minute": 90.8,
+      "minute_text": "90+8. dk"
+    }
+  ],
+  "dataQuality": {
+    "lineupsAvailable": true,
+    "eventsAvailable": true,
+    "sourceType": "tff_detail_page"
+  }
+}

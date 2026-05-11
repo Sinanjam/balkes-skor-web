@@ -1,0 +1,33 @@
+[
+  {
+    "id": "58121",
+    "season": "1991-1992",
+    "competition": "3. League (Professional Team)",
+    "roundType": "league",
+    "week": 1,
+    "stage": "1. Maç",
+    "date": "1991-09-15",
+    "time": "15:30",
+    "dateDisplay": "15.09.1991 - 15:30",
+    "homeTeam": "Balıkesirspor",
+    "awayTeam": "BURHANIYESPOR",
+    "score": {
+      "home": 9,
+      "away": 1,
+      "display": "9-1",
+      "played": true
+    },
+    "balkes": {
+      "isHome": true,
+      "opponent": "BURHANIYESPOR",
+      "goalsFor": 9,
+      "goalsAgainst": 1,
+      "result": "W"
+    },
+    "detailUrl": "seasons/1991-1992/matches/58121.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=58121&pageID=528"
+    }
+  }
+]

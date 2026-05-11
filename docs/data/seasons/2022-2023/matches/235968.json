@@ -1,0 +1,384 @@
+{
+  "id": "235968",
+  "tff_match_id": "235968",
+  "season": "2022-2023",
+  "competition": "TFF 2.League (Professional Team)",
+  "roundType": "league",
+  "week": 4,
+  "stage": "4. Maç",
+  "date": "2022-09-14",
+  "time": "19:00",
+  "dateDisplay": "14.09.2022 - 19:00",
+  "homeTeam": "Balıkesirspor",
+  "awayTeam": "ETİMESGUT BELEDİYESPOR",
+  "homeTeamRaw": "BAYNET İNŞAAT BALIKESİRSPOR",
+  "awayTeamRaw": "ETİMESGUT BELEDİYESPOR",
+  "score": {
+    "home": 0,
+    "away": 3,
+    "display": "0-3",
+    "played": true
+  },
+  "balkes": {
+    "isHome": true,
+    "opponent": "ETİMESGUT BELEDİYESPOR",
+    "goalsFor": 0,
+    "goalsAgainst": 3,
+    "result": "L"
+  },
+  "detailUrl": "seasons/2022-2023/matches/235968.json",
+  "source": {
+    "name": "TFF",
+    "url": "https://www.tff.org/Default.aspx?macId=235968&pageID=528"
+  },
+  "match_code": "3579",
+  "venue": "BALIKESİR ATATÜRK - BALIKESİR",
+  "referees": [
+    {
+      "name": "MEHMET ALİ ÖZER",
+      "role": "Referee"
+    },
+    {
+      "name": "ANIL KÜÇÜKKARACA",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "MEHMET ÖZER",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "HASAN AVCI",
+      "role": "Fourth Official"
+    },
+    {
+      "name": "EMRE ALTUN",
+      "role": "Observer"
+    },
+    {
+      "name": "MUSTAFA PEKTAŞ",
+      "role": "Delegate"
+    },
+    {
+      "name": "VOLKAN ALPTEKİN",
+      "role": "Delegate"
+    }
+  ],
+  "lineups": {
+    "home": {
+      "team": "Balıkesirspor",
+      "team_raw": "BAYNET İNŞAAT BALIKESİRSPOR",
+      "starting11": [
+        {
+          "shirt_no": "1.",
+          "name": "YİĞİTHAN KIR"
+        },
+        {
+          "shirt_no": "63.",
+          "name": "İBRAHİM HALİL ÇOLAK"
+        },
+        {
+          "shirt_no": "4.",
+          "name": "BİROL PARLAK"
+        },
+        {
+          "shirt_no": "77.",
+          "name": "DOĞA İŞERİ"
+        },
+        {
+          "shirt_no": "10.",
+          "name": "OĞUZ HAN AYNAOĞLU"
+        },
+        {
+          "shirt_no": "5.",
+          "name": "SEDAT DURSUN"
+        },
+        {
+          "shirt_no": "7.",
+          "name": "ANDAÇ GÜLERYÜZ"
+        },
+        {
+          "shirt_no": "15.",
+          "name": "KAĞAN KAYALI"
+        },
+        {
+          "shirt_no": "39.",
+          "name": "HÜSEYİN KARABEY"
+        },
+        {
+          "shirt_no": "20.",
+          "name": "BERK TOSUN"
+        },
+        {
+          "shirt_no": "3.",
+          "name": "BERAT AYDOĞDU"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "26.",
+          "name": "YASİN YİĞİT BERBER"
+        },
+        {
+          "shirt_no": "97.",
+          "name": "BERKAY AYKURT"
+        },
+        {
+          "shirt_no": "22.",
+          "name": "AYBERK KAYGISIZ"
+        },
+        {
+          "shirt_no": "24.",
+          "name": "ARDA GÖROĞLU"
+        },
+        {
+          "shirt_no": "33.",
+          "name": "GÜNEY ÇELİK KELEŞ"
+        },
+        {
+          "shirt_no": "25.",
+          "name": "ABDULLAH ADIYAMAN"
+        },
+        {
+          "shirt_no": "44.",
+          "name": "GÖRKEM ALTUN"
+        },
+        {
+          "shirt_no": "9.",
+          "name": "BEDİRHAN KOLKOPARAN"
+        },
+        {
+          "shirt_no": "21.",
+          "name": "SEDAT YİĞİT KURNAZ"
+        },
+        {
+          "shirt_no": "99.",
+          "name": "EMİRHAN ÇAKIR"
+        }
+      ],
+      "coach": "MUHAMMET YILMAZ"
+    },
+    "away": {
+      "team": "ETİMESGUT BELEDİYESPOR",
+      "team_raw": "ETİMESGUT BELEDİYESPOR",
+      "starting11": [
+        {
+          "shirt_no": "1.",
+          "name": "MURAT CAN YILDIZ"
+        },
+        {
+          "shirt_no": "3.",
+          "name": "ABDULCEBRAİL AKBULUT"
+        },
+        {
+          "shirt_no": "5.",
+          "name": "İSMAİL GÜNER"
+        },
+        {
+          "shirt_no": "8.",
+          "name": "BERK AKGÖNÜL"
+        },
+        {
+          "shirt_no": "9.",
+          "name": "EREN KINALI"
+        },
+        {
+          "shirt_no": "10.",
+          "name": "BURAK ÇOLAK"
+        },
+        {
+          "shirt_no": "19.",
+          "name": "REŞO AKIN"
+        },
+        {
+          "shirt_no": "21.",
+          "name": "MEHMET SIDDIK İSTEMİ"
+        },
+        {
+          "shirt_no": "41.",
+          "name": "TALHA ÖZLER"
+        },
+        {
+          "shirt_no": "60.",
+          "name": "TURAN YILMAZ"
+        },
+        {
+          "shirt_no": "80.",
+          "name": "ALAATTİN HAMZA OK"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "22.",
+          "name": "OSMAN MERT GÖKTEPE"
+        },
+        {
+          "shirt_no": "6.",
+          "name": "ATAMER BİLGİN"
+        },
+        {
+          "shirt_no": "7.",
+          "name": "RÜSTEM YİĞİT YIKILMAZ"
+        },
+        {
+          "shirt_no": "11.",
+          "name": "EFŞAN GEÇGİN"
+        },
+        {
+          "shirt_no": "14.",
+          "name": "FURKAN POLAT"
+        },
+        {
+          "shirt_no": "17.",
+          "name": "YAĞIZ SUAT BOLAT"
+        },
+        {
+          "shirt_no": "23.",
+          "name": "SEZER ÖZMEN"
+        },
+        {
+          "shirt_no": "24.",
+          "name": "SEMİH ÜSTÜN"
+        },
+        {
+          "shirt_no": "53.",
+          "name": "AYKUT CİVELEK"
+        },
+        {
+          "shirt_no": "97.",
+          "name": "MUHAMMET BEŞİR"
+        }
+      ],
+      "coach": "ENVER BOZBAY"
+    }
+  },
+  "events": [
+    {
+      "type": "card",
+      "team": "ETİMESGUT BELEDİYESPOR",
+      "player": "EREN KINALI",
+      "minute": 7,
+      "minute_text": "7. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "SEDAT DURSUN",
+      "minute": 15,
+      "minute_text": "15. dk"
+    },
+    {
+      "type": "goal",
+      "player": "EREN KINALI",
+      "minute": 33,
+      "minute_text": "33. dk",
+      "note": "Ayak",
+      "team": "ETİMESGUT BELEDİYESPOR"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "ANDAÇ GÜLERYÜZ",
+      "player_in": "EMİRHAN ÇAKIR",
+      "minute": 46,
+      "minute_text": "46. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "HÜSEYİN KARABEY",
+      "player_in": "AYBERK KAYGISIZ",
+      "minute": 46,
+      "minute_text": "46. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "ETİMESGUT BELEDİYESPOR",
+      "player_out": "TALHA ÖZLER",
+      "player_in": "SEZER ÖZMEN",
+      "minute": 46,
+      "minute_text": "46. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "ETİMESGUT BELEDİYESPOR",
+      "player_out": "BURAK ÇOLAK",
+      "player_in": "FURKAN POLAT",
+      "minute": 59,
+      "minute_text": "59. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "ETİMESGUT BELEDİYESPOR",
+      "player_out": "EREN KINALI",
+      "player_in": "SEMİH ÜSTÜN",
+      "minute": 59,
+      "minute_text": "59. dk"
+    },
+    {
+      "type": "card",
+      "team": "ETİMESGUT BELEDİYESPOR",
+      "player": "MURAT CAN YILDIZ",
+      "minute": 62,
+      "minute_text": "62. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "ETİMESGUT BELEDİYESPOR",
+      "player_out": "BERK AKGÖNÜL",
+      "player_in": "YAĞIZ SUAT BOLAT",
+      "minute": 64,
+      "minute_text": "64. dk"
+    },
+    {
+      "type": "goal",
+      "player": "TURAN YILMAZ",
+      "minute": 71,
+      "minute_text": "71. dk",
+      "note": "Ayak",
+      "team": "ETİMESGUT BELEDİYESPOR"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "BERAT AYDOĞDU",
+      "player_in": "BEDİRHAN KOLKOPARAN",
+      "minute": 78,
+      "minute_text": "78. dk"
+    },
+    {
+      "type": "card",
+      "team": "ETİMESGUT BELEDİYESPOR",
+      "player": "MEHMET SIDDIK İSTEMİ",
+      "minute": 82,
+      "minute_text": "82. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "ETİMESGUT BELEDİYESPOR",
+      "player_out": "MEHMET SIDDIK İSTEMİ",
+      "player_in": "AYKUT CİVELEK",
+      "minute": 84,
+      "minute_text": "84. dk"
+    },
+    {
+      "type": "goal",
+      "player": "TURAN YILMAZ",
+      "minute": 85,
+      "minute_text": "85. dk",
+      "note": "Ayak",
+      "team": "ETİMESGUT BELEDİYESPOR"
+    },
+    {
+      "type": "card",
+      "team": "ETİMESGUT BELEDİYESPOR",
+      "player": "TURAN YILMAZ",
+      "minute": 90.1,
+      "minute_text": "90+1. dk"
+    }
+  ],
+  "dataQuality": {
+    "lineupsAvailable": true,
+    "eventsAvailable": true,
+    "sourceType": "tff_detail_page"
+  }
+}

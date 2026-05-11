@@ -1,0 +1,408 @@
+{
+  "id": "235888",
+  "tff_match_id": "235888",
+  "season": "2022-2023",
+  "competition": "TFF 2.League (Professional Team)",
+  "roundType": "league",
+  "week": 31,
+  "stage": "31. Maç",
+  "date": "2023-04-09",
+  "time": "15:00",
+  "dateDisplay": "9.04.2023 - 15:00",
+  "homeTeam": "AFC KABLO KANALLARI UŞAK SPOR A.Ş.",
+  "awayTeam": "Balıkesirspor",
+  "homeTeamRaw": "AFC KABLO KANALLARI UŞAK SPOR A.Ş.",
+  "awayTeamRaw": "BAYNET İNŞAAT BALIKESİRSPOR",
+  "score": {
+    "home": 2,
+    "away": 0,
+    "display": "2-0",
+    "played": true
+  },
+  "balkes": {
+    "isHome": false,
+    "opponent": "AFC KABLO KANALLARI UŞAK SPOR A.Ş.",
+    "goalsFor": 0,
+    "goalsAgainst": 2,
+    "result": "L"
+  },
+  "detailUrl": "seasons/2022-2023/matches/235888.json",
+  "source": {
+    "name": "TFF",
+    "url": "https://www.tff.org/Default.aspx?macId=235888&pageID=528"
+  },
+  "match_code": "3499",
+  "venue": "UŞAK 1 EYLÜL - UŞAK - UŞAK MERKEZ",
+  "referees": [
+    {
+      "name": "BURAK OLCAR",
+      "role": "Referee"
+    },
+    {
+      "name": "MURATCAN ILGAZ",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "HAYDAR AVCI",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "EREN GÖKMEN",
+      "role": "Fourth Official"
+    },
+    {
+      "name": "ADİL SİNEM",
+      "role": "Observer"
+    },
+    {
+      "name": "TUNCAY ATAN",
+      "role": "Delegate"
+    },
+    {
+      "name": "MURAT ÇALIŞKAN",
+      "role": "Delegate"
+    }
+  ],
+  "lineups": {
+    "home": {
+      "team": "AFC KABLO KANALLARI UŞAK SPOR A.Ş.",
+      "team_raw": "AFC KABLO KANALLARI UŞAK SPOR A.Ş.",
+      "starting11": [
+        {
+          "shirt_no": "91.",
+          "name": "TÜRKER DIRDIROĞLU"
+        },
+        {
+          "shirt_no": "3.",
+          "name": "CENGİZ DEMİR"
+        },
+        {
+          "shirt_no": "4.",
+          "name": "UĞUR ARSLAN KURU"
+        },
+        {
+          "shirt_no": "7.",
+          "name": "ARDA KÖKSAL"
+        },
+        {
+          "shirt_no": "8.",
+          "name": "VOLKAN KILIÇ"
+        },
+        {
+          "shirt_no": "9.",
+          "name": "EFECAN BARLIK"
+        },
+        {
+          "shirt_no": "11.",
+          "name": "METEHAN MERTÖZ"
+        },
+        {
+          "shirt_no": "19.",
+          "name": "SEFER KANITEMİZ"
+        },
+        {
+          "shirt_no": "20.",
+          "name": "MURAD HAN GÖNEN"
+        },
+        {
+          "shirt_no": "64.",
+          "name": "RESUL TÜRKKALESİ"
+        },
+        {
+          "shirt_no": "77.",
+          "name": "ERHAN TATLIDİL"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "48.",
+          "name": "VEDAT BÖYÜKGÜL"
+        },
+        {
+          "shirt_no": "10.",
+          "name": "ALİ ARDA BULUT"
+        },
+        {
+          "shirt_no": "17.",
+          "name": "ERTUĞRUL TEKŞEN"
+        },
+        {
+          "shirt_no": "21.",
+          "name": "ALPEREN KAHRAMAN"
+        },
+        {
+          "shirt_no": "22.",
+          "name": "MURAT ŞENEL"
+        },
+        {
+          "shirt_no": "23.",
+          "name": "İBRAHİM DEMİR"
+        },
+        {
+          "shirt_no": "37.",
+          "name": "SEFA KAHRAMAN"
+        },
+        {
+          "shirt_no": "42.",
+          "name": "ÖMER FARUK CANBİRDİ"
+        },
+        {
+          "shirt_no": "70.",
+          "name": "CEM AKTAŞ"
+        },
+        {
+          "shirt_no": "80.",
+          "name": "DOĞAN KARAKUŞ"
+        }
+      ],
+      "coach": "CEYHUN MÜDERRİSOĞLU"
+    },
+    "away": {
+      "team": "Balıkesirspor",
+      "team_raw": "BAYNET İNŞAAT BALIKESİRSPOR",
+      "starting11": [
+        {
+          "shirt_no": "26.",
+          "name": "YASİN YİĞİT BERBER"
+        },
+        {
+          "shirt_no": "4.",
+          "name": "BİROL PARLAK"
+        },
+        {
+          "shirt_no": "23.",
+          "name": "ENES KARABULUT"
+        },
+        {
+          "shirt_no": "39.",
+          "name": "HÜSEYİN KARABEY"
+        },
+        {
+          "shirt_no": "3.",
+          "name": "BERAT AYDOĞDU"
+        },
+        {
+          "shirt_no": "7.",
+          "name": "ANDAÇ GÜLERYÜZ"
+        },
+        {
+          "shirt_no": "21.",
+          "name": "SEDAT YİĞİT KURNAZ"
+        },
+        {
+          "shirt_no": "5.",
+          "name": "SEDAT DURSUN"
+        },
+        {
+          "shirt_no": "63.",
+          "name": "İBRAHİM HALİL ÇOLAK"
+        },
+        {
+          "shirt_no": "10.",
+          "name": "OĞUZ HAN AYNAOĞLU"
+        },
+        {
+          "shirt_no": "99.",
+          "name": "EMİRHAN ÇAKIR"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "1.",
+          "name": "YİĞİTHAN KIR"
+        },
+        {
+          "shirt_no": "44.",
+          "name": "GÖRKEM ALTUN"
+        },
+        {
+          "shirt_no": "27.",
+          "name": "DOĞANAY AVCI"
+        },
+        {
+          "shirt_no": "97.",
+          "name": "BERKAY AYKURT"
+        },
+        {
+          "shirt_no": "20.",
+          "name": "BERK TOSUN"
+        },
+        {
+          "shirt_no": "33.",
+          "name": "GÜNEY ÇELİK KELEŞ"
+        },
+        {
+          "shirt_no": "61.",
+          "name": "HASAN CAN BİNGÜL"
+        },
+        {
+          "shirt_no": "67.",
+          "name": "ARDA İBRAHİM AKGÜN"
+        },
+        {
+          "shirt_no": "25.",
+          "name": "ABDULLAH ADIYAMAN"
+        }
+      ],
+      "coach": "CAN CANGÖK"
+    }
+  },
+  "events": [
+    {
+      "type": "card",
+      "team": "AFC KABLO KANALLARI UŞAK SPOR A.Ş.",
+      "player": "VOLKAN KILIÇ",
+      "minute": 31,
+      "minute_text": "31. dk"
+    },
+    {
+      "type": "card",
+      "team": "AFC KABLO KANALLARI UŞAK SPOR A.Ş.",
+      "player": "MURAD HAN GÖNEN",
+      "minute": 39,
+      "minute_text": "39. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "ENES KARABULUT",
+      "player_in": "ABDULLAH ADIYAMAN",
+      "minute": 45.3,
+      "minute_text": "45+3. dk"
+    },
+    {
+      "type": "goal",
+      "player": "EFECAN BARLIK",
+      "minute": 53,
+      "minute_text": "53. dk",
+      "note": "Ayak",
+      "team": "AFC KABLO KANALLARI UŞAK SPOR A.Ş."
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "HÜSEYİN KARABEY",
+      "minute": 54,
+      "minute_text": "54. dk"
+    },
+    {
+      "type": "card",
+      "team": "AFC KABLO KANALLARI UŞAK SPOR A.Ş.",
+      "player": "VEDAT BÖYÜKGÜL",
+      "minute": 57,
+      "minute_text": "57. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "AFC KABLO KANALLARI UŞAK SPOR A.Ş.",
+      "player_out": "VOLKAN KILIÇ",
+      "player_in": "ALİ ARDA BULUT",
+      "minute": 61,
+      "minute_text": "61. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "AFC KABLO KANALLARI UŞAK SPOR A.Ş.",
+      "player_out": "MURAD HAN GÖNEN",
+      "player_in": "MURAT ŞENEL",
+      "minute": 61,
+      "minute_text": "61. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "BİROL PARLAK",
+      "player_in": "BERK TOSUN",
+      "minute": 65,
+      "minute_text": "65. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "İBRAHİM HALİL ÇOLAK",
+      "player_in": "DOĞANAY AVCI",
+      "minute": 65,
+      "minute_text": "65. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "EMİRHAN ÇAKIR",
+      "player_in": "HASAN CAN BİNGÜL",
+      "minute": 65,
+      "minute_text": "65. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "BERAT AYDOĞDU",
+      "minute": 69,
+      "minute_text": "69. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "AFC KABLO KANALLARI UŞAK SPOR A.Ş.",
+      "player_out": "EFECAN BARLIK",
+      "player_in": "SEFA KAHRAMAN",
+      "minute": 70,
+      "minute_text": "70. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "DOĞANAY AVCI",
+      "minute": 73,
+      "minute_text": "73. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "OĞUZ HAN AYNAOĞLU",
+      "player_in": "GÖRKEM ALTUN",
+      "minute": 80,
+      "minute_text": "80. dk"
+    },
+    {
+      "type": "card",
+      "team": "AFC KABLO KANALLARI UŞAK SPOR A.Ş.",
+      "player": "ARDA KÖKSAL",
+      "minute": 81,
+      "minute_text": "81. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "AFC KABLO KANALLARI UŞAK SPOR A.Ş.",
+      "player_out": "ARDA KÖKSAL",
+      "player_in": "ERTUĞRUL TEKŞEN",
+      "minute": 83,
+      "minute_text": "83. dk"
+    },
+    {
+      "type": "card",
+      "team": "AFC KABLO KANALLARI UŞAK SPOR A.Ş.",
+      "player": "TÜRKER DIRDIROĞLU",
+      "minute": 85,
+      "minute_text": "85. dk"
+    },
+    {
+      "type": "goal",
+      "player": "ERTUĞRUL TEKŞEN",
+      "minute": 87,
+      "minute_text": "87. dk",
+      "note": "Kafa",
+      "team": "AFC KABLO KANALLARI UŞAK SPOR A.Ş."
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "BERK TOSUN",
+      "minute": 89,
+      "minute_text": "89. dk"
+    }
+  ],
+  "dataQuality": {
+    "lineupsAvailable": true,
+    "eventsAvailable": true,
+    "sourceType": "tff_detail_page"
+  }
+}

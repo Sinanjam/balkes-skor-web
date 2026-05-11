@@ -1,0 +1,351 @@
+{
+  "id": "236008",
+  "tff_match_id": "236008",
+  "season": "2022-2023",
+  "competition": "TFF 2.League (Professional Team)",
+  "roundType": "league",
+  "week": 8,
+  "stage": "8. Maç",
+  "date": "2022-10-05",
+  "time": "19:00",
+  "dateDisplay": "5.10.2022 - 19:00",
+  "homeTeam": "Balıkesirspor",
+  "awayTeam": "KIRŞEHİR FUTBOL SPOR KULÜBÜ",
+  "homeTeamRaw": "BAYNET İNŞAAT BALIKESİRSPOR",
+  "awayTeamRaw": "KIRŞEHİR FUTBOL SPOR KULÜBÜ",
+  "score": {
+    "home": 1,
+    "away": 0,
+    "display": "1-0",
+    "played": true
+  },
+  "balkes": {
+    "isHome": true,
+    "opponent": "KIRŞEHİR FUTBOL SPOR KULÜBÜ",
+    "goalsFor": 1,
+    "goalsAgainst": 0,
+    "result": "W"
+  },
+  "detailUrl": "seasons/2022-2023/matches/236008.json",
+  "source": {
+    "name": "TFF",
+    "url": "https://www.tff.org/Default.aspx?macId=236008&pageID=528"
+  },
+  "match_code": "3619",
+  "venue": "BALIKESİR ATATÜRK - BALIKESİR",
+  "referees": [
+    {
+      "name": "HAKAN ÜLKER",
+      "role": "Referee"
+    },
+    {
+      "name": "BAYKAL TUNA",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "MELİH KURTULUŞ",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "TAYFUN SARI",
+      "role": "Fourth Official"
+    },
+    {
+      "name": "ADİL SİNEM",
+      "role": "Observer"
+    },
+    {
+      "name": "TUĞBAY İNAN",
+      "role": "Delegate"
+    },
+    {
+      "name": "HÜSEYİN DEMİR",
+      "role": "Delegate"
+    }
+  ],
+  "lineups": {
+    "home": {
+      "team": "Balıkesirspor",
+      "team_raw": "BAYNET İNŞAAT BALIKESİRSPOR",
+      "starting11": [
+        {
+          "shirt_no": "1.",
+          "name": "YİĞİTHAN KIR"
+        },
+        {
+          "shirt_no": "63.",
+          "name": "İBRAHİM HALİL ÇOLAK"
+        },
+        {
+          "shirt_no": "15.",
+          "name": "KAĞAN KAYALI"
+        },
+        {
+          "shirt_no": "77.",
+          "name": "DOĞA İŞERİ"
+        },
+        {
+          "shirt_no": "99.",
+          "name": "EMİRHAN ÇAKIR"
+        },
+        {
+          "shirt_no": "22.",
+          "name": "AYBERK KAYGISIZ"
+        },
+        {
+          "shirt_no": "5.",
+          "name": "SEDAT DURSUN"
+        },
+        {
+          "shirt_no": "44.",
+          "name": "GÖRKEM ALTUN"
+        },
+        {
+          "shirt_no": "39.",
+          "name": "HÜSEYİN KARABEY"
+        },
+        {
+          "shirt_no": "10.",
+          "name": "OĞUZ HAN AYNAOĞLU"
+        },
+        {
+          "shirt_no": "3.",
+          "name": "BERAT AYDOĞDU"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "26.",
+          "name": "YASİN YİĞİT BERBER"
+        },
+        {
+          "shirt_no": "67.",
+          "name": "ARDA İBRAHİM AKGÜN"
+        },
+        {
+          "shirt_no": "4.",
+          "name": "BİROL PARLAK"
+        },
+        {
+          "shirt_no": "69.",
+          "name": "UMUT CAN AKÇAOĞLU"
+        },
+        {
+          "shirt_no": "20.",
+          "name": "BERK TOSUN"
+        },
+        {
+          "shirt_no": "33.",
+          "name": "GÜNEY ÇELİK KELEŞ"
+        },
+        {
+          "shirt_no": "21.",
+          "name": "SEDAT YİĞİT KURNAZ"
+        },
+        {
+          "shirt_no": "9.",
+          "name": "BEDİRHAN KOLKOPARAN"
+        },
+        {
+          "shirt_no": "61.",
+          "name": "HASAN CAN BİNGÜL"
+        },
+        {
+          "shirt_no": "23.",
+          "name": "ENES KARABULUT"
+        }
+      ]
+    },
+    "away": {
+      "team": "KIRŞEHİR FUTBOL SPOR KULÜBÜ",
+      "team_raw": "KIRŞEHİR FUTBOL SPOR KULÜBÜ",
+      "starting11": [
+        {
+          "shirt_no": "53.",
+          "name": "KADEM BURAK YAŞAR"
+        },
+        {
+          "shirt_no": "5.",
+          "name": "SİNAN ALTINEL"
+        },
+        {
+          "shirt_no": "7.",
+          "name": "DOĞACAN DİKER"
+        },
+        {
+          "shirt_no": "8.",
+          "name": "ZİHNİ TEMELCİ"
+        },
+        {
+          "shirt_no": "10.",
+          "name": "SAVAŞ YORULMAZ"
+        },
+        {
+          "shirt_no": "11.",
+          "name": "ONUR GARİP"
+        },
+        {
+          "shirt_no": "15.",
+          "name": "AHMET ÜNER"
+        },
+        {
+          "shirt_no": "20.",
+          "name": "HAKAN ERÇELİK"
+        },
+        {
+          "shirt_no": "25.",
+          "name": "SIRAT YEŞİLÖRDEK"
+        },
+        {
+          "shirt_no": "40.",
+          "name": "OĞULCAN ŞAHİN"
+        },
+        {
+          "shirt_no": "70.",
+          "name": "AHMET SUN"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "27.",
+          "name": "MUSTAFA GÜNGÖR"
+        },
+        {
+          "shirt_no": "4.",
+          "name": "ENVER YILDIZ"
+        },
+        {
+          "shirt_no": "12.",
+          "name": "ÖMER FARUK TAŞ"
+        },
+        {
+          "shirt_no": "14.",
+          "name": "GÖKDENİZ VAROL"
+        },
+        {
+          "shirt_no": "19.",
+          "name": "FATİH KIRAN"
+        },
+        {
+          "shirt_no": "66.",
+          "name": "FURKAN MIZRAK"
+        },
+        {
+          "shirt_no": "23.",
+          "name": "HACI MUSTAFA KARABULUT"
+        },
+        {
+          "shirt_no": "30.",
+          "name": "EMRE DEMİR"
+        },
+        {
+          "shirt_no": "9.",
+          "name": "KUBİLAY SERBEST"
+        },
+        {
+          "shirt_no": "77.",
+          "name": "FATİH KIZILAY"
+        }
+      ],
+      "coach": "SİNAN ÖZDOĞAN"
+    }
+  },
+  "events": [
+    {
+      "type": "card",
+      "team": "KIRŞEHİR FUTBOL SPOR KULÜBÜ",
+      "player": "SAVAŞ YORULMAZ",
+      "minute": 42,
+      "minute_text": "42. dk"
+    },
+    {
+      "type": "card",
+      "team": "KIRŞEHİR FUTBOL SPOR KULÜBÜ",
+      "player": "SIRAT YEŞİLÖRDEK",
+      "minute": 67,
+      "minute_text": "67. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "KIRŞEHİR FUTBOL SPOR KULÜBÜ",
+      "player_out": "AHMET SUN",
+      "player_in": "GÖKDENİZ VAROL",
+      "minute": 71,
+      "minute_text": "71. dk"
+    },
+    {
+      "type": "card",
+      "team": "KIRŞEHİR FUTBOL SPOR KULÜBÜ",
+      "player": "ZİHNİ TEMELCİ",
+      "minute": 76,
+      "minute_text": "76. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "KIRŞEHİR FUTBOL SPOR KULÜBÜ",
+      "player_out": "SIRAT YEŞİLÖRDEK",
+      "player_in": "FATİH KIRAN",
+      "minute": 77,
+      "minute_text": "77. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "KIRŞEHİR FUTBOL SPOR KULÜBÜ",
+      "player_out": "HAKAN ERÇELİK",
+      "player_in": "EMRE DEMİR",
+      "minute": 77,
+      "minute_text": "77. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "AYBERK KAYGISIZ",
+      "minute": 79,
+      "minute_text": "79. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "EMİRHAN ÇAKIR",
+      "player_in": "UMUT CAN AKÇAOĞLU",
+      "minute": 80,
+      "minute_text": "80. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "KIRŞEHİR FUTBOL SPOR KULÜBÜ",
+      "player_out": "ONUR GARİP",
+      "player_in": "HACI MUSTAFA KARABULUT",
+      "minute": 87,
+      "minute_text": "87. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "OĞUZ HAN AYNAOĞLU",
+      "player_in": "BİROL PARLAK",
+      "minute": 88,
+      "minute_text": "88. dk"
+    },
+    {
+      "type": "card",
+      "team": "KIRŞEHİR FUTBOL SPOR KULÜBÜ",
+      "player": "HACI MUSTAFA KARABULUT",
+      "minute": 90.2,
+      "minute_text": "90+2. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "AYBERK KAYGISIZ",
+      "player_in": "BERK TOSUN",
+      "minute": 90.3,
+      "minute_text": "90+3. dk"
+    }
+  ],
+  "dataQuality": {
+    "lineupsAvailable": true,
+    "eventsAvailable": true,
+    "sourceType": "tff_detail_page"
+  }
+}

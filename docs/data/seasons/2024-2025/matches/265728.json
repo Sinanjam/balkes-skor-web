@@ -1,0 +1,385 @@
+{
+  "id": "265728",
+  "tff_match_id": "265728",
+  "season": "2024-2025",
+  "competition": "Nesine 3. League (Professional Team)",
+  "roundType": "league",
+  "week": 15,
+  "stage": "15. Maç",
+  "date": "2024-12-15",
+  "time": "14:00",
+  "dateDisplay": "15.12.2024 - 14:00",
+  "homeTeam": "T.METAL 1963 SPOR",
+  "awayTeam": "Balıkesirspor",
+  "homeTeamRaw": "T.METAL 1963 SPOR",
+  "awayTeamRaw": "BALIKESİRSPOR",
+  "score": {
+    "home": 1,
+    "away": 2,
+    "display": "1-2",
+    "played": true
+  },
+  "balkes": {
+    "isHome": false,
+    "opponent": "T.METAL 1963 SPOR",
+    "goalsFor": 2,
+    "goalsAgainst": 1,
+    "result": "W"
+  },
+  "detailUrl": "seasons/2024-2025/matches/265728.json",
+  "source": {
+    "name": "TFF",
+    "url": "https://www.tff.org/Default.aspx?macId=265728&pageID=528"
+  },
+  "match_code": "4387",
+  "venue": "SİNCAN 15 TEMMUZ MİLLİ BİRLİK STADI - ANKARA - SİN",
+  "referees": [
+    {
+      "name": "BURAK FİLİK",
+      "role": "Referee"
+    },
+    {
+      "name": "MEHMET ERDOĞAN",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "ABDULLAH SEMERCİ",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "FIRAT KAÇMAZ",
+      "role": "Fourth Official"
+    },
+    {
+      "name": "BÜLENT TÜRKEKUL",
+      "role": "Observer"
+    },
+    {
+      "name": "OĞUZHAN BIYIKLI",
+      "role": "Delegate"
+    },
+    {
+      "name": "HİLMİ ALPER ŞENKAL",
+      "role": "Delegate"
+    }
+  ],
+  "lineups": {
+    "home": {
+      "team": "T.METAL 1963 SPOR",
+      "team_raw": "T.METAL 1963 SPOR",
+      "starting11": [
+        {
+          "shirt_no": "12.",
+          "name": "ÖMERCAN AVCİ"
+        },
+        {
+          "shirt_no": "4.",
+          "name": "ALİ EREN KARADAĞ"
+        },
+        {
+          "shirt_no": "77.",
+          "name": "HAKAN BOZKURT"
+        },
+        {
+          "shirt_no": "18.",
+          "name": "RIDVAN KOÇAK"
+        },
+        {
+          "shirt_no": "48.",
+          "name": "MEHMET SACİT YOLCU"
+        },
+        {
+          "shirt_no": "20.",
+          "name": "UMUT TARHAN"
+        },
+        {
+          "shirt_no": "5.",
+          "name": "EFE CAN ÇÖLBEKLER"
+        },
+        {
+          "shirt_no": "7.",
+          "name": "FATİH KARSLI"
+        },
+        {
+          "shirt_no": "10.",
+          "name": "EMRE GÜNDOĞDU"
+        },
+        {
+          "shirt_no": "9.",
+          "name": "SARP EKİNCİ"
+        },
+        {
+          "shirt_no": "6.",
+          "name": "HASAN KÜÇCÜK"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "1.",
+          "name": "OKAN GÜLTANG"
+        },
+        {
+          "shirt_no": "25.",
+          "name": "GÜRKAN ALVER"
+        },
+        {
+          "shirt_no": "96.",
+          "name": "FEHMİ KOÇ"
+        },
+        {
+          "shirt_no": "22.",
+          "name": "SEMİH İNTEPE"
+        },
+        {
+          "shirt_no": "36.",
+          "name": "ABDUSSAMET YILMAZ"
+        },
+        {
+          "shirt_no": "80.",
+          "name": "ONUR EFE EKRİ"
+        },
+        {
+          "shirt_no": "99.",
+          "name": "OSMAN BURAK DESTAN"
+        },
+        {
+          "shirt_no": "23.",
+          "name": "BARAN KARAGÖZ"
+        },
+        {
+          "shirt_no": "88.",
+          "name": "HALİL KOÇYİĞİT"
+        },
+        {
+          "shirt_no": "11.",
+          "name": "BATUHAN SÜER"
+        }
+      ]
+    },
+    "away": {
+      "team": "Balıkesirspor",
+      "team_raw": "BALIKESİRSPOR",
+      "starting11": [
+        {
+          "shirt_no": "1.",
+          "name": "HÜSEYİN ALTINTAŞ"
+        },
+        {
+          "shirt_no": "22.",
+          "name": "TAYFUN KIRCA"
+        },
+        {
+          "shirt_no": "68.",
+          "name": "VOLKAN ALTINSOY"
+        },
+        {
+          "shirt_no": "16.",
+          "name": "ŞAHİN ŞAFAKOĞLU"
+        },
+        {
+          "shirt_no": "3.",
+          "name": "AHMET GÜLAY"
+        },
+        {
+          "shirt_no": "10.",
+          "name": "SEDAT YİĞİT KURNAZ"
+        },
+        {
+          "shirt_no": "15.",
+          "name": "ASIM HAMZAÇEBİ"
+        },
+        {
+          "shirt_no": "8.",
+          "name": "ÖZER ÖZDEMİR"
+        },
+        {
+          "shirt_no": "80.",
+          "name": "MUHAMMED DEMİRCİ"
+        },
+        {
+          "shirt_no": "19.",
+          "name": "ARTUN AKÇAKIN"
+        },
+        {
+          "shirt_no": "7.",
+          "name": "CELAL EMİR DEDE"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "48.",
+          "name": "DOĞUKAN ÖZÇİMEN"
+        },
+        {
+          "shirt_no": "9.",
+          "name": "BERTUĞ BAYAR"
+        },
+        {
+          "shirt_no": "21.",
+          "name": "SERDAR GÜNCÜ"
+        },
+        {
+          "shirt_no": "56.",
+          "name": "YİĞİT EPÖZDEMİR"
+        },
+        {
+          "shirt_no": "53.",
+          "name": "GÜVENÇ USTA"
+        },
+        {
+          "shirt_no": "2.",
+          "name": "MUHAMMET ARAZ"
+        },
+        {
+          "shirt_no": "5.",
+          "name": "KAĞAN KAYALI"
+        },
+        {
+          "shirt_no": "32.",
+          "name": "ALİ KARAKAYA"
+        },
+        {
+          "shirt_no": "6.",
+          "name": "SAMET SEYMEN SARGIN"
+        },
+        {
+          "shirt_no": "77.",
+          "name": "MUSTAFA BURAK GÜNDOĞAN"
+        }
+      ],
+      "coach": "İSMAİL ERTEKİN"
+    }
+  },
+  "events": [
+    {
+      "type": "own_goal",
+      "player": "TAYFUN KIRCA",
+      "minute": 10,
+      "minute_text": "10. dk",
+      "note": "Kendi kalesine",
+      "team": "Balıkesirspor"
+    },
+    {
+      "type": "substitution",
+      "team": "T.METAL 1963 SPOR",
+      "player_out": "EFE CAN ÇÖLBEKLER",
+      "player_in": "OSMAN BURAK DESTAN",
+      "minute": 26,
+      "minute_text": "26. dk"
+    },
+    {
+      "type": "goal",
+      "player": "SEDAT YİĞİT KURNAZ",
+      "minute": 38,
+      "minute_text": "38. dk",
+      "note": "Ayak",
+      "team": "Balıkesirspor"
+    },
+    {
+      "type": "goal",
+      "player": "ARTUN AKÇAKIN",
+      "minute": 39,
+      "minute_text": "39. dk",
+      "note": "Ayak",
+      "team": "Balıkesirspor"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "SEDAT YİĞİT KURNAZ",
+      "minute": 44,
+      "minute_text": "44. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "T.METAL 1963 SPOR",
+      "player_out": "RIDVAN KOÇAK",
+      "player_in": "GÜRKAN ALVER",
+      "minute": 46,
+      "minute_text": "46. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "T.METAL 1963 SPOR",
+      "player_out": "FATİH KARSLI",
+      "player_in": "SEMİH İNTEPE",
+      "minute": 46,
+      "minute_text": "46. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "ÖZER ÖZDEMİR",
+      "player_in": "SERDAR GÜNCÜ",
+      "minute": 67,
+      "minute_text": "67. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "T.METAL 1963 SPOR",
+      "player_out": "MEHMET SACİT YOLCU",
+      "player_in": "ONUR EFE EKRİ",
+      "minute": 71,
+      "minute_text": "71. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "T.METAL 1963 SPOR",
+      "player_out": "UMUT TARHAN",
+      "player_in": "ABDUSSAMET YILMAZ",
+      "minute": 71,
+      "minute_text": "71. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "MUHAMMED DEMİRCİ",
+      "player_in": "ALİ KARAKAYA",
+      "minute": 82,
+      "minute_text": "82. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "SEDAT YİĞİT KURNAZ",
+      "player_in": "SAMET SEYMEN SARGIN",
+      "minute": 82,
+      "minute_text": "82. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "ARTUN AKÇAKIN",
+      "player_in": "BERTUĞ BAYAR",
+      "minute": 90,
+      "minute_text": "90. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "AHMET GÜLAY",
+      "player_in": "GÜVENÇ USTA",
+      "minute": 90,
+      "minute_text": "90. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "VOLKAN ALTINSOY",
+      "minute": 90.1,
+      "minute_text": "90+1. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "SERDAR GÜNCÜ",
+      "minute": 90.4,
+      "minute_text": "90+4. dk"
+    }
+  ],
+  "dataQuality": {
+    "lineupsAvailable": true,
+    "eventsAvailable": true,
+    "sourceType": "tff_detail_page"
+  }
+}

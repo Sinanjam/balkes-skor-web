@@ -1,0 +1,359 @@
+{
+  "id": "251186",
+  "tff_match_id": "251186",
+  "season": "2023-2024",
+  "competition": "TFF 3. LEAGUE (Professional Team)",
+  "roundType": "league",
+  "week": 4,
+  "stage": "4. Maç",
+  "date": "2023-10-01",
+  "time": "19:00",
+  "dateDisplay": "1.10.2023 - 19:00",
+  "homeTeam": "Balıkesirspor",
+  "awayTeam": "23 ELAZIĞ FUTBOL KULÜBÜ",
+  "homeTeamRaw": "BALIKESİRSPOR",
+  "awayTeamRaw": "23 ELAZIĞ FUTBOL KULÜBÜ",
+  "score": {
+    "home": 0,
+    "away": 0,
+    "display": "0-0",
+    "played": true
+  },
+  "balkes": {
+    "isHome": true,
+    "opponent": "23 ELAZIĞ FUTBOL KULÜBÜ",
+    "goalsFor": 0,
+    "goalsAgainst": 0,
+    "result": "D"
+  },
+  "detailUrl": "seasons/2023-2024/matches/251186.json",
+  "source": {
+    "name": "TFF",
+    "url": "https://www.tff.org/Default.aspx?macId=251186&pageID=528"
+  },
+  "match_code": "4652",
+  "venue": "BALIKESİR ATATÜRK - BALIKESİR",
+  "referees": [
+    {
+      "name": "OĞUZHAN GÖKÇEN",
+      "role": "Referee"
+    },
+    {
+      "name": "UĞUR AYDOĞDU",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "AHMET ŞEN",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "BERKAY URLU",
+      "role": "Fourth Official"
+    },
+    {
+      "name": "HAKAN AKMISIR",
+      "role": "Observer"
+    },
+    {
+      "name": "ERDOĞAN KURT",
+      "role": "Delegate"
+    },
+    {
+      "name": "ATAKAN YILDIZ",
+      "role": "Delegate"
+    }
+  ],
+  "lineups": {
+    "home": {
+      "team": "Balıkesirspor",
+      "team_raw": "BALIKESİRSPOR",
+      "starting11": [
+        {
+          "shirt_no": "12.",
+          "name": "HÜSEYİN ALTINTAŞ"
+        },
+        {
+          "shirt_no": "5.",
+          "name": "KAĞAN KAYALI"
+        },
+        {
+          "shirt_no": "10.",
+          "name": "SEDAT YİĞİT KURNAZ"
+        },
+        {
+          "shirt_no": "70.",
+          "name": "GÖKSU MUTLU"
+        },
+        {
+          "shirt_no": "7.",
+          "name": "BERKAY AYKURT"
+        },
+        {
+          "shirt_no": "20.",
+          "name": "DOĞANAY AVCI"
+        },
+        {
+          "shirt_no": "21.",
+          "name": "MUHSİN YILDIRIM"
+        },
+        {
+          "shirt_no": "9.",
+          "name": "BERKE DOĞUKAN ÖNDE"
+        },
+        {
+          "shirt_no": "40.",
+          "name": "ERKAN SÜER"
+        },
+        {
+          "shirt_no": "6.",
+          "name": "BERAT AYDOĞDU"
+        },
+        {
+          "shirt_no": "54.",
+          "name": "ÖMER FARUK YAYLACI"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "1.",
+          "name": "YİĞİTHAN KIR"
+        },
+        {
+          "shirt_no": "15.",
+          "name": "ASIM HAMZAÇEBİ"
+        },
+        {
+          "shirt_no": "27.",
+          "name": "RAHMİ ANIL BAŞARAN"
+        },
+        {
+          "shirt_no": "19.",
+          "name": "ENES KARABULUT"
+        },
+        {
+          "shirt_no": "16.",
+          "name": "BERK TOSUN"
+        },
+        {
+          "shirt_no": "14.",
+          "name": "HAKAN AKGÜL"
+        },
+        {
+          "shirt_no": "11.",
+          "name": "ARDA İBRAHİM AKGÜN"
+        },
+        {
+          "shirt_no": "55.",
+          "name": "OKTAY BALA"
+        },
+        {
+          "shirt_no": "53.",
+          "name": "DOĞUKAN SARAL"
+        },
+        {
+          "shirt_no": "88.",
+          "name": "UTKAN GÖKÇEN"
+        }
+      ],
+      "coach": "RECEP ÇETİN"
+    },
+    "away": {
+      "team": "23 ELAZIĞ FUTBOL KULÜBÜ",
+      "team_raw": "23 ELAZIĞ FUTBOL KULÜBÜ",
+      "starting11": [
+        {
+          "shirt_no": "18.",
+          "name": "EREN YILMAZ"
+        },
+        {
+          "shirt_no": "77.",
+          "name": "FATİH KIZILAY"
+        },
+        {
+          "shirt_no": "16.",
+          "name": "BURAK KONAÇ"
+        },
+        {
+          "shirt_no": "14.",
+          "name": "HALİLCAN DOĞAN"
+        },
+        {
+          "shirt_no": "6.",
+          "name": "SEZER KAHRAMAN"
+        },
+        {
+          "shirt_no": "19.",
+          "name": "SERGEN UZUN"
+        },
+        {
+          "shirt_no": "10.",
+          "name": "SEYİD AHMET HAN"
+        },
+        {
+          "shirt_no": "23.",
+          "name": "MURAT KAYALI"
+        },
+        {
+          "shirt_no": "17.",
+          "name": "ARİF EMRE EREN"
+        },
+        {
+          "shirt_no": "61.",
+          "name": "HAMZA TOSUN"
+        },
+        {
+          "shirt_no": "37.",
+          "name": "ÖMER FARUK ACI"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "34.",
+          "name": "EMİR ALİ DEMLİKOĞLU"
+        },
+        {
+          "shirt_no": "86.",
+          "name": "SERDAR YILDIRIM"
+        },
+        {
+          "shirt_no": "56.",
+          "name": "MUAZ DEMİR"
+        },
+        {
+          "shirt_no": "55.",
+          "name": "GÖKHAN KAYRAN"
+        },
+        {
+          "shirt_no": "5.",
+          "name": "MEHMET ALİ AKIN"
+        },
+        {
+          "shirt_no": "53.",
+          "name": "OĞUZHAN KÖSEOĞLU"
+        },
+        {
+          "shirt_no": "11.",
+          "name": "AHMET BERKE YAĞIZ"
+        },
+        {
+          "shirt_no": "9.",
+          "name": "İLHAN ASLANOĞLU"
+        },
+        {
+          "shirt_no": "3.",
+          "name": "BİLAL ÖZER"
+        },
+        {
+          "shirt_no": "21.",
+          "name": "FERİT KAYA"
+        }
+      ],
+      "coach": "ALAETTİN ÇİÇEK"
+    }
+  },
+  "events": [
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "SEDAT YİĞİT KURNAZ",
+      "minute": 41,
+      "minute_text": "41. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "ÖMER FARUK YAYLACI",
+      "minute": 46,
+      "minute_text": "46. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "ERKAN SÜER",
+      "minute": 55,
+      "minute_text": "55. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "BERKE DOĞUKAN ÖNDE",
+      "player_in": "DOĞUKAN SARAL",
+      "minute": 55,
+      "minute_text": "55. dk"
+    },
+    {
+      "type": "card",
+      "team": "23 ELAZIĞ FUTBOL KULÜBÜ",
+      "player": "HAMZA TOSUN",
+      "minute": 56,
+      "minute_text": "56. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "23 ELAZIĞ FUTBOL KULÜBÜ",
+      "player_out": "HAMZA TOSUN",
+      "player_in": "FERİT KAYA",
+      "minute": 69,
+      "minute_text": "69. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "23 ELAZIĞ FUTBOL KULÜBÜ",
+      "player_out": "ARİF EMRE EREN",
+      "player_in": "AHMET BERKE YAĞIZ",
+      "minute": 69,
+      "minute_text": "69. dk"
+    },
+    {
+      "type": "card",
+      "team": "23 ELAZIĞ FUTBOL KULÜBÜ",
+      "player": "ÖMER FARUK ACI",
+      "minute": 71,
+      "minute_text": "71. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "23 ELAZIĞ FUTBOL KULÜBÜ",
+      "player_out": "ÖMER FARUK ACI",
+      "player_in": "MEHMET ALİ AKIN",
+      "minute": 73,
+      "minute_text": "73. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "BERKAY AYKURT",
+      "player_in": "OKTAY BALA",
+      "minute": 75,
+      "minute_text": "75. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "23 ELAZIĞ FUTBOL KULÜBÜ",
+      "player_out": "MURAT KAYALI",
+      "player_in": "İLHAN ASLANOĞLU",
+      "minute": 87,
+      "minute_text": "87. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "SEDAT YİĞİT KURNAZ",
+      "player_in": "RAHMİ ANIL BAŞARAN",
+      "minute": 90.1,
+      "minute_text": "90+1. dk"
+    },
+    {
+      "type": "card",
+      "team": "23 ELAZIĞ FUTBOL KULÜBÜ",
+      "player": "SEYİD AHMET HAN",
+      "minute": 90.5,
+      "minute_text": "90+5. dk"
+    }
+  ],
+  "dataQuality": {
+    "lineupsAvailable": true,
+    "eventsAvailable": true,
+    "sourceType": "tff_detail_page"
+  }
+}

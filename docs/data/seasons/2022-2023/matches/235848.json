@@ -1,0 +1,356 @@
+{
+  "id": "235848",
+  "tff_match_id": "235848",
+  "season": "2022-2023",
+  "competition": "TFF 2.League (Professional Team)",
+  "roundType": "league",
+  "week": 27,
+  "stage": "27. Maç",
+  "date": "2023-03-19",
+  "time": "14:00",
+  "dateDisplay": "19.03.2023 - 14:00",
+  "homeTeam": "KIRŞEHİR FUTBOL SPOR KULÜBÜ",
+  "awayTeam": "Balıkesirspor",
+  "homeTeamRaw": "KIRŞEHİR FUTBOL SPOR KULÜBÜ",
+  "awayTeamRaw": "BAYNET İNŞAAT BALIKESİRSPOR",
+  "score": {
+    "home": 0,
+    "away": 0,
+    "display": "0-0",
+    "played": true
+  },
+  "balkes": {
+    "isHome": false,
+    "opponent": "KIRŞEHİR FUTBOL SPOR KULÜBÜ",
+    "goalsFor": 0,
+    "goalsAgainst": 0,
+    "result": "D"
+  },
+  "detailUrl": "seasons/2022-2023/matches/235848.json",
+  "source": {
+    "name": "TFF",
+    "url": "https://www.tff.org/Default.aspx?macId=235848&pageID=528"
+  },
+  "match_code": "3459",
+  "venue": "KIRŞEHİR AHİ - KIRŞEHİR",
+  "referees": [
+    {
+      "name": "ÖZGÜR REHA ALICI",
+      "role": "Referee"
+    },
+    {
+      "name": "MİKAİL CAN",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "HARUN TERİN",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "DEMOKRAT ÖZGÜR GÜNEŞ",
+      "role": "Fourth Official"
+    },
+    {
+      "name": "ABDULLAH ŞENOL KOYUNCUOĞLU",
+      "role": "Observer"
+    },
+    {
+      "name": "MEHMET SARIBUVA",
+      "role": "Delegate"
+    },
+    {
+      "name": "TAHSİN ÜÇPINAR",
+      "role": "Delegate"
+    }
+  ],
+  "lineups": {
+    "home": {
+      "team": "KIRŞEHİR FUTBOL SPOR KULÜBÜ",
+      "team_raw": "KIRŞEHİR FUTBOL SPOR KULÜBÜ",
+      "starting11": [
+        {
+          "shirt_no": "53.",
+          "name": "KADEM BURAK YAŞAR"
+        },
+        {
+          "shirt_no": "10.",
+          "name": "SAVAŞ YORULMAZ"
+        },
+        {
+          "shirt_no": "8.",
+          "name": "ZİHNİ TEMELCİ"
+        },
+        {
+          "shirt_no": "15.",
+          "name": "AHMET ÜNER"
+        },
+        {
+          "shirt_no": "20.",
+          "name": "HAKAN ERÇELİK"
+        },
+        {
+          "shirt_no": "43.",
+          "name": "İSMET BENLİ"
+        },
+        {
+          "shirt_no": "24.",
+          "name": "MUHAMMET HAŞİM ÇOBAN"
+        },
+        {
+          "shirt_no": "25.",
+          "name": "SIRAT YEŞİLÖRDEK"
+        },
+        {
+          "shirt_no": "37.",
+          "name": "FARUK ÖCAL"
+        },
+        {
+          "shirt_no": "39.",
+          "name": "TAYLAN ÖZGÜN"
+        },
+        {
+          "shirt_no": "80.",
+          "name": "CEREM TALHA DİNÇER"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "38.",
+          "name": "BERKE KAYA"
+        },
+        {
+          "shirt_no": "2.",
+          "name": "MUHAMMET SERDAR YAZICI"
+        },
+        {
+          "shirt_no": "14.",
+          "name": "GÖKDENİZ VAROL"
+        },
+        {
+          "shirt_no": "16.",
+          "name": "MEHMET ERAY ÖZBEK"
+        },
+        {
+          "shirt_no": "60.",
+          "name": "ATAKAN EKİZ"
+        },
+        {
+          "shirt_no": "35.",
+          "name": "FATİH ÜGE"
+        },
+        {
+          "shirt_no": "70.",
+          "name": "AHMET SUN"
+        },
+        {
+          "shirt_no": "23.",
+          "name": "HACI MUSTAFA KARABULUT"
+        },
+        {
+          "shirt_no": "77.",
+          "name": "FATİH KIZILAY"
+        },
+        {
+          "shirt_no": "88.",
+          "name": "HÜSEYİN AKIN AYDIN"
+        }
+      ],
+      "coach": "AHMET DUMAN"
+    },
+    "away": {
+      "team": "Balıkesirspor",
+      "team_raw": "BAYNET İNŞAAT BALIKESİRSPOR",
+      "starting11": [
+        {
+          "shirt_no": "26.",
+          "name": "YASİN YİĞİT BERBER"
+        },
+        {
+          "shirt_no": "44.",
+          "name": "GÖRKEM ALTUN"
+        },
+        {
+          "shirt_no": "15.",
+          "name": "KAĞAN KAYALI"
+        },
+        {
+          "shirt_no": "39.",
+          "name": "HÜSEYİN KARABEY"
+        },
+        {
+          "shirt_no": "3.",
+          "name": "BERAT AYDOĞDU"
+        },
+        {
+          "shirt_no": "23.",
+          "name": "ENES KARABULUT"
+        },
+        {
+          "shirt_no": "27.",
+          "name": "DOĞANAY AVCI"
+        },
+        {
+          "shirt_no": "5.",
+          "name": "SEDAT DURSUN"
+        },
+        {
+          "shirt_no": "10.",
+          "name": "OĞUZ HAN AYNAOĞLU"
+        },
+        {
+          "shirt_no": "20.",
+          "name": "BERK TOSUN"
+        },
+        {
+          "shirt_no": "99.",
+          "name": "EMİRHAN ÇAKIR"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "1.",
+          "name": "YİĞİTHAN KIR"
+        },
+        {
+          "shirt_no": "97.",
+          "name": "BERKAY AYKURT"
+        },
+        {
+          "shirt_no": "7.",
+          "name": "ANDAÇ GÜLERYÜZ"
+        },
+        {
+          "shirt_no": "21.",
+          "name": "SEDAT YİĞİT KURNAZ"
+        },
+        {
+          "shirt_no": "63.",
+          "name": "İBRAHİM HALİL ÇOLAK"
+        },
+        {
+          "shirt_no": "25.",
+          "name": "ABDULLAH ADIYAMAN"
+        },
+        {
+          "shirt_no": "67.",
+          "name": "ARDA İBRAHİM AKGÜN"
+        },
+        {
+          "shirt_no": "80.",
+          "name": "ÜMİT DOĞRU"
+        },
+        {
+          "shirt_no": "61.",
+          "name": "HASAN CAN BİNGÜL"
+        }
+      ],
+      "coach": "CAN CANGÖK"
+    }
+  },
+  "events": [
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "DOĞANAY AVCI",
+      "player_in": "SEDAT YİĞİT KURNAZ",
+      "minute": 46,
+      "minute_text": "46. dk"
+    },
+    {
+      "type": "card",
+      "team": "KIRŞEHİR FUTBOL SPOR KULÜBÜ",
+      "player": "AHMET ÜNER",
+      "minute": 55,
+      "minute_text": "55. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "KIRŞEHİR FUTBOL SPOR KULÜBÜ",
+      "player_out": "CEREM TALHA DİNÇER",
+      "player_in": "FATİH ÜGE",
+      "minute": 65,
+      "minute_text": "65. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "KIRŞEHİR FUTBOL SPOR KULÜBÜ",
+      "player_out": "TAYLAN ÖZGÜN",
+      "player_in": "AHMET SUN",
+      "minute": 65,
+      "minute_text": "65. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "KIRŞEHİR FUTBOL SPOR KULÜBÜ",
+      "player_out": "MUHAMMET HAŞİM ÇOBAN",
+      "player_in": "GÖKDENİZ VAROL",
+      "minute": 75,
+      "minute_text": "75. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "KIRŞEHİR FUTBOL SPOR KULÜBÜ",
+      "player_out": "SAVAŞ YORULMAZ",
+      "player_in": "HACI MUSTAFA KARABULUT",
+      "minute": 75,
+      "minute_text": "75. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "BERK TOSUN",
+      "player_in": "ABDULLAH ADIYAMAN",
+      "minute": 75,
+      "minute_text": "75. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "EMİRHAN ÇAKIR",
+      "minute": 80,
+      "minute_text": "80. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "OĞUZ HAN AYNAOĞLU",
+      "player_in": "İBRAHİM HALİL ÇOLAK",
+      "minute": 86,
+      "minute_text": "86. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "ENES KARABULUT",
+      "minute": 90.1,
+      "minute_text": "90+1. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "ABDULLAH ADIYAMAN",
+      "minute": 90.5,
+      "minute_text": "90+5. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "BERAT AYDOĞDU",
+      "player_in": "HASAN CAN BİNGÜL",
+      "minute": 90.5,
+      "minute_text": "90+5. dk"
+    },
+    {
+      "type": "card",
+      "team": "KIRŞEHİR FUTBOL SPOR KULÜBÜ",
+      "player": "HAKAN ERÇELİK",
+      "minute": 90.6,
+      "minute_text": "90+6. dk"
+    }
+  ],
+  "dataQuality": {
+    "lineupsAvailable": true,
+    "eventsAvailable": true,
+    "sourceType": "tff_detail_page"
+  }
+}

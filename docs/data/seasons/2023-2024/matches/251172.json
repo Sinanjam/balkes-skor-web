@@ -1,0 +1,357 @@
+{
+  "id": "251172",
+  "tff_match_id": "251172",
+  "season": "2023-2024",
+  "competition": "TFF 3. LEAGUE (Professional Team)",
+  "roundType": "league",
+  "week": 2,
+  "stage": "2. Maç",
+  "date": "2023-09-17",
+  "time": "19:00",
+  "dateDisplay": "17.09.2023 - 19:00",
+  "homeTeam": "Balıkesirspor",
+  "awayTeam": "ÇATALCASPOR",
+  "homeTeamRaw": "BALIKESİRSPOR",
+  "awayTeamRaw": "ÇATALCASPOR",
+  "score": {
+    "home": 1,
+    "away": 1,
+    "display": "1-1",
+    "played": true
+  },
+  "balkes": {
+    "isHome": true,
+    "opponent": "ÇATALCASPOR",
+    "goalsFor": 1,
+    "goalsAgainst": 1,
+    "result": "D"
+  },
+  "detailUrl": "seasons/2023-2024/matches/251172.json",
+  "source": {
+    "name": "TFF",
+    "url": "https://www.tff.org/Default.aspx?macId=251172&pageID=528"
+  },
+  "match_code": "4638",
+  "venue": "BALIKESİR ATATÜRK - BALIKESİR",
+  "referees": [
+    {
+      "name": "MUAMMER SARIDAĞ",
+      "role": "Referee"
+    },
+    {
+      "name": "RIDVAN ÇEVİK",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "MEHMET ZEKAT YILMAZ",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "VEYSEL KARANİ ÖZKAN",
+      "role": "Fourth Official"
+    },
+    {
+      "name": "FARUK SERTAKAN",
+      "role": "Observer"
+    },
+    {
+      "name": "NEVZAT SÜZEN",
+      "role": "Delegate"
+    },
+    {
+      "name": "İSMAİL GÖKÇE",
+      "role": "Delegate"
+    }
+  ],
+  "lineups": {
+    "home": {
+      "team": "Balıkesirspor",
+      "team_raw": "BALIKESİRSPOR",
+      "starting11": [
+        {
+          "shirt_no": "1.",
+          "name": "YİĞİTHAN KIR"
+        },
+        {
+          "shirt_no": "5.",
+          "name": "KAĞAN KAYALI"
+        },
+        {
+          "shirt_no": "70.",
+          "name": "GÖKSU MUTLU"
+        },
+        {
+          "shirt_no": "19.",
+          "name": "ENES KARABULUT"
+        },
+        {
+          "shirt_no": "3.",
+          "name": "GÜNEY ÇELİK KELEŞ"
+        },
+        {
+          "shirt_no": "11.",
+          "name": "ARDA İBRAHİM AKGÜN"
+        },
+        {
+          "shirt_no": "6.",
+          "name": "BERAT AYDOĞDU"
+        },
+        {
+          "shirt_no": "10.",
+          "name": "SEDAT YİĞİT KURNAZ"
+        },
+        {
+          "shirt_no": "40.",
+          "name": "ERKAN SÜER"
+        },
+        {
+          "shirt_no": "55.",
+          "name": "OKTAY BALA"
+        },
+        {
+          "shirt_no": "20.",
+          "name": "DOĞANAY AVCI"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "26.",
+          "name": "YASİN YİĞİT BERBER"
+        },
+        {
+          "shirt_no": "22.",
+          "name": "GÖRKEM ALTUN"
+        },
+        {
+          "shirt_no": "13.",
+          "name": "ABDULLAH ADIYAMAN"
+        },
+        {
+          "shirt_no": "7.",
+          "name": "BERKAY AYKURT"
+        },
+        {
+          "shirt_no": "9.",
+          "name": "BERKE DOĞUKAN ÖNDE"
+        },
+        {
+          "shirt_no": "53.",
+          "name": "DOĞUKAN SARAL"
+        },
+        {
+          "shirt_no": "8.",
+          "name": "ÜMİT DOĞRU"
+        },
+        {
+          "shirt_no": "99.",
+          "name": "UMUT CAN AKÇAOĞLU"
+        },
+        {
+          "shirt_no": "16.",
+          "name": "BERK TOSUN"
+        },
+        {
+          "shirt_no": "54.",
+          "name": "ÖMER FARUK YAYLACI"
+        }
+      ],
+      "coach": "RECEP ÇETİN"
+    },
+    "away": {
+      "team": "ÇATALCASPOR",
+      "team_raw": "ÇATALCASPOR",
+      "starting11": [
+        {
+          "shirt_no": "25.",
+          "name": "BARIŞ BAŞKAN"
+        },
+        {
+          "shirt_no": "3.",
+          "name": "ÖMER İNAN"
+        },
+        {
+          "shirt_no": "5.",
+          "name": "FATİH BALATA"
+        },
+        {
+          "shirt_no": "6.",
+          "name": "MUHAMMED EBRAR YILDIRIM"
+        },
+        {
+          "shirt_no": "8.",
+          "name": "BERKE AÇAN"
+        },
+        {
+          "shirt_no": "10.",
+          "name": "SELAHATTİN SEYHUN"
+        },
+        {
+          "shirt_no": "11.",
+          "name": "ABDULLAHİ ALİ JAMA TELLİ"
+        },
+        {
+          "shirt_no": "23.",
+          "name": "BARIŞ DİLLİOĞLU"
+        },
+        {
+          "shirt_no": "34.",
+          "name": "FATİH MEHMET EKİNCİ"
+        },
+        {
+          "shirt_no": "77.",
+          "name": "FURKAN ORAK"
+        },
+        {
+          "shirt_no": "98.",
+          "name": "YUSUF TURHAN"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "13.",
+          "name": "MEHMET MERT PALA"
+        },
+        {
+          "shirt_no": "1.",
+          "name": "MAHSUM ARSLAN"
+        },
+        {
+          "shirt_no": "9.",
+          "name": "FEYZULLAH ŞAHİN GÜNEŞ"
+        },
+        {
+          "shirt_no": "20.",
+          "name": "VEYSEL CAN"
+        },
+        {
+          "shirt_no": "21.",
+          "name": "EMRULLAH ÖZ"
+        },
+        {
+          "shirt_no": "30.",
+          "name": "MUSTAFA BERK VAROL"
+        },
+        {
+          "shirt_no": "55.",
+          "name": "BAHRİ CAN AVCI"
+        },
+        {
+          "shirt_no": "61.",
+          "name": "GÖKDENİZ TANDOĞAN"
+        },
+        {
+          "shirt_no": "88.",
+          "name": "ENES İŞİK"
+        }
+      ],
+      "coach": "HÜSEYİN ÖZCAN"
+    }
+  },
+  "events": [
+    {
+      "type": "goal",
+      "player": "BERAT AYDOĞDU",
+      "minute": 15,
+      "minute_text": "15. dk",
+      "note": "Ayak",
+      "team": "Balıkesirspor"
+    },
+    {
+      "type": "goal",
+      "player": "FURKAN ORAK",
+      "minute": 32,
+      "minute_text": "32. dk",
+      "note": "Kafa",
+      "team": "ÇATALCASPOR"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "OKTAY BALA",
+      "player_in": "BERKE DOĞUKAN ÖNDE",
+      "minute": 58,
+      "minute_text": "58. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "ARDA İBRAHİM AKGÜN",
+      "player_in": "DOĞUKAN SARAL",
+      "minute": 58,
+      "minute_text": "58. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "ÇATALCASPOR",
+      "player_out": "ÖMER İNAN",
+      "player_in": "BAHRİ CAN AVCI",
+      "minute": 61,
+      "minute_text": "61. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "ÇATALCASPOR",
+      "player_out": "BERKE AÇAN",
+      "player_in": "EMRULLAH ÖZ",
+      "minute": 61,
+      "minute_text": "61. dk"
+    },
+    {
+      "type": "card",
+      "team": "ÇATALCASPOR",
+      "player": "BAHRİ CAN AVCI",
+      "minute": 70,
+      "minute_text": "70. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "ÇATALCASPOR",
+      "player_out": "SELAHATTİN SEYHUN",
+      "player_in": "FEYZULLAH ŞAHİN GÜNEŞ",
+      "minute": 71,
+      "minute_text": "71. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "BERAT AYDOĞDU",
+      "minute": 73,
+      "minute_text": "73. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "GÜNEY ÇELİK KELEŞ",
+      "minute": 76,
+      "minute_text": "76. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "ERKAN SÜER",
+      "minute": 77,
+      "minute_text": "77. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "ÇATALCASPOR",
+      "player_out": "ABDULLAHİ ALİ JAMA TELLİ",
+      "player_in": "GÖKDENİZ TANDOĞAN",
+      "minute": 85,
+      "minute_text": "85. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "DOĞANAY AVCI",
+      "player_in": "BERKAY AYKURT",
+      "minute": 87,
+      "minute_text": "87. dk"
+    }
+  ],
+  "dataQuality": {
+    "lineupsAvailable": true,
+    "eventsAvailable": true,
+    "sourceType": "tff_detail_page"
+  }
+}

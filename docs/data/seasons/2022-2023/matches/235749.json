@@ -1,0 +1,342 @@
+{
+  "id": "235749",
+  "tff_match_id": "235749",
+  "season": "2022-2023",
+  "competition": "TFF 2.League (Professional Team)",
+  "roundType": "league",
+  "week": 17,
+  "stage": "17. Maç",
+  "date": "2022-12-04",
+  "time": "14:00",
+  "dateDisplay": "4.12.2022 - 14:00",
+  "homeTeam": "Balıkesirspor",
+  "awayTeam": "ADIYAMAN FUTBOL KULÜBÜ A.Ş.",
+  "homeTeamRaw": "BAYNET İNŞAAT BALIKESİRSPOR",
+  "awayTeamRaw": "ADIYAMAN FUTBOL KULÜBÜ A.Ş.",
+  "score": {
+    "home": 1,
+    "away": 1,
+    "display": "1-1",
+    "played": true
+  },
+  "balkes": {
+    "isHome": true,
+    "opponent": "ADIYAMAN FUTBOL KULÜBÜ A.Ş.",
+    "goalsFor": 1,
+    "goalsAgainst": 1,
+    "result": "D"
+  },
+  "detailUrl": "seasons/2022-2023/matches/235749.json",
+  "source": {
+    "name": "TFF",
+    "url": "https://www.tff.org/Default.aspx?macId=235749&pageID=528"
+  },
+  "match_code": "3360",
+  "venue": "BALIKESİR ATATÜRK - BALIKESİR",
+  "referees": [
+    {
+      "name": "MUSTAFA HAKAN BELDER",
+      "role": "Referee"
+    },
+    {
+      "name": "OSMAN BARUK",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "RECEP GÜNEŞ",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "TANER TUNCER",
+      "role": "Fourth Official"
+    },
+    {
+      "name": "ALİ ZAĞLI",
+      "role": "Observer"
+    },
+    {
+      "name": "ÖZER YILMAZ",
+      "role": "Delegate"
+    },
+    {
+      "name": "UĞUR GÜLSOY",
+      "role": "Delegate"
+    }
+  ],
+  "lineups": {
+    "home": {
+      "team": "Balıkesirspor",
+      "team_raw": "BAYNET İNŞAAT BALIKESİRSPOR",
+      "starting11": [
+        {
+          "shirt_no": "1.",
+          "name": "YİĞİTHAN KIR"
+        },
+        {
+          "shirt_no": "4.",
+          "name": "BİROL PARLAK"
+        },
+        {
+          "shirt_no": "15.",
+          "name": "KAĞAN KAYALI"
+        },
+        {
+          "shirt_no": "77.",
+          "name": "DOĞA İŞERİ"
+        },
+        {
+          "shirt_no": "22.",
+          "name": "AYBERK KAYGISIZ"
+        },
+        {
+          "shirt_no": "5.",
+          "name": "SEDAT DURSUN"
+        },
+        {
+          "shirt_no": "3.",
+          "name": "BERAT AYDOĞDU"
+        },
+        {
+          "shirt_no": "44.",
+          "name": "GÖRKEM ALTUN"
+        },
+        {
+          "shirt_no": "63.",
+          "name": "İBRAHİM HALİL ÇOLAK"
+        },
+        {
+          "shirt_no": "10.",
+          "name": "OĞUZ HAN AYNAOĞLU"
+        },
+        {
+          "shirt_no": "7.",
+          "name": "ANDAÇ GÜLERYÜZ"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "26.",
+          "name": "YASİN YİĞİT BERBER"
+        },
+        {
+          "shirt_no": "33.",
+          "name": "GÜNEY ÇELİK KELEŞ"
+        },
+        {
+          "shirt_no": "21.",
+          "name": "SEDAT YİĞİT KURNAZ"
+        },
+        {
+          "shirt_no": "99.",
+          "name": "EMİRHAN ÇAKIR"
+        },
+        {
+          "shirt_no": "97.",
+          "name": "BERKAY AYKURT"
+        },
+        {
+          "shirt_no": "23.",
+          "name": "ENES KARABULUT"
+        },
+        {
+          "shirt_no": "80.",
+          "name": "ÜMİT DOĞRU"
+        },
+        {
+          "shirt_no": "25.",
+          "name": "ABDULLAH ADIYAMAN"
+        },
+        {
+          "shirt_no": "61.",
+          "name": "HASAN CAN BİNGÜL"
+        },
+        {
+          "shirt_no": "20.",
+          "name": "BERK TOSUN"
+        }
+      ],
+      "coach": "UĞUR BALCIOĞLU"
+    },
+    "away": {
+      "team": "ADIYAMAN FUTBOL KULÜBÜ A.Ş.",
+      "team_raw": "ADIYAMAN FUTBOL KULÜBÜ A.Ş.",
+      "starting11": [
+        {
+          "shirt_no": "45.",
+          "name": "MELİH AĞA"
+        },
+        {
+          "shirt_no": "22.",
+          "name": "KEREM HAKAN VAPURLUOĞLU"
+        },
+        {
+          "shirt_no": "28.",
+          "name": "YİĞİT DEMİR"
+        },
+        {
+          "shirt_no": "5.",
+          "name": "OSMAN BODUR"
+        },
+        {
+          "shirt_no": "24.",
+          "name": "HAYDAR DENİZ"
+        },
+        {
+          "shirt_no": "20.",
+          "name": "GÖKTAN IŞILAK"
+        },
+        {
+          "shirt_no": "8.",
+          "name": "SALİM İYİK"
+        },
+        {
+          "shirt_no": "39.",
+          "name": "ÇAĞRI YAĞIZ YASAK"
+        },
+        {
+          "shirt_no": "60.",
+          "name": "ATAKAN EKİZ"
+        },
+        {
+          "shirt_no": "9.",
+          "name": "ÖMER YILDIZ"
+        },
+        {
+          "shirt_no": "56.",
+          "name": "İBRAHİM HALİL ÖNER"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "1.",
+          "name": "AHMET ÇOLAK"
+        },
+        {
+          "shirt_no": "3.",
+          "name": "TEVFİK DOĞUKAN PALA"
+        },
+        {
+          "shirt_no": "16.",
+          "name": "RÜŞTÜ HANLI"
+        },
+        {
+          "shirt_no": "27.",
+          "name": "NİHAT KOÇ"
+        },
+        {
+          "shirt_no": "55.",
+          "name": "FURGAN POLAT"
+        },
+        {
+          "shirt_no": "23.",
+          "name": "YİLMAZ DALER"
+        },
+        {
+          "shirt_no": "18.",
+          "name": "EMİRHAN ÇALIŞKAN"
+        },
+        {
+          "shirt_no": "7.",
+          "name": "ÖMÜRCAN KARACA"
+        },
+        {
+          "shirt_no": "11.",
+          "name": "ALİ ARDA BULUT"
+        }
+      ],
+      "coach": "GÖKHAN BEKLEMİŞ"
+    }
+  },
+  "events": [
+    {
+      "type": "substitution",
+      "team": "ADIYAMAN FUTBOL KULÜBÜ A.Ş.",
+      "player_out": "OSMAN BODUR",
+      "player_in": "RÜŞTÜ HANLI",
+      "minute": 21,
+      "minute_text": "21. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "ADIYAMAN FUTBOL KULÜBÜ A.Ş.",
+      "player_out": "ATAKAN EKİZ",
+      "player_in": "TEVFİK DOĞUKAN PALA",
+      "minute": 30,
+      "minute_text": "30. dk"
+    },
+    {
+      "type": "card",
+      "team": "ADIYAMAN FUTBOL KULÜBÜ A.Ş.",
+      "player": "HAYDAR DENİZ",
+      "minute": 41,
+      "minute_text": "41. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "OĞUZ HAN AYNAOĞLU",
+      "minute": 58,
+      "minute_text": "58. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "İBRAHİM HALİL ÇOLAK",
+      "player_in": "BERKAY AYKURT",
+      "minute": 59,
+      "minute_text": "59. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "ANDAÇ GÜLERYÜZ",
+      "player_in": "EMİRHAN ÇAKIR",
+      "minute": 59,
+      "minute_text": "59. dk"
+    },
+    {
+      "type": "goal",
+      "player": "SALİM İYİK",
+      "minute": 61,
+      "minute_text": "61. dk",
+      "note": "Ayak",
+      "team": "ADIYAMAN FUTBOL KULÜBÜ A.Ş."
+    },
+    {
+      "type": "goal",
+      "player": "SEDAT DURSUN",
+      "minute": 71,
+      "minute_text": "71. dk",
+      "note": "Penaltı",
+      "team": "Balıkesirspor"
+    },
+    {
+      "type": "substitution",
+      "team": "ADIYAMAN FUTBOL KULÜBÜ A.Ş.",
+      "player_out": "İBRAHİM HALİL ÖNER",
+      "player_in": "ÖMÜRCAN KARACA",
+      "minute": 86,
+      "minute_text": "86. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "BERAT AYDOĞDU",
+      "player_in": "SEDAT YİĞİT KURNAZ",
+      "minute": 87,
+      "minute_text": "87. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "AYBERK KAYGISIZ",
+      "minute": 88,
+      "minute_text": "88. dk"
+    }
+  ],
+  "dataQuality": {
+    "lineupsAvailable": true,
+    "eventsAvailable": true,
+    "sourceType": "tff_detail_page"
+  }
+}

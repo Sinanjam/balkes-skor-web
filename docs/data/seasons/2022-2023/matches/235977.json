@@ -1,0 +1,380 @@
+{
+  "id": "235977",
+  "tff_match_id": "235977",
+  "season": "2022-2023",
+  "competition": "TFF 2.League (Professional Team)",
+  "roundType": "league",
+  "week": 5,
+  "stage": "5. Maç",
+  "date": "2022-09-18",
+  "time": "15:30",
+  "dateDisplay": "18.09.2022 - 15:30",
+  "homeTeam": "GMG KASTAMONUSPOR",
+  "awayTeam": "Balıkesirspor",
+  "homeTeamRaw": "GMG KASTAMONUSPOR",
+  "awayTeamRaw": "BAYNET İNŞAAT BALIKESİRSPOR",
+  "score": {
+    "home": 1,
+    "away": 0,
+    "display": "1-0",
+    "played": true
+  },
+  "balkes": {
+    "isHome": false,
+    "opponent": "GMG KASTAMONUSPOR",
+    "goalsFor": 0,
+    "goalsAgainst": 1,
+    "result": "L"
+  },
+  "detailUrl": "seasons/2022-2023/matches/235977.json",
+  "source": {
+    "name": "TFF",
+    "url": "https://www.tff.org/Default.aspx?macId=235977&pageID=528"
+  },
+  "match_code": "3588",
+  "venue": "GAZİ STADI - KASTAMONU",
+  "referees": [
+    {
+      "name": "YALÇIN TAŞKINFURAT",
+      "role": "Referee"
+    },
+    {
+      "name": "EMRAH AKKAYA",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "ŞAFAK NALBANTOĞLU",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "CİHAN ATAŞ",
+      "role": "Fourth Official"
+    },
+    {
+      "name": "ADNAN ÇAĞLAR",
+      "role": "Observer"
+    },
+    {
+      "name": "VEYSEL AYDOĞAN",
+      "role": "Delegate"
+    },
+    {
+      "name": "BATUHAN GÜNŞEN",
+      "role": "Delegate"
+    }
+  ],
+  "lineups": {
+    "home": {
+      "team": "GMG KASTAMONUSPOR",
+      "team_raw": "GMG KASTAMONUSPOR",
+      "starting11": [
+        {
+          "shirt_no": "34.",
+          "name": "ERAY BİRNİÇAN"
+        },
+        {
+          "shirt_no": "37.",
+          "name": "FARUK ÖCAL"
+        },
+        {
+          "shirt_no": "61.",
+          "name": "KADİR KELEŞ"
+        },
+        {
+          "shirt_no": "19.",
+          "name": "ERMAN BULUCU"
+        },
+        {
+          "shirt_no": "3.",
+          "name": "ŞABAN ÖZEL"
+        },
+        {
+          "shirt_no": "18.",
+          "name": "AYHAN GÜRBÜZ"
+        },
+        {
+          "shirt_no": "8.",
+          "name": "BERKAY SAMANCI"
+        },
+        {
+          "shirt_no": "92.",
+          "name": "HAKAN OLKAN"
+        },
+        {
+          "shirt_no": "7.",
+          "name": "ABDULAZİZ SOLMAZ"
+        },
+        {
+          "shirt_no": "81.",
+          "name": "MEHMET BEKTAŞ"
+        },
+        {
+          "shirt_no": "12.",
+          "name": "ERGİN KELEŞ"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "98.",
+          "name": "SEFA MÜCAHİD ÇİRİŞOĞLU"
+        },
+        {
+          "shirt_no": "66.",
+          "name": "YASİN BAŞAYTAÇ"
+        },
+        {
+          "shirt_no": "20.",
+          "name": "MUSTAFA ALPTEKİN ÇAYLI"
+        },
+        {
+          "shirt_no": "5.",
+          "name": "BERKAN BURAK TURAN"
+        },
+        {
+          "shirt_no": "6.",
+          "name": "ÖMER FARUK YÜCEL"
+        },
+        {
+          "shirt_no": "77.",
+          "name": "RAMAZAN IŞIK"
+        },
+        {
+          "shirt_no": "23.",
+          "name": "EFE GÖRGÜLÜ"
+        },
+        {
+          "shirt_no": "17.",
+          "name": "AMİR EMİN ARLI"
+        },
+        {
+          "shirt_no": "15.",
+          "name": "İSMAİL BİLGİN"
+        },
+        {
+          "shirt_no": "99.",
+          "name": "RAMAZAN KESKİN"
+        }
+      ],
+      "coach": "METİN AKPUNAR"
+    },
+    "away": {
+      "team": "Balıkesirspor",
+      "team_raw": "BAYNET İNŞAAT BALIKESİRSPOR",
+      "starting11": [
+        {
+          "shirt_no": "1.",
+          "name": "YİĞİTHAN KIR"
+        },
+        {
+          "shirt_no": "63.",
+          "name": "İBRAHİM HALİL ÇOLAK"
+        },
+        {
+          "shirt_no": "4.",
+          "name": "BİROL PARLAK"
+        },
+        {
+          "shirt_no": "77.",
+          "name": "DOĞA İŞERİ"
+        },
+        {
+          "shirt_no": "10.",
+          "name": "OĞUZ HAN AYNAOĞLU"
+        },
+        {
+          "shirt_no": "22.",
+          "name": "AYBERK KAYGISIZ"
+        },
+        {
+          "shirt_no": "7.",
+          "name": "ANDAÇ GÜLERYÜZ"
+        },
+        {
+          "shirt_no": "15.",
+          "name": "KAĞAN KAYALI"
+        },
+        {
+          "shirt_no": "39.",
+          "name": "HÜSEYİN KARABEY"
+        },
+        {
+          "shirt_no": "20.",
+          "name": "BERK TOSUN"
+        },
+        {
+          "shirt_no": "3.",
+          "name": "BERAT AYDOĞDU"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "26.",
+          "name": "YASİN YİĞİT BERBER"
+        },
+        {
+          "shirt_no": "99.",
+          "name": "EMİRHAN ÇAKIR"
+        },
+        {
+          "shirt_no": "67.",
+          "name": "ARDA İBRAHİM AKGÜN"
+        },
+        {
+          "shirt_no": "24.",
+          "name": "ARDA GÖROĞLU"
+        },
+        {
+          "shirt_no": "33.",
+          "name": "GÜNEY ÇELİK KELEŞ"
+        },
+        {
+          "shirt_no": "69.",
+          "name": "UMUT CAN AKÇAOĞLU"
+        },
+        {
+          "shirt_no": "44.",
+          "name": "GÖRKEM ALTUN"
+        },
+        {
+          "shirt_no": "71.",
+          "name": "HASAN TURHAN TÜRKER"
+        },
+        {
+          "shirt_no": "23.",
+          "name": "ENES KARABULUT"
+        }
+      ],
+      "coach": "MUHAMMET YILMAZ"
+    }
+  },
+  "events": [
+    {
+      "type": "goal",
+      "player": "ERGİN KELEŞ",
+      "minute": 3,
+      "minute_text": "3. dk",
+      "note": "Ayak",
+      "team": "GMG KASTAMONUSPOR"
+    },
+    {
+      "type": "card",
+      "team": "GMG KASTAMONUSPOR",
+      "player": "AYHAN GÜRBÜZ",
+      "minute": 41,
+      "minute_text": "41. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "AYBERK KAYGISIZ",
+      "minute": 41,
+      "minute_text": "41. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "GMG KASTAMONUSPOR",
+      "player_out": "KADİR KELEŞ",
+      "player_in": "RAMAZAN KESKİN",
+      "minute": 46,
+      "minute_text": "46. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "AYBERK KAYGISIZ",
+      "player_in": "UMUT CAN AKÇAOĞLU",
+      "minute": 46,
+      "minute_text": "46. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "GMG KASTAMONUSPOR",
+      "player_out": "ABDULAZİZ SOLMAZ",
+      "player_in": "ÖMER FARUK YÜCEL",
+      "minute": 63,
+      "minute_text": "63. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "GMG KASTAMONUSPOR",
+      "player_out": "AYHAN GÜRBÜZ",
+      "player_in": "EFE GÖRGÜLÜ",
+      "minute": 63,
+      "minute_text": "63. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "HÜSEYİN KARABEY",
+      "minute": 65,
+      "minute_text": "65. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "ANDAÇ GÜLERYÜZ",
+      "player_in": "ARDA İBRAHİM AKGÜN",
+      "minute": 66,
+      "minute_text": "66. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "BİROL PARLAK",
+      "player_in": "GÖRKEM ALTUN",
+      "minute": 77,
+      "minute_text": "77. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "BERK TOSUN",
+      "player_in": "GÜNEY ÇELİK KELEŞ",
+      "minute": 77,
+      "minute_text": "77. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "GMG KASTAMONUSPOR",
+      "player_out": "MEHMET BEKTAŞ",
+      "player_in": "MUSTAFA ALPTEKİN ÇAYLI",
+      "minute": 80,
+      "minute_text": "80. dk"
+    },
+    {
+      "type": "card",
+      "team": "GMG KASTAMONUSPOR",
+      "player": "ERMAN BULUCU",
+      "minute": 84,
+      "minute_text": "84. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "OĞUZ HAN AYNAOĞLU",
+      "player_in": "EMİRHAN ÇAKIR",
+      "minute": 89,
+      "minute_text": "89. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "GMG KASTAMONUSPOR",
+      "player_out": "ERGİN KELEŞ",
+      "player_in": "BERKAN BURAK TURAN",
+      "minute": 90.2,
+      "minute_text": "90+2. dk"
+    },
+    {
+      "type": "card",
+      "team": "GMG KASTAMONUSPOR",
+      "player": "HAKAN OLKAN",
+      "minute": 90.4,
+      "minute_text": "90+4. dk"
+    }
+  ],
+  "dataQuality": {
+    "lineupsAvailable": true,
+    "eventsAvailable": true,
+    "sourceType": "tff_detail_page"
+  }
+}

@@ -10,7 +10,8 @@
       "SÖKE 1970 SPOR KULÜBÜ",
       "Balıkesirspor",
       "285615",
-      "1. Hafta"
+      "1. Hafta",
+      "2025-2026"
     ]
   },
   {
@@ -24,7 +25,23 @@
       "Balıkesirspor",
       "TİRE 2021 FUTBOL KULÜBÜ",
       "285620",
-      "2. Hafta"
+      "2. Hafta",
+      "2025-2026"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "305262",
+    "season": "2025-2026",
+    "title": "Balıkesirspor - YALOVA FK 77 SPOR KULÜBÜ",
+    "subtitle": "17.09.2025 - 19:00 · 1-2",
+    "url": "seasons/2025-2026/matches/305262.json",
+    "tokens": [
+      "Balıkesirspor",
+      "YALOVA FK 77 SPOR KULÜBÜ",
+      "305262",
+      "3. Maç",
+      "2025-2026"
     ]
   },
   {
@@ -38,7 +55,8 @@
       "KARŞIYAKA",
       "Balıkesirspor",
       "285632",
-      "3. Hafta"
+      "3. Hafta",
+      "2025-2026"
     ]
   },
   {
@@ -52,7 +70,8 @@
       "Balıkesirspor",
       "KÜTAHYASPOR FUTBOL SPOR KULÜBÜ",
       "285636",
-      "4. Hafta"
+      "4. Hafta",
+      "2025-2026"
     ]
   },
   {
@@ -66,7 +85,8 @@
       "Balıkesirspor",
       "AFYONSPOR KULÜBÜ",
       "285649",
-      "5. Hafta"
+      "5. Hafta",
+      "2025-2026"
     ]
   },
   {
@@ -80,7 +100,8 @@
       "ALANYA 1221 FUTBOL SPOR KULÜBÜ",
       "Balıkesirspor",
       "285653",
-      "6. Hafta"
+      "6. Hafta",
+      "2025-2026"
     ]
   },
   {
@@ -94,7 +115,8 @@
       "Balıkesirspor",
       "ESKİŞEHİR ANADOLU SPOR FAALİYETLERİ A.Ş.",
       "285664",
-      "7. Hafta"
+      "7. Hafta",
+      "2025-2026"
     ]
   },
   {
@@ -108,7 +130,8 @@
       "İZMİR ÇORUHLU FUTBOL KULÜBÜ A.Ş.",
       "Balıkesirspor",
       "285671",
-      "8. Hafta"
+      "8. Hafta",
+      "2025-2026"
     ]
   },
   {
@@ -122,7 +145,8 @@
       "Balıkesirspor",
       "NAZİLLİ SPOR A.Ş.",
       "285679",
-      "9. Hafta"
+      "9. Hafta",
+      "2025-2026"
     ]
   },
   {
@@ -136,7 +160,8 @@
       "ALTAY",
       "Balıkesirspor",
       "285682",
-      "10. Hafta"
+      "10. Hafta",
+      "2025-2026"
     ]
   },
   {
@@ -150,7 +175,8 @@
       "Balıkesirspor",
       "OKTAŞ UŞAK SPOR A.Ş.",
       "285694",
-      "11. Hafta"
+      "11. Hafta",
+      "2025-2026"
     ]
   },
   {
@@ -164,7 +190,8 @@
       "AYVALIKGÜCÜ BELEDİYESPOR",
       "Balıkesirspor",
       "285700",
-      "12. Hafta"
+      "12. Hafta",
+      "2025-2026"
     ]
   },
   {
@@ -178,7 +205,8 @@
       "Balıkesirspor",
       "DENİZLİ İDMANYURDU GÜRELLER SPOR KULÜBÜ",
       "285709",
-      "13. Hafta"
+      "13. Hafta",
+      "2025-2026"
     ]
   },
   {
@@ -192,7 +220,8 @@
       "ESKİŞEHİRSPOR KULÜBÜ",
       "Balıkesirspor",
       "285718",
-      "14. Hafta"
+      "14. Hafta",
+      "2025-2026"
     ]
   },
   {
@@ -206,7 +235,8 @@
       "Balıkesirspor",
       "BORNOVA 1877 SPORTİF YATIRIMLAR A.Ş.",
       "285724",
-      "15. Hafta"
+      "15. Hafta",
+      "2025-2026"
     ]
   },
   {
@@ -220,7 +250,8 @@
       "Balıkesirspor",
       "SÖKE 1970 SPOR KULÜBÜ",
       "285735",
-      "16. Hafta"
+      "16. Hafta",
+      "2025-2026"
     ]
   },
   {
@@ -234,7 +265,8 @@
       "TİRE 2021 FUTBOL KULÜBÜ",
       "Balıkesirspor",
       "285740",
-      "17. Hafta"
+      "17. Hafta",
+      "2025-2026"
     ]
   },
   {
@@ -248,7 +280,8 @@
       "Balıkesirspor",
       "KARŞIYAKA",
       "285752",
-      "18. Hafta"
+      "18. Hafta",
+      "2025-2026"
     ]
   },
   {
@@ -262,7 +295,8 @@
       "KÜTAHYASPOR FUTBOL SPOR KULÜBÜ",
       "Balıkesirspor",
       "285756",
-      "19. Hafta"
+      "19. Hafta",
+      "2025-2026"
     ]
   },
   {
@@ -276,7 +310,8 @@
       "AFYONSPOR KULÜBÜ",
       "Balıkesirspor",
       "285769",
-      "20. Hafta"
+      "20. Hafta",
+      "2025-2026"
     ]
   },
   {
@@ -290,7 +325,8 @@
       "Balıkesirspor",
       "ALANYA 1221 FUTBOL SPOR KULÜBÜ",
       "285773",
-      "21. Hafta"
+      "21. Hafta",
+      "2025-2026"
     ]
   },
   {
@@ -304,7 +340,8 @@
       "ESKİŞEHİR ANADOLU SPOR FAALİYETLERİ A.Ş.",
       "Balıkesirspor",
       "285784",
-      "22. Hafta"
+      "22. Hafta",
+      "2025-2026"
     ]
   },
   {
@@ -318,7 +355,8 @@
       "Balıkesirspor",
       "İZMİR ÇORUHLU FUTBOL KULÜBÜ A.Ş.",
       "285791",
-      "23. Hafta"
+      "23. Hafta",
+      "2025-2026"
     ]
   },
   {
@@ -332,7 +370,8 @@
       "NAZİLLİ SPOR A.Ş.",
       "Balıkesirspor",
       "285799",
-      "24. Hafta"
+      "24. Hafta",
+      "2025-2026"
     ]
   },
   {
@@ -346,7 +385,8 @@
       "Balıkesirspor",
       "ALTAY",
       "285802",
-      "25. Hafta"
+      "25. Hafta",
+      "2025-2026"
     ]
   },
   {
@@ -360,7 +400,8 @@
       "OKTAŞ UŞAK SPOR A.Ş.",
       "Balıkesirspor",
       "285814",
-      "26. Hafta"
+      "26. Hafta",
+      "2025-2026"
     ]
   },
   {
@@ -374,7 +415,8 @@
       "Balıkesirspor",
       "AYVALIKGÜCÜ BELEDİYESPOR",
       "285820",
-      "27. Hafta"
+      "27. Hafta",
+      "2025-2026"
     ]
   },
   {
@@ -388,7 +430,8 @@
       "DENİZLİ İDMANYURDU 1959 SPOR KULÜBÜ",
       "Balıkesirspor",
       "285829",
-      "28. Hafta"
+      "28. Hafta",
+      "2025-2026"
     ]
   },
   {
@@ -402,7 +445,8 @@
       "Balıkesirspor",
       "ESKİŞEHİRSPOR KULÜBÜ",
       "285838",
-      "29. Hafta"
+      "29. Hafta",
+      "2025-2026"
     ]
   },
   {
@@ -416,7 +460,8 @@
       "BORNOVA 1877 SPORTİF YATIRIMLAR A.Ş.",
       "Balıkesirspor",
       "285844",
-      "30. Hafta"
+      "30. Hafta",
+      "2025-2026"
     ]
   },
   {
@@ -430,7 +475,8 @@
       "Balıkesirspor",
       "ESKİŞEHİRSPOR KULÜBÜ",
       "316898",
-      "1.Tur Maçları"
+      "1.Tur Maçları",
+      "2025-2026"
     ]
   },
   {
@@ -444,7 +490,4402 @@
       "ESKİŞEHİRSPOR KULÜBÜ",
       "Balıkesirspor",
       "316899",
-      "1.Tur Maçları"
+      "1.Tur Maçları",
+      "2025-2026"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "48601",
+    "season": "1994-1995",
+    "title": "Balıkesirspor - MUĞLASPOR",
+    "subtitle": "6.11.1994 - 14:00 · 0-3",
+    "url": "seasons/1994-1995/matches/48601.json",
+    "tokens": [
+      "Balıkesirspor",
+      "MUĞLASPOR",
+      "48601",
+      "1. Maç",
+      "1994-1995"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "54225",
+    "season": "1992-1993",
+    "title": "Balıkesirspor - MUĞLASPOR",
+    "subtitle": "9.09.1992 - 16:30 · 3-2",
+    "url": "seasons/1992-1993/matches/54225.json",
+    "tokens": [
+      "Balıkesirspor",
+      "MUĞLASPOR",
+      "54225",
+      "1. Maç",
+      "1992-1993"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "58121",
+    "season": "1991-1992",
+    "title": "Balıkesirspor - BURHANIYESPOR",
+    "subtitle": "15.09.1991 - 15:30 · 9-1",
+    "url": "seasons/1991-1992/matches/58121.json",
+    "tokens": [
+      "Balıkesirspor",
+      "BURHANIYESPOR",
+      "58121",
+      "1. Maç",
+      "1991-1992"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "63715",
+    "season": "1990-1991",
+    "title": "EDREMITSPOR - Balıkesirspor",
+    "subtitle": "11.11.1990 - 13:00 · 1-0",
+    "url": "seasons/1990-1991/matches/63715.json",
+    "tokens": [
+      "EDREMITSPOR",
+      "Balıkesirspor",
+      "63715",
+      "1. Maç",
+      "1990-1991"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "65773",
+    "season": "1990-1991",
+    "title": "Balıkesirspor - THY",
+    "subtitle": "28.04.1991 - 15:00 · 0-1",
+    "url": "seasons/1990-1991/matches/65773.json",
+    "tokens": [
+      "Balıkesirspor",
+      "THY",
+      "65773",
+      "2. Maç",
+      "1990-1991"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "81237",
+    "season": "2009-2010",
+    "title": "Balıkesirspor - ALİBEYKÖY",
+    "subtitle": "25.11.2009 - 13:30 · 2-0",
+    "url": "seasons/2009-2010/matches/81237.json",
+    "tokens": [
+      "Balıkesirspor",
+      "ALİBEYKÖY",
+      "81237",
+      "1. Maç",
+      "2009-2010"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "235935",
+    "season": "2022-2023",
+    "title": "İSKENDERUNSPOR A.Ş. - Balıkesirspor",
+    "subtitle": "28.08.2022 - 20:00 · 1-0",
+    "url": "seasons/2022-2023/matches/235935.json",
+    "tokens": [
+      "İSKENDERUNSPOR A.Ş.",
+      "Balıkesirspor",
+      "235935",
+      "1. Maç",
+      "2022-2023"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "235948",
+    "season": "2022-2023",
+    "title": "Balıkesirspor - DİYARBEKİR SPOR A.Ş.",
+    "subtitle": "4.09.2022 - 20:00 · 4-2",
+    "url": "seasons/2022-2023/matches/235948.json",
+    "tokens": [
+      "Balıkesirspor",
+      "DİYARBEKİR SPOR A.Ş.",
+      "235948",
+      "2. Maç",
+      "2022-2023"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "235956",
+    "season": "2022-2023",
+    "title": "TECO KARACABEY BELEDİYE SPOR A.Ş. - Balıkesirspor",
+    "subtitle": "10.09.2022 - 19:00 · 1-1",
+    "url": "seasons/2022-2023/matches/235956.json",
+    "tokens": [
+      "TECO KARACABEY BELEDİYE SPOR A.Ş.",
+      "Balıkesirspor",
+      "235956",
+      "3. Maç",
+      "2022-2023"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "235968",
+    "season": "2022-2023",
+    "title": "Balıkesirspor - ETİMESGUT BELEDİYESPOR",
+    "subtitle": "14.09.2022 - 19:00 · 0-3",
+    "url": "seasons/2022-2023/matches/235968.json",
+    "tokens": [
+      "Balıkesirspor",
+      "ETİMESGUT BELEDİYESPOR",
+      "235968",
+      "4. Maç",
+      "2022-2023"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "235977",
+    "season": "2022-2023",
+    "title": "GMG KASTAMONUSPOR - Balıkesirspor",
+    "subtitle": "18.09.2022 - 15:30 · 1-0",
+    "url": "seasons/2022-2023/matches/235977.json",
+    "tokens": [
+      "GMG KASTAMONUSPOR",
+      "Balıkesirspor",
+      "235977",
+      "5. Maç",
+      "2022-2023"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "235988",
+    "season": "2022-2023",
+    "title": "Balıkesirspor - ANKARA DEMİRSPOR",
+    "subtitle": "24.09.2022 - 19:00 · 0-2",
+    "url": "seasons/2022-2023/matches/235988.json",
+    "tokens": [
+      "Balıkesirspor",
+      "ANKARA DEMİRSPOR",
+      "235988",
+      "6. Maç",
+      "2022-2023"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "235998",
+    "season": "2022-2023",
+    "title": "KOCAELİSPOR - Balıkesirspor",
+    "subtitle": "1.10.2022 - 15:30 · 3-0",
+    "url": "seasons/2022-2023/matches/235998.json",
+    "tokens": [
+      "KOCAELİSPOR",
+      "Balıkesirspor",
+      "235998",
+      "7. Maç",
+      "2022-2023"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "236008",
+    "season": "2022-2023",
+    "title": "Balıkesirspor - KIRŞEHİR FUTBOL SPOR KULÜBÜ",
+    "subtitle": "5.10.2022 - 19:00 · 1-0",
+    "url": "seasons/2022-2023/matches/236008.json",
+    "tokens": [
+      "Balıkesirspor",
+      "KIRŞEHİR FUTBOL SPOR KULÜBÜ",
+      "236008",
+      "8. Maç",
+      "2022-2023"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "236019",
+    "season": "2022-2023",
+    "title": "SERİK BELEDİYESPOR - Balıkesirspor",
+    "subtitle": "9.10.2022 - 15:00 · 1-0",
+    "url": "seasons/2022-2023/matches/236019.json",
+    "tokens": [
+      "SERİK BELEDİYESPOR",
+      "Balıkesirspor",
+      "236019",
+      "9. Maç",
+      "2022-2023"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "236028",
+    "season": "2022-2023",
+    "title": "Balıkesirspor - SARIYER",
+    "subtitle": "15.10.2022 - 19:00 · 1-1",
+    "url": "seasons/2022-2023/matches/236028.json",
+    "tokens": [
+      "Balıkesirspor",
+      "SARIYER",
+      "236028",
+      "10. Maç",
+      "2022-2023"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "236040",
+    "season": "2022-2023",
+    "title": "BUCASPOR 1928 - Balıkesirspor",
+    "subtitle": "23.10.2022 - 19:00 · 2-0",
+    "url": "seasons/2022-2023/matches/236040.json",
+    "tokens": [
+      "BUCASPOR 1928",
+      "Balıkesirspor",
+      "236040",
+      "11. Maç",
+      "2022-2023"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "236048",
+    "season": "2022-2023",
+    "title": "Balıkesirspor - UŞAK SPOR A.Ş.",
+    "subtitle": "30.10.2022 - 19:00 · 0-1",
+    "url": "seasons/2022-2023/matches/236048.json",
+    "tokens": [
+      "Balıkesirspor",
+      "UŞAK SPOR A.Ş.",
+      "236048",
+      "12. Maç",
+      "2022-2023"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "236061",
+    "season": "2022-2023",
+    "title": "Balıkesirspor - WEECOINS KIRKLARELİSPOR",
+    "subtitle": "5.11.2022 - 14:00 · 1-1",
+    "url": "seasons/2022-2023/matches/236061.json",
+    "tokens": [
+      "Balıkesirspor",
+      "WEECOINS KIRKLARELİSPOR",
+      "236061",
+      "13. Maç",
+      "2022-2023"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "236069",
+    "season": "2022-2023",
+    "title": "PAZARSPOR - Balıkesirspor",
+    "subtitle": "13.11.2022 - 14:00 · 0-1",
+    "url": "seasons/2022-2023/matches/236069.json",
+    "tokens": [
+      "PAZARSPOR",
+      "Balıkesirspor",
+      "236069",
+      "14. Maç",
+      "2022-2023"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "236080",
+    "season": "2022-2023",
+    "title": "Balıkesirspor - FETHİYESPOR",
+    "subtitle": "20.11.2022 - 14:00 · 2-0",
+    "url": "seasons/2022-2023/matches/236080.json",
+    "tokens": [
+      "Balıkesirspor",
+      "FETHİYESPOR",
+      "236080",
+      "15. Maç",
+      "2022-2023"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "235732",
+    "season": "2022-2023",
+    "title": "1461 TRABZON FK - Balıkesirspor",
+    "subtitle": "27.11.2022 - 14:00 · 2-1",
+    "url": "seasons/2022-2023/matches/235732.json",
+    "tokens": [
+      "1461 TRABZON FK",
+      "Balıkesirspor",
+      "235732",
+      "16. Maç",
+      "2022-2023"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "235749",
+    "season": "2022-2023",
+    "title": "Balıkesirspor - ADIYAMAN FUTBOL KULÜBÜ A.Ş.",
+    "subtitle": "4.12.2022 - 14:00 · 1-1",
+    "url": "seasons/2022-2023/matches/235749.json",
+    "tokens": [
+      "Balıkesirspor",
+      "ADIYAMAN FUTBOL KULÜBÜ A.Ş.",
+      "235749",
+      "17. Maç",
+      "2022-2023"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "235754",
+    "season": "2022-2023",
+    "title": "ZONGULDAK KÖMÜRSPOR A.Ş - Balıkesirspor",
+    "subtitle": "11.12.2022 - 14:00 · 2-0",
+    "url": "seasons/2022-2023/matches/235754.json",
+    "tokens": [
+      "ZONGULDAK KÖMÜRSPOR A.Ş",
+      "Balıkesirspor",
+      "235754",
+      "18. Maç",
+      "2022-2023"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "235768",
+    "season": "2022-2023",
+    "title": "Balıkesirspor - BITEXEN VAN SPOR FK",
+    "subtitle": "18.12.2022 - 14:00 · 0-3",
+    "url": "seasons/2022-2023/matches/235768.json",
+    "tokens": [
+      "Balıkesirspor",
+      "BITEXEN VAN SPOR FK",
+      "235768",
+      "19. Maç",
+      "2022-2023"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "235775",
+    "season": "2022-2023",
+    "title": "Balıkesirspor - İSKENDERUNSPOR A.Ş.",
+    "subtitle": "15.01.2023 - 14:00 · 2-2",
+    "url": "seasons/2022-2023/matches/235775.json",
+    "tokens": [
+      "Balıkesirspor",
+      "İSKENDERUNSPOR A.Ş.",
+      "235775",
+      "20. Maç",
+      "2022-2023"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "235788",
+    "season": "2022-2023",
+    "title": "DİYARBEKİR SPOR A.Ş. - Balıkesirspor",
+    "subtitle": "22.01.2023 - 14:00 · 1-0",
+    "url": "seasons/2022-2023/matches/235788.json",
+    "tokens": [
+      "DİYARBEKİR SPOR A.Ş.",
+      "Balıkesirspor",
+      "235788",
+      "21. Maç",
+      "2022-2023"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "235796",
+    "season": "2022-2023",
+    "title": "Balıkesirspor - TECO KARACABEY BELEDİYE SPOR A.Ş.",
+    "subtitle": "29.01.2023 - 14:00 · 0-2",
+    "url": "seasons/2022-2023/matches/235796.json",
+    "tokens": [
+      "Balıkesirspor",
+      "TECO KARACABEY BELEDİYE SPOR A.Ş.",
+      "235796",
+      "22. Maç",
+      "2022-2023"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "235808",
+    "season": "2022-2023",
+    "title": "ETİMESGUT BELEDİYESPOR - Balıkesirspor",
+    "subtitle": "4.02.2023 - 14:00 · 1-1",
+    "url": "seasons/2022-2023/matches/235808.json",
+    "tokens": [
+      "ETİMESGUT BELEDİYESPOR",
+      "Balıkesirspor",
+      "235808",
+      "23. Maç",
+      "2022-2023"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "235828",
+    "season": "2022-2023",
+    "title": "ANKARA DEMİRSPOR - Balıkesirspor",
+    "subtitle": "5.03.2023 - 14:00 · 3-1",
+    "url": "seasons/2022-2023/matches/235828.json",
+    "tokens": [
+      "ANKARA DEMİRSPOR",
+      "Balıkesirspor",
+      "235828",
+      "24. Maç",
+      "2022-2023"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "235838",
+    "season": "2022-2023",
+    "title": "Balıkesirspor - KOCAELİSPOR",
+    "subtitle": "11.03.2023 - 14:00 · 1-6",
+    "url": "seasons/2022-2023/matches/235838.json",
+    "tokens": [
+      "Balıkesirspor",
+      "KOCAELİSPOR",
+      "235838",
+      "25. Maç",
+      "2022-2023"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "235817",
+    "season": "2022-2023",
+    "title": "Balıkesirspor - GMG KASTAMONUSPOR",
+    "subtitle": "15.03.2023 - 14:00 · 1-1",
+    "url": "seasons/2022-2023/matches/235817.json",
+    "tokens": [
+      "Balıkesirspor",
+      "GMG KASTAMONUSPOR",
+      "235817",
+      "26. Maç",
+      "2022-2023"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "235848",
+    "season": "2022-2023",
+    "title": "KIRŞEHİR FUTBOL SPOR KULÜBÜ - Balıkesirspor",
+    "subtitle": "19.03.2023 - 14:00 · 0-0",
+    "url": "seasons/2022-2023/matches/235848.json",
+    "tokens": [
+      "KIRŞEHİR FUTBOL SPOR KULÜBÜ",
+      "Balıkesirspor",
+      "235848",
+      "27. Maç",
+      "2022-2023"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "235859",
+    "season": "2022-2023",
+    "title": "Balıkesirspor - SERİK BELEDİYESPOR",
+    "subtitle": "25.03.2023 - 14:00 · 1-4",
+    "url": "seasons/2022-2023/matches/235859.json",
+    "tokens": [
+      "Balıkesirspor",
+      "SERİK BELEDİYESPOR",
+      "235859",
+      "28. Maç",
+      "2022-2023"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "235868",
+    "season": "2022-2023",
+    "title": "SARIYER - Balıkesirspor",
+    "subtitle": "29.03.2023 - 14:00 · 2-4",
+    "url": "seasons/2022-2023/matches/235868.json",
+    "tokens": [
+      "SARIYER",
+      "Balıkesirspor",
+      "235868",
+      "29. Maç",
+      "2022-2023"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "235880",
+    "season": "2022-2023",
+    "title": "Balıkesirspor - BUCASPOR 1928",
+    "subtitle": "2.04.2023 - 15:00 · 0-3",
+    "url": "seasons/2022-2023/matches/235880.json",
+    "tokens": [
+      "Balıkesirspor",
+      "BUCASPOR 1928",
+      "235880",
+      "30. Maç",
+      "2022-2023"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "235888",
+    "season": "2022-2023",
+    "title": "AFC KABLO KANALLARI UŞAK SPOR A.Ş. - Balıkesirspor",
+    "subtitle": "9.04.2023 - 15:00 · 2-0",
+    "url": "seasons/2022-2023/matches/235888.json",
+    "tokens": [
+      "AFC KABLO KANALLARI UŞAK SPOR A.Ş.",
+      "Balıkesirspor",
+      "235888",
+      "31. Maç",
+      "2022-2023"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "235901",
+    "season": "2022-2023",
+    "title": "WEECOINS KIRKLARELİSPOR - Balıkesirspor",
+    "subtitle": "15.04.2023 - 15:00 · 0-0",
+    "url": "seasons/2022-2023/matches/235901.json",
+    "tokens": [
+      "WEECOINS KIRKLARELİSPOR",
+      "Balıkesirspor",
+      "235901",
+      "32. Maç",
+      "2022-2023"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "235909",
+    "season": "2022-2023",
+    "title": "Balıkesirspor - PAZARSPOR",
+    "subtitle": "19.04.2023 - 15:00 · 0-2",
+    "url": "seasons/2022-2023/matches/235909.json",
+    "tokens": [
+      "Balıkesirspor",
+      "PAZARSPOR",
+      "235909",
+      "33. Maç",
+      "2022-2023"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "235920",
+    "season": "2022-2023",
+    "title": "FETHİYESPOR - Balıkesirspor",
+    "subtitle": "23.04.2023 - 15:00 · 7-1",
+    "url": "seasons/2022-2023/matches/235920.json",
+    "tokens": [
+      "FETHİYESPOR",
+      "Balıkesirspor",
+      "235920",
+      "34. Maç",
+      "2022-2023"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "235922",
+    "season": "2022-2023",
+    "title": "Balıkesirspor - 1461 TRABZON FK",
+    "subtitle": "30.04.2023 - 15:00 · 1-2",
+    "url": "seasons/2022-2023/matches/235922.json",
+    "tokens": [
+      "Balıkesirspor",
+      "1461 TRABZON FK",
+      "235922",
+      "35. Maç",
+      "2022-2023"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "236094",
+    "season": "2022-2023",
+    "title": "Balıkesirspor - ZONGULDAK KÖMÜRSPOR A.Ş",
+    "subtitle": "16.05.2023 - 15:00 · 3-3",
+    "url": "seasons/2022-2023/matches/236094.json",
+    "tokens": [
+      "Balıkesirspor",
+      "ZONGULDAK KÖMÜRSPOR A.Ş",
+      "236094",
+      "36. Maç",
+      "2022-2023"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "236108",
+    "season": "2022-2023",
+    "title": "BITEXEN VAN SPOR FK - Balıkesirspor",
+    "subtitle": "20.05.2023 - 15:00 · 8-0",
+    "url": "seasons/2022-2023/matches/236108.json",
+    "tokens": [
+      "BITEXEN VAN SPOR FK",
+      "Balıkesirspor",
+      "236108",
+      "37. Maç",
+      "2022-2023"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "251165",
+    "season": "2023-2024",
+    "title": "BURSA YILDIRIM SPOR - Balıkesirspor",
+    "subtitle": "9.09.2023 - 16:30 · 2-1",
+    "url": "seasons/2023-2024/matches/251165.json",
+    "tokens": [
+      "BURSA YILDIRIM SPOR",
+      "Balıkesirspor",
+      "251165",
+      "1. Maç",
+      "2023-2024"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "251172",
+    "season": "2023-2024",
+    "title": "Balıkesirspor - ÇATALCASPOR",
+    "subtitle": "17.09.2023 - 19:00 · 1-1",
+    "url": "seasons/2023-2024/matches/251172.json",
+    "tokens": [
+      "Balıkesirspor",
+      "ÇATALCASPOR",
+      "251172",
+      "2. Maç",
+      "2023-2024"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "251180",
+    "season": "2023-2024",
+    "title": "NEVŞEHİR BELEDİYE SPOR - Balıkesirspor",
+    "subtitle": "23.09.2023 - 15:30 · 0-1",
+    "url": "seasons/2023-2024/matches/251180.json",
+    "tokens": [
+      "NEVŞEHİR BELEDİYE SPOR",
+      "Balıkesirspor",
+      "251180",
+      "3. Maç",
+      "2023-2024"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "251186",
+    "season": "2023-2024",
+    "title": "Balıkesirspor - 23 ELAZIĞ FUTBOL KULÜBÜ",
+    "subtitle": "1.10.2023 - 19:00 · 0-0",
+    "url": "seasons/2023-2024/matches/251186.json",
+    "tokens": [
+      "Balıkesirspor",
+      "23 ELAZIĞ FUTBOL KULÜBÜ",
+      "251186",
+      "4. Maç",
+      "2023-2024"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "251195",
+    "season": "2023-2024",
+    "title": "MUŞ 1984 MUŞSPOR - Balıkesirspor",
+    "subtitle": "8.10.2023 - 14:30 · 2-0",
+    "url": "seasons/2023-2024/matches/251195.json",
+    "tokens": [
+      "MUŞ 1984 MUŞSPOR",
+      "Balıkesirspor",
+      "251195",
+      "5. Maç",
+      "2023-2024"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "251200",
+    "season": "2023-2024",
+    "title": "Balıkesirspor - ARMONİ ALANYA KESTELSPOR",
+    "subtitle": "15.10.2023 - 19:00 · 0-0",
+    "url": "seasons/2023-2024/matches/251200.json",
+    "tokens": [
+      "Balıkesirspor",
+      "ARMONİ ALANYA KESTELSPOR",
+      "251200",
+      "6. Maç",
+      "2023-2024"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "251210",
+    "season": "2023-2024",
+    "title": "ORDUSPOR 1967 A.Ş. - Balıkesirspor",
+    "subtitle": "21.10.2023 - 18:00 · 4-0",
+    "url": "seasons/2023-2024/matches/251210.json",
+    "tokens": [
+      "ORDUSPOR 1967 A.Ş.",
+      "Balıkesirspor",
+      "251210",
+      "7. Maç",
+      "2023-2024"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "251214",
+    "season": "2023-2024",
+    "title": "Balıkesirspor - SİİRT İL ÖZEL İDARESİ SPOR",
+    "subtitle": "28.10.2023 - 14:00 · 1-1",
+    "url": "seasons/2023-2024/matches/251214.json",
+    "tokens": [
+      "Balıkesirspor",
+      "SİİRT İL ÖZEL İDARESİ SPOR",
+      "251214",
+      "8. Maç",
+      "2023-2024"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "251225",
+    "season": "2023-2024",
+    "title": "SULTANBEYLİ BELEDİYE SPOR - Balıkesirspor",
+    "subtitle": "5.11.2023 - 14:00 · 3-2",
+    "url": "seasons/2023-2024/matches/251225.json",
+    "tokens": [
+      "SULTANBEYLİ BELEDİYE SPOR",
+      "Balıkesirspor",
+      "251225",
+      "9. Maç",
+      "2023-2024"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "251228",
+    "season": "2023-2024",
+    "title": "Balıkesirspor - GÜNEŞ HOLDİNG ÇANKAYA SPOR KULÜBÜ",
+    "subtitle": "12.11.2023 - 14:00 · 2-1",
+    "url": "seasons/2023-2024/matches/251228.json",
+    "tokens": [
+      "Balıkesirspor",
+      "GÜNEŞ HOLDİNG ÇANKAYA SPOR KULÜBÜ",
+      "251228",
+      "10. Maç",
+      "2023-2024"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "251240",
+    "season": "2023-2024",
+    "title": "SEBAT GENÇLİK SPOR - Balıkesirspor",
+    "subtitle": "19.11.2023 - 14:00 · 2-0",
+    "url": "seasons/2023-2024/matches/251240.json",
+    "tokens": [
+      "SEBAT GENÇLİK SPOR",
+      "Balıkesirspor",
+      "251240",
+      "11. Maç",
+      "2023-2024"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "251242",
+    "season": "2023-2024",
+    "title": "Balıkesirspor - BITEXEN ADANA 1954 FUTBOL KULÜBÜ",
+    "subtitle": "26.11.2023 - 14:00 · 0-0",
+    "url": "seasons/2023-2024/matches/251242.json",
+    "tokens": [
+      "Balıkesirspor",
+      "BITEXEN ADANA 1954 FUTBOL KULÜBÜ",
+      "251242",
+      "12. Maç",
+      "2023-2024"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "251255",
+    "season": "2023-2024",
+    "title": "TOKAT BELEDİYE PLEVNE SPOR - Balıkesirspor",
+    "subtitle": "2.12.2023 - 14:00 · 1-1",
+    "url": "seasons/2023-2024/matches/251255.json",
+    "tokens": [
+      "TOKAT BELEDİYE PLEVNE SPOR",
+      "Balıkesirspor",
+      "251255",
+      "13. Maç",
+      "2023-2024"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "251256",
+    "season": "2023-2024",
+    "title": "Balıkesirspor - BERGAMA SPORTİF FAALİYETLER A.Ş",
+    "subtitle": "10.12.2023 - 14:00 · 2-2",
+    "url": "seasons/2023-2024/matches/251256.json",
+    "tokens": [
+      "Balıkesirspor",
+      "BERGAMA SPORTİF FAALİYETLER A.Ş",
+      "251256",
+      "14. Maç",
+      "2023-2024"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "251270",
+    "season": "2023-2024",
+    "title": "Balıkesirspor - BURSA YILDIRIM SPOR",
+    "subtitle": "21.01.2024 - 14:00 · 1-0",
+    "url": "seasons/2023-2024/matches/251270.json",
+    "tokens": [
+      "Balıkesirspor",
+      "BURSA YILDIRIM SPOR",
+      "251270",
+      "15. Maç",
+      "2023-2024"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "251277",
+    "season": "2023-2024",
+    "title": "İDAŞ ÇATALCASPOR - Balıkesirspor",
+    "subtitle": "28.01.2024 - 14:00 · 1-1",
+    "url": "seasons/2023-2024/matches/251277.json",
+    "tokens": [
+      "İDAŞ ÇATALCASPOR",
+      "Balıkesirspor",
+      "251277",
+      "16. Maç",
+      "2023-2024"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "251285",
+    "season": "2023-2024",
+    "title": "Balıkesirspor - NEVŞEHİR BELEDİYE SPOR",
+    "subtitle": "4.02.2024 - 14:00 · 2-0",
+    "url": "seasons/2023-2024/matches/251285.json",
+    "tokens": [
+      "Balıkesirspor",
+      "NEVŞEHİR BELEDİYE SPOR",
+      "251285",
+      "17. Maç",
+      "2023-2024"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "251291",
+    "season": "2023-2024",
+    "title": "23 ELAZIĞ FUTBOL KULÜBÜ - Balıkesirspor",
+    "subtitle": "11.02.2024 - 14:00 · 1-0",
+    "url": "seasons/2023-2024/matches/251291.json",
+    "tokens": [
+      "23 ELAZIĞ FUTBOL KULÜBÜ",
+      "Balıkesirspor",
+      "251291",
+      "18. Maç",
+      "2023-2024"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "251300",
+    "season": "2023-2024",
+    "title": "Balıkesirspor - MUŞ 1984 MUŞSPOR",
+    "subtitle": "18.02.2024 - 14:00 · 0-0",
+    "url": "seasons/2023-2024/matches/251300.json",
+    "tokens": [
+      "Balıkesirspor",
+      "MUŞ 1984 MUŞSPOR",
+      "251300",
+      "19. Maç",
+      "2023-2024"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "251305",
+    "season": "2023-2024",
+    "title": "ARMONİ ALANYA KESTELSPOR - Balıkesirspor",
+    "subtitle": "25.02.2024 - 14:00 · 0-3",
+    "url": "seasons/2023-2024/matches/251305.json",
+    "tokens": [
+      "ARMONİ ALANYA KESTELSPOR",
+      "Balıkesirspor",
+      "251305",
+      "20. Maç",
+      "2023-2024"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "251315",
+    "season": "2023-2024",
+    "title": "Balıkesirspor - ORDUSPOR 1967 A.Ş.",
+    "subtitle": "3.03.2024 - 14:00 · 1-4",
+    "url": "seasons/2023-2024/matches/251315.json",
+    "tokens": [
+      "Balıkesirspor",
+      "ORDUSPOR 1967 A.Ş.",
+      "251315",
+      "21. Maç",
+      "2023-2024"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "251319",
+    "season": "2023-2024",
+    "title": "SİİRT İL ÖZEL İDARESİ SPOR - Balıkesirspor",
+    "subtitle": "10.03.2024 - 14:00 · 0-1",
+    "url": "seasons/2023-2024/matches/251319.json",
+    "tokens": [
+      "SİİRT İL ÖZEL İDARESİ SPOR",
+      "Balıkesirspor",
+      "251319",
+      "22. Maç",
+      "2023-2024"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "251330",
+    "season": "2023-2024",
+    "title": "Balıkesirspor - SULTANBEYLİ BELEDİYE SPOR",
+    "subtitle": "17.03.2024 - 14:00 · 1-1",
+    "url": "seasons/2023-2024/matches/251330.json",
+    "tokens": [
+      "Balıkesirspor",
+      "SULTANBEYLİ BELEDİYE SPOR",
+      "251330",
+      "23. Maç",
+      "2023-2024"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "251333",
+    "season": "2023-2024",
+    "title": "GÜNEŞ HOLDİNG ÇANKAYA SPOR KULÜBÜ - Balıkesirspor",
+    "subtitle": "24.03.2024 - 14:00 · 0-0",
+    "url": "seasons/2023-2024/matches/251333.json",
+    "tokens": [
+      "GÜNEŞ HOLDİNG ÇANKAYA SPOR KULÜBÜ",
+      "Balıkesirspor",
+      "251333",
+      "24. Maç",
+      "2023-2024"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "251345",
+    "season": "2023-2024",
+    "title": "Balıkesirspor - SEBAT GENÇLİK SPOR",
+    "subtitle": "3.04.2024 - 15:00 · 4-1",
+    "url": "seasons/2023-2024/matches/251345.json",
+    "tokens": [
+      "Balıkesirspor",
+      "SEBAT GENÇLİK SPOR",
+      "251345",
+      "25. Maç",
+      "2023-2024"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "251347",
+    "season": "2023-2024",
+    "title": "BITEXEN ADANA 1954 FUTBOL KULÜBÜ - Balıkesirspor",
+    "subtitle": "7.04.2024 - 15:00 · 2-1",
+    "url": "seasons/2023-2024/matches/251347.json",
+    "tokens": [
+      "BITEXEN ADANA 1954 FUTBOL KULÜBÜ",
+      "Balıkesirspor",
+      "251347",
+      "26. Maç",
+      "2023-2024"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "251360",
+    "season": "2023-2024",
+    "title": "Balıkesirspor - TOKAT BELEDİYE PLEVNE SPOR",
+    "subtitle": "14.04.2024 - 15:00 · 1-1",
+    "url": "seasons/2023-2024/matches/251360.json",
+    "tokens": [
+      "Balıkesirspor",
+      "TOKAT BELEDİYE PLEVNE SPOR",
+      "251360",
+      "27. Maç",
+      "2023-2024"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "251361",
+    "season": "2023-2024",
+    "title": "BERGAMA SPORTİF FAALİYETLER A.Ş - Balıkesirspor",
+    "subtitle": "21.04.2024 - 15:00 · 2-1",
+    "url": "seasons/2023-2024/matches/251361.json",
+    "tokens": [
+      "BERGAMA SPORTİF FAALİYETLER A.Ş",
+      "Balıkesirspor",
+      "251361",
+      "28. Maç",
+      "2023-2024"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "265586",
+    "season": "2024-2025",
+    "title": "Balıkesirspor - FATSA BELEDİYESPOR",
+    "subtitle": "8.09.2024 - 19:00 · 4-1",
+    "url": "seasons/2024-2025/matches/265586.json",
+    "tokens": [
+      "Balıkesirspor",
+      "FATSA BELEDİYESPOR",
+      "265586",
+      "1. Maç",
+      "2024-2025"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "265594",
+    "season": "2024-2025",
+    "title": "UŞAK SPOR A.Ş. - Balıkesirspor",
+    "subtitle": "15.09.2024 - 16:30 · 0-2",
+    "url": "seasons/2024-2025/matches/265594.json",
+    "tokens": [
+      "UŞAK SPOR A.Ş.",
+      "Balıkesirspor",
+      "265594",
+      "2. Maç",
+      "2024-2025"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "265601",
+    "season": "2024-2025",
+    "title": "Balıkesirspor - ONUKSPORTS KELKİT HÜRRİYET SPOR KULÜBÜ",
+    "subtitle": "21.09.2024 - 16:30 · 0-1",
+    "url": "seasons/2024-2025/matches/265601.json",
+    "tokens": [
+      "Balıkesirspor",
+      "ONUKSPORTS KELKİT HÜRRİYET SPOR KULÜBÜ",
+      "265601",
+      "3. Maç",
+      "2024-2025"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "265612",
+    "season": "2024-2025",
+    "title": "SİLİVRİSPOR - Balıkesirspor",
+    "subtitle": "29.09.2024 - 16:00 · 1-2",
+    "url": "seasons/2024-2025/matches/265612.json",
+    "tokens": [
+      "SİLİVRİSPOR",
+      "Balıkesirspor",
+      "265612",
+      "4. Maç",
+      "2024-2025"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "265616",
+    "season": "2024-2025",
+    "title": "Balıkesirspor - MUĞLASPOR KULÜBÜ",
+    "subtitle": "5.10.2024 - 19:00 · 0-1",
+    "url": "seasons/2024-2025/matches/265616.json",
+    "tokens": [
+      "Balıkesirspor",
+      "MUĞLASPOR KULÜBÜ",
+      "265616",
+      "5. Maç",
+      "2024-2025"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "265655",
+    "season": "2024-2025",
+    "title": "AMASYASPOR FUTBOL KULÜBÜ - Balıkesirspor",
+    "subtitle": "13.10.2024 - 14:00 · 2-1",
+    "url": "seasons/2024-2025/matches/265655.json",
+    "tokens": [
+      "AMASYASPOR FUTBOL KULÜBÜ",
+      "Balıkesirspor",
+      "265655",
+      "6. Maç",
+      "2024-2025"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "265663",
+    "season": "2024-2025",
+    "title": "Balıkesirspor - SMART HOLDİNG A.Ş.ÇAYELİ SPOR",
+    "subtitle": "20.10.2024 - 19:00 · 2-1",
+    "url": "seasons/2024-2025/matches/265663.json",
+    "tokens": [
+      "Balıkesirspor",
+      "SMART HOLDİNG A.Ş.ÇAYELİ SPOR",
+      "265663",
+      "7. Maç",
+      "2024-2025"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "265673",
+    "season": "2024-2025",
+    "title": "TİRE 2021 FUTBOL KULÜBÜ - Balıkesirspor",
+    "subtitle": "26.10.2024 - 19:00 · 1-2",
+    "url": "seasons/2024-2025/matches/265673.json",
+    "tokens": [
+      "TİRE 2021 FUTBOL KULÜBÜ",
+      "Balıkesirspor",
+      "265673",
+      "8. Maç",
+      "2024-2025"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "265678",
+    "season": "2024-2025",
+    "title": "Balıkesirspor - ETİMESGUT BELEDİYESPOR",
+    "subtitle": "3.11.2024 - 14:00 · 0-0",
+    "url": "seasons/2024-2025/matches/265678.json",
+    "tokens": [
+      "Balıkesirspor",
+      "ETİMESGUT BELEDİYESPOR",
+      "265678",
+      "9. Maç",
+      "2024-2025"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "265693",
+    "season": "2024-2025",
+    "title": "ETİ GÜBRE MAZIDAĞI FOSFAT SPOR - Balıkesirspor",
+    "subtitle": "10.11.2024 - 14:00 · 1-0",
+    "url": "seasons/2024-2025/matches/265693.json",
+    "tokens": [
+      "ETİ GÜBRE MAZIDAĞI FOSFAT SPOR",
+      "Balıkesirspor",
+      "265693",
+      "10. Maç",
+      "2024-2025"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "265694",
+    "season": "2024-2025",
+    "title": "BEYKOZ İSHAKLI SPOR FAALİYETLERİ A.Ş. - Balıkesirspor",
+    "subtitle": "16.11.2024 - 14:00 · 3-3",
+    "url": "seasons/2024-2025/matches/265694.json",
+    "tokens": [
+      "BEYKOZ İSHAKLI SPOR FAALİYETLERİ A.Ş.",
+      "Balıkesirspor",
+      "265694",
+      "11. Maç",
+      "2024-2025"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "265707",
+    "season": "2024-2025",
+    "title": "Balıkesirspor - NEVŞEHİR BELEDİYE SPOR",
+    "subtitle": "23.11.2024 - 14:00 · 3-1",
+    "url": "seasons/2024-2025/matches/265707.json",
+    "tokens": [
+      "Balıkesirspor",
+      "NEVŞEHİR BELEDİYE SPOR",
+      "265707",
+      "12. Maç",
+      "2024-2025"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "265711",
+    "season": "2024-2025",
+    "title": "ADIYAMAN FUTBOL KULÜBÜ A.Ş. - Balıkesirspor",
+    "subtitle": "1.12.2024 - 14:00 · 0-5",
+    "url": "seasons/2024-2025/matches/265711.json",
+    "tokens": [
+      "ADIYAMAN FUTBOL KULÜBÜ A.Ş.",
+      "Balıkesirspor",
+      "265711",
+      "13. Maç",
+      "2024-2025"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "265723",
+    "season": "2024-2025",
+    "title": "Balıkesirspor - İNEGÖL KAFKAS SPOR KULÜBÜ",
+    "subtitle": "8.12.2024 - 14:00 · 2-0",
+    "url": "seasons/2024-2025/matches/265723.json",
+    "tokens": [
+      "Balıkesirspor",
+      "İNEGÖL KAFKAS SPOR KULÜBÜ",
+      "265723",
+      "14. Maç",
+      "2024-2025"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "265728",
+    "season": "2024-2025",
+    "title": "T.METAL 1963 SPOR - Balıkesirspor",
+    "subtitle": "15.12.2024 - 14:00 · 1-2",
+    "url": "seasons/2024-2025/matches/265728.json",
+    "tokens": [
+      "T.METAL 1963 SPOR",
+      "Balıkesirspor",
+      "265728",
+      "15. Maç",
+      "2024-2025"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "265738",
+    "season": "2024-2025",
+    "title": "FATSA BELEDİYESPOR - Balıkesirspor",
+    "subtitle": "19.01.2025 - 14:00 · 0-3",
+    "url": "seasons/2024-2025/matches/265738.json",
+    "tokens": [
+      "FATSA BELEDİYESPOR",
+      "Balıkesirspor",
+      "265738",
+      "16. Maç",
+      "2024-2025"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "265746",
+    "season": "2024-2025",
+    "title": "Balıkesirspor - UŞAK SPOR A.Ş.",
+    "subtitle": "25.01.2025 - 14:00 · 2-0",
+    "url": "seasons/2024-2025/matches/265746.json",
+    "tokens": [
+      "Balıkesirspor",
+      "UŞAK SPOR A.Ş.",
+      "265746",
+      "17. Maç",
+      "2024-2025"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "265753",
+    "season": "2024-2025",
+    "title": "ONUKSPORTS KELKİT HÜRRİYET SPOR KULÜBÜ - Balıkesirspor",
+    "subtitle": "2.02.2025 - 14:00 · 1-1",
+    "url": "seasons/2024-2025/matches/265753.json",
+    "tokens": [
+      "ONUKSPORTS KELKİT HÜRRİYET SPOR KULÜBÜ",
+      "Balıkesirspor",
+      "265753",
+      "18. Maç",
+      "2024-2025"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "265764",
+    "season": "2024-2025",
+    "title": "Balıkesirspor - SİLİVRİSPOR",
+    "subtitle": "9.02.2025 - 14:00 · 4-0",
+    "url": "seasons/2024-2025/matches/265764.json",
+    "tokens": [
+      "Balıkesirspor",
+      "SİLİVRİSPOR",
+      "265764",
+      "19. Maç",
+      "2024-2025"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "265768",
+    "season": "2024-2025",
+    "title": "MUĞLASPOR KULÜBÜ - Balıkesirspor",
+    "subtitle": "16.02.2025 - 14:00 · 2-0",
+    "url": "seasons/2024-2025/matches/265768.json",
+    "tokens": [
+      "MUĞLASPOR KULÜBÜ",
+      "Balıkesirspor",
+      "265768",
+      "20. Maç",
+      "2024-2025"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "265783",
+    "season": "2024-2025",
+    "title": "SMART HOLDİNG A.Ş.ÇAYELİ SPOR - Balıkesirspor",
+    "subtitle": "2.03.2025 - 14:00 · 0-1",
+    "url": "seasons/2024-2025/matches/265783.json",
+    "tokens": [
+      "SMART HOLDİNG A.Ş.ÇAYELİ SPOR",
+      "Balıkesirspor",
+      "265783",
+      "21. Maç",
+      "2024-2025"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "265793",
+    "season": "2024-2025",
+    "title": "Balıkesirspor - TİRE 2021 FUTBOL KULÜBÜ",
+    "subtitle": "9.03.2025 - 14:00 · 1-2",
+    "url": "seasons/2024-2025/matches/265793.json",
+    "tokens": [
+      "Balıkesirspor",
+      "TİRE 2021 FUTBOL KULÜBÜ",
+      "265793",
+      "22. Maç",
+      "2024-2025"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "265798",
+    "season": "2024-2025",
+    "title": "ETİMESGUT SPOR KULÜBÜ - Balıkesirspor",
+    "subtitle": "15.03.2025 - 14:00 · 0-1",
+    "url": "seasons/2024-2025/matches/265798.json",
+    "tokens": [
+      "ETİMESGUT SPOR KULÜBÜ",
+      "Balıkesirspor",
+      "265798",
+      "23. Maç",
+      "2024-2025"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "265813",
+    "season": "2024-2025",
+    "title": "Balıkesirspor - ETİ GÜBRE MAZIDAĞI FOSFAT SPOR",
+    "subtitle": "22.03.2025 - 14:00 · 1-2",
+    "url": "seasons/2024-2025/matches/265813.json",
+    "tokens": [
+      "Balıkesirspor",
+      "ETİ GÜBRE MAZIDAĞI FOSFAT SPOR",
+      "265813",
+      "24. Maç",
+      "2024-2025"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "265814",
+    "season": "2024-2025",
+    "title": "Balıkesirspor - BEYKOZ İSHAKLI SPOR FAALİYETLERİ A.Ş.",
+    "subtitle": "26.03.2025 - 14:00 · 3-1",
+    "url": "seasons/2024-2025/matches/265814.json",
+    "tokens": [
+      "Balıkesirspor",
+      "BEYKOZ İSHAKLI SPOR FAALİYETLERİ A.Ş.",
+      "265814",
+      "25. Maç",
+      "2024-2025"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "265775",
+    "season": "2024-2025",
+    "title": "Balıkesirspor - YURT ET AMASYASPOR FK",
+    "subtitle": "2.04.2025 - 14:00 · 1-1",
+    "url": "seasons/2024-2025/matches/265775.json",
+    "tokens": [
+      "Balıkesirspor",
+      "YURT ET AMASYASPOR FK",
+      "265775",
+      "26. Maç",
+      "2024-2025"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "265627",
+    "season": "2024-2025",
+    "title": "NEVŞEHİR BELEDİYE SPOR - Balıkesirspor",
+    "subtitle": "6.04.2025 - 15:00 · 0-5",
+    "url": "seasons/2024-2025/matches/265627.json",
+    "tokens": [
+      "NEVŞEHİR BELEDİYE SPOR",
+      "Balıkesirspor",
+      "265627",
+      "27. Maç",
+      "2024-2025"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "265643",
+    "season": "2024-2025",
+    "title": "İNEGÖL KAFKAS SPOR KULÜBÜ - Balıkesirspor",
+    "subtitle": "20.04.2025 - 15:00 · 4-0",
+    "url": "seasons/2024-2025/matches/265643.json",
+    "tokens": [
+      "İNEGÖL KAFKAS SPOR KULÜBÜ",
+      "Balıkesirspor",
+      "265643",
+      "28. Maç",
+      "2024-2025"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "265648",
+    "season": "2024-2025",
+    "title": "Balıkesirspor - T.METAL 1963 SPOR",
+    "subtitle": "26.04.2025 - 15:00 · 0-0",
+    "url": "seasons/2024-2025/matches/265648.json",
+    "tokens": [
+      "Balıkesirspor",
+      "T.METAL 1963 SPOR",
+      "265648",
+      "29. Maç",
+      "2024-2025"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "283042",
+    "season": "2024-2025",
+    "title": "ETİ GÜBRE MAZIDAĞI FOSFAT SPOR - Balıkesirspor",
+    "subtitle": "15.05.2025 - 16:00 · 0-1",
+    "url": "seasons/2024-2025/matches/283042.json",
+    "tokens": [
+      "ETİ GÜBRE MAZIDAĞI FOSFAT SPOR",
+      "Balıkesirspor",
+      "283042",
+      "30. Maç",
+      "2024-2025"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "283046",
+    "season": "2024-2025",
+    "title": "Balıkesirspor - ETİ GÜBRE MAZIDAĞI FOSFAT SPOR",
+    "subtitle": "19.05.2025 - 20:00 · 1-1",
+    "url": "seasons/2024-2025/matches/283046.json",
+    "tokens": [
+      "Balıkesirspor",
+      "ETİ GÜBRE MAZIDAĞI FOSFAT SPOR",
+      "283046",
+      "31. Maç",
+      "2024-2025"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "283311",
+    "season": "2024-2025",
+    "title": "MUŞ SPOR KULÜBÜ - Balıkesirspor",
+    "subtitle": "24.05.2025 - 20:00 · 2-0",
+    "url": "seasons/2024-2025/matches/283311.json",
+    "tokens": [
+      "MUŞ SPOR KULÜBÜ",
+      "Balıkesirspor",
+      "283311",
+      "32. Maç",
+      "2024-2025"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "SEDAT YİĞİT KURNAZ",
+    "title": "SEDAT YİĞİT KURNAZ",
+    "subtitle": "119 maç · 15 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "SEDAT YİĞİT KURNAZ",
+      "2025-2026",
+      "2024-2025",
+      "2023-2024",
+      "2022-2023"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "KAĞAN KAYALI",
+    "title": "KAĞAN KAYALI",
+    "subtitle": "90 maç · 1 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "KAĞAN KAYALI",
+      "2024-2025",
+      "2023-2024",
+      "2022-2023"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "YASİN YİĞİT BERBER",
+    "title": "YASİN YİĞİT BERBER",
+    "subtitle": "74 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "YASİN YİĞİT BERBER",
+      "2025-2026",
+      "2024-2025",
+      "2023-2024",
+      "2022-2023"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "YİĞİTHAN KIR",
+    "title": "YİĞİTHAN KIR",
+    "subtitle": "65 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "YİĞİTHAN KIR",
+      "2023-2024",
+      "2022-2023"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "BERAT AYDOĞDU",
+    "title": "BERAT AYDOĞDU",
+    "subtitle": "58 maç · 2 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "BERAT AYDOĞDU",
+      "2023-2024",
+      "2022-2023"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "AHMET GÜLAY",
+    "title": "AHMET GÜLAY",
+    "subtitle": "58 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "AHMET GÜLAY",
+      "2025-2026",
+      "2024-2025"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "HÜSEYİN ALTINTAŞ",
+    "title": "HÜSEYİN ALTINTAŞ",
+    "subtitle": "57 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "HÜSEYİN ALTINTAŞ",
+      "2024-2025",
+      "2023-2024"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "TAYFUN KIRCA",
+    "title": "TAYFUN KIRCA",
+    "subtitle": "56 maç · 7 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "TAYFUN KIRCA",
+      "2025-2026",
+      "2024-2025"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "CELAL EMİR DEDE",
+    "title": "CELAL EMİR DEDE",
+    "subtitle": "55 maç · 3 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "CELAL EMİR DEDE",
+      "2025-2026",
+      "2024-2025"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "ASIM HAMZAÇEBİ",
+    "title": "ASIM HAMZAÇEBİ",
+    "subtitle": "52 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "ASIM HAMZAÇEBİ",
+      "2024-2025",
+      "2023-2024"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "YİĞİT EPÖZDEMİR",
+    "title": "YİĞİT EPÖZDEMİR",
+    "subtitle": "48 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "YİĞİT EPÖZDEMİR",
+      "2025-2026",
+      "2024-2025"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "ARTUN AKÇAKIN",
+    "title": "ARTUN AKÇAKIN",
+    "subtitle": "47 maç · 17 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "ARTUN AKÇAKIN",
+      "2025-2026",
+      "2024-2025"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "ARDA İBRAHİM AKGÜN",
+    "title": "ARDA İBRAHİM AKGÜN",
+    "subtitle": "46 maç · 3 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "ARDA İBRAHİM AKGÜN",
+      "2023-2024",
+      "2022-2023"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "GÖRKEM ALTUN",
+    "title": "GÖRKEM ALTUN",
+    "subtitle": "43 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "GÖRKEM ALTUN",
+      "2023-2024",
+      "2022-2023"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "BERKAY AYKURT",
+    "title": "BERKAY AYKURT",
+    "subtitle": "42 maç · 3 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "BERKAY AYKURT",
+      "2023-2024",
+      "2022-2023"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "BERK TOSUN",
+    "title": "BERK TOSUN",
+    "subtitle": "41 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "BERK TOSUN",
+      "2023-2024",
+      "2022-2023"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "BERTUĞ BAYAR",
+    "title": "BERTUĞ BAYAR",
+    "subtitle": "40 maç · 16 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "BERTUĞ BAYAR",
+      "2024-2025",
+      "2023-2024"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "BİROL PARLAK",
+    "title": "BİROL PARLAK",
+    "subtitle": "38 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "BİROL PARLAK",
+      "2023-2024",
+      "2022-2023"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "DOĞANAY AVCI",
+    "title": "DOĞANAY AVCI",
+    "subtitle": "33 maç · 3 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "DOĞANAY AVCI",
+      "2024-2025",
+      "2023-2024",
+      "2022-2023"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "EMİRHAN ÇAKIR",
+    "title": "EMİRHAN ÇAKIR",
+    "subtitle": "33 maç · 2 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "EMİRHAN ÇAKIR",
+      "2022-2023"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "OĞUZ HAN AYNAOĞLU",
+    "title": "OĞUZ HAN AYNAOĞLU",
+    "subtitle": "33 maç · 2 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "OĞUZ HAN AYNAOĞLU",
+      "2022-2023"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "GÜNEY ÇELİK KELEŞ",
+    "title": "GÜNEY ÇELİK KELEŞ",
+    "subtitle": "33 maç · 1 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "GÜNEY ÇELİK KELEŞ",
+      "2023-2024",
+      "2022-2023"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "MUHAMMED DEMİRCİ",
+    "title": "MUHAMMED DEMİRCİ",
+    "subtitle": "32 maç · 4 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "MUHAMMED DEMİRCİ",
+      "2024-2025"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "ABDULLAH ADIYAMAN",
+    "title": "ABDULLAH ADIYAMAN",
+    "subtitle": "32 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "ABDULLAH ADIYAMAN",
+      "2023-2024",
+      "2022-2023"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "ENES KARABULUT",
+    "title": "ENES KARABULUT",
+    "subtitle": "32 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "ENES KARABULUT",
+      "2023-2024",
+      "2022-2023"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "ERŞAN YAŞA",
+    "title": "ERŞAN YAŞA",
+    "subtitle": "32 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "ERŞAN YAŞA",
+      "2025-2026"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "HARUN TOPRAK",
+    "title": "HARUN TOPRAK",
+    "subtitle": "32 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "HARUN TOPRAK",
+      "2025-2026"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "SEDAT DURSUN",
+    "title": "SEDAT DURSUN",
+    "subtitle": "31 maç · 5 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "SEDAT DURSUN",
+      "2022-2023"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "HÜSEYİN KARABEY",
+    "title": "HÜSEYİN KARABEY",
+    "subtitle": "31 maç · 3 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "HÜSEYİN KARABEY",
+      "2022-2023"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "MİKDAT ÇİL",
+    "title": "MİKDAT ÇİL",
+    "subtitle": "31 maç · 1 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "MİKDAT ÇİL",
+      "2025-2026"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "SERDAR GÜNCÜ",
+    "title": "SERDAR GÜNCÜ",
+    "subtitle": "31 maç · 1 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "SERDAR GÜNCÜ",
+      "2024-2025"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "DOĞUKAN ÖZÇİMEN",
+    "title": "DOĞUKAN ÖZÇİMEN",
+    "subtitle": "31 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "DOĞUKAN ÖZÇİMEN",
+      "2024-2025"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "GÜVENÇ USTA",
+    "title": "GÜVENÇ USTA",
+    "subtitle": "31 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "GÜVENÇ USTA",
+      "2024-2025"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "MUHAMMET ARAZ",
+    "title": "MUHAMMET ARAZ",
+    "subtitle": "31 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "MUHAMMET ARAZ",
+      "2024-2025"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "YEKTA SÖNMEZ",
+    "title": "YEKTA SÖNMEZ",
+    "subtitle": "30 maç · 11 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "YEKTA SÖNMEZ",
+      "2025-2026"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "İBRAHİM HALİL ÇOLAK",
+    "title": "İBRAHİM HALİL ÇOLAK",
+    "subtitle": "30 maç · 5 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "İBRAHİM HALİL ÇOLAK",
+      "2022-2023"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "VOLKAN ALTINSOY",
+    "title": "VOLKAN ALTINSOY",
+    "subtitle": "30 maç · 3 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "VOLKAN ALTINSOY",
+      "2024-2025"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "ANDAÇ GÜLERYÜZ",
+    "title": "ANDAÇ GÜLERYÜZ",
+    "subtitle": "29 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "ANDAÇ GÜLERYÜZ",
+      "2022-2023"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "SAMET SEYMEN SARGIN",
+    "title": "SAMET SEYMEN SARGIN",
+    "subtitle": "29 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "SAMET SEYMEN SARGIN",
+      "2024-2025"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "ALİ TOPÇU",
+    "title": "ALİ TOPÇU",
+    "subtitle": "28 maç · 4 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "ALİ TOPÇU",
+      "2025-2026"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "ŞAHİN ŞAFAKOĞLU",
+    "title": "ŞAHİN ŞAFAKOĞLU",
+    "subtitle": "28 maç · 2 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "ŞAHİN ŞAFAKOĞLU",
+      "2024-2025"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "ALİ KARAKAYA",
+    "title": "ALİ KARAKAYA",
+    "subtitle": "28 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "ALİ KARAKAYA",
+      "2024-2025"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "SERHAT VELİOĞLU",
+    "title": "SERHAT VELİOĞLU",
+    "subtitle": "27 maç · 3 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "SERHAT VELİOĞLU",
+      "2025-2026"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "AHMET NECAT AYDIN",
+    "title": "AHMET NECAT AYDIN",
+    "subtitle": "27 maç · 2 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "AHMET NECAT AYDIN",
+      "2025-2026"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "HAKAN AKGÜL",
+    "title": "HAKAN AKGÜL",
+    "subtitle": "26 maç · 2 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "HAKAN AKGÜL",
+      "2023-2024"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "HASAN CAN BİNGÜL",
+    "title": "HASAN CAN BİNGÜL",
+    "subtitle": "26 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "HASAN CAN BİNGÜL",
+      "2023-2024",
+      "2022-2023"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "KUBAN ALTUNBUDAK",
+    "title": "KUBAN ALTUNBUDAK",
+    "subtitle": "26 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "KUBAN ALTUNBUDAK",
+      "2025-2026"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "UTKAN GÖKÇEN",
+    "title": "UTKAN GÖKÇEN",
+    "subtitle": "26 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "UTKAN GÖKÇEN",
+      "2023-2024"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "YİĞİT BAYINDIR",
+    "title": "YİĞİT BAYINDIR",
+    "subtitle": "26 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "YİĞİT BAYINDIR",
+      "2025-2026"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "GÖKSU MUTLU",
+    "title": "GÖKSU MUTLU",
+    "subtitle": "25 maç · 2 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "GÖKSU MUTLU",
+      "2023-2024"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "OKTAY BALA",
+    "title": "OKTAY BALA",
+    "subtitle": "25 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "OKTAY BALA",
+      "2023-2024"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "ERKAN SÜER",
+    "title": "ERKAN SÜER",
+    "subtitle": "24 maç · 1 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "ERKAN SÜER",
+      "2023-2024"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "TALHA DOĞUŞ",
+    "title": "TALHA DOĞUŞ",
+    "subtitle": "24 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "TALHA DOĞUŞ",
+      "2025-2026",
+      "2024-2025"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "OĞUZCAN KESGİN",
+    "title": "OĞUZCAN KESGİN",
+    "subtitle": "23 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "OĞUZCAN KESGİN",
+      "2025-2026"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "ÖZER ÖZDEMİR",
+    "title": "ÖZER ÖZDEMİR",
+    "subtitle": "22 maç · 3 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "ÖZER ÖZDEMİR",
+      "2024-2025"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "TALHA DEMİRKOL",
+    "title": "TALHA DEMİRKOL",
+    "subtitle": "22 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "TALHA DEMİRKOL",
+      "2025-2026"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "AYBERK KAYGISIZ",
+    "title": "AYBERK KAYGISIZ",
+    "subtitle": "21 maç · 3 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "AYBERK KAYGISIZ",
+      "2022-2023"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "ÜMİT DOĞRU",
+    "title": "ÜMİT DOĞRU",
+    "subtitle": "21 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "ÜMİT DOĞRU",
+      "2023-2024",
+      "2022-2023"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "DOĞA İŞERİ",
+    "title": "DOĞA İŞERİ",
+    "subtitle": "20 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "DOĞA İŞERİ",
+      "2022-2023"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "MUHAMMED EREN TÜRKMEN",
+    "title": "MUHAMMED EREN TÜRKMEN",
+    "subtitle": "18 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "MUHAMMED EREN TÜRKMEN",
+      "2024-2025",
+      "2023-2024",
+      "2022-2023"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "ÖMER FARUK YAYLACI",
+    "title": "ÖMER FARUK YAYLACI",
+    "subtitle": "18 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "ÖMER FARUK YAYLACI",
+      "2023-2024"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "MUHAMMED RESUL YILDIRIM",
+    "title": "MUHAMMED RESUL YILDIRIM",
+    "subtitle": "17 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "MUHAMMED RESUL YILDIRIM",
+      "2025-2026"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "HASAN GÜNDOĞDU",
+    "title": "HASAN GÜNDOĞDU",
+    "subtitle": "16 maç · 5 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "HASAN GÜNDOĞDU",
+      "2025-2026"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "BORA YILMAZ",
+    "title": "BORA YILMAZ",
+    "subtitle": "16 maç · 3 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "BORA YILMAZ",
+      "2025-2026"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "MERT TEKİN",
+    "title": "MERT TEKİN",
+    "subtitle": "16 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "MERT TEKİN",
+      "2024-2025"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "MUSTAFA BURAK GÜNDOĞAN",
+    "title": "MUSTAFA BURAK GÜNDOĞAN",
+    "subtitle": "16 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "MUSTAFA BURAK GÜNDOĞAN",
+      "2024-2025",
+      "2023-2024",
+      "2022-2023"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "AKIN ARICAN",
+    "title": "AKIN ARICAN",
+    "subtitle": "15 maç · 5 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "AKIN ARICAN",
+      "2025-2026"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "MUHAMMET HAŞİM ÇOBAN",
+    "title": "MUHAMMET HAŞİM ÇOBAN",
+    "subtitle": "14 maç · 1 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "MUHAMMET HAŞİM ÇOBAN",
+      "2023-2024"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "ABDURRAHMAN AYHANOĞLU",
+    "title": "ABDURRAHMAN AYHANOĞLU",
+    "subtitle": "13 maç · 1 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "ABDURRAHMAN AYHANOĞLU",
+      "2023-2024"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "BATUHAN SÜER",
+    "title": "BATUHAN SÜER",
+    "subtitle": "13 maç · 1 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "BATUHAN SÜER",
+      "2023-2024"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "EMİR ŞENOCAK",
+    "title": "EMİR ŞENOCAK",
+    "subtitle": "13 maç · 1 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "EMİR ŞENOCAK",
+      "2024-2025"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "OZAN KARABACAK",
+    "title": "OZAN KARABACAK",
+    "subtitle": "13 maç · 1 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "OZAN KARABACAK",
+      "2025-2026"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "MEHMET BAĞCI",
+    "title": "MEHMET BAĞCI",
+    "subtitle": "13 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "MEHMET BAĞCI",
+      "2025-2026"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "BİLAL ŞEFLEK",
+    "title": "BİLAL ŞEFLEK",
+    "subtitle": "12 maç · 3 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "BİLAL ŞEFLEK",
+      "2023-2024"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "BERKAY GÖRMEZ",
+    "title": "BERKAY GÖRMEZ",
+    "subtitle": "12 maç · 1 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "BERKAY GÖRMEZ",
+      "2024-2025"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "ALİ SAY",
+    "title": "ALİ SAY",
+    "subtitle": "12 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "ALİ SAY",
+      "2023-2024"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "BEDİRHAN KOLKOPARAN",
+    "title": "BEDİRHAN KOLKOPARAN",
+    "subtitle": "12 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "BEDİRHAN KOLKOPARAN",
+      "2022-2023"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "BERKE DOĞUKAN ÖNDE",
+    "title": "BERKE DOĞUKAN ÖNDE",
+    "subtitle": "12 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "BERKE DOĞUKAN ÖNDE",
+      "2023-2024"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "DOĞUKAN SARAL",
+    "title": "DOĞUKAN SARAL",
+    "subtitle": "12 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "DOĞUKAN SARAL",
+      "2023-2024"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "HÜSEYİN MELİH ÖZTÜRK",
+    "title": "HÜSEYİN MELİH ÖZTÜRK",
+    "subtitle": "12 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "HÜSEYİN MELİH ÖZTÜRK",
+      "2025-2026"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "ALİ SİNAN GAYLA",
+    "title": "ALİ SİNAN GAYLA",
+    "subtitle": "11 maç · 4 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "ALİ SİNAN GAYLA",
+      "2025-2026"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "CUMA ALİ ÜZÜM",
+    "title": "CUMA ALİ ÜZÜM",
+    "subtitle": "11 maç · 1 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "CUMA ALİ ÜZÜM",
+      "2023-2024"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "FURKAN YARDIM",
+    "title": "FURKAN YARDIM",
+    "subtitle": "11 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "FURKAN YARDIM",
+      "2025-2026"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "KADİR TORBACI",
+    "title": "KADİR TORBACI",
+    "subtitle": "11 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "KADİR TORBACI",
+      "2023-2024"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "KORAY BAYKARA",
+    "title": "KORAY BAYKARA",
+    "subtitle": "10 maç · 2 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "KORAY BAYKARA",
+      "2023-2024"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "KÜRŞAT MUTLU",
+    "title": "KÜRŞAT MUTLU",
+    "subtitle": "10 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "KÜRŞAT MUTLU",
+      "2025-2026"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "MERT HÜSEYİN ESENLİ",
+    "title": "MERT HÜSEYİN ESENLİ",
+    "subtitle": "10 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "MERT HÜSEYİN ESENLİ",
+      "2025-2026"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "MUHSİN YILDIRIM",
+    "title": "MUHSİN YILDIRIM",
+    "subtitle": "10 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "MUHSİN YILDIRIM",
+      "2023-2024"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "UMUT CAN AKÇAOĞLU",
+    "title": "UMUT CAN AKÇAOĞLU",
+    "subtitle": "10 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "UMUT CAN AKÇAOĞLU",
+      "2023-2024",
+      "2022-2023"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "MEHMET ASLAN",
+    "title": "MEHMET ASLAN",
+    "subtitle": "9 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "MEHMET ASLAN",
+      "2023-2024"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "RAHMİ ANIL BAŞARAN",
+    "title": "RAHMİ ANIL BAŞARAN",
+    "subtitle": "8 maç · 1 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "RAHMİ ANIL BAŞARAN",
+      "2023-2024"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "KADİRCAN ALBAHAN",
+    "title": "KADİRCAN ALBAHAN",
+    "subtitle": "8 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "KADİRCAN ALBAHAN",
+      "2025-2026"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "AHMET ÇAĞRI ÇOLAK",
+    "title": "AHMET ÇAĞRI ÇOLAK",
+    "subtitle": "7 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "AHMET ÇAĞRI ÇOLAK",
+      "2023-2024",
+      "2022-2023"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "EFE OKUTAN",
+    "title": "EFE OKUTAN",
+    "subtitle": "7 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "EFE OKUTAN",
+      "2025-2026"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "METEHAN GÖREL",
+    "title": "METEHAN GÖREL",
+    "subtitle": "7 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "METEHAN GÖREL",
+      "2023-2024"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "ARDA GÖROĞLU",
+    "title": "ARDA GÖROĞLU",
+    "subtitle": "6 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "ARDA GÖROĞLU",
+      "2023-2024",
+      "2022-2023"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "MEHMET EMRE YAR",
+    "title": "MEHMET EMRE YAR",
+    "subtitle": "6 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "MEHMET EMRE YAR",
+      "2025-2026"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "MUSTAFA ÖNCÜ",
+    "title": "MUSTAFA ÖNCÜ",
+    "subtitle": "6 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "MUSTAFA ÖNCÜ",
+      "2022-2023"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "YİĞİT DÖNMEZ",
+    "title": "YİĞİT DÖNMEZ",
+    "subtitle": "6 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "YİĞİT DÖNMEZ",
+      "2025-2026"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "EFE ÖZEN",
+    "title": "EFE ÖZEN",
+    "subtitle": "5 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "EFE ÖZEN",
+      "2025-2026"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "HASAN HÜSEYİN ERİŞ",
+    "title": "HASAN HÜSEYİN ERİŞ",
+    "subtitle": "5 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "HASAN HÜSEYİN ERİŞ",
+      "2025-2026"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "MESUT DİLSÖZ",
+    "title": "MESUT DİLSÖZ",
+    "subtitle": "4 maç · 2 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "MESUT DİLSÖZ",
+      "1992-1993",
+      "1991-1992",
+      "1990-1991"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "MURAT BÖLÜKBAŞI",
+    "title": "MURAT BÖLÜKBAŞI",
+    "subtitle": "4 maç · 1 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "MURAT BÖLÜKBAŞI",
+      "1992-1993",
+      "1991-1992",
+      "1990-1991"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "ADEM SOLAK",
+    "title": "ADEM SOLAK",
+    "subtitle": "4 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "ADEM SOLAK",
+      "2025-2026"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "SANCAR KİRAZLI",
+    "title": "SANCAR KİRAZLI",
+    "subtitle": "4 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "SANCAR KİRAZLI",
+      "1992-1993",
+      "1991-1992",
+      "1990-1991"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "YUNUS EMRE DAVRAN",
+    "title": "YUNUS EMRE DAVRAN",
+    "subtitle": "4 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "YUNUS EMRE DAVRAN",
+      "2023-2024",
+      "2022-2023"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "EGE MATUR",
+    "title": "EGE MATUR",
+    "subtitle": "3 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "EGE MATUR",
+      "2025-2026"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "GÖKHAN TETİK",
+    "title": "GÖKHAN TETİK",
+    "subtitle": "3 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "GÖKHAN TETİK",
+      "1994-1995",
+      "1990-1991"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "KÜRŞAD KÜÇÜKKAYALAR",
+    "title": "KÜRŞAD KÜÇÜKKAYALAR",
+    "subtitle": "3 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "KÜRŞAD KÜÇÜKKAYALAR",
+      "1991-1992",
+      "1990-1991"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "OĞUZHAN CAN",
+    "title": "OĞUZHAN CAN",
+    "subtitle": "3 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "OĞUZHAN CAN",
+      "2023-2024",
+      "2022-2023"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "TALHA GÖKŞİN",
+    "title": "TALHA GÖKŞİN",
+    "subtitle": "3 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "TALHA GÖKŞİN",
+      "2022-2023"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "UMUT YAŞAR",
+    "title": "UMUT YAŞAR",
+    "subtitle": "3 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "UMUT YAŞAR",
+      "2025-2026"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "MÜCAHİT BOZDEMİR",
+    "title": "MÜCAHİT BOZDEMİR",
+    "subtitle": "2 maç · 3 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "MÜCAHİT BOZDEMİR",
+      "1991-1992",
+      "1990-1991"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "ERKAN AKGÖNÜL",
+    "title": "ERKAN AKGÖNÜL",
+    "subtitle": "2 maç · 2 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "ERKAN AKGÖNÜL",
+      "1992-1993",
+      "1991-1992"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "OKAN ATAY",
+    "title": "OKAN ATAY",
+    "subtitle": "2 maç · 1 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "OKAN ATAY",
+      "1992-1993",
+      "1991-1992"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "YILMAZ İŞLER",
+    "title": "YILMAZ İŞLER",
+    "subtitle": "2 maç · 1 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "YILMAZ İŞLER",
+      "1994-1995",
+      "1992-1993"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "ADEM SALUR",
+    "title": "ADEM SALUR",
+    "subtitle": "2 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "ADEM SALUR",
+      "1991-1992",
+      "1990-1991"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "AYVAZ ÖZTÜRK",
+    "title": "AYVAZ ÖZTÜRK",
+    "subtitle": "2 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "AYVAZ ÖZTÜRK",
+      "1991-1992",
+      "1990-1991"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "BERKE KARACA",
+    "title": "BERKE KARACA",
+    "subtitle": "2 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "BERKE KARACA",
+      "2022-2023"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "CAN FERİK",
+    "title": "CAN FERİK",
+    "subtitle": "2 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "CAN FERİK",
+      "1994-1995",
+      "1992-1993"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "HASAN TURHAN TÜRKER",
+    "title": "HASAN TURHAN TÜRKER",
+    "subtitle": "2 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "HASAN TURHAN TÜRKER",
+      "2022-2023"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "HAYRİ SÖZERİ",
+    "title": "HAYRİ SÖZERİ",
+    "subtitle": "2 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "HAYRİ SÖZERİ",
+      "1992-1993",
+      "1991-1992"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "LEVENT UYSAL",
+    "title": "LEVENT UYSAL",
+    "subtitle": "2 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "LEVENT UYSAL",
+      "1990-1991"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "MENDERES SUNKAR",
+    "title": "MENDERES SUNKAR",
+    "subtitle": "2 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "MENDERES SUNKAR",
+      "1994-1995",
+      "1992-1993"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "OKAN ARI",
+    "title": "OKAN ARI",
+    "subtitle": "2 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "OKAN ARI",
+      "2022-2023"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "OSMAN KARADENİZ",
+    "title": "OSMAN KARADENİZ",
+    "subtitle": "2 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "OSMAN KARADENİZ",
+      "1990-1991"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "SÜLEYMAN ENES YILDIRIM",
+    "title": "SÜLEYMAN ENES YILDIRIM",
+    "subtitle": "2 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "SÜLEYMAN ENES YILDIRIM",
+      "2022-2023"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "VOLKAN PALA",
+    "title": "VOLKAN PALA",
+    "subtitle": "2 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "VOLKAN PALA",
+      "2023-2024"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "ÜNAL UZBAY",
+    "title": "ÜNAL UZBAY",
+    "subtitle": "2 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "ÜNAL UZBAY",
+      "1991-1992",
+      "1990-1991"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "İMDAT YILMAZ",
+    "title": "İMDAT YILMAZ",
+    "subtitle": "2 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "İMDAT YILMAZ",
+      "1994-1995",
+      "1992-1993"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "İSMAİL AŞKAN",
+    "title": "İSMAİL AŞKAN",
+    "subtitle": "2 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "İSMAİL AŞKAN",
+      "1990-1991"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "İSMET GÜMÜŞ",
+    "title": "İSMET GÜMÜŞ",
+    "subtitle": "2 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "İSMET GÜMÜŞ",
+      "1990-1991"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "ALİ RAVCI",
+    "title": "ALİ RAVCI",
+    "subtitle": "1 maç · 1 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "ALİ RAVCI",
+      "1991-1992"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "BERKAY GÜNAY",
+    "title": "BERKAY GÜNAY",
+    "subtitle": "1 maç · 1 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "BERKAY GÜNAY",
+      "2009-2010"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "EMRE AŞIK",
+    "title": "EMRE AŞIK",
+    "subtitle": "1 maç · 1 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "EMRE AŞIK",
+      "1992-1993"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "SİNAN UZUN",
+    "title": "SİNAN UZUN",
+    "subtitle": "1 maç · 1 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "SİNAN UZUN",
+      "2009-2010"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "AHMET BAKİ CANEL",
+    "title": "AHMET BAKİ CANEL",
+    "subtitle": "1 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "AHMET BAKİ CANEL",
+      "2023-2024"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "ALİ BAYRAK",
+    "title": "ALİ BAYRAK",
+    "subtitle": "1 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "ALİ BAYRAK",
+      "1991-1992"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "ALİ EFE",
+    "title": "ALİ EFE",
+    "subtitle": "1 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "ALİ EFE",
+      "1990-1991"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "ALİ ÖZTÜRK",
+    "title": "ALİ ÖZTÜRK",
+    "subtitle": "1 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "ALİ ÖZTÜRK",
+      "2009-2010"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "ASİL ARSLANLAR",
+    "title": "ASİL ARSLANLAR",
+    "subtitle": "1 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "ASİL ARSLANLAR",
+      "1990-1991"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "ATAY EFE",
+    "title": "ATAY EFE",
+    "subtitle": "1 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "ATAY EFE",
+      "1994-1995"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "AYHAN YILDIZ",
+    "title": "AYHAN YILDIZ",
+    "subtitle": "1 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "AYHAN YILDIZ",
+      "1994-1995"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "AYTEKİN ÖZPINAR",
+    "title": "AYTEKİN ÖZPINAR",
+    "subtitle": "1 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "AYTEKİN ÖZPINAR",
+      "1994-1995"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "AZİZ SAĞLAM",
+    "title": "AZİZ SAĞLAM",
+    "subtitle": "1 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "AZİZ SAĞLAM",
+      "1994-1995"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "BURAK CAN",
+    "title": "BURAK CAN",
+    "subtitle": "1 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "BURAK CAN",
+      "2025-2026"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "BUĞRA İSMET AYTAP",
+    "title": "BUĞRA İSMET AYTAP",
+    "subtitle": "1 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "BUĞRA İSMET AYTAP",
+      "2023-2024"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "BİRAN ERARSLAN",
+    "title": "BİRAN ERARSLAN",
+    "subtitle": "1 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "BİRAN ERARSLAN",
+      "1991-1992"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "CAN CANGÖK",
+    "title": "CAN CANGÖK",
+    "subtitle": "1 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "CAN CANGÖK",
+      "1992-1993"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "CEM YETİŞEN",
+    "title": "CEM YETİŞEN",
+    "subtitle": "1 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "CEM YETİŞEN",
+      "1994-1995"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "CEVDET AYDEMİR",
+    "title": "CEVDET AYDEMİR",
+    "subtitle": "1 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "CEVDET AYDEMİR",
+      "1991-1992"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "CİHAN ERDİL",
+    "title": "CİHAN ERDİL",
+    "subtitle": "1 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "CİHAN ERDİL",
+      "2009-2010"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "DENİZ AYDOĞDU",
+    "title": "DENİZ AYDOĞDU",
+    "subtitle": "1 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "DENİZ AYDOĞDU",
+      "2009-2010"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "EGE SEMİH DİLEK",
+    "title": "EGE SEMİH DİLEK",
+    "subtitle": "1 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "EGE SEMİH DİLEK",
+      "2025-2026"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "EMRE BAYRAKTARBAŞI",
+    "title": "EMRE BAYRAKTARBAŞI",
+    "subtitle": "1 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "EMRE BAYRAKTARBAŞI",
+      "2009-2010"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "EMRE İŞÇİLER",
+    "title": "EMRE İŞÇİLER",
+    "subtitle": "1 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "EMRE İŞÇİLER",
+      "2009-2010"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "EMİN AKBAŞ",
+    "title": "EMİN AKBAŞ",
+    "subtitle": "1 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "EMİN AKBAŞ",
+      "2009-2010"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "ENES TALHA SARIBAŞ",
+    "title": "ENES TALHA SARIBAŞ",
+    "subtitle": "1 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "ENES TALHA SARIBAŞ",
+      "2023-2024"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "ENGİN GÜLIŞIK",
+    "title": "ENGİN GÜLIŞIK",
+    "subtitle": "1 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "ENGİN GÜLIŞIK",
+      "1994-1995"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "ERGÜN UĞUR",
+    "title": "ERGÜN UĞUR",
+    "subtitle": "1 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "ERGÜN UĞUR",
+      "1994-1995"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "ERHAN KAYAR",
+    "title": "ERHAN KAYAR",
+    "subtitle": "1 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "ERHAN KAYAR",
+      "2009-2010"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "ERTAN SÖZMENER",
+    "title": "ERTAN SÖZMENER",
+    "subtitle": "1 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "ERTAN SÖZMENER",
+      "1992-1993"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "ERTUĞRUL FURKAN",
+    "title": "ERTUĞRUL FURKAN",
+    "subtitle": "1 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "ERTUĞRUL FURKAN",
+      "2009-2010"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "GÖRKEM KIRAN",
+    "title": "GÖRKEM KIRAN",
+    "subtitle": "1 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "GÖRKEM KIRAN",
+      "2023-2024"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "GÜROL MAĞILTAŞ",
+    "title": "GÜROL MAĞILTAŞ",
+    "subtitle": "1 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "GÜROL MAĞILTAŞ",
+      "1994-1995"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "HALİT ERSOY",
+    "title": "HALİT ERSOY",
+    "subtitle": "1 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "HALİT ERSOY",
+      "1990-1991"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "HASAN YILMAZ",
+    "title": "HASAN YILMAZ",
+    "subtitle": "1 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "HASAN YILMAZ",
+      "1992-1993"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "HÜSEYİN VOLKAN CANBOLAT",
+    "title": "HÜSEYİN VOLKAN CANBOLAT",
+    "subtitle": "1 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "HÜSEYİN VOLKAN CANBOLAT",
+      "2009-2010"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "KAAN BOZKURT",
+    "title": "KAAN BOZKURT",
+    "subtitle": "1 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "KAAN BOZKURT",
+      "2025-2026"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "MEHMET MURAT GÜLBABA",
+    "title": "MEHMET MURAT GÜLBABA",
+    "subtitle": "1 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "MEHMET MURAT GÜLBABA",
+      "2009-2010"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "MEMDUH ORUÇ",
+    "title": "MEMDUH ORUÇ",
+    "subtitle": "1 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "MEMDUH ORUÇ",
+      "1990-1991"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "METİN KARAGÖZ",
+    "title": "METİN KARAGÖZ",
+    "subtitle": "1 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "METİN KARAGÖZ",
+      "1990-1991"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "MURAT KORUCU",
+    "title": "MURAT KORUCU",
+    "subtitle": "1 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "MURAT KORUCU",
+      "1990-1991"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "NURİ KAYA",
+    "title": "NURİ KAYA",
+    "subtitle": "1 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "NURİ KAYA",
+      "1990-1991"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "RAMAZAN KARAKUZU",
+    "title": "RAMAZAN KARAKUZU",
+    "subtitle": "1 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "RAMAZAN KARAKUZU",
+      "2024-2025"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "SAMİ EMRE KÖKTEN",
+    "title": "SAMİ EMRE KÖKTEN",
+    "subtitle": "1 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "SAMİ EMRE KÖKTEN",
+      "1994-1995"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "TALAT NOYİN",
+    "title": "TALAT NOYİN",
+    "subtitle": "1 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "TALAT NOYİN",
+      "1992-1993"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "TANJU AKÇE",
+    "title": "TANJU AKÇE",
+    "subtitle": "1 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "TANJU AKÇE",
+      "1990-1991"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "TAYFUN KANSOY",
+    "title": "TAYFUN KANSOY",
+    "subtitle": "1 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "TAYFUN KANSOY",
+      "1991-1992"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "TUNCAY KURT",
+    "title": "TUNCAY KURT",
+    "subtitle": "1 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "TUNCAY KURT",
+      "1990-1991"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "TUĞRUL GÖKSEL",
+    "title": "TUĞRUL GÖKSEL",
+    "subtitle": "1 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "TUĞRUL GÖKSEL",
+      "2009-2010"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "UMUT BAYSAL",
+    "title": "UMUT BAYSAL",
+    "subtitle": "1 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "UMUT BAYSAL",
+      "2009-2010"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "UĞUR ARSLAN KURU",
+    "title": "UĞUR ARSLAN KURU",
+    "subtitle": "1 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "UĞUR ARSLAN KURU",
+      "2009-2010"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "UĞUR KAPISIZ",
+    "title": "UĞUR KAPISIZ",
+    "subtitle": "1 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "UĞUR KAPISIZ",
+      "2009-2010"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "VEYSEL BEŞİK",
+    "title": "VEYSEL BEŞİK",
+    "subtitle": "1 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "VEYSEL BEŞİK",
+      "1992-1993"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "YEŞAR KANDEMİR",
+    "title": "YEŞAR KANDEMİR",
+    "subtitle": "1 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "YEŞAR KANDEMİR",
+      "1994-1995"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "YUNUS İÇUZ",
+    "title": "YUNUS İÇUZ",
+    "subtitle": "1 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "YUNUS İÇUZ",
+      "2009-2010"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "ZİHNİ AYDIN",
+    "title": "ZİHNİ AYDIN",
+    "subtitle": "1 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "ZİHNİ AYDIN",
+      "2009-2010"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "ÜMİT LEVENT ZORLUER",
+    "title": "ÜMİT LEVENT ZORLUER",
+    "subtitle": "1 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "ÜMİT LEVENT ZORLUER",
+      "1994-1995"
+    ]
+  },
+  {
+    "type": "player",
+    "id": "İLHAN DOĞRU",
+    "title": "İLHAN DOĞRU",
+    "subtitle": "1 maç · 0 gol",
+    "url": "players_index.json",
+    "tokens": [
+      "İLHAN DOĞRU",
+      "1990-1991"
+    ]
+  },
+  {
+    "type": "opponent",
+    "id": "ESKİŞEHİRSPOR KULÜBÜ",
+    "title": "ESKİŞEHİRSPOR KULÜBÜ",
+    "subtitle": "4 maç",
+    "url": "opponents_index.json",
+    "tokens": [
+      "ESKİŞEHİRSPOR KULÜBÜ"
+    ]
+  },
+  {
+    "type": "opponent",
+    "id": "ETİ GÜBRE MAZIDAĞI FOSFAT SPOR",
+    "title": "ETİ GÜBRE MAZIDAĞI FOSFAT SPOR",
+    "subtitle": "4 maç",
+    "url": "opponents_index.json",
+    "tokens": [
+      "ETİ GÜBRE MAZIDAĞI FOSFAT SPOR"
+    ]
+  },
+  {
+    "type": "opponent",
+    "id": "NEVŞEHİR BELEDİYE SPOR",
+    "title": "NEVŞEHİR BELEDİYE SPOR",
+    "subtitle": "4 maç",
+    "url": "opponents_index.json",
+    "tokens": [
+      "NEVŞEHİR BELEDİYE SPOR"
+    ]
+  },
+  {
+    "type": "opponent",
+    "id": "TİRE 2021 FUTBOL KULÜBÜ",
+    "title": "TİRE 2021 FUTBOL KULÜBÜ",
+    "subtitle": "4 maç",
+    "url": "opponents_index.json",
+    "tokens": [
+      "TİRE 2021 FUTBOL KULÜBÜ"
+    ]
+  },
+  {
+    "type": "opponent",
+    "id": "ETİMESGUT BELEDİYESPOR",
+    "title": "ETİMESGUT BELEDİYESPOR",
+    "subtitle": "3 maç",
+    "url": "opponents_index.json",
+    "tokens": [
+      "ETİMESGUT BELEDİYESPOR"
+    ]
+  },
+  {
+    "type": "opponent",
+    "id": "UŞAK SPOR A.Ş.",
+    "title": "UŞAK SPOR A.Ş.",
+    "subtitle": "3 maç",
+    "url": "opponents_index.json",
+    "tokens": [
+      "UŞAK SPOR A.Ş."
+    ]
+  },
+  {
+    "type": "opponent",
+    "id": "1461 TRABZON FK",
+    "title": "1461 TRABZON FK",
+    "subtitle": "2 maç",
+    "url": "opponents_index.json",
+    "tokens": [
+      "1461 TRABZON FK"
+    ]
+  },
+  {
+    "type": "opponent",
+    "id": "23 ELAZIĞ FUTBOL KULÜBÜ",
+    "title": "23 ELAZIĞ FUTBOL KULÜBÜ",
+    "subtitle": "2 maç",
+    "url": "opponents_index.json",
+    "tokens": [
+      "23 ELAZIĞ FUTBOL KULÜBÜ"
+    ]
+  },
+  {
+    "type": "opponent",
+    "id": "ADIYAMAN FUTBOL KULÜBÜ A.Ş.",
+    "title": "ADIYAMAN FUTBOL KULÜBÜ A.Ş.",
+    "subtitle": "2 maç",
+    "url": "opponents_index.json",
+    "tokens": [
+      "ADIYAMAN FUTBOL KULÜBÜ A.Ş."
+    ]
+  },
+  {
+    "type": "opponent",
+    "id": "AFYONSPOR KULÜBÜ",
+    "title": "AFYONSPOR KULÜBÜ",
+    "subtitle": "2 maç",
+    "url": "opponents_index.json",
+    "tokens": [
+      "AFYONSPOR KULÜBÜ"
+    ]
+  },
+  {
+    "type": "opponent",
+    "id": "ALANYA 1221 FUTBOL SPOR KULÜBÜ",
+    "title": "ALANYA 1221 FUTBOL SPOR KULÜBÜ",
+    "subtitle": "2 maç",
+    "url": "opponents_index.json",
+    "tokens": [
+      "ALANYA 1221 FUTBOL SPOR KULÜBÜ"
+    ]
+  },
+  {
+    "type": "opponent",
+    "id": "ALTAY",
+    "title": "ALTAY",
+    "subtitle": "2 maç",
+    "url": "opponents_index.json",
+    "tokens": [
+      "ALTAY"
+    ]
+  },
+  {
+    "type": "opponent",
+    "id": "ANKARA DEMİRSPOR",
+    "title": "ANKARA DEMİRSPOR",
+    "subtitle": "2 maç",
+    "url": "opponents_index.json",
+    "tokens": [
+      "ANKARA DEMİRSPOR"
+    ]
+  },
+  {
+    "type": "opponent",
+    "id": "ARMONİ ALANYA KESTELSPOR",
+    "title": "ARMONİ ALANYA KESTELSPOR",
+    "subtitle": "2 maç",
+    "url": "opponents_index.json",
+    "tokens": [
+      "ARMONİ ALANYA KESTELSPOR"
+    ]
+  },
+  {
+    "type": "opponent",
+    "id": "AYVALIKGÜCÜ BELEDİYESPOR",
+    "title": "AYVALIKGÜCÜ BELEDİYESPOR",
+    "subtitle": "2 maç",
+    "url": "opponents_index.json",
+    "tokens": [
+      "AYVALIKGÜCÜ BELEDİYESPOR"
+    ]
+  },
+  {
+    "type": "opponent",
+    "id": "BERGAMA SPORTİF FAALİYETLER A.Ş",
+    "title": "BERGAMA SPORTİF FAALİYETLER A.Ş",
+    "subtitle": "2 maç",
+    "url": "opponents_index.json",
+    "tokens": [
+      "BERGAMA SPORTİF FAALİYETLER A.Ş"
+    ]
+  },
+  {
+    "type": "opponent",
+    "id": "BEYKOZ İSHAKLI SPOR FAALİYETLERİ A.Ş.",
+    "title": "BEYKOZ İSHAKLI SPOR FAALİYETLERİ A.Ş.",
+    "subtitle": "2 maç",
+    "url": "opponents_index.json",
+    "tokens": [
+      "BEYKOZ İSHAKLI SPOR FAALİYETLERİ A.Ş."
+    ]
+  },
+  {
+    "type": "opponent",
+    "id": "BITEXEN ADANA 1954 FUTBOL KULÜBÜ",
+    "title": "BITEXEN ADANA 1954 FUTBOL KULÜBÜ",
+    "subtitle": "2 maç",
+    "url": "opponents_index.json",
+    "tokens": [
+      "BITEXEN ADANA 1954 FUTBOL KULÜBÜ"
+    ]
+  },
+  {
+    "type": "opponent",
+    "id": "BITEXEN VAN SPOR FK",
+    "title": "BITEXEN VAN SPOR FK",
+    "subtitle": "2 maç",
+    "url": "opponents_index.json",
+    "tokens": [
+      "BITEXEN VAN SPOR FK"
+    ]
+  },
+  {
+    "type": "opponent",
+    "id": "BORNOVA 1877 SPORTİF YATIRIMLAR A.Ş.",
+    "title": "BORNOVA 1877 SPORTİF YATIRIMLAR A.Ş.",
+    "subtitle": "2 maç",
+    "url": "opponents_index.json",
+    "tokens": [
+      "BORNOVA 1877 SPORTİF YATIRIMLAR A.Ş."
+    ]
+  },
+  {
+    "type": "opponent",
+    "id": "BUCASPOR 1928",
+    "title": "BUCASPOR 1928",
+    "subtitle": "2 maç",
+    "url": "opponents_index.json",
+    "tokens": [
+      "BUCASPOR 1928"
+    ]
+  },
+  {
+    "type": "opponent",
+    "id": "BURSA YILDIRIM SPOR",
+    "title": "BURSA YILDIRIM SPOR",
+    "subtitle": "2 maç",
+    "url": "opponents_index.json",
+    "tokens": [
+      "BURSA YILDIRIM SPOR"
+    ]
+  },
+  {
+    "type": "opponent",
+    "id": "DİYARBEKİR SPOR A.Ş.",
+    "title": "DİYARBEKİR SPOR A.Ş.",
+    "subtitle": "2 maç",
+    "url": "opponents_index.json",
+    "tokens": [
+      "DİYARBEKİR SPOR A.Ş."
+    ]
+  },
+  {
+    "type": "opponent",
+    "id": "ESKİŞEHİR ANADOLU SPOR FAALİYETLERİ A.Ş.",
+    "title": "ESKİŞEHİR ANADOLU SPOR FAALİYETLERİ A.Ş.",
+    "subtitle": "2 maç",
+    "url": "opponents_index.json",
+    "tokens": [
+      "ESKİŞEHİR ANADOLU SPOR FAALİYETLERİ A.Ş."
+    ]
+  },
+  {
+    "type": "opponent",
+    "id": "FATSA BELEDİYESPOR",
+    "title": "FATSA BELEDİYESPOR",
+    "subtitle": "2 maç",
+    "url": "opponents_index.json",
+    "tokens": [
+      "FATSA BELEDİYESPOR"
+    ]
+  },
+  {
+    "type": "opponent",
+    "id": "FETHİYESPOR",
+    "title": "FETHİYESPOR",
+    "subtitle": "2 maç",
+    "url": "opponents_index.json",
+    "tokens": [
+      "FETHİYESPOR"
+    ]
+  },
+  {
+    "type": "opponent",
+    "id": "GMG KASTAMONUSPOR",
+    "title": "GMG KASTAMONUSPOR",
+    "subtitle": "2 maç",
+    "url": "opponents_index.json",
+    "tokens": [
+      "GMG KASTAMONUSPOR"
+    ]
+  },
+  {
+    "type": "opponent",
+    "id": "GÜNEŞ HOLDİNG ÇANKAYA SPOR KULÜBÜ",
+    "title": "GÜNEŞ HOLDİNG ÇANKAYA SPOR KULÜBÜ",
+    "subtitle": "2 maç",
+    "url": "opponents_index.json",
+    "tokens": [
+      "GÜNEŞ HOLDİNG ÇANKAYA SPOR KULÜBÜ"
+    ]
+  },
+  {
+    "type": "opponent",
+    "id": "KARŞIYAKA",
+    "title": "KARŞIYAKA",
+    "subtitle": "2 maç",
+    "url": "opponents_index.json",
+    "tokens": [
+      "KARŞIYAKA"
+    ]
+  },
+  {
+    "type": "opponent",
+    "id": "KIRŞEHİR FUTBOL SPOR KULÜBÜ",
+    "title": "KIRŞEHİR FUTBOL SPOR KULÜBÜ",
+    "subtitle": "2 maç",
+    "url": "opponents_index.json",
+    "tokens": [
+      "KIRŞEHİR FUTBOL SPOR KULÜBÜ"
+    ]
+  },
+  {
+    "type": "opponent",
+    "id": "KOCAELİSPOR",
+    "title": "KOCAELİSPOR",
+    "subtitle": "2 maç",
+    "url": "opponents_index.json",
+    "tokens": [
+      "KOCAELİSPOR"
+    ]
+  },
+  {
+    "type": "opponent",
+    "id": "KÜTAHYASPOR FUTBOL SPOR KULÜBÜ",
+    "title": "KÜTAHYASPOR FUTBOL SPOR KULÜBÜ",
+    "subtitle": "2 maç",
+    "url": "opponents_index.json",
+    "tokens": [
+      "KÜTAHYASPOR FUTBOL SPOR KULÜBÜ"
+    ]
+  },
+  {
+    "type": "opponent",
+    "id": "MUĞLASPOR",
+    "title": "MUĞLASPOR",
+    "subtitle": "2 maç",
+    "url": "opponents_index.json",
+    "tokens": [
+      "MUĞLASPOR"
+    ]
+  },
+  {
+    "type": "opponent",
+    "id": "MUĞLASPOR KULÜBÜ",
+    "title": "MUĞLASPOR KULÜBÜ",
+    "subtitle": "2 maç",
+    "url": "opponents_index.json",
+    "tokens": [
+      "MUĞLASPOR KULÜBÜ"
+    ]
+  },
+  {
+    "type": "opponent",
+    "id": "MUŞ 1984 MUŞSPOR",
+    "title": "MUŞ 1984 MUŞSPOR",
+    "subtitle": "2 maç",
+    "url": "opponents_index.json",
+    "tokens": [
+      "MUŞ 1984 MUŞSPOR"
+    ]
+  },
+  {
+    "type": "opponent",
+    "id": "NAZİLLİ SPOR A.Ş.",
+    "title": "NAZİLLİ SPOR A.Ş.",
+    "subtitle": "2 maç",
+    "url": "opponents_index.json",
+    "tokens": [
+      "NAZİLLİ SPOR A.Ş."
+    ]
+  },
+  {
+    "type": "opponent",
+    "id": "OKTAŞ UŞAK SPOR A.Ş.",
+    "title": "OKTAŞ UŞAK SPOR A.Ş.",
+    "subtitle": "2 maç",
+    "url": "opponents_index.json",
+    "tokens": [
+      "OKTAŞ UŞAK SPOR A.Ş."
+    ]
+  },
+  {
+    "type": "opponent",
+    "id": "ONUKSPORTS KELKİT HÜRRİYET SPOR KULÜBÜ",
+    "title": "ONUKSPORTS KELKİT HÜRRİYET SPOR KULÜBÜ",
+    "subtitle": "2 maç",
+    "url": "opponents_index.json",
+    "tokens": [
+      "ONUKSPORTS KELKİT HÜRRİYET SPOR KULÜBÜ"
+    ]
+  },
+  {
+    "type": "opponent",
+    "id": "ORDUSPOR 1967 A.Ş.",
+    "title": "ORDUSPOR 1967 A.Ş.",
+    "subtitle": "2 maç",
+    "url": "opponents_index.json",
+    "tokens": [
+      "ORDUSPOR 1967 A.Ş."
+    ]
+  },
+  {
+    "type": "opponent",
+    "id": "PAZARSPOR",
+    "title": "PAZARSPOR",
+    "subtitle": "2 maç",
+    "url": "opponents_index.json",
+    "tokens": [
+      "PAZARSPOR"
+    ]
+  },
+  {
+    "type": "opponent",
+    "id": "SARIYER",
+    "title": "SARIYER",
+    "subtitle": "2 maç",
+    "url": "opponents_index.json",
+    "tokens": [
+      "SARIYER"
+    ]
+  },
+  {
+    "type": "opponent",
+    "id": "SEBAT GENÇLİK SPOR",
+    "title": "SEBAT GENÇLİK SPOR",
+    "subtitle": "2 maç",
+    "url": "opponents_index.json",
+    "tokens": [
+      "SEBAT GENÇLİK SPOR"
+    ]
+  },
+  {
+    "type": "opponent",
+    "id": "SERİK BELEDİYESPOR",
+    "title": "SERİK BELEDİYESPOR",
+    "subtitle": "2 maç",
+    "url": "opponents_index.json",
+    "tokens": [
+      "SERİK BELEDİYESPOR"
+    ]
+  },
+  {
+    "type": "opponent",
+    "id": "SMART HOLDİNG A.Ş.ÇAYELİ SPOR",
+    "title": "SMART HOLDİNG A.Ş.ÇAYELİ SPOR",
+    "subtitle": "2 maç",
+    "url": "opponents_index.json",
+    "tokens": [
+      "SMART HOLDİNG A.Ş.ÇAYELİ SPOR"
+    ]
+  },
+  {
+    "type": "opponent",
+    "id": "SULTANBEYLİ BELEDİYE SPOR",
+    "title": "SULTANBEYLİ BELEDİYE SPOR",
+    "subtitle": "2 maç",
+    "url": "opponents_index.json",
+    "tokens": [
+      "SULTANBEYLİ BELEDİYE SPOR"
+    ]
+  },
+  {
+    "type": "opponent",
+    "id": "SÖKE 1970 SPOR KULÜBÜ",
+    "title": "SÖKE 1970 SPOR KULÜBÜ",
+    "subtitle": "2 maç",
+    "url": "opponents_index.json",
+    "tokens": [
+      "SÖKE 1970 SPOR KULÜBÜ"
+    ]
+  },
+  {
+    "type": "opponent",
+    "id": "SİLİVRİSPOR",
+    "title": "SİLİVRİSPOR",
+    "subtitle": "2 maç",
+    "url": "opponents_index.json",
+    "tokens": [
+      "SİLİVRİSPOR"
+    ]
+  },
+  {
+    "type": "opponent",
+    "id": "SİİRT İL ÖZEL İDARESİ SPOR",
+    "title": "SİİRT İL ÖZEL İDARESİ SPOR",
+    "subtitle": "2 maç",
+    "url": "opponents_index.json",
+    "tokens": [
+      "SİİRT İL ÖZEL İDARESİ SPOR"
+    ]
+  },
+  {
+    "type": "opponent",
+    "id": "T.METAL 1963 SPOR",
+    "title": "T.METAL 1963 SPOR",
+    "subtitle": "2 maç",
+    "url": "opponents_index.json",
+    "tokens": [
+      "T.METAL 1963 SPOR"
+    ]
+  },
+  {
+    "type": "opponent",
+    "id": "TECO KARACABEY BELEDİYE SPOR A.Ş.",
+    "title": "TECO KARACABEY BELEDİYE SPOR A.Ş.",
+    "subtitle": "2 maç",
+    "url": "opponents_index.json",
+    "tokens": [
+      "TECO KARACABEY BELEDİYE SPOR A.Ş."
+    ]
+  },
+  {
+    "type": "opponent",
+    "id": "TOKAT BELEDİYE PLEVNE SPOR",
+    "title": "TOKAT BELEDİYE PLEVNE SPOR",
+    "subtitle": "2 maç",
+    "url": "opponents_index.json",
+    "tokens": [
+      "TOKAT BELEDİYE PLEVNE SPOR"
+    ]
+  },
+  {
+    "type": "opponent",
+    "id": "WEECOINS KIRKLARELİSPOR",
+    "title": "WEECOINS KIRKLARELİSPOR",
+    "subtitle": "2 maç",
+    "url": "opponents_index.json",
+    "tokens": [
+      "WEECOINS KIRKLARELİSPOR"
+    ]
+  },
+  {
+    "type": "opponent",
+    "id": "ZONGULDAK KÖMÜRSPOR A.Ş",
+    "title": "ZONGULDAK KÖMÜRSPOR A.Ş",
+    "subtitle": "2 maç",
+    "url": "opponents_index.json",
+    "tokens": [
+      "ZONGULDAK KÖMÜRSPOR A.Ş"
+    ]
+  },
+  {
+    "type": "opponent",
+    "id": "İNEGÖL KAFKAS SPOR KULÜBÜ",
+    "title": "İNEGÖL KAFKAS SPOR KULÜBÜ",
+    "subtitle": "2 maç",
+    "url": "opponents_index.json",
+    "tokens": [
+      "İNEGÖL KAFKAS SPOR KULÜBÜ"
+    ]
+  },
+  {
+    "type": "opponent",
+    "id": "İSKENDERUNSPOR A.Ş.",
+    "title": "İSKENDERUNSPOR A.Ş.",
+    "subtitle": "2 maç",
+    "url": "opponents_index.json",
+    "tokens": [
+      "İSKENDERUNSPOR A.Ş."
+    ]
+  },
+  {
+    "type": "opponent",
+    "id": "İZMİR ÇORUHLU FUTBOL KULÜBÜ A.Ş.",
+    "title": "İZMİR ÇORUHLU FUTBOL KULÜBÜ A.Ş.",
+    "subtitle": "2 maç",
+    "url": "opponents_index.json",
+    "tokens": [
+      "İZMİR ÇORUHLU FUTBOL KULÜBÜ A.Ş."
+    ]
+  },
+  {
+    "type": "opponent",
+    "id": "AFC KABLO KANALLARI UŞAK SPOR A.Ş.",
+    "title": "AFC KABLO KANALLARI UŞAK SPOR A.Ş.",
+    "subtitle": "1 maç",
+    "url": "opponents_index.json",
+    "tokens": [
+      "AFC KABLO KANALLARI UŞAK SPOR A.Ş."
+    ]
+  },
+  {
+    "type": "opponent",
+    "id": "ALİBEYKÖY",
+    "title": "ALİBEYKÖY",
+    "subtitle": "1 maç",
+    "url": "opponents_index.json",
+    "tokens": [
+      "ALİBEYKÖY"
+    ]
+  },
+  {
+    "type": "opponent",
+    "id": "AMASYASPOR FUTBOL KULÜBÜ",
+    "title": "AMASYASPOR FUTBOL KULÜBÜ",
+    "subtitle": "1 maç",
+    "url": "opponents_index.json",
+    "tokens": [
+      "AMASYASPOR FUTBOL KULÜBÜ"
+    ]
+  },
+  {
+    "type": "opponent",
+    "id": "BURHANIYESPOR",
+    "title": "BURHANIYESPOR",
+    "subtitle": "1 maç",
+    "url": "opponents_index.json",
+    "tokens": [
+      "BURHANIYESPOR"
+    ]
+  },
+  {
+    "type": "opponent",
+    "id": "DENİZLİ İDMANYURDU 1959 SPOR KULÜBÜ",
+    "title": "DENİZLİ İDMANYURDU 1959 SPOR KULÜBÜ",
+    "subtitle": "1 maç",
+    "url": "opponents_index.json",
+    "tokens": [
+      "DENİZLİ İDMANYURDU 1959 SPOR KULÜBÜ"
+    ]
+  },
+  {
+    "type": "opponent",
+    "id": "DENİZLİ İDMANYURDU GÜRELLER SPOR KULÜBÜ",
+    "title": "DENİZLİ İDMANYURDU GÜRELLER SPOR KULÜBÜ",
+    "subtitle": "1 maç",
+    "url": "opponents_index.json",
+    "tokens": [
+      "DENİZLİ İDMANYURDU GÜRELLER SPOR KULÜBÜ"
+    ]
+  },
+  {
+    "type": "opponent",
+    "id": "EDREMITSPOR",
+    "title": "EDREMITSPOR",
+    "subtitle": "1 maç",
+    "url": "opponents_index.json",
+    "tokens": [
+      "EDREMITSPOR"
+    ]
+  },
+  {
+    "type": "opponent",
+    "id": "ETİMESGUT SPOR KULÜBÜ",
+    "title": "ETİMESGUT SPOR KULÜBÜ",
+    "subtitle": "1 maç",
+    "url": "opponents_index.json",
+    "tokens": [
+      "ETİMESGUT SPOR KULÜBÜ"
+    ]
+  },
+  {
+    "type": "opponent",
+    "id": "MUŞ SPOR KULÜBÜ",
+    "title": "MUŞ SPOR KULÜBÜ",
+    "subtitle": "1 maç",
+    "url": "opponents_index.json",
+    "tokens": [
+      "MUŞ SPOR KULÜBÜ"
+    ]
+  },
+  {
+    "type": "opponent",
+    "id": "THY",
+    "title": "THY",
+    "subtitle": "1 maç",
+    "url": "opponents_index.json",
+    "tokens": [
+      "THY"
+    ]
+  },
+  {
+    "type": "opponent",
+    "id": "YALOVA FK 77 SPOR KULÜBÜ",
+    "title": "YALOVA FK 77 SPOR KULÜBÜ",
+    "subtitle": "1 maç",
+    "url": "opponents_index.json",
+    "tokens": [
+      "YALOVA FK 77 SPOR KULÜBÜ"
+    ]
+  },
+  {
+    "type": "opponent",
+    "id": "YURT ET AMASYASPOR FK",
+    "title": "YURT ET AMASYASPOR FK",
+    "subtitle": "1 maç",
+    "url": "opponents_index.json",
+    "tokens": [
+      "YURT ET AMASYASPOR FK"
+    ]
+  },
+  {
+    "type": "opponent",
+    "id": "ÇATALCASPOR",
+    "title": "ÇATALCASPOR",
+    "subtitle": "1 maç",
+    "url": "opponents_index.json",
+    "tokens": [
+      "ÇATALCASPOR"
+    ]
+  },
+  {
+    "type": "opponent",
+    "id": "İDAŞ ÇATALCASPOR",
+    "title": "İDAŞ ÇATALCASPOR",
+    "subtitle": "1 maç",
+    "url": "opponents_index.json",
+    "tokens": [
+      "İDAŞ ÇATALCASPOR"
     ]
   }
 ]

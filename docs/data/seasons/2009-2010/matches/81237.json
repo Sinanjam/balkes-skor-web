@@ -1,0 +1,315 @@
+{
+  "id": "81237",
+  "tff_match_id": "81237",
+  "season": "2009-2010",
+  "competition": "TFF 3. League Phase 1 (Professional Team)",
+  "roundType": "league",
+  "week": 1,
+  "stage": "1. Maç",
+  "date": "2009-11-25",
+  "time": "13:30",
+  "dateDisplay": "25.11.2009 - 13:30",
+  "homeTeam": "Balıkesirspor",
+  "awayTeam": "ALİBEYKÖY",
+  "homeTeamRaw": "BALIKESİRSPOR",
+  "awayTeamRaw": "ALİBEYKÖY",
+  "score": {
+    "home": 2,
+    "away": 0,
+    "display": "2-0",
+    "played": true
+  },
+  "balkes": {
+    "isHome": true,
+    "opponent": "ALİBEYKÖY",
+    "goalsFor": 2,
+    "goalsAgainst": 0,
+    "result": "W"
+  },
+  "detailUrl": "seasons/2009-2010/matches/81237.json",
+  "source": {
+    "name": "TFF",
+    "url": "https://www.tff.org/Default.aspx?macId=81237&pageID=528"
+  },
+  "match_code": "4072",
+  "venue": "BALIKESİR ATATÜRK",
+  "referees": [
+    {
+      "name": "ÖMER MURAT ÜLGER",
+      "role": "Referee"
+    },
+    {
+      "name": "CELİL DOĞRUYOL",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "ESER ETİ",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "EROL EROĞLU",
+      "role": "Fourth Official"
+    },
+    {
+      "name": "BIROL BUDAN",
+      "role": "Observer"
+    },
+    {
+      "name": "BÜLENT CEVATEMRE",
+      "role": "Delegate"
+    },
+    {
+      "name": "BÜLENT BAYAZIT",
+      "role": "Delegate"
+    }
+  ],
+  "lineups": {
+    "home": {
+      "team": "Balıkesirspor",
+      "team_raw": "BALIKESİRSPOR",
+      "starting11": [
+        {
+          "shirt_no": "1.",
+          "name": "HÜSEYİN VOLKAN CANBOLAT"
+        },
+        {
+          "shirt_no": "2.",
+          "name": "UĞUR ARSLAN KURU"
+        },
+        {
+          "shirt_no": "3.",
+          "name": "CİHAN ERDİL"
+        },
+        {
+          "shirt_no": "4.",
+          "name": "MEHMET MURAT GÜLBABA"
+        },
+        {
+          "shirt_no": "5.",
+          "name": "ERHAN KAYAR"
+        },
+        {
+          "shirt_no": "6.",
+          "name": "UĞUR KAPISIZ"
+        },
+        {
+          "shirt_no": "7.",
+          "name": "EMRE İŞÇİLER"
+        },
+        {
+          "shirt_no": "8.",
+          "name": "BERKAY GÜNAY"
+        },
+        {
+          "shirt_no": "9.",
+          "name": "ALİ ÖZTÜRK"
+        },
+        {
+          "shirt_no": "10.",
+          "name": "YUNUS İÇUZ"
+        },
+        {
+          "shirt_no": "11.",
+          "name": "SİNAN UZUN"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "12.",
+          "name": "ERTUĞRUL FURKAN"
+        },
+        {
+          "shirt_no": "13.",
+          "name": "UMUT BAYSAL"
+        },
+        {
+          "shirt_no": "14.",
+          "name": "DENİZ AYDOĞDU"
+        },
+        {
+          "shirt_no": "15.",
+          "name": "TUĞRUL GÖKSEL"
+        },
+        {
+          "shirt_no": "16.",
+          "name": "EMRE BAYRAKTARBAŞI"
+        },
+        {
+          "shirt_no": "17.",
+          "name": "EMİN AKBAŞ"
+        },
+        {
+          "shirt_no": "18.",
+          "name": "ZİHNİ AYDIN"
+        }
+      ],
+      "coach": "ERGUN ORTAKCI"
+    },
+    "away": {
+      "team": "ALİBEYKÖY",
+      "team_raw": "ALİBEYKÖY",
+      "starting11": [
+        {
+          "shirt_no": "16.",
+          "name": "HALUK ŞAFAK"
+        },
+        {
+          "shirt_no": "22.",
+          "name": "SELİM DURGUTLU"
+        },
+        {
+          "shirt_no": "43.",
+          "name": "MURAT ŞAYLIĞ"
+        },
+        {
+          "shirt_no": "80.",
+          "name": "BERENT YERDAK"
+        },
+        {
+          "shirt_no": "5.",
+          "name": "İSMAİL ERDEM"
+        },
+        {
+          "shirt_no": "55.",
+          "name": "MURAT AKÇAY"
+        },
+        {
+          "shirt_no": "6.",
+          "name": "TARIK KARADERİLİ"
+        },
+        {
+          "shirt_no": "35.",
+          "name": "KAYAHAN KÖYLÜ"
+        },
+        {
+          "shirt_no": "10.",
+          "name": "GÖKHAN YAZİCİ"
+        },
+        {
+          "shirt_no": "17.",
+          "name": "ÖMER DÜNDAROĞLU"
+        },
+        {
+          "shirt_no": "99.",
+          "name": "ÖNDER KILIÇ"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "14.",
+          "name": "ERDOĞAN ÖZCAN"
+        },
+        {
+          "shirt_no": "9.",
+          "name": "TAYFUN FİŞEK"
+        },
+        {
+          "shirt_no": "61.",
+          "name": "CANDAŞ AYAZOĞLU"
+        },
+        {
+          "shirt_no": "34.",
+          "name": "MUHAMMET ALİ KARA"
+        },
+        {
+          "shirt_no": "53.",
+          "name": "ALİ HATİPOĞLU"
+        },
+        {
+          "shirt_no": "33.",
+          "name": "MEHMET BALLI"
+        },
+        {
+          "shirt_no": "62.",
+          "name": "UĞUR DALMIŞ"
+        }
+      ],
+      "coach": "MESUT DEMİR"
+    }
+  },
+  "events": [
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "YUNUS İÇUZ",
+      "minute": 29,
+      "minute_text": "29. dk"
+    },
+    {
+      "type": "goal",
+      "player": "BERKAY GÜNAY",
+      "minute": 30,
+      "minute_text": "30. dk",
+      "note": "Ayak",
+      "team": "Balıkesirspor"
+    },
+    {
+      "type": "card",
+      "team": "ALİBEYKÖY",
+      "player": "TARIK KARADERİLİ",
+      "minute": 39,
+      "minute_text": "39. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "ALİBEYKÖY",
+      "player_out": "TARIK KARADERİLİ",
+      "player_in": "CANDAŞ AYAZOĞLU",
+      "minute": 46,
+      "minute_text": "46. dk"
+    },
+    {
+      "type": "goal",
+      "player": "SİNAN UZUN",
+      "minute": 48,
+      "minute_text": "48. dk",
+      "note": "Ayak",
+      "team": "Balıkesirspor"
+    },
+    {
+      "type": "substitution",
+      "team": "ALİBEYKÖY",
+      "player_out": "İSMAİL ERDEM",
+      "player_in": "MEHMET BALLI",
+      "minute": 60,
+      "minute_text": "60. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "SİNAN UZUN",
+      "player_in": "TUĞRUL GÖKSEL",
+      "minute": 70,
+      "minute_text": "70. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "ALİBEYKÖY",
+      "player_out": "BERENT YERDAK",
+      "player_in": "TAYFUN FİŞEK",
+      "minute": 75,
+      "minute_text": "75. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "BERKAY GÜNAY",
+      "player_in": "ZİHNİ AYDIN",
+      "minute": 80,
+      "minute_text": "80. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "YUNUS İÇUZ",
+      "player_in": "EMRE BAYRAKTARBAŞI",
+      "minute": 85,
+      "minute_text": "85. dk"
+    }
+  ],
+  "dataQuality": {
+    "lineupsAvailable": true,
+    "eventsAvailable": true,
+    "sourceType": "tff_detail_page"
+  }
+}

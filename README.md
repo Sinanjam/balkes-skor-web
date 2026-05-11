@@ -1,13 +1,32 @@
 # Balkes Skor Web
 
-GitHub Pages statik web sitesi.
+Premium karanlık temalı GitHub Pages sitesi.
 
-- Site: https://sinanjam.github.io/balkes-skor-web/
-- Android beta APK: https://github.com/Sinanjam/balkes-skor/releases/latest/download/BalkesSkor-beta-debug.apk
-- Sayaç: https://balkesskor.goatcounter.com/count
-- Veri kaynağı: Balkes Skor Android reposundaki data/ klasörü
+## Yayınlama
 
-## Yayın
+Fish veya Bash içinde:
 
-GitHub Pages kaynağı: main branch /docs
+```fish
+cd ~/Downloads/balkes-skor-web-v0.5-premium-package
+bash ./BUILD_PUBLISH_BALKES_SKOR_WEB.sh ~/Downloads/balkes-skor ~/Downloads/balkes-skor-web
+```
 
+Script geçici Nix ortamında `git` ve `gh` kullanır. GitHub Actions yoktur.
+
+Önceden bir kez giriş gerekebilir:
+
+```fish
+nix-shell -p gh --run 'gh auth login'
+```
+
+## Site
+
+https://sinanjam.github.io/balkes-skor-web/
+
+## Sayaç
+
+GoatCounter kodu siteye eklidir:
+
+```html
+<script data-goatcounter="https://balkesskor.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+```

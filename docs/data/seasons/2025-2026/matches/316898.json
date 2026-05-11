@@ -5,7 +5,7 @@
   "competition": "Nesine 3. Lig Play Off Müsabakaları (Profesyonel Takım) (1.Tur)",
   "group": null,
   "roundType": "playoff",
-  "week": null,
+  "week": 32,
   "stage": "1.Tur Maçları",
   "date": "2026-04-24",
   "time": "20:00",
@@ -759,5 +759,6 @@
     "goalsFor": 2,
     "goalsAgainst": 1,
     "result": "W"
-  }
+  },
+  "detailUrl": "seasons/2025-2026/matches/316898.json"
 }

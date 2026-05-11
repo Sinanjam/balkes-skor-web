@@ -1,0 +1,389 @@
+{
+  "id": "251300",
+  "tff_match_id": "251300",
+  "season": "2023-2024",
+  "competition": "TFF 3. LEAGUE (Professional Team)",
+  "roundType": "league",
+  "week": 19,
+  "stage": "19. Maç",
+  "date": "2024-02-18",
+  "time": "14:00",
+  "dateDisplay": "18.02.2024 - 14:00",
+  "homeTeam": "Balıkesirspor",
+  "awayTeam": "MUŞ 1984 MUŞSPOR",
+  "homeTeamRaw": "BALIKESİRSPOR",
+  "awayTeamRaw": "MUŞ 1984 MUŞSPOR",
+  "score": {
+    "home": 0,
+    "away": 0,
+    "display": "0-0",
+    "played": true
+  },
+  "balkes": {
+    "isHome": true,
+    "opponent": "MUŞ 1984 MUŞSPOR",
+    "goalsFor": 0,
+    "goalsAgainst": 0,
+    "result": "D"
+  },
+  "detailUrl": "seasons/2023-2024/matches/251300.json",
+  "source": {
+    "name": "TFF",
+    "url": "https://www.tff.org/Default.aspx?macId=251300&pageID=528"
+  },
+  "match_code": "4766",
+  "venue": "BALIKESİR ATATÜRK - BALIKESİR",
+  "referees": [
+    {
+      "name": "MUHAMMED MEHMETCAN SÖYLEMEZ",
+      "role": "Referee"
+    },
+    {
+      "name": "ÖMER AKMAN",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "RECEP GÜNDÜZ",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "RECEP AFŞİN",
+      "role": "Fourth Official"
+    },
+    {
+      "name": "ABDULKERİM TÖR",
+      "role": "Observer"
+    },
+    {
+      "name": "ÜNAL AKÇA",
+      "role": "Delegate"
+    },
+    {
+      "name": "HAKAN HALICI",
+      "role": "Delegate"
+    }
+  ],
+  "lineups": {
+    "home": {
+      "team": "Balıkesirspor",
+      "team_raw": "BALIKESİRSPOR",
+      "starting11": [
+        {
+          "shirt_no": "12.",
+          "name": "HÜSEYİN ALTINTAŞ"
+        },
+        {
+          "shirt_no": "6.",
+          "name": "BERAT AYDOĞDU"
+        },
+        {
+          "shirt_no": "29.",
+          "name": "ABDURRAHMAN AYHANOĞLU"
+        },
+        {
+          "shirt_no": "88.",
+          "name": "UTKAN GÖKÇEN"
+        },
+        {
+          "shirt_no": "15.",
+          "name": "ASIM HAMZAÇEBİ"
+        },
+        {
+          "shirt_no": "96.",
+          "name": "BERTUĞ BAYAR"
+        },
+        {
+          "shirt_no": "41.",
+          "name": "KORAY BAYKARA"
+        },
+        {
+          "shirt_no": "20.",
+          "name": "DOĞANAY AVCI"
+        },
+        {
+          "shirt_no": "28.",
+          "name": "BİLAL ŞEFLEK"
+        },
+        {
+          "shirt_no": "77.",
+          "name": "BATUHAN SÜER"
+        },
+        {
+          "shirt_no": "66.",
+          "name": "KADİR TORBACI"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "1.",
+          "name": "YİĞİTHAN KIR"
+        },
+        {
+          "shirt_no": "40.",
+          "name": "ERKAN SÜER"
+        },
+        {
+          "shirt_no": "7.",
+          "name": "ALİ SAY"
+        },
+        {
+          "shirt_no": "5.",
+          "name": "KAĞAN KAYALI"
+        },
+        {
+          "shirt_no": "55.",
+          "name": "OKTAY BALA"
+        },
+        {
+          "shirt_no": "47.",
+          "name": "MEHMET ASLAN"
+        },
+        {
+          "shirt_no": "11.",
+          "name": "ARDA İBRAHİM AKGÜN"
+        },
+        {
+          "shirt_no": "14.",
+          "name": "HAKAN AKGÜL"
+        },
+        {
+          "shirt_no": "70.",
+          "name": "GÖKSU MUTLU"
+        },
+        {
+          "shirt_no": "37.",
+          "name": "MUHAMMET HAŞİM ÇOBAN"
+        }
+      ],
+      "coach": "İSMAİL CEM CAMBAZ"
+    },
+    "away": {
+      "team": "MUŞ 1984 MUŞSPOR",
+      "team_raw": "MUŞ 1984 MUŞSPOR",
+      "starting11": [
+        {
+          "shirt_no": "53.",
+          "name": "İLKER GÜNAY"
+        },
+        {
+          "shirt_no": "2.",
+          "name": "SALİH ZAFER KURŞUNLU"
+        },
+        {
+          "shirt_no": "5.",
+          "name": "EFE KARAOĞLU"
+        },
+        {
+          "shirt_no": "8.",
+          "name": "MAHSUN ÇAPKAN"
+        },
+        {
+          "shirt_no": "9.",
+          "name": "İLKER AVŞAR"
+        },
+        {
+          "shirt_no": "45.",
+          "name": "MEHMET ERSAVAŞ"
+        },
+        {
+          "shirt_no": "11.",
+          "name": "MERVAN YUSUF YİĞİT"
+        },
+        {
+          "shirt_no": "16.",
+          "name": "EBU SIDDIK ÇELİK"
+        },
+        {
+          "shirt_no": "18.",
+          "name": "FURKAN GEDİK"
+        },
+        {
+          "shirt_no": "99.",
+          "name": "YUSUF YILDIRIM"
+        },
+        {
+          "shirt_no": "88.",
+          "name": "KADİR YAZICI"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "35.",
+          "name": "EGEBERK GABEL"
+        },
+        {
+          "shirt_no": "4.",
+          "name": "MEHMET ASLANBOĞA"
+        },
+        {
+          "shirt_no": "6.",
+          "name": "ATALAY GÜREL"
+        },
+        {
+          "shirt_no": "7.",
+          "name": "BERTUĞ BAŞDEMİR"
+        },
+        {
+          "shirt_no": "20.",
+          "name": "TAHA TUNÇ"
+        },
+        {
+          "shirt_no": "24.",
+          "name": "OZAN PAPAKER"
+        },
+        {
+          "shirt_no": "41.",
+          "name": "MUHAMMET FATİH YILDIRIM"
+        },
+        {
+          "shirt_no": "10.",
+          "name": "AHMET ABDULLAH ÇAKMAK"
+        },
+        {
+          "shirt_no": "49.",
+          "name": "ÖMER ÇETİNBAŞ"
+        },
+        {
+          "shirt_no": "22.",
+          "name": "OSMAN KOCAAĞA"
+        }
+      ],
+      "coach": "KADİR KAR"
+    }
+  },
+  "events": [
+    {
+      "type": "card",
+      "team": "MUŞ 1984 MUŞSPOR",
+      "player": "EFE KARAOĞLU",
+      "minute": 34,
+      "minute_text": "34. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "KADİR TORBACI",
+      "minute": 40,
+      "minute_text": "40. dk"
+    },
+    {
+      "type": "card",
+      "team": "MUŞ 1984 MUŞSPOR",
+      "player": "EBU SIDDIK ÇELİK",
+      "minute": 40,
+      "minute_text": "40. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "KADİR TORBACI",
+      "player_in": "ALİ SAY",
+      "minute": 46,
+      "minute_text": "46. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "MUŞ 1984 MUŞSPOR",
+      "player_out": "EBU SIDDIK ÇELİK",
+      "player_in": "ÖMER ÇETİNBAŞ",
+      "minute": 58,
+      "minute_text": "58. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "MUŞ 1984 MUŞSPOR",
+      "player_out": "MEHMET ERSAVAŞ",
+      "player_in": "BERTUĞ BAŞDEMİR",
+      "minute": 63,
+      "minute_text": "63. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "MUŞ 1984 MUŞSPOR",
+      "player_out": "İLKER AVŞAR",
+      "player_in": "OZAN PAPAKER",
+      "minute": 63,
+      "minute_text": "63. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "ERKAN SÜER",
+      "minute": 64,
+      "minute_text": "64. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "ABDURRAHMAN AYHANOĞLU",
+      "minute": 66,
+      "minute_text": "66. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "DOĞANAY AVCI",
+      "player_in": "ARDA İBRAHİM AKGÜN",
+      "minute": 69,
+      "minute_text": "69. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "BİLAL ŞEFLEK",
+      "player_in": "MUHAMMET HAŞİM ÇOBAN",
+      "minute": 75,
+      "minute_text": "75. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "BATUHAN SÜER",
+      "player_in": "ERKAN SÜER",
+      "minute": 75,
+      "minute_text": "75. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "ARDA İBRAHİM AKGÜN",
+      "minute": 85,
+      "minute_text": "85. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "MUŞ 1984 MUŞSPOR",
+      "player_out": "MERVAN YUSUF YİĞİT",
+      "player_in": "AHMET ABDULLAH ÇAKMAK",
+      "minute": 86,
+      "minute_text": "86. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "BERTUĞ BAYAR",
+      "player_in": "OKTAY BALA",
+      "minute": 89,
+      "minute_text": "89. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "BERAT AYDOĞDU",
+      "minute": 90.4,
+      "minute_text": "90+4. dk"
+    },
+    {
+      "type": "card",
+      "team": "MUŞ 1984 MUŞSPOR",
+      "player": "OZAN PAPAKER",
+      "minute": 90.4,
+      "minute_text": "90+4. dk"
+    }
+  ],
+  "dataQuality": {
+    "lineupsAvailable": true,
+    "eventsAvailable": true,
+    "sourceType": "tff_detail_page"
+  }
+}

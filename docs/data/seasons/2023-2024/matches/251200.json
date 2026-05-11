@@ -1,0 +1,348 @@
+{
+  "id": "251200",
+  "tff_match_id": "251200",
+  "season": "2023-2024",
+  "competition": "TFF 3. LEAGUE (Professional Team)",
+  "roundType": "league",
+  "week": 6,
+  "stage": "6. Maç",
+  "date": "2023-10-15",
+  "time": "19:00",
+  "dateDisplay": "15.10.2023 - 19:00",
+  "homeTeam": "Balıkesirspor",
+  "awayTeam": "ARMONİ ALANYA KESTELSPOR",
+  "homeTeamRaw": "BALIKESİRSPOR",
+  "awayTeamRaw": "ARMONİ ALANYA KESTELSPOR",
+  "score": {
+    "home": 0,
+    "away": 0,
+    "display": "0-0",
+    "played": true
+  },
+  "balkes": {
+    "isHome": true,
+    "opponent": "ARMONİ ALANYA KESTELSPOR",
+    "goalsFor": 0,
+    "goalsAgainst": 0,
+    "result": "D"
+  },
+  "detailUrl": "seasons/2023-2024/matches/251200.json",
+  "source": {
+    "name": "TFF",
+    "url": "https://www.tff.org/Default.aspx?macId=251200&pageID=528"
+  },
+  "match_code": "4666",
+  "venue": "BALIKESİR ATATÜRK - BALIKESİR",
+  "referees": [
+    {
+      "name": "YAKUP BAKIR",
+      "role": "Referee"
+    },
+    {
+      "name": "YAKUP BULUT",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "ERDOĞAN SERTAN AKMAN",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "İRFAN ÇAĞRI BAŞ",
+      "role": "Fourth Official"
+    },
+    {
+      "name": "MAHMUT KOCA",
+      "role": "Observer"
+    },
+    {
+      "name": "BÜLENT KAR",
+      "role": "Delegate"
+    },
+    {
+      "name": "ÖZGÜR NİHAT DÖNMEZ",
+      "role": "Delegate"
+    }
+  ],
+  "lineups": {
+    "home": {
+      "team": "Balıkesirspor",
+      "team_raw": "BALIKESİRSPOR",
+      "starting11": [
+        {
+          "shirt_no": "12.",
+          "name": "HÜSEYİN ALTINTAŞ"
+        },
+        {
+          "shirt_no": "21.",
+          "name": "MUHSİN YILDIRIM"
+        },
+        {
+          "shirt_no": "70.",
+          "name": "GÖKSU MUTLU"
+        },
+        {
+          "shirt_no": "4.",
+          "name": "BİROL PARLAK"
+        },
+        {
+          "shirt_no": "6.",
+          "name": "BERAT AYDOĞDU"
+        },
+        {
+          "shirt_no": "15.",
+          "name": "ASIM HAMZAÇEBİ"
+        },
+        {
+          "shirt_no": "40.",
+          "name": "ERKAN SÜER"
+        },
+        {
+          "shirt_no": "10.",
+          "name": "SEDAT YİĞİT KURNAZ"
+        },
+        {
+          "shirt_no": "7.",
+          "name": "BERKAY AYKURT"
+        },
+        {
+          "shirt_no": "27.",
+          "name": "RAHMİ ANIL BAŞARAN"
+        },
+        {
+          "shirt_no": "11.",
+          "name": "ARDA İBRAHİM AKGÜN"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "1.",
+          "name": "YİĞİTHAN KIR"
+        },
+        {
+          "shirt_no": "88.",
+          "name": "UTKAN GÖKÇEN"
+        },
+        {
+          "shirt_no": "5.",
+          "name": "KAĞAN KAYALI"
+        },
+        {
+          "shirt_no": "54.",
+          "name": "ÖMER FARUK YAYLACI"
+        },
+        {
+          "shirt_no": "14.",
+          "name": "HAKAN AKGÜL"
+        },
+        {
+          "shirt_no": "18.",
+          "name": "GÖRKEM KIRAN"
+        },
+        {
+          "shirt_no": "53.",
+          "name": "DOĞUKAN SARAL"
+        },
+        {
+          "shirt_no": "20.",
+          "name": "DOĞANAY AVCI"
+        },
+        {
+          "shirt_no": "55.",
+          "name": "OKTAY BALA"
+        },
+        {
+          "shirt_no": "9.",
+          "name": "BERKE DOĞUKAN ÖNDE"
+        }
+      ],
+      "coach": "MEHMET DEMİRTAŞ"
+    },
+    "away": {
+      "team": "ARMONİ ALANYA KESTELSPOR",
+      "team_raw": "ARMONİ ALANYA KESTELSPOR",
+      "starting11": [
+        {
+          "shirt_no": "99.",
+          "name": "UMUTCAN YENİSOY"
+        },
+        {
+          "shirt_no": "5.",
+          "name": "EMRE TOSUN"
+        },
+        {
+          "shirt_no": "9.",
+          "name": "SAMET BULUT"
+        },
+        {
+          "shirt_no": "10.",
+          "name": "MUSTAFA YILMAZ"
+        },
+        {
+          "shirt_no": "15.",
+          "name": "BARIŞ ŞEN"
+        },
+        {
+          "shirt_no": "20.",
+          "name": "ALP HUY"
+        },
+        {
+          "shirt_no": "21.",
+          "name": "DOĞUKAN EFE"
+        },
+        {
+          "shirt_no": "23.",
+          "name": "ERHAN KARAYER"
+        },
+        {
+          "shirt_no": "24.",
+          "name": "BERKAY ARSLAN"
+        },
+        {
+          "shirt_no": "35.",
+          "name": "UMUT CAN ÇOBAN"
+        },
+        {
+          "shirt_no": "77.",
+          "name": "HAZARHAN KARACA"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "28.",
+          "name": "ENES SANCAR ŞAHİN"
+        },
+        {
+          "shirt_no": "94.",
+          "name": "EMİN EMİR KAVASOĞLU"
+        },
+        {
+          "shirt_no": "2.",
+          "name": "HARUN KAYA"
+        },
+        {
+          "shirt_no": "6.",
+          "name": "EREN TAŞTAN"
+        },
+        {
+          "shirt_no": "7.",
+          "name": "KADİR CAN GÜNDOĞDU"
+        },
+        {
+          "shirt_no": "8.",
+          "name": "ALHAN KURTOĞLU"
+        },
+        {
+          "shirt_no": "11.",
+          "name": "İLKAN ATAK"
+        },
+        {
+          "shirt_no": "17.",
+          "name": "İSA GÜLER"
+        },
+        {
+          "shirt_no": "70.",
+          "name": "BERKAY ARI"
+        }
+      ],
+      "coach": "GÖKHAN KILAVUZ"
+    }
+  },
+  "events": [
+    {
+      "type": "substitution",
+      "team": "ARMONİ ALANYA KESTELSPOR",
+      "player_out": "HAZARHAN KARACA",
+      "player_in": "İSA GÜLER",
+      "minute": 46,
+      "minute_text": "46. dk"
+    },
+    {
+      "type": "card",
+      "team": "ARMONİ ALANYA KESTELSPOR",
+      "player": "SAMET BULUT",
+      "minute": 47,
+      "minute_text": "47. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "ARMONİ ALANYA KESTELSPOR",
+      "player_out": "BARIŞ ŞEN",
+      "player_in": "İLKAN ATAK",
+      "minute": 58,
+      "minute_text": "58. dk"
+    },
+    {
+      "type": "card",
+      "team": "ARMONİ ALANYA KESTELSPOR",
+      "player": "BERKAY ARSLAN",
+      "minute": 62,
+      "minute_text": "62. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "ASIM HAMZAÇEBİ",
+      "minute": 66,
+      "minute_text": "66. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "BİROL PARLAK",
+      "player_in": "ÖMER FARUK YAYLACI",
+      "minute": 67,
+      "minute_text": "67. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "RAHMİ ANIL BAŞARAN",
+      "player_in": "DOĞANAY AVCI",
+      "minute": 74,
+      "minute_text": "74. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "ARDA İBRAHİM AKGÜN",
+      "player_in": "DOĞUKAN SARAL",
+      "minute": 74,
+      "minute_text": "74. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "DOĞANAY AVCI",
+      "minute": 81,
+      "minute_text": "81. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "HÜSEYİN ALTINTAŞ",
+      "minute": 84,
+      "minute_text": "84. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "ERKAN SÜER",
+      "player_in": "OKTAY BALA",
+      "minute": 90,
+      "minute_text": "90. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "BERKAY AYKURT",
+      "player_in": "HAKAN AKGÜL",
+      "minute": 90,
+      "minute_text": "90. dk"
+    }
+  ],
+  "dataQuality": {
+    "lineupsAvailable": true,
+    "eventsAvailable": true,
+    "sourceType": "tff_detail_page"
+  }
+}

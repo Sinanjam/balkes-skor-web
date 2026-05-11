@@ -1,0 +1,393 @@
+{
+  "id": "235880",
+  "tff_match_id": "235880",
+  "season": "2022-2023",
+  "competition": "TFF 2.League (Professional Team)",
+  "roundType": "league",
+  "week": 30,
+  "stage": "30. Maç",
+  "date": "2023-04-02",
+  "time": "15:00",
+  "dateDisplay": "2.04.2023 - 15:00",
+  "homeTeam": "Balıkesirspor",
+  "awayTeam": "BUCASPOR 1928",
+  "homeTeamRaw": "BAYNET İNŞAAT BALIKESİRSPOR",
+  "awayTeamRaw": "BUCASPOR 1928",
+  "score": {
+    "home": 0,
+    "away": 3,
+    "display": "0-3",
+    "played": true
+  },
+  "balkes": {
+    "isHome": true,
+    "opponent": "BUCASPOR 1928",
+    "goalsFor": 0,
+    "goalsAgainst": 3,
+    "result": "L"
+  },
+  "detailUrl": "seasons/2022-2023/matches/235880.json",
+  "source": {
+    "name": "TFF",
+    "url": "https://www.tff.org/Default.aspx?macId=235880&pageID=528"
+  },
+  "match_code": "3491",
+  "venue": "BALIKESİR ATATÜRK - BALIKESİR",
+  "referees": [
+    {
+      "name": "ERHAN KUTLU",
+      "role": "Referee"
+    },
+    {
+      "name": "ORHAN TİMURTAŞ",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "RECEP GÜNDÜZ",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "MUAMMER SARIDAĞ",
+      "role": "Fourth Official"
+    },
+    {
+      "name": "ALİ ZAĞLI",
+      "role": "Observer"
+    },
+    {
+      "name": "AYDIN BALKANLI",
+      "role": "Delegate"
+    },
+    {
+      "name": "OSMAN AKARSU",
+      "role": "Delegate"
+    }
+  ],
+  "lineups": {
+    "home": {
+      "team": "Balıkesirspor",
+      "team_raw": "BAYNET İNŞAAT BALIKESİRSPOR",
+      "starting11": [
+        {
+          "shirt_no": "26.",
+          "name": "YASİN YİĞİT BERBER"
+        },
+        {
+          "shirt_no": "3.",
+          "name": "BERAT AYDOĞDU"
+        },
+        {
+          "shirt_no": "4.",
+          "name": "BİROL PARLAK"
+        },
+        {
+          "shirt_no": "5.",
+          "name": "SEDAT DURSUN"
+        },
+        {
+          "shirt_no": "10.",
+          "name": "OĞUZ HAN AYNAOĞLU"
+        },
+        {
+          "shirt_no": "15.",
+          "name": "KAĞAN KAYALI"
+        },
+        {
+          "shirt_no": "21.",
+          "name": "SEDAT YİĞİT KURNAZ"
+        },
+        {
+          "shirt_no": "39.",
+          "name": "HÜSEYİN KARABEY"
+        },
+        {
+          "shirt_no": "63.",
+          "name": "İBRAHİM HALİL ÇOLAK"
+        },
+        {
+          "shirt_no": "97.",
+          "name": "BERKAY AYKURT"
+        },
+        {
+          "shirt_no": "99.",
+          "name": "EMİRHAN ÇAKIR"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "1.",
+          "name": "YİĞİTHAN KIR"
+        },
+        {
+          "shirt_no": "7.",
+          "name": "ANDAÇ GÜLERYÜZ"
+        },
+        {
+          "shirt_no": "20.",
+          "name": "BERK TOSUN"
+        },
+        {
+          "shirt_no": "23.",
+          "name": "ENES KARABULUT"
+        },
+        {
+          "shirt_no": "25.",
+          "name": "ABDULLAH ADIYAMAN"
+        },
+        {
+          "shirt_no": "27.",
+          "name": "DOĞANAY AVCI"
+        },
+        {
+          "shirt_no": "33.",
+          "name": "GÜNEY ÇELİK KELEŞ"
+        },
+        {
+          "shirt_no": "44.",
+          "name": "GÖRKEM ALTUN"
+        },
+        {
+          "shirt_no": "61.",
+          "name": "HASAN CAN BİNGÜL"
+        },
+        {
+          "shirt_no": "67.",
+          "name": "ARDA İBRAHİM AKGÜN"
+        }
+      ],
+      "coach": "CAN CANGÖK"
+    },
+    "away": {
+      "team": "BUCASPOR 1928",
+      "team_raw": "BUCASPOR 1928",
+      "starting11": [
+        {
+          "shirt_no": "77.",
+          "name": "KIVANÇ KÜÇÜKKARIŞ"
+        },
+        {
+          "shirt_no": "2.",
+          "name": "MAZLUM DEMİR"
+        },
+        {
+          "shirt_no": "4.",
+          "name": "LOKMAN GÖR"
+        },
+        {
+          "shirt_no": "6.",
+          "name": "AHMET ASLAN"
+        },
+        {
+          "shirt_no": "29.",
+          "name": "İLHAN DEPE"
+        },
+        {
+          "shirt_no": "31.",
+          "name": "SADIK BAŞ"
+        },
+        {
+          "shirt_no": "35.",
+          "name": "MUSA ÇAĞIRAN"
+        },
+        {
+          "shirt_no": "54.",
+          "name": "ALPER KADİR DURUK"
+        },
+        {
+          "shirt_no": "89.",
+          "name": "ERHAN ÇELENK"
+        },
+        {
+          "shirt_no": "96.",
+          "name": "ÇAĞRI GİRİTLİOĞLU"
+        },
+        {
+          "shirt_no": "99.",
+          "name": "MEHMET FUAT GÖLBAŞI"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "26.",
+          "name": "ALP TUTAR"
+        },
+        {
+          "shirt_no": "3.",
+          "name": "ABDULLAH BALIKUV"
+        },
+        {
+          "shirt_no": "5.",
+          "name": "ONUR ÖZCAN"
+        },
+        {
+          "shirt_no": "7.",
+          "name": "BERKE BIYIK"
+        },
+        {
+          "shirt_no": "10.",
+          "name": "TAŞKIN ÇALIŞ"
+        },
+        {
+          "shirt_no": "11.",
+          "name": "RECEP GÜL"
+        },
+        {
+          "shirt_no": "14.",
+          "name": "İRFAN AKGÜN"
+        },
+        {
+          "shirt_no": "30.",
+          "name": "ERHAN ŞENTÜRK"
+        },
+        {
+          "shirt_no": "33.",
+          "name": "ENES ALIÇ"
+        },
+        {
+          "shirt_no": "61.",
+          "name": "SARUHAN FINDIKCI"
+        }
+      ],
+      "coach": "SAİT KARAFIRTINALAR"
+    }
+  },
+  "events": [
+    {
+      "type": "substitution",
+      "team": "BUCASPOR 1928",
+      "player_out": "İLHAN DEPE",
+      "player_in": "SARUHAN FINDIKCI",
+      "minute": 46,
+      "minute_text": "46. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "BUCASPOR 1928",
+      "player_out": "SADIK BAŞ",
+      "player_in": "ERHAN ŞENTÜRK",
+      "minute": 46,
+      "minute_text": "46. dk"
+    },
+    {
+      "type": "card",
+      "team": "BUCASPOR 1928",
+      "player": "MAZLUM DEMİR",
+      "minute": 50,
+      "minute_text": "50. dk"
+    },
+    {
+      "type": "goal",
+      "player": "ERHAN ÇELENK",
+      "minute": 56,
+      "minute_text": "56. dk",
+      "note": "Ayak",
+      "team": "BUCASPOR 1928"
+    },
+    {
+      "type": "goal",
+      "player": "BERKE BIYIK",
+      "minute": 58,
+      "minute_text": "58. dk",
+      "note": "Ayak",
+      "team": "BUCASPOR 1928"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "BERKAY AYKURT",
+      "player_in": "DOĞANAY AVCI",
+      "minute": 59,
+      "minute_text": "59. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "OĞUZ HAN AYNAOĞLU",
+      "player_in": "BERK TOSUN",
+      "minute": 59,
+      "minute_text": "59. dk"
+    },
+    {
+      "type": "goal",
+      "player": "MEHMET FUAT GÖLBAŞI",
+      "minute": 68,
+      "minute_text": "68. dk",
+      "note": "Ayak",
+      "team": "BUCASPOR 1928"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "İBRAHİM HALİL ÇOLAK",
+      "player_in": "GÜNEY ÇELİK KELEŞ",
+      "minute": 70,
+      "minute_text": "70. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "HÜSEYİN KARABEY",
+      "minute": 71,
+      "minute_text": "71. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "BUCASPOR 1928",
+      "player_out": "MUSA ÇAĞIRAN",
+      "player_in": "İRFAN AKGÜN",
+      "minute": 72,
+      "minute_text": "72. dk"
+    },
+    {
+      "type": "card",
+      "team": "BUCASPOR 1928",
+      "player": "LOKMAN GÖR",
+      "minute": 75,
+      "minute_text": "75. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "BUCASPOR 1928",
+      "player_out": "MEHMET FUAT GÖLBAŞI",
+      "player_in": "BERKE BIYIK",
+      "minute": 76,
+      "minute_text": "76. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "BERAT AYDOĞDU",
+      "minute": 79,
+      "minute_text": "79. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "SEDAT YİĞİT KURNAZ",
+      "player_in": "HASAN CAN BİNGÜL",
+      "minute": 82,
+      "minute_text": "82. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "HÜSEYİN KARABEY",
+      "player_in": "ABDULLAH ADIYAMAN",
+      "minute": 82,
+      "minute_text": "82. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "BUCASPOR 1928",
+      "player_out": "AHMET ASLAN",
+      "player_in": "RECEP GÜL",
+      "minute": 86,
+      "minute_text": "86. dk"
+    }
+  ],
+  "dataQuality": {
+    "lineupsAvailable": true,
+    "eventsAvailable": true,
+    "sourceType": "tff_detail_page"
+  }
+}

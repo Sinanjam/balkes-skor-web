@@ -1,0 +1,1149 @@
+[
+  {
+    "id": "235935",
+    "season": "2022-2023",
+    "competition": "TFF 2.League (Professional Team)",
+    "roundType": "league",
+    "week": 1,
+    "stage": "1. Maç",
+    "date": "2022-08-28",
+    "time": "20:00",
+    "dateDisplay": "28.08.2022 - 20:00",
+    "homeTeam": "İSKENDERUNSPOR A.Ş.",
+    "awayTeam": "Balıkesirspor",
+    "score": {
+      "home": 1,
+      "away": 0,
+      "display": "1-0",
+      "played": true
+    },
+    "balkes": {
+      "isHome": false,
+      "opponent": "İSKENDERUNSPOR A.Ş.",
+      "goalsFor": 0,
+      "goalsAgainst": 1,
+      "result": "L"
+    },
+    "detailUrl": "seasons/2022-2023/matches/235935.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=235935&pageID=528"
+    }
+  },
+  {
+    "id": "235948",
+    "season": "2022-2023",
+    "competition": "TFF 2.League (Professional Team)",
+    "roundType": "league",
+    "week": 2,
+    "stage": "2. Maç",
+    "date": "2022-09-04",
+    "time": "20:00",
+    "dateDisplay": "4.09.2022 - 20:00",
+    "homeTeam": "Balıkesirspor",
+    "awayTeam": "DİYARBEKİR SPOR A.Ş.",
+    "score": {
+      "home": 4,
+      "away": 2,
+      "display": "4-2",
+      "played": true
+    },
+    "balkes": {
+      "isHome": true,
+      "opponent": "DİYARBEKİR SPOR A.Ş.",
+      "goalsFor": 4,
+      "goalsAgainst": 2,
+      "result": "W"
+    },
+    "detailUrl": "seasons/2022-2023/matches/235948.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=235948&pageID=528"
+    }
+  },
+  {
+    "id": "235956",
+    "season": "2022-2023",
+    "competition": "TFF 2.League (Professional Team)",
+    "roundType": "league",
+    "week": 3,
+    "stage": "3. Maç",
+    "date": "2022-09-10",
+    "time": "19:00",
+    "dateDisplay": "10.09.2022 - 19:00",
+    "homeTeam": "TECO KARACABEY BELEDİYE SPOR A.Ş.",
+    "awayTeam": "Balıkesirspor",
+    "score": {
+      "home": 1,
+      "away": 1,
+      "display": "1-1",
+      "played": true
+    },
+    "balkes": {
+      "isHome": false,
+      "opponent": "TECO KARACABEY BELEDİYE SPOR A.Ş.",
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "result": "D"
+    },
+    "detailUrl": "seasons/2022-2023/matches/235956.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=235956&pageID=528"
+    }
+  },
+  {
+    "id": "235968",
+    "season": "2022-2023",
+    "competition": "TFF 2.League (Professional Team)",
+    "roundType": "league",
+    "week": 4,
+    "stage": "4. Maç",
+    "date": "2022-09-14",
+    "time": "19:00",
+    "dateDisplay": "14.09.2022 - 19:00",
+    "homeTeam": "Balıkesirspor",
+    "awayTeam": "ETİMESGUT BELEDİYESPOR",
+    "score": {
+      "home": 0,
+      "away": 3,
+      "display": "0-3",
+      "played": true
+    },
+    "balkes": {
+      "isHome": true,
+      "opponent": "ETİMESGUT BELEDİYESPOR",
+      "goalsFor": 0,
+      "goalsAgainst": 3,
+      "result": "L"
+    },
+    "detailUrl": "seasons/2022-2023/matches/235968.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=235968&pageID=528"
+    }
+  },
+  {
+    "id": "235977",
+    "season": "2022-2023",
+    "competition": "TFF 2.League (Professional Team)",
+    "roundType": "league",
+    "week": 5,
+    "stage": "5. Maç",
+    "date": "2022-09-18",
+    "time": "15:30",
+    "dateDisplay": "18.09.2022 - 15:30",
+    "homeTeam": "GMG KASTAMONUSPOR",
+    "awayTeam": "Balıkesirspor",
+    "score": {
+      "home": 1,
+      "away": 0,
+      "display": "1-0",
+      "played": true
+    },
+    "balkes": {
+      "isHome": false,
+      "opponent": "GMG KASTAMONUSPOR",
+      "goalsFor": 0,
+      "goalsAgainst": 1,
+      "result": "L"
+    },
+    "detailUrl": "seasons/2022-2023/matches/235977.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=235977&pageID=528"
+    }
+  },
+  {
+    "id": "235988",
+    "season": "2022-2023",
+    "competition": "TFF 2.League (Professional Team)",
+    "roundType": "league",
+    "week": 6,
+    "stage": "6. Maç",
+    "date": "2022-09-24",
+    "time": "19:00",
+    "dateDisplay": "24.09.2022 - 19:00",
+    "homeTeam": "Balıkesirspor",
+    "awayTeam": "ANKARA DEMİRSPOR",
+    "score": {
+      "home": 0,
+      "away": 2,
+      "display": "0-2",
+      "played": true
+    },
+    "balkes": {
+      "isHome": true,
+      "opponent": "ANKARA DEMİRSPOR",
+      "goalsFor": 0,
+      "goalsAgainst": 2,
+      "result": "L"
+    },
+    "detailUrl": "seasons/2022-2023/matches/235988.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=235988&pageID=528"
+    }
+  },
+  {
+    "id": "235998",
+    "season": "2022-2023",
+    "competition": "TFF 2.League (Professional Team)",
+    "roundType": "league",
+    "week": 7,
+    "stage": "7. Maç",
+    "date": "2022-10-01",
+    "time": "15:30",
+    "dateDisplay": "1.10.2022 - 15:30",
+    "homeTeam": "KOCAELİSPOR",
+    "awayTeam": "Balıkesirspor",
+    "score": {
+      "home": 3,
+      "away": 0,
+      "display": "3-0",
+      "played": true
+    },
+    "balkes": {
+      "isHome": false,
+      "opponent": "KOCAELİSPOR",
+      "goalsFor": 0,
+      "goalsAgainst": 3,
+      "result": "L"
+    },
+    "detailUrl": "seasons/2022-2023/matches/235998.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=235998&pageID=528"
+    }
+  },
+  {
+    "id": "236008",
+    "season": "2022-2023",
+    "competition": "TFF 2.League (Professional Team)",
+    "roundType": "league",
+    "week": 8,
+    "stage": "8. Maç",
+    "date": "2022-10-05",
+    "time": "19:00",
+    "dateDisplay": "5.10.2022 - 19:00",
+    "homeTeam": "Balıkesirspor",
+    "awayTeam": "KIRŞEHİR FUTBOL SPOR KULÜBÜ",
+    "score": {
+      "home": 1,
+      "away": 0,
+      "display": "1-0",
+      "played": true
+    },
+    "balkes": {
+      "isHome": true,
+      "opponent": "KIRŞEHİR FUTBOL SPOR KULÜBÜ",
+      "goalsFor": 1,
+      "goalsAgainst": 0,
+      "result": "W"
+    },
+    "detailUrl": "seasons/2022-2023/matches/236008.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=236008&pageID=528"
+    }
+  },
+  {
+    "id": "236019",
+    "season": "2022-2023",
+    "competition": "TFF 2.League (Professional Team)",
+    "roundType": "league",
+    "week": 9,
+    "stage": "9. Maç",
+    "date": "2022-10-09",
+    "time": "15:00",
+    "dateDisplay": "9.10.2022 - 15:00",
+    "homeTeam": "SERİK BELEDİYESPOR",
+    "awayTeam": "Balıkesirspor",
+    "score": {
+      "home": 1,
+      "away": 0,
+      "display": "1-0",
+      "played": true
+    },
+    "balkes": {
+      "isHome": false,
+      "opponent": "SERİK BELEDİYESPOR",
+      "goalsFor": 0,
+      "goalsAgainst": 1,
+      "result": "L"
+    },
+    "detailUrl": "seasons/2022-2023/matches/236019.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=236019&pageID=528"
+    }
+  },
+  {
+    "id": "236028",
+    "season": "2022-2023",
+    "competition": "TFF 2.League (Professional Team)",
+    "roundType": "league",
+    "week": 10,
+    "stage": "10. Maç",
+    "date": "2022-10-15",
+    "time": "19:00",
+    "dateDisplay": "15.10.2022 - 19:00",
+    "homeTeam": "Balıkesirspor",
+    "awayTeam": "SARIYER",
+    "score": {
+      "home": 1,
+      "away": 1,
+      "display": "1-1",
+      "played": true
+    },
+    "balkes": {
+      "isHome": true,
+      "opponent": "SARIYER",
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "result": "D"
+    },
+    "detailUrl": "seasons/2022-2023/matches/236028.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=236028&pageID=528"
+    }
+  },
+  {
+    "id": "236040",
+    "season": "2022-2023",
+    "competition": "TFF 2.League (Professional Team)",
+    "roundType": "league",
+    "week": 11,
+    "stage": "11. Maç",
+    "date": "2022-10-23",
+    "time": "19:00",
+    "dateDisplay": "23.10.2022 - 19:00",
+    "homeTeam": "BUCASPOR 1928",
+    "awayTeam": "Balıkesirspor",
+    "score": {
+      "home": 2,
+      "away": 0,
+      "display": "2-0",
+      "played": true
+    },
+    "balkes": {
+      "isHome": false,
+      "opponent": "BUCASPOR 1928",
+      "goalsFor": 0,
+      "goalsAgainst": 2,
+      "result": "L"
+    },
+    "detailUrl": "seasons/2022-2023/matches/236040.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=236040&pageID=528"
+    }
+  },
+  {
+    "id": "236048",
+    "season": "2022-2023",
+    "competition": "TFF 2.League (Professional Team)",
+    "roundType": "league",
+    "week": 12,
+    "stage": "12. Maç",
+    "date": "2022-10-30",
+    "time": "19:00",
+    "dateDisplay": "30.10.2022 - 19:00",
+    "homeTeam": "Balıkesirspor",
+    "awayTeam": "UŞAK SPOR A.Ş.",
+    "score": {
+      "home": 0,
+      "away": 1,
+      "display": "0-1",
+      "played": true
+    },
+    "balkes": {
+      "isHome": true,
+      "opponent": "UŞAK SPOR A.Ş.",
+      "goalsFor": 0,
+      "goalsAgainst": 1,
+      "result": "L"
+    },
+    "detailUrl": "seasons/2022-2023/matches/236048.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=236048&pageID=528"
+    }
+  },
+  {
+    "id": "236061",
+    "season": "2022-2023",
+    "competition": "TFF 2.League (Professional Team)",
+    "roundType": "league",
+    "week": 13,
+    "stage": "13. Maç",
+    "date": "2022-11-05",
+    "time": "14:00",
+    "dateDisplay": "5.11.2022 - 14:00",
+    "homeTeam": "Balıkesirspor",
+    "awayTeam": "WEECOINS KIRKLARELİSPOR",
+    "score": {
+      "home": 1,
+      "away": 1,
+      "display": "1-1",
+      "played": true
+    },
+    "balkes": {
+      "isHome": true,
+      "opponent": "WEECOINS KIRKLARELİSPOR",
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "result": "D"
+    },
+    "detailUrl": "seasons/2022-2023/matches/236061.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=236061&pageID=528"
+    }
+  },
+  {
+    "id": "236069",
+    "season": "2022-2023",
+    "competition": "TFF 2.League (Professional Team)",
+    "roundType": "league",
+    "week": 14,
+    "stage": "14. Maç",
+    "date": "2022-11-13",
+    "time": "14:00",
+    "dateDisplay": "13.11.2022 - 14:00",
+    "homeTeam": "PAZARSPOR",
+    "awayTeam": "Balıkesirspor",
+    "score": {
+      "home": 0,
+      "away": 1,
+      "display": "0-1",
+      "played": true
+    },
+    "balkes": {
+      "isHome": false,
+      "opponent": "PAZARSPOR",
+      "goalsFor": 1,
+      "goalsAgainst": 0,
+      "result": "W"
+    },
+    "detailUrl": "seasons/2022-2023/matches/236069.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=236069&pageID=528"
+    }
+  },
+  {
+    "id": "236080",
+    "season": "2022-2023",
+    "competition": "TFF 2.League (Professional Team)",
+    "roundType": "league",
+    "week": 15,
+    "stage": "15. Maç",
+    "date": "2022-11-20",
+    "time": "14:00",
+    "dateDisplay": "20.11.2022 - 14:00",
+    "homeTeam": "Balıkesirspor",
+    "awayTeam": "FETHİYESPOR",
+    "score": {
+      "home": 2,
+      "away": 0,
+      "display": "2-0",
+      "played": true
+    },
+    "balkes": {
+      "isHome": true,
+      "opponent": "FETHİYESPOR",
+      "goalsFor": 2,
+      "goalsAgainst": 0,
+      "result": "W"
+    },
+    "detailUrl": "seasons/2022-2023/matches/236080.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=236080&pageID=528"
+    }
+  },
+  {
+    "id": "235732",
+    "season": "2022-2023",
+    "competition": "TFF 2.League (Professional Team)",
+    "roundType": "league",
+    "week": 16,
+    "stage": "16. Maç",
+    "date": "2022-11-27",
+    "time": "14:00",
+    "dateDisplay": "27.11.2022 - 14:00",
+    "homeTeam": "1461 TRABZON FK",
+    "awayTeam": "Balıkesirspor",
+    "score": {
+      "home": 2,
+      "away": 1,
+      "display": "2-1",
+      "played": true
+    },
+    "balkes": {
+      "isHome": false,
+      "opponent": "1461 TRABZON FK",
+      "goalsFor": 1,
+      "goalsAgainst": 2,
+      "result": "L"
+    },
+    "detailUrl": "seasons/2022-2023/matches/235732.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=235732&pageID=528"
+    }
+  },
+  {
+    "id": "235749",
+    "season": "2022-2023",
+    "competition": "TFF 2.League (Professional Team)",
+    "roundType": "league",
+    "week": 17,
+    "stage": "17. Maç",
+    "date": "2022-12-04",
+    "time": "14:00",
+    "dateDisplay": "4.12.2022 - 14:00",
+    "homeTeam": "Balıkesirspor",
+    "awayTeam": "ADIYAMAN FUTBOL KULÜBÜ A.Ş.",
+    "score": {
+      "home": 1,
+      "away": 1,
+      "display": "1-1",
+      "played": true
+    },
+    "balkes": {
+      "isHome": true,
+      "opponent": "ADIYAMAN FUTBOL KULÜBÜ A.Ş.",
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "result": "D"
+    },
+    "detailUrl": "seasons/2022-2023/matches/235749.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=235749&pageID=528"
+    }
+  },
+  {
+    "id": "235754",
+    "season": "2022-2023",
+    "competition": "TFF 2.League (Professional Team)",
+    "roundType": "league",
+    "week": 18,
+    "stage": "18. Maç",
+    "date": "2022-12-11",
+    "time": "14:00",
+    "dateDisplay": "11.12.2022 - 14:00",
+    "homeTeam": "ZONGULDAK KÖMÜRSPOR A.Ş",
+    "awayTeam": "Balıkesirspor",
+    "score": {
+      "home": 2,
+      "away": 0,
+      "display": "2-0",
+      "played": true
+    },
+    "balkes": {
+      "isHome": false,
+      "opponent": "ZONGULDAK KÖMÜRSPOR A.Ş",
+      "goalsFor": 0,
+      "goalsAgainst": 2,
+      "result": "L"
+    },
+    "detailUrl": "seasons/2022-2023/matches/235754.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=235754&pageID=528"
+    }
+  },
+  {
+    "id": "235768",
+    "season": "2022-2023",
+    "competition": "TFF 2.League (Professional Team)",
+    "roundType": "league",
+    "week": 19,
+    "stage": "19. Maç",
+    "date": "2022-12-18",
+    "time": "14:00",
+    "dateDisplay": "18.12.2022 - 14:00",
+    "homeTeam": "Balıkesirspor",
+    "awayTeam": "BITEXEN VAN SPOR FK",
+    "score": {
+      "home": 0,
+      "away": 3,
+      "display": "0-3",
+      "played": true
+    },
+    "balkes": {
+      "isHome": true,
+      "opponent": "BITEXEN VAN SPOR FK",
+      "goalsFor": 0,
+      "goalsAgainst": 3,
+      "result": "L"
+    },
+    "detailUrl": "seasons/2022-2023/matches/235768.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=235768&pageID=528"
+    }
+  },
+  {
+    "id": "235775",
+    "season": "2022-2023",
+    "competition": "TFF 2.League (Professional Team)",
+    "roundType": "league",
+    "week": 20,
+    "stage": "20. Maç",
+    "date": "2023-01-15",
+    "time": "14:00",
+    "dateDisplay": "15.01.2023 - 14:00",
+    "homeTeam": "Balıkesirspor",
+    "awayTeam": "İSKENDERUNSPOR A.Ş.",
+    "score": {
+      "home": 2,
+      "away": 2,
+      "display": "2-2",
+      "played": true
+    },
+    "balkes": {
+      "isHome": true,
+      "opponent": "İSKENDERUNSPOR A.Ş.",
+      "goalsFor": 2,
+      "goalsAgainst": 2,
+      "result": "D"
+    },
+    "detailUrl": "seasons/2022-2023/matches/235775.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=235775&pageID=528"
+    }
+  },
+  {
+    "id": "235788",
+    "season": "2022-2023",
+    "competition": "TFF 2.League (Professional Team)",
+    "roundType": "league",
+    "week": 21,
+    "stage": "21. Maç",
+    "date": "2023-01-22",
+    "time": "14:00",
+    "dateDisplay": "22.01.2023 - 14:00",
+    "homeTeam": "DİYARBEKİR SPOR A.Ş.",
+    "awayTeam": "Balıkesirspor",
+    "score": {
+      "home": 1,
+      "away": 0,
+      "display": "1-0",
+      "played": true
+    },
+    "balkes": {
+      "isHome": false,
+      "opponent": "DİYARBEKİR SPOR A.Ş.",
+      "goalsFor": 0,
+      "goalsAgainst": 1,
+      "result": "L"
+    },
+    "detailUrl": "seasons/2022-2023/matches/235788.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=235788&pageID=528"
+    }
+  },
+  {
+    "id": "235796",
+    "season": "2022-2023",
+    "competition": "TFF 2.League (Professional Team)",
+    "roundType": "league",
+    "week": 22,
+    "stage": "22. Maç",
+    "date": "2023-01-29",
+    "time": "14:00",
+    "dateDisplay": "29.01.2023 - 14:00",
+    "homeTeam": "Balıkesirspor",
+    "awayTeam": "TECO KARACABEY BELEDİYE SPOR A.Ş.",
+    "score": {
+      "home": 0,
+      "away": 2,
+      "display": "0-2",
+      "played": true
+    },
+    "balkes": {
+      "isHome": true,
+      "opponent": "TECO KARACABEY BELEDİYE SPOR A.Ş.",
+      "goalsFor": 0,
+      "goalsAgainst": 2,
+      "result": "L"
+    },
+    "detailUrl": "seasons/2022-2023/matches/235796.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=235796&pageID=528"
+    }
+  },
+  {
+    "id": "235808",
+    "season": "2022-2023",
+    "competition": "TFF 2.League (Professional Team)",
+    "roundType": "league",
+    "week": 23,
+    "stage": "23. Maç",
+    "date": "2023-02-04",
+    "time": "14:00",
+    "dateDisplay": "4.02.2023 - 14:00",
+    "homeTeam": "ETİMESGUT BELEDİYESPOR",
+    "awayTeam": "Balıkesirspor",
+    "score": {
+      "home": 1,
+      "away": 1,
+      "display": "1-1",
+      "played": true
+    },
+    "balkes": {
+      "isHome": false,
+      "opponent": "ETİMESGUT BELEDİYESPOR",
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "result": "D"
+    },
+    "detailUrl": "seasons/2022-2023/matches/235808.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=235808&pageID=528"
+    }
+  },
+  {
+    "id": "235828",
+    "season": "2022-2023",
+    "competition": "TFF 2.League (Professional Team)",
+    "roundType": "league",
+    "week": 24,
+    "stage": "24. Maç",
+    "date": "2023-03-05",
+    "time": "14:00",
+    "dateDisplay": "5.03.2023 - 14:00",
+    "homeTeam": "ANKARA DEMİRSPOR",
+    "awayTeam": "Balıkesirspor",
+    "score": {
+      "home": 3,
+      "away": 1,
+      "display": "3-1",
+      "played": true
+    },
+    "balkes": {
+      "isHome": false,
+      "opponent": "ANKARA DEMİRSPOR",
+      "goalsFor": 1,
+      "goalsAgainst": 3,
+      "result": "L"
+    },
+    "detailUrl": "seasons/2022-2023/matches/235828.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=235828&pageID=528"
+    }
+  },
+  {
+    "id": "235838",
+    "season": "2022-2023",
+    "competition": "TFF 2.League (Professional Team)",
+    "roundType": "league",
+    "week": 25,
+    "stage": "25. Maç",
+    "date": "2023-03-11",
+    "time": "14:00",
+    "dateDisplay": "11.03.2023 - 14:00",
+    "homeTeam": "Balıkesirspor",
+    "awayTeam": "KOCAELİSPOR",
+    "score": {
+      "home": 1,
+      "away": 6,
+      "display": "1-6",
+      "played": true
+    },
+    "balkes": {
+      "isHome": true,
+      "opponent": "KOCAELİSPOR",
+      "goalsFor": 1,
+      "goalsAgainst": 6,
+      "result": "L"
+    },
+    "detailUrl": "seasons/2022-2023/matches/235838.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=235838&pageID=528"
+    }
+  },
+  {
+    "id": "235817",
+    "season": "2022-2023",
+    "competition": "TFF 2.League (Professional Team)",
+    "roundType": "league",
+    "week": 26,
+    "stage": "26. Maç",
+    "date": "2023-03-15",
+    "time": "14:00",
+    "dateDisplay": "15.03.2023 - 14:00",
+    "homeTeam": "Balıkesirspor",
+    "awayTeam": "GMG KASTAMONUSPOR",
+    "score": {
+      "home": 1,
+      "away": 1,
+      "display": "1-1",
+      "played": true
+    },
+    "balkes": {
+      "isHome": true,
+      "opponent": "GMG KASTAMONUSPOR",
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "result": "D"
+    },
+    "detailUrl": "seasons/2022-2023/matches/235817.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=235817&pageID=528"
+    }
+  },
+  {
+    "id": "235848",
+    "season": "2022-2023",
+    "competition": "TFF 2.League (Professional Team)",
+    "roundType": "league",
+    "week": 27,
+    "stage": "27. Maç",
+    "date": "2023-03-19",
+    "time": "14:00",
+    "dateDisplay": "19.03.2023 - 14:00",
+    "homeTeam": "KIRŞEHİR FUTBOL SPOR KULÜBÜ",
+    "awayTeam": "Balıkesirspor",
+    "score": {
+      "home": 0,
+      "away": 0,
+      "display": "0-0",
+      "played": true
+    },
+    "balkes": {
+      "isHome": false,
+      "opponent": "KIRŞEHİR FUTBOL SPOR KULÜBÜ",
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "result": "D"
+    },
+    "detailUrl": "seasons/2022-2023/matches/235848.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=235848&pageID=528"
+    }
+  },
+  {
+    "id": "235859",
+    "season": "2022-2023",
+    "competition": "TFF 2.League (Professional Team)",
+    "roundType": "league",
+    "week": 28,
+    "stage": "28. Maç",
+    "date": "2023-03-25",
+    "time": "14:00",
+    "dateDisplay": "25.03.2023 - 14:00",
+    "homeTeam": "Balıkesirspor",
+    "awayTeam": "SERİK BELEDİYESPOR",
+    "score": {
+      "home": 1,
+      "away": 4,
+      "display": "1-4",
+      "played": true
+    },
+    "balkes": {
+      "isHome": true,
+      "opponent": "SERİK BELEDİYESPOR",
+      "goalsFor": 1,
+      "goalsAgainst": 4,
+      "result": "L"
+    },
+    "detailUrl": "seasons/2022-2023/matches/235859.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=235859&pageID=528"
+    }
+  },
+  {
+    "id": "235868",
+    "season": "2022-2023",
+    "competition": "TFF 2.League (Professional Team)",
+    "roundType": "league",
+    "week": 29,
+    "stage": "29. Maç",
+    "date": "2023-03-29",
+    "time": "14:00",
+    "dateDisplay": "29.03.2023 - 14:00",
+    "homeTeam": "SARIYER",
+    "awayTeam": "Balıkesirspor",
+    "score": {
+      "home": 2,
+      "away": 4,
+      "display": "2-4",
+      "played": true
+    },
+    "balkes": {
+      "isHome": false,
+      "opponent": "SARIYER",
+      "goalsFor": 4,
+      "goalsAgainst": 2,
+      "result": "W"
+    },
+    "detailUrl": "seasons/2022-2023/matches/235868.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=235868&pageID=528"
+    }
+  },
+  {
+    "id": "235880",
+    "season": "2022-2023",
+    "competition": "TFF 2.League (Professional Team)",
+    "roundType": "league",
+    "week": 30,
+    "stage": "30. Maç",
+    "date": "2023-04-02",
+    "time": "15:00",
+    "dateDisplay": "2.04.2023 - 15:00",
+    "homeTeam": "Balıkesirspor",
+    "awayTeam": "BUCASPOR 1928",
+    "score": {
+      "home": 0,
+      "away": 3,
+      "display": "0-3",
+      "played": true
+    },
+    "balkes": {
+      "isHome": true,
+      "opponent": "BUCASPOR 1928",
+      "goalsFor": 0,
+      "goalsAgainst": 3,
+      "result": "L"
+    },
+    "detailUrl": "seasons/2022-2023/matches/235880.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=235880&pageID=528"
+    }
+  },
+  {
+    "id": "235888",
+    "season": "2022-2023",
+    "competition": "TFF 2.League (Professional Team)",
+    "roundType": "league",
+    "week": 31,
+    "stage": "31. Maç",
+    "date": "2023-04-09",
+    "time": "15:00",
+    "dateDisplay": "9.04.2023 - 15:00",
+    "homeTeam": "AFC KABLO KANALLARI UŞAK SPOR A.Ş.",
+    "awayTeam": "Balıkesirspor",
+    "score": {
+      "home": 2,
+      "away": 0,
+      "display": "2-0",
+      "played": true
+    },
+    "balkes": {
+      "isHome": false,
+      "opponent": "AFC KABLO KANALLARI UŞAK SPOR A.Ş.",
+      "goalsFor": 0,
+      "goalsAgainst": 2,
+      "result": "L"
+    },
+    "detailUrl": "seasons/2022-2023/matches/235888.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=235888&pageID=528"
+    }
+  },
+  {
+    "id": "235901",
+    "season": "2022-2023",
+    "competition": "TFF 2.League (Professional Team)",
+    "roundType": "league",
+    "week": 32,
+    "stage": "32. Maç",
+    "date": "2023-04-15",
+    "time": "15:00",
+    "dateDisplay": "15.04.2023 - 15:00",
+    "homeTeam": "WEECOINS KIRKLARELİSPOR",
+    "awayTeam": "Balıkesirspor",
+    "score": {
+      "home": 0,
+      "away": 0,
+      "display": "0-0",
+      "played": true
+    },
+    "balkes": {
+      "isHome": false,
+      "opponent": "WEECOINS KIRKLARELİSPOR",
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "result": "D"
+    },
+    "detailUrl": "seasons/2022-2023/matches/235901.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=235901&pageID=528"
+    }
+  },
+  {
+    "id": "235909",
+    "season": "2022-2023",
+    "competition": "TFF 2.League (Professional Team)",
+    "roundType": "league",
+    "week": 33,
+    "stage": "33. Maç",
+    "date": "2023-04-19",
+    "time": "15:00",
+    "dateDisplay": "19.04.2023 - 15:00",
+    "homeTeam": "Balıkesirspor",
+    "awayTeam": "PAZARSPOR",
+    "score": {
+      "home": 0,
+      "away": 2,
+      "display": "0-2",
+      "played": true
+    },
+    "balkes": {
+      "isHome": true,
+      "opponent": "PAZARSPOR",
+      "goalsFor": 0,
+      "goalsAgainst": 2,
+      "result": "L"
+    },
+    "detailUrl": "seasons/2022-2023/matches/235909.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=235909&pageID=528"
+    }
+  },
+  {
+    "id": "235920",
+    "season": "2022-2023",
+    "competition": "TFF 2.League (Professional Team)",
+    "roundType": "league",
+    "week": 34,
+    "stage": "34. Maç",
+    "date": "2023-04-23",
+    "time": "15:00",
+    "dateDisplay": "23.04.2023 - 15:00",
+    "homeTeam": "FETHİYESPOR",
+    "awayTeam": "Balıkesirspor",
+    "score": {
+      "home": 7,
+      "away": 1,
+      "display": "7-1",
+      "played": true
+    },
+    "balkes": {
+      "isHome": false,
+      "opponent": "FETHİYESPOR",
+      "goalsFor": 1,
+      "goalsAgainst": 7,
+      "result": "L"
+    },
+    "detailUrl": "seasons/2022-2023/matches/235920.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=235920&pageID=528"
+    }
+  },
+  {
+    "id": "235922",
+    "season": "2022-2023",
+    "competition": "TFF 2.League (Professional Team)",
+    "roundType": "league",
+    "week": 35,
+    "stage": "35. Maç",
+    "date": "2023-04-30",
+    "time": "15:00",
+    "dateDisplay": "30.04.2023 - 15:00",
+    "homeTeam": "Balıkesirspor",
+    "awayTeam": "1461 TRABZON FK",
+    "score": {
+      "home": 1,
+      "away": 2,
+      "display": "1-2",
+      "played": true
+    },
+    "balkes": {
+      "isHome": true,
+      "opponent": "1461 TRABZON FK",
+      "goalsFor": 1,
+      "goalsAgainst": 2,
+      "result": "L"
+    },
+    "detailUrl": "seasons/2022-2023/matches/235922.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=235922&pageID=528"
+    }
+  },
+  {
+    "id": "236094",
+    "season": "2022-2023",
+    "competition": "TFF 2.League (Professional Team)",
+    "roundType": "league",
+    "week": 36,
+    "stage": "36. Maç",
+    "date": "2023-05-16",
+    "time": "15:00",
+    "dateDisplay": "16.05.2023 - 15:00",
+    "homeTeam": "Balıkesirspor",
+    "awayTeam": "ZONGULDAK KÖMÜRSPOR A.Ş",
+    "score": {
+      "home": 3,
+      "away": 3,
+      "display": "3-3",
+      "played": true
+    },
+    "balkes": {
+      "isHome": true,
+      "opponent": "ZONGULDAK KÖMÜRSPOR A.Ş",
+      "goalsFor": 3,
+      "goalsAgainst": 3,
+      "result": "D"
+    },
+    "detailUrl": "seasons/2022-2023/matches/236094.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=236094&pageID=528"
+    }
+  },
+  {
+    "id": "236108",
+    "season": "2022-2023",
+    "competition": "TFF 2.League (Professional Team)",
+    "roundType": "league",
+    "week": 37,
+    "stage": "37. Maç",
+    "date": "2023-05-20",
+    "time": "15:00",
+    "dateDisplay": "20.05.2023 - 15:00",
+    "homeTeam": "BITEXEN VAN SPOR FK",
+    "awayTeam": "Balıkesirspor",
+    "score": {
+      "home": 8,
+      "away": 0,
+      "display": "8-0",
+      "played": true
+    },
+    "balkes": {
+      "isHome": false,
+      "opponent": "BITEXEN VAN SPOR FK",
+      "goalsFor": 0,
+      "goalsAgainst": 8,
+      "result": "L"
+    },
+    "detailUrl": "seasons/2022-2023/matches/236108.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=236108&pageID=528"
+    }
+  }
+]

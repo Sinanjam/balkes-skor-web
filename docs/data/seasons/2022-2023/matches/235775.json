@@ -1,0 +1,385 @@
+{
+  "id": "235775",
+  "tff_match_id": "235775",
+  "season": "2022-2023",
+  "competition": "TFF 2.League (Professional Team)",
+  "roundType": "league",
+  "week": 20,
+  "stage": "20. Maç",
+  "date": "2023-01-15",
+  "time": "14:00",
+  "dateDisplay": "15.01.2023 - 14:00",
+  "homeTeam": "Balıkesirspor",
+  "awayTeam": "İSKENDERUNSPOR A.Ş.",
+  "homeTeamRaw": "BAYNET İNŞAAT BALIKESİRSPOR",
+  "awayTeamRaw": "İSKENDERUNSPOR A.Ş.",
+  "score": {
+    "home": 2,
+    "away": 2,
+    "display": "2-2",
+    "played": true
+  },
+  "balkes": {
+    "isHome": true,
+    "opponent": "İSKENDERUNSPOR A.Ş.",
+    "goalsFor": 2,
+    "goalsAgainst": 2,
+    "result": "D"
+  },
+  "detailUrl": "seasons/2022-2023/matches/235775.json",
+  "source": {
+    "name": "TFF",
+    "url": "https://www.tff.org/Default.aspx?macId=235775&pageID=528"
+  },
+  "match_code": "3386",
+  "venue": "BALIKESİR ATATÜRK - BALIKESİR",
+  "referees": [
+    {
+      "name": "ONUR BİNGÖL",
+      "role": "Referee"
+    },
+    {
+      "name": "ŞAFAK NALBANTOĞLU",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "İSMAİL ERTUNÇ",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "TANER TUNCER",
+      "role": "Fourth Official"
+    },
+    {
+      "name": "SERTAN BAKAN",
+      "role": "Observer"
+    },
+    {
+      "name": "KEMAL ÖZBEK",
+      "role": "Delegate"
+    },
+    {
+      "name": "ÜMİT İZDAŞ",
+      "role": "Delegate"
+    }
+  ],
+  "lineups": {
+    "home": {
+      "team": "Balıkesirspor",
+      "team_raw": "BAYNET İNŞAAT BALIKESİRSPOR",
+      "starting11": [
+        {
+          "shirt_no": "1.",
+          "name": "YİĞİTHAN KIR"
+        },
+        {
+          "shirt_no": "4.",
+          "name": "BİROL PARLAK"
+        },
+        {
+          "shirt_no": "15.",
+          "name": "KAĞAN KAYALI"
+        },
+        {
+          "shirt_no": "77.",
+          "name": "DOĞA İŞERİ"
+        },
+        {
+          "shirt_no": "3.",
+          "name": "BERAT AYDOĞDU"
+        },
+        {
+          "shirt_no": "39.",
+          "name": "HÜSEYİN KARABEY"
+        },
+        {
+          "shirt_no": "5.",
+          "name": "SEDAT DURSUN"
+        },
+        {
+          "shirt_no": "99.",
+          "name": "EMİRHAN ÇAKIR"
+        },
+        {
+          "shirt_no": "21.",
+          "name": "SEDAT YİĞİT KURNAZ"
+        },
+        {
+          "shirt_no": "10.",
+          "name": "OĞUZ HAN AYNAOĞLU"
+        },
+        {
+          "shirt_no": "20.",
+          "name": "BERK TOSUN"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "26.",
+          "name": "YASİN YİĞİT BERBER"
+        },
+        {
+          "shirt_no": "63.",
+          "name": "İBRAHİM HALİL ÇOLAK"
+        },
+        {
+          "shirt_no": "97.",
+          "name": "BERKAY AYKURT"
+        },
+        {
+          "shirt_no": "7.",
+          "name": "ANDAÇ GÜLERYÜZ"
+        },
+        {
+          "shirt_no": "33.",
+          "name": "GÜNEY ÇELİK KELEŞ"
+        },
+        {
+          "shirt_no": "22.",
+          "name": "AYBERK KAYGISIZ"
+        },
+        {
+          "shirt_no": "25.",
+          "name": "ABDULLAH ADIYAMAN"
+        },
+        {
+          "shirt_no": "44.",
+          "name": "GÖRKEM ALTUN"
+        }
+      ],
+      "coach": "UĞUR BALCIOĞLU"
+    },
+    "away": {
+      "team": "İSKENDERUNSPOR A.Ş.",
+      "team_raw": "İSKENDERUNSPOR A.Ş.",
+      "starting11": [
+        {
+          "shirt_no": "1.",
+          "name": "MUHAMMET CAN TUNCER"
+        },
+        {
+          "shirt_no": "44.",
+          "name": "OĞUZHAN ÇAPAR"
+        },
+        {
+          "shirt_no": "50.",
+          "name": "ALİ KETEN"
+        },
+        {
+          "shirt_no": "88.",
+          "name": "BAHADIR EROL"
+        },
+        {
+          "shirt_no": "77.",
+          "name": "UĞUR AKDEMİR"
+        },
+        {
+          "shirt_no": "6.",
+          "name": "KAAN YÜKSEL"
+        },
+        {
+          "shirt_no": "5.",
+          "name": "OKAN DERNEK"
+        },
+        {
+          "shirt_no": "8.",
+          "name": "İSMAİL GÜVEN"
+        },
+        {
+          "shirt_no": "7.",
+          "name": "ONUR RAMAZAN TOPRAK"
+        },
+        {
+          "shirt_no": "14.",
+          "name": "KADİR ARİ"
+        },
+        {
+          "shirt_no": "23.",
+          "name": "YASİN ABDİOĞLU"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "98.",
+          "name": "BERK BALABAN"
+        },
+        {
+          "shirt_no": "55.",
+          "name": "ONUR URAL"
+        },
+        {
+          "shirt_no": "17.",
+          "name": "MUHAMMED ENES DURMUŞ"
+        },
+        {
+          "shirt_no": "20.",
+          "name": "AHMET DEVRET"
+        },
+        {
+          "shirt_no": "28.",
+          "name": "SÜHEYL ÇETİN"
+        },
+        {
+          "shirt_no": "34.",
+          "name": "EMİR BİBEROĞLU"
+        },
+        {
+          "shirt_no": "11.",
+          "name": "ENES SOY"
+        },
+        {
+          "shirt_no": "35.",
+          "name": "MERT EFE ÇÖLBEYİ"
+        },
+        {
+          "shirt_no": "70.",
+          "name": "YASİN PEHLİVAN"
+        },
+        {
+          "shirt_no": "78.",
+          "name": "BERTUL KOCABAŞ"
+        }
+      ],
+      "coach": "NEDİM YİĞİT"
+    }
+  },
+  "events": [
+    {
+      "type": "goal",
+      "player": "HÜSEYİN KARABEY",
+      "minute": 3,
+      "minute_text": "3. dk",
+      "note": "Ayak",
+      "team": "Balıkesirspor"
+    },
+    {
+      "type": "goal",
+      "player": "ONUR RAMAZAN TOPRAK",
+      "minute": 9,
+      "minute_text": "9. dk",
+      "note": "Kafa",
+      "team": "İSKENDERUNSPOR A.Ş."
+    },
+    {
+      "type": "goal",
+      "player": "KADİR ARİ",
+      "minute": 27,
+      "minute_text": "27. dk",
+      "note": "Ayak",
+      "team": "İSKENDERUNSPOR A.Ş."
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "BERAT AYDOĞDU",
+      "minute": 45.1,
+      "minute_text": "45+1. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "SEDAT YİĞİT KURNAZ",
+      "player_in": "ABDULLAH ADIYAMAN",
+      "minute": 46,
+      "minute_text": "46. dk"
+    },
+    {
+      "type": "goal",
+      "player": "HÜSEYİN KARABEY",
+      "minute": 58,
+      "minute_text": "58. dk",
+      "note": "Ayak",
+      "team": "Balıkesirspor"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "DOĞA İŞERİ",
+      "minute": 62,
+      "minute_text": "62. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "İSKENDERUNSPOR A.Ş.",
+      "player_out": "KADİR ARİ",
+      "player_in": "ENES SOY",
+      "minute": 65,
+      "minute_text": "65. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "İSKENDERUNSPOR A.Ş.",
+      "player_out": "KAAN YÜKSEL",
+      "player_in": "MUHAMMED ENES DURMUŞ",
+      "minute": 65,
+      "minute_text": "65. dk"
+    },
+    {
+      "type": "card",
+      "team": "İSKENDERUNSPOR A.Ş.",
+      "player": "OĞUZHAN ÇAPAR",
+      "minute": 69,
+      "minute_text": "69. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "İSKENDERUNSPOR A.Ş.",
+      "player_out": "YASİN ABDİOĞLU",
+      "player_in": "YASİN PEHLİVAN",
+      "minute": 74,
+      "minute_text": "74. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "İSKENDERUNSPOR A.Ş.",
+      "player_out": "ONUR RAMAZAN TOPRAK",
+      "player_in": "BERTUL KOCABAŞ",
+      "minute": 74,
+      "minute_text": "74. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "ABDULLAH ADIYAMAN",
+      "minute": 80,
+      "minute_text": "80. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "DOĞA İŞERİ",
+      "player_in": "GÜNEY ÇELİK KELEŞ",
+      "minute": 81,
+      "minute_text": "81. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "EMİRHAN ÇAKIR",
+      "player_in": "AYBERK KAYGISIZ",
+      "minute": 81,
+      "minute_text": "81. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "İSKENDERUNSPOR A.Ş.",
+      "player_out": "İSMAİL GÜVEN",
+      "player_in": "MERT EFE ÇÖLBEYİ",
+      "minute": 81,
+      "minute_text": "81. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "BERK TOSUN",
+      "player_in": "İBRAHİM HALİL ÇOLAK",
+      "minute": 90.1,
+      "minute_text": "90+1. dk"
+    }
+  ],
+  "dataQuality": {
+    "lineupsAvailable": true,
+    "eventsAvailable": true,
+    "sourceType": "tff_detail_page"
+  }
+}

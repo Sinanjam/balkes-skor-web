@@ -1,0 +1,389 @@
+{
+  "id": "251361",
+  "tff_match_id": "251361",
+  "season": "2023-2024",
+  "competition": "TFF 3. LEAGUE (Professional Team)",
+  "roundType": "league",
+  "week": 28,
+  "stage": "28. Maç",
+  "date": "2024-04-21",
+  "time": "15:00",
+  "dateDisplay": "21.04.2024 - 15:00",
+  "homeTeam": "BERGAMA SPORTİF FAALİYETLER A.Ş",
+  "awayTeam": "Balıkesirspor",
+  "homeTeamRaw": "BERGAMA SPORTİF FAALİYETLER A.Ş",
+  "awayTeamRaw": "BALIKESİRSPOR",
+  "score": {
+    "home": 2,
+    "away": 1,
+    "display": "2-1",
+    "played": true
+  },
+  "balkes": {
+    "isHome": false,
+    "opponent": "BERGAMA SPORTİF FAALİYETLER A.Ş",
+    "goalsFor": 1,
+    "goalsAgainst": 2,
+    "result": "L"
+  },
+  "detailUrl": "seasons/2023-2024/matches/251361.json",
+  "source": {
+    "name": "TFF",
+    "url": "https://www.tff.org/Default.aspx?macId=251361&pageID=528"
+  },
+  "match_code": "4827",
+  "venue": "BERGAMA 14 EYLÜL - İZMİR",
+  "referees": [
+    {
+      "name": "MERTCAN ERÖLMEZ",
+      "role": "Referee"
+    },
+    {
+      "name": "VEDAT GÜNEŞ",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "BERKAY DİNİZ",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "UMUT KILIÇ",
+      "role": "Fourth Official"
+    },
+    {
+      "name": "BİROL GÜLDANE",
+      "role": "Observer"
+    },
+    {
+      "name": "TUNCAY ATAN",
+      "role": "Delegate"
+    },
+    {
+      "name": "SERDAR PEHLİVAN",
+      "role": "Delegate"
+    }
+  ],
+  "lineups": {
+    "home": {
+      "team": "BERGAMA SPORTİF FAALİYETLER A.Ş",
+      "team_raw": "BERGAMA SPORTİF FAALİYETLER A.Ş",
+      "starting11": [
+        {
+          "shirt_no": "33.",
+          "name": "AMİR GÜREN"
+        },
+        {
+          "shirt_no": "2.",
+          "name": "ALİ FIRAT OKUR"
+        },
+        {
+          "shirt_no": "13.",
+          "name": "ONUR KINTAŞ"
+        },
+        {
+          "shirt_no": "11.",
+          "name": "İBRAHİM ŞİRİN"
+        },
+        {
+          "shirt_no": "30.",
+          "name": "YUSUF CAN ABAY"
+        },
+        {
+          "shirt_no": "10.",
+          "name": "SÜLEYMAN OKÇU"
+        },
+        {
+          "shirt_no": "20.",
+          "name": "ERHAN ŞENTÜRK"
+        },
+        {
+          "shirt_no": "42.",
+          "name": "FUAT DURAN"
+        },
+        {
+          "shirt_no": "26.",
+          "name": "ARDA OKUMUŞ"
+        },
+        {
+          "shirt_no": "35.",
+          "name": "MERT ÇAKAR"
+        },
+        {
+          "shirt_no": "87.",
+          "name": "GÜVEN GÜNERİ"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "48.",
+          "name": "DOĞUKAN ÖZÇİMEN"
+        },
+        {
+          "shirt_no": "7.",
+          "name": "BURAK GÖKSEL"
+        },
+        {
+          "shirt_no": "9.",
+          "name": "ALİ EMRE USTAALİOĞLU"
+        },
+        {
+          "shirt_no": "5.",
+          "name": "FERHAT ÇULCUOĞLU"
+        },
+        {
+          "shirt_no": "4.",
+          "name": "KAĞAN TOPÇU"
+        },
+        {
+          "shirt_no": "21.",
+          "name": "BERKANT ALPŞANLI"
+        },
+        {
+          "shirt_no": "3.",
+          "name": "İSMET KAYAHAN EREN"
+        },
+        {
+          "shirt_no": "27.",
+          "name": "MEHMET ALİ ÇELİK"
+        },
+        {
+          "shirt_no": "22.",
+          "name": "YAKUP ANIL KARADAĞ"
+        },
+        {
+          "shirt_no": "90.",
+          "name": "FERHAT ÖZTAŞDELEN"
+        }
+      ],
+      "coach": "BÜLENT ATAMAN"
+    },
+    "away": {
+      "team": "Balıkesirspor",
+      "team_raw": "BALIKESİRSPOR",
+      "starting11": [
+        {
+          "shirt_no": "1.",
+          "name": "YİĞİTHAN KIR"
+        },
+        {
+          "shirt_no": "54.",
+          "name": "ÖMER FARUK YAYLACI"
+        },
+        {
+          "shirt_no": "70.",
+          "name": "GÖKSU MUTLU"
+        },
+        {
+          "shirt_no": "5.",
+          "name": "KAĞAN KAYALI"
+        },
+        {
+          "shirt_no": "88.",
+          "name": "UTKAN GÖKÇEN"
+        },
+        {
+          "shirt_no": "47.",
+          "name": "MEHMET ASLAN"
+        },
+        {
+          "shirt_no": "14.",
+          "name": "HAKAN AKGÜL"
+        },
+        {
+          "shirt_no": "11.",
+          "name": "ARDA İBRAHİM AKGÜN"
+        },
+        {
+          "shirt_no": "10.",
+          "name": "SEDAT YİĞİT KURNAZ"
+        },
+        {
+          "shirt_no": "37.",
+          "name": "MUHAMMET HAŞİM ÇOBAN"
+        },
+        {
+          "shirt_no": "99.",
+          "name": "METEHAN GÖREL"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "23.",
+          "name": "MUHAMMED EREN TÜRKMEN"
+        },
+        {
+          "shirt_no": "77.",
+          "name": "BATUHAN SÜER"
+        },
+        {
+          "shirt_no": "6.",
+          "name": "BERAT AYDOĞDU"
+        },
+        {
+          "shirt_no": "41.",
+          "name": "KORAY BAYKARA"
+        },
+        {
+          "shirt_no": "40.",
+          "name": "ERKAN SÜER"
+        },
+        {
+          "shirt_no": "8.",
+          "name": "OĞUZHAN CAN"
+        },
+        {
+          "shirt_no": "48.",
+          "name": "MUSTAFA BURAK GÜNDOĞAN"
+        },
+        {
+          "shirt_no": "94.",
+          "name": "BUĞRA İSMET AYTAP"
+        },
+        {
+          "shirt_no": "26.",
+          "name": "YASİN YİĞİT BERBER"
+        }
+      ],
+      "coach": "İSMAİL CEM CAMBAZ"
+    }
+  },
+  "events": [
+    {
+      "type": "goal",
+      "player": "GÜVEN GÜNERİ",
+      "minute": 25,
+      "minute_text": "25. dk",
+      "note": "Ayak",
+      "team": "BERGAMA SPORTİF FAALİYETLER A.Ş"
+    },
+    {
+      "type": "substitution",
+      "team": "BERGAMA SPORTİF FAALİYETLER A.Ş",
+      "player_out": "FUAT DURAN",
+      "player_in": "YAKUP ANIL KARADAĞ",
+      "minute": 46,
+      "minute_text": "46. dk"
+    },
+    {
+      "type": "own_goal",
+      "player": "KAĞAN TOPÇU",
+      "minute": 54,
+      "minute_text": "54. dk",
+      "note": "Kendi kalesine",
+      "team": "BERGAMA SPORTİF FAALİYETLER A.Ş"
+    },
+    {
+      "type": "goal",
+      "player": "MERT ÇAKAR",
+      "minute": 57,
+      "minute_text": "57. dk",
+      "note": "Ayak",
+      "team": "BERGAMA SPORTİF FAALİYETLER A.Ş"
+    },
+    {
+      "type": "substitution",
+      "team": "BERGAMA SPORTİF FAALİYETLER A.Ş",
+      "player_out": "SÜLEYMAN OKÇU",
+      "player_in": "KAĞAN TOPÇU",
+      "minute": 61,
+      "minute_text": "61. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "BERGAMA SPORTİF FAALİYETLER A.Ş",
+      "player_out": "İBRAHİM ŞİRİN",
+      "player_in": "BERKANT ALPŞANLI",
+      "minute": 67,
+      "minute_text": "67. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "BERGAMA SPORTİF FAALİYETLER A.Ş",
+      "player_out": "YUSUF CAN ABAY",
+      "player_in": "BURAK GÖKSEL",
+      "minute": 67,
+      "minute_text": "67. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "HAKAN AKGÜL",
+      "player_in": "BATUHAN SÜER",
+      "minute": 70,
+      "minute_text": "70. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "ARDA İBRAHİM AKGÜN",
+      "player_in": "MUHAMMED EREN TÜRKMEN",
+      "minute": 70,
+      "minute_text": "70. dk"
+    },
+    {
+      "type": "card",
+      "team": "BERGAMA SPORTİF FAALİYETLER A.Ş",
+      "player": "ERHAN ŞENTÜRK",
+      "minute": 76,
+      "minute_text": "76. dk"
+    },
+    {
+      "type": "card",
+      "team": "BERGAMA SPORTİF FAALİYETLER A.Ş",
+      "player": "YAKUP ANIL KARADAĞ",
+      "minute": 79,
+      "minute_text": "79. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "BATUHAN SÜER",
+      "minute": 79,
+      "minute_text": "79. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "BERGAMA SPORTİF FAALİYETLER A.Ş",
+      "player_out": "ERHAN ŞENTÜRK",
+      "player_in": "FERHAT ÇULCUOĞLU",
+      "minute": 79,
+      "minute_text": "79. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "METEHAN GÖREL",
+      "player_in": "KORAY BAYKARA",
+      "minute": 79,
+      "minute_text": "79. dk"
+    },
+    {
+      "type": "card",
+      "team": "BERGAMA SPORTİF FAALİYETLER A.Ş",
+      "player": "GÜVEN GÜNERİ",
+      "minute": 85,
+      "minute_text": "85. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "MUHAMMET HAŞİM ÇOBAN",
+      "player_in": "BUĞRA İSMET AYTAP",
+      "minute": 87,
+      "minute_text": "87. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "MEHMET ASLAN",
+      "player_in": "OĞUZHAN CAN",
+      "minute": 87,
+      "minute_text": "87. dk"
+    }
+  ],
+  "dataQuality": {
+    "lineupsAvailable": true,
+    "eventsAvailable": true,
+    "sourceType": "tff_detail_page"
+  }
+}

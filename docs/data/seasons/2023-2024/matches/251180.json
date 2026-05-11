@@ -1,0 +1,394 @@
+{
+  "id": "251180",
+  "tff_match_id": "251180",
+  "season": "2023-2024",
+  "competition": "TFF 3. LEAGUE (Professional Team)",
+  "roundType": "league",
+  "week": 3,
+  "stage": "3. Maç",
+  "date": "2023-09-23",
+  "time": "15:30",
+  "dateDisplay": "23.09.2023 - 15:30",
+  "homeTeam": "NEVŞEHİR BELEDİYE SPOR",
+  "awayTeam": "Balıkesirspor",
+  "homeTeamRaw": "NEVŞEHİR BELEDİYE SPOR",
+  "awayTeamRaw": "BALIKESİRSPOR",
+  "score": {
+    "home": 0,
+    "away": 1,
+    "display": "0-1",
+    "played": true
+  },
+  "balkes": {
+    "isHome": false,
+    "opponent": "NEVŞEHİR BELEDİYE SPOR",
+    "goalsFor": 1,
+    "goalsAgainst": 0,
+    "result": "W"
+  },
+  "detailUrl": "seasons/2023-2024/matches/251180.json",
+  "source": {
+    "name": "TFF",
+    "url": "https://www.tff.org/Default.aspx?macId=251180&pageID=528"
+  },
+  "match_code": "4646",
+  "venue": "NEVŞEHİR GAZİ STADI - NEVŞEHİR",
+  "referees": [
+    {
+      "name": "BERK ÇEKAL",
+      "role": "Referee"
+    },
+    {
+      "name": "UĞUR ÇAKMAK",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "GÖKHAN SALDUZ",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "RIDVAN ALTINTAŞ",
+      "role": "Fourth Official"
+    },
+    {
+      "name": "ABDULKERİM TÖR",
+      "role": "Observer"
+    },
+    {
+      "name": "ÖZCAN İNCE",
+      "role": "Delegate"
+    },
+    {
+      "name": "RESUL ÖZKER",
+      "role": "Delegate"
+    }
+  ],
+  "lineups": {
+    "home": {
+      "team": "NEVŞEHİR BELEDİYE SPOR",
+      "team_raw": "NEVŞEHİR BELEDİYE SPOR",
+      "starting11": [
+        {
+          "shirt_no": "44.",
+          "name": "MUSTAFA GÜRBÜZ"
+        },
+        {
+          "shirt_no": "14.",
+          "name": "AHMET ÖZER"
+        },
+        {
+          "shirt_no": "17.",
+          "name": "BERKAY TEKİN"
+        },
+        {
+          "shirt_no": "20.",
+          "name": "CANER CENGİZ"
+        },
+        {
+          "shirt_no": "58.",
+          "name": "ENDER ALKAN"
+        },
+        {
+          "shirt_no": "70.",
+          "name": "HÜSEYİN BİBER"
+        },
+        {
+          "shirt_no": "9.",
+          "name": "TUĞCAN ALP ÖZTÜRK"
+        },
+        {
+          "shirt_no": "12.",
+          "name": "MEHMET CAN HAZIRCI"
+        },
+        {
+          "shirt_no": "50.",
+          "name": "ÖMER YILDIRIM"
+        },
+        {
+          "shirt_no": "8.",
+          "name": "SEYİT ALİ KAHYA"
+        },
+        {
+          "shirt_no": "38.",
+          "name": "SEYİT MEHMET SÖĞÜT"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "1.",
+          "name": "AREL EKİNCİ"
+        },
+        {
+          "shirt_no": "77.",
+          "name": "BERKAY GÖÇMEN"
+        },
+        {
+          "shirt_no": "23.",
+          "name": "BURHAN ERSOY"
+        },
+        {
+          "shirt_no": "10.",
+          "name": "MÜCAHİT ERAYDIN"
+        },
+        {
+          "shirt_no": "7.",
+          "name": "ALPARSLAN DEMİR"
+        },
+        {
+          "shirt_no": "22.",
+          "name": "AHMET TANER ÇUKADAR"
+        },
+        {
+          "shirt_no": "88.",
+          "name": "ÖZGÜR DERYOL"
+        },
+        {
+          "shirt_no": "66.",
+          "name": "AHMET ENES AKKAN"
+        },
+        {
+          "shirt_no": "99.",
+          "name": "GÜRKAN ARSLAN"
+        },
+        {
+          "shirt_no": "53.",
+          "name": "İBRAHİM TOPALOĞLU"
+        }
+      ],
+      "coach": "ENDER ALKAN"
+    },
+    "away": {
+      "team": "Balıkesirspor",
+      "team_raw": "BALIKESİRSPOR",
+      "starting11": [
+        {
+          "shirt_no": "1.",
+          "name": "YİĞİTHAN KIR"
+        },
+        {
+          "shirt_no": "88.",
+          "name": "UTKAN GÖKÇEN"
+        },
+        {
+          "shirt_no": "70.",
+          "name": "GÖKSU MUTLU"
+        },
+        {
+          "shirt_no": "54.",
+          "name": "ÖMER FARUK YAYLACI"
+        },
+        {
+          "shirt_no": "6.",
+          "name": "BERAT AYDOĞDU"
+        },
+        {
+          "shirt_no": "15.",
+          "name": "ASIM HAMZAÇEBİ"
+        },
+        {
+          "shirt_no": "40.",
+          "name": "ERKAN SÜER"
+        },
+        {
+          "shirt_no": "21.",
+          "name": "MUHSİN YILDIRIM"
+        },
+        {
+          "shirt_no": "11.",
+          "name": "ARDA İBRAHİM AKGÜN"
+        },
+        {
+          "shirt_no": "20.",
+          "name": "DOĞANAY AVCI"
+        },
+        {
+          "shirt_no": "14.",
+          "name": "HAKAN AKGÜL"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "12.",
+          "name": "HÜSEYİN ALTINTAŞ"
+        },
+        {
+          "shirt_no": "5.",
+          "name": "KAĞAN KAYALI"
+        },
+        {
+          "shirt_no": "3.",
+          "name": "GÜNEY ÇELİK KELEŞ"
+        },
+        {
+          "shirt_no": "16.",
+          "name": "BERK TOSUN"
+        },
+        {
+          "shirt_no": "10.",
+          "name": "SEDAT YİĞİT KURNAZ"
+        },
+        {
+          "shirt_no": "7.",
+          "name": "BERKAY AYKURT"
+        },
+        {
+          "shirt_no": "9.",
+          "name": "BERKE DOĞUKAN ÖNDE"
+        },
+        {
+          "shirt_no": "55.",
+          "name": "OKTAY BALA"
+        },
+        {
+          "shirt_no": "53.",
+          "name": "DOĞUKAN SARAL"
+        }
+      ],
+      "coach": "RECEP ÇETİN"
+    }
+  },
+  "events": [
+    {
+      "type": "card",
+      "team": "NEVŞEHİR BELEDİYE SPOR",
+      "player": "SEYİT MEHMET SÖĞÜT",
+      "minute": 44,
+      "minute_text": "44. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "GÖKSU MUTLU",
+      "minute": 44,
+      "minute_text": "44. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "ASIM HAMZAÇEBİ",
+      "player_in": "GÜNEY ÇELİK KELEŞ",
+      "minute": 46,
+      "minute_text": "46. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "UTKAN GÖKÇEN",
+      "player_in": "BERKE DOĞUKAN ÖNDE",
+      "minute": 46,
+      "minute_text": "46. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "ARDA İBRAHİM AKGÜN",
+      "player_in": "KAĞAN KAYALI",
+      "minute": 46,
+      "minute_text": "46. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "NEVŞEHİR BELEDİYE SPOR",
+      "player_out": "SEYİT ALİ KAHYA",
+      "player_in": "ALPARSLAN DEMİR",
+      "minute": 54,
+      "minute_text": "54. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "NEVŞEHİR BELEDİYE SPOR",
+      "player_out": "AHMET ÖZER",
+      "player_in": "MÜCAHİT ERAYDIN",
+      "minute": 67,
+      "minute_text": "67. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "NEVŞEHİR BELEDİYE SPOR",
+      "player_out": "TUĞCAN ALP ÖZTÜRK",
+      "player_in": "BERKAY GÖÇMEN",
+      "minute": 67,
+      "minute_text": "67. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "BERKE DOĞUKAN ÖNDE",
+      "minute": 83,
+      "minute_text": "83. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "DOĞANAY AVCI",
+      "player_in": "BERKAY AYKURT",
+      "minute": 83,
+      "minute_text": "83. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "NEVŞEHİR BELEDİYE SPOR",
+      "player_out": "MEHMET CAN HAZIRCI",
+      "player_in": "AHMET ENES AKKAN",
+      "minute": 86,
+      "minute_text": "86. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "NEVŞEHİR BELEDİYE SPOR",
+      "player_out": "HÜSEYİN BİBER",
+      "player_in": "İBRAHİM TOPALOĞLU",
+      "minute": 86,
+      "minute_text": "86. dk"
+    },
+    {
+      "type": "card",
+      "team": "NEVŞEHİR BELEDİYE SPOR",
+      "player": "ENDER ALKAN",
+      "minute": 87,
+      "minute_text": "87. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "ERKAN SÜER",
+      "minute": 87,
+      "minute_text": "87. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "BERAT AYDOĞDU",
+      "minute": 88,
+      "minute_text": "88. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "ERKAN SÜER",
+      "player_in": "SEDAT YİĞİT KURNAZ",
+      "minute": 88,
+      "minute_text": "88. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "YİĞİTHAN KIR",
+      "minute": 90.6,
+      "minute_text": "90+6. dk"
+    },
+    {
+      "type": "goal",
+      "player": "BERKAY AYKURT",
+      "minute": 90.8,
+      "minute_text": "90+8. dk",
+      "note": "Ayak",
+      "team": "Balıkesirspor"
+    }
+  ],
+  "dataQuality": {
+    "lineupsAvailable": true,
+    "eventsAvailable": true,
+    "sourceType": "tff_detail_page"
+  }
+}

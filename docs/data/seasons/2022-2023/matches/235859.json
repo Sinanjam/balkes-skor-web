@@ -1,0 +1,395 @@
+{
+  "id": "235859",
+  "tff_match_id": "235859",
+  "season": "2022-2023",
+  "competition": "TFF 2.League (Professional Team)",
+  "roundType": "league",
+  "week": 28,
+  "stage": "28. Maç",
+  "date": "2023-03-25",
+  "time": "14:00",
+  "dateDisplay": "25.03.2023 - 14:00",
+  "homeTeam": "Balıkesirspor",
+  "awayTeam": "SERİK BELEDİYESPOR",
+  "homeTeamRaw": "BAYNET İNŞAAT BALIKESİRSPOR",
+  "awayTeamRaw": "SERİK BELEDİYESPOR",
+  "score": {
+    "home": 1,
+    "away": 4,
+    "display": "1-4",
+    "played": true
+  },
+  "balkes": {
+    "isHome": true,
+    "opponent": "SERİK BELEDİYESPOR",
+    "goalsFor": 1,
+    "goalsAgainst": 4,
+    "result": "L"
+  },
+  "detailUrl": "seasons/2022-2023/matches/235859.json",
+  "source": {
+    "name": "TFF",
+    "url": "https://www.tff.org/Default.aspx?macId=235859&pageID=528"
+  },
+  "match_code": "3470",
+  "venue": "BALIKESİR ATATÜRK - BALIKESİR",
+  "referees": [
+    {
+      "name": "RAMAZAN KELEŞ",
+      "role": "Referee"
+    },
+    {
+      "name": "AKIN KARABACAK",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "MEHMET ŞENKAYA",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "SİNAN DERECİ",
+      "role": "Fourth Official"
+    },
+    {
+      "name": "KENAN YARAR",
+      "role": "Observer"
+    },
+    {
+      "name": "ERDOĞAN KURT",
+      "role": "Delegate"
+    },
+    {
+      "name": "KANİ BAHADIR YEŞİLTEPE",
+      "role": "Delegate"
+    }
+  ],
+  "lineups": {
+    "home": {
+      "team": "Balıkesirspor",
+      "team_raw": "BAYNET İNŞAAT BALIKESİRSPOR",
+      "starting11": [
+        {
+          "shirt_no": "26.",
+          "name": "YASİN YİĞİT BERBER"
+        },
+        {
+          "shirt_no": "44.",
+          "name": "GÖRKEM ALTUN"
+        },
+        {
+          "shirt_no": "15.",
+          "name": "KAĞAN KAYALI"
+        },
+        {
+          "shirt_no": "39.",
+          "name": "HÜSEYİN KARABEY"
+        },
+        {
+          "shirt_no": "3.",
+          "name": "BERAT AYDOĞDU"
+        },
+        {
+          "shirt_no": "23.",
+          "name": "ENES KARABULUT"
+        },
+        {
+          "shirt_no": "7.",
+          "name": "ANDAÇ GÜLERYÜZ"
+        },
+        {
+          "shirt_no": "5.",
+          "name": "SEDAT DURSUN"
+        },
+        {
+          "shirt_no": "10.",
+          "name": "OĞUZ HAN AYNAOĞLU"
+        },
+        {
+          "shirt_no": "20.",
+          "name": "BERK TOSUN"
+        },
+        {
+          "shirt_no": "63.",
+          "name": "İBRAHİM HALİL ÇOLAK"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "1.",
+          "name": "YİĞİTHAN KIR"
+        },
+        {
+          "shirt_no": "97.",
+          "name": "BERKAY AYKURT"
+        },
+        {
+          "shirt_no": "21.",
+          "name": "SEDAT YİĞİT KURNAZ"
+        },
+        {
+          "shirt_no": "27.",
+          "name": "DOĞANAY AVCI"
+        },
+        {
+          "shirt_no": "4.",
+          "name": "BİROL PARLAK"
+        },
+        {
+          "shirt_no": "67.",
+          "name": "ARDA İBRAHİM AKGÜN"
+        },
+        {
+          "shirt_no": "33.",
+          "name": "GÜNEY ÇELİK KELEŞ"
+        },
+        {
+          "shirt_no": "61.",
+          "name": "HASAN CAN BİNGÜL"
+        },
+        {
+          "shirt_no": "69.",
+          "name": "UMUT CAN AKÇAOĞLU"
+        },
+        {
+          "shirt_no": "6.",
+          "name": "MUSTAFA ÖNCÜ"
+        }
+      ],
+      "coach": "CAN CANGÖK"
+    },
+    "away": {
+      "team": "SERİK BELEDİYESPOR",
+      "team_raw": "SERİK BELEDİYESPOR",
+      "starting11": [
+        {
+          "shirt_no": "13.",
+          "name": "İBRAHİM DEMİR"
+        },
+        {
+          "shirt_no": "4.",
+          "name": "FIRAT ARIKAN"
+        },
+        {
+          "shirt_no": "58.",
+          "name": "MEHMET DEMİRÖZÜ"
+        },
+        {
+          "shirt_no": "5.",
+          "name": "ERBAY EKER"
+        },
+        {
+          "shirt_no": "92.",
+          "name": "HAKAN OLKAN"
+        },
+        {
+          "shirt_no": "98.",
+          "name": "HARUN KAVAKLIDERE"
+        },
+        {
+          "shirt_no": "35.",
+          "name": "MEHMET CAN KOCABAŞ"
+        },
+        {
+          "shirt_no": "90.",
+          "name": "HALİL İBRAHİM SEVİNÇ"
+        },
+        {
+          "shirt_no": "88.",
+          "name": "ERDİ ZENGİN"
+        },
+        {
+          "shirt_no": "37.",
+          "name": "OĞUZHAN DOĞAN"
+        },
+        {
+          "shirt_no": "61.",
+          "name": "MUHAMMET AKPINAR"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "15.",
+          "name": "MEHMET DOĞAN"
+        },
+        {
+          "shirt_no": "7.",
+          "name": "SERGEN YATAĞAN"
+        },
+        {
+          "shirt_no": "14.",
+          "name": "SİNAN KALAYCI"
+        },
+        {
+          "shirt_no": "6.",
+          "name": "ERGÜN NAZLI"
+        },
+        {
+          "shirt_no": "19.",
+          "name": "FURKAN BALABAN"
+        },
+        {
+          "shirt_no": "30.",
+          "name": "ERDOĞAN KAYA"
+        },
+        {
+          "shirt_no": "40.",
+          "name": "OĞULCAN ŞAHİN"
+        },
+        {
+          "shirt_no": "21.",
+          "name": "HÜSEYİN CAN ÖZTÜRK"
+        },
+        {
+          "shirt_no": "2.",
+          "name": "EMRE YÜCEDAĞ"
+        },
+        {
+          "shirt_no": "78.",
+          "name": "AHMET SARIKAYA"
+        }
+      ],
+      "coach": "CEM KAVÇAK"
+    }
+  },
+  "events": [
+    {
+      "type": "card",
+      "team": "SERİK BELEDİYESPOR",
+      "player": "OĞUZHAN DOĞAN",
+      "minute": 33,
+      "minute_text": "33. dk"
+    },
+    {
+      "type": "goal",
+      "player": "MUHAMMET AKPINAR",
+      "minute": 37,
+      "minute_text": "37. dk",
+      "note": "Ayak",
+      "team": "SERİK BELEDİYESPOR"
+    },
+    {
+      "type": "goal",
+      "player": "MEHMET DEMİRÖZÜ",
+      "minute": 45.1,
+      "minute_text": "45+1. dk",
+      "note": "Kafa",
+      "team": "SERİK BELEDİYESPOR"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "KAĞAN KAYALI",
+      "player_in": "BİROL PARLAK",
+      "minute": 46,
+      "minute_text": "46. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "BERK TOSUN",
+      "player_in": "DOĞANAY AVCI",
+      "minute": 46,
+      "minute_text": "46. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "ENES KARABULUT",
+      "player_in": "BERKAY AYKURT",
+      "minute": 46,
+      "minute_text": "46. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "ANDAÇ GÜLERYÜZ",
+      "player_in": "HASAN CAN BİNGÜL",
+      "minute": 46,
+      "minute_text": "46. dk"
+    },
+    {
+      "type": "goal",
+      "player": "BERKAY AYKURT",
+      "minute": 54,
+      "minute_text": "54. dk",
+      "note": "Ayak",
+      "team": "Balıkesirspor"
+    },
+    {
+      "type": "goal",
+      "player": "HARUN KAVAKLIDERE",
+      "minute": 55,
+      "minute_text": "55. dk",
+      "note": "Ayak",
+      "team": "SERİK BELEDİYESPOR"
+    },
+    {
+      "type": "substitution",
+      "team": "SERİK BELEDİYESPOR",
+      "player_out": "ERDİ ZENGİN",
+      "player_in": "SİNAN KALAYCI",
+      "minute": 59,
+      "minute_text": "59. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "SERİK BELEDİYESPOR",
+      "player_out": "OĞUZHAN DOĞAN",
+      "player_in": "OĞULCAN ŞAHİN",
+      "minute": 59,
+      "minute_text": "59. dk"
+    },
+    {
+      "type": "card",
+      "team": "SERİK BELEDİYESPOR",
+      "player": "MUHAMMET AKPINAR",
+      "minute": 67,
+      "minute_text": "67. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "OĞUZ HAN AYNAOĞLU",
+      "player_in": "GÜNEY ÇELİK KELEŞ",
+      "minute": 70,
+      "minute_text": "70. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "SERİK BELEDİYESPOR",
+      "player_out": "HALİL İBRAHİM SEVİNÇ",
+      "player_in": "HÜSEYİN CAN ÖZTÜRK",
+      "minute": 72,
+      "minute_text": "72. dk"
+    },
+    {
+      "type": "goal",
+      "player": "MUHAMMET AKPINAR",
+      "minute": 85,
+      "minute_text": "85. dk",
+      "note": "Ayak",
+      "team": "SERİK BELEDİYESPOR"
+    },
+    {
+      "type": "substitution",
+      "team": "SERİK BELEDİYESPOR",
+      "player_out": "HAKAN OLKAN",
+      "player_in": "ERGÜN NAZLI",
+      "minute": 86,
+      "minute_text": "86. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "SERİK BELEDİYESPOR",
+      "player_out": "MEHMET CAN KOCABAŞ",
+      "player_in": "SERGEN YATAĞAN",
+      "minute": 86,
+      "minute_text": "86. dk"
+    }
+  ],
+  "dataQuality": {
+    "lineupsAvailable": true,
+    "eventsAvailable": true,
+    "sourceType": "tff_detail_page"
+  }
+}

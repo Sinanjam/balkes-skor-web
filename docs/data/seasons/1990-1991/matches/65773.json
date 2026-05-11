@@ -1,0 +1,253 @@
+{
+  "id": "65773",
+  "tff_match_id": "65773",
+  "season": "1990-1991",
+  "competition": "3. League (Professional Team)",
+  "roundType": "league",
+  "week": 2,
+  "stage": "2. Maç",
+  "date": "1991-04-28",
+  "time": "15:00",
+  "dateDisplay": "28.04.1991 - 15:00",
+  "homeTeam": "Balıkesirspor",
+  "awayTeam": "THY",
+  "homeTeamRaw": "BALIKESIRSPOR",
+  "awayTeamRaw": "THY",
+  "score": {
+    "home": 0,
+    "away": 1,
+    "display": "0-1",
+    "played": true
+  },
+  "balkes": {
+    "isHome": true,
+    "opponent": "THY",
+    "goalsFor": 0,
+    "goalsAgainst": 1,
+    "result": "L"
+  },
+  "detailUrl": "seasons/1990-1991/matches/65773.json",
+  "source": {
+    "name": "TFF",
+    "url": "https://www.tff.org/Default.aspx?macId=65773&pageID=528"
+  },
+  "match_code": "5101",
+  "venue": "BALIKESİR ATATÜRK",
+  "referees": [
+    {
+      "name": "ORHAN TASMA",
+      "role": "Referee"
+    },
+    {
+      "name": "NURİ ÖZGÜÇLÜ",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "YAŞAR TUNÇ",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "GÜNAY GÜL",
+      "role": "Observer"
+    }
+  ],
+  "lineups": {
+    "home": {
+      "team": "Balıkesirspor",
+      "team_raw": "BALIKESIRSPOR",
+      "starting11": [
+        {
+          "shirt_no": "1.",
+          "name": "KÜRŞAD KÜÇÜKKAYALAR"
+        },
+        {
+          "shirt_no": "2.",
+          "name": "İSMAİL AŞKAN"
+        },
+        {
+          "shirt_no": "3.",
+          "name": "SANCAR KİRAZLI"
+        },
+        {
+          "shirt_no": "4.",
+          "name": "MESUT DİLSÖZ"
+        },
+        {
+          "shirt_no": "5.",
+          "name": "İSMET GÜMÜŞ"
+        },
+        {
+          "shirt_no": "6.",
+          "name": "GÖKHAN TETİK"
+        },
+        {
+          "shirt_no": "7.",
+          "name": "HALİT ERSOY"
+        },
+        {
+          "shirt_no": "8.",
+          "name": "MURAT KORUCU"
+        },
+        {
+          "shirt_no": "9.",
+          "name": "ALİ EFE"
+        },
+        {
+          "shirt_no": "10.",
+          "name": "MURAT BÖLÜKBAŞI"
+        },
+        {
+          "shirt_no": "11.",
+          "name": "OSMAN KARADENİZ"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "12.",
+          "name": "MEMDUH ORUÇ"
+        },
+        {
+          "shirt_no": "13.",
+          "name": "METİN KARAGÖZ"
+        },
+        {
+          "shirt_no": "14.",
+          "name": "ASİL ARSLANLAR"
+        },
+        {
+          "shirt_no": "15.",
+          "name": "TUNCAY KURT"
+        },
+        {
+          "shirt_no": "254.",
+          "name": "LEVENT UYSAL"
+        }
+      ]
+    },
+    "away": {
+      "team": "THY",
+      "team_raw": "THY",
+      "starting11": [
+        {
+          "shirt_no": "1.",
+          "name": "EROL CAMCI"
+        },
+        {
+          "shirt_no": "2.",
+          "name": "SELAHATTİN ARAS"
+        },
+        {
+          "shirt_no": "3.",
+          "name": "FATİH MEHMET ÇELER"
+        },
+        {
+          "shirt_no": "4.",
+          "name": "ENVER YÜCE"
+        },
+        {
+          "shirt_no": "5.",
+          "name": "KAMER SAĞLIK"
+        },
+        {
+          "shirt_no": "6.",
+          "name": "ETHEM FAZLI TAYLAN"
+        },
+        {
+          "shirt_no": "7.",
+          "name": "TEVFİK GELGEÇ"
+        },
+        {
+          "shirt_no": "8.",
+          "name": "ÜMİT DALGIÇ"
+        },
+        {
+          "shirt_no": "9.",
+          "name": "MURAT BÜYÜKÖNER"
+        },
+        {
+          "shirt_no": "10.",
+          "name": "ENGİN CİVAK"
+        },
+        {
+          "shirt_no": "11.",
+          "name": "HALİT TUĞRUL DÖŞEK"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "12.",
+          "name": "MEHMET BOZKURT"
+        },
+        {
+          "shirt_no": "13.",
+          "name": "TAHSİN MUMCU"
+        },
+        {
+          "shirt_no": "14.",
+          "name": "AHMET CEM ÇAKIR"
+        },
+        {
+          "shirt_no": "15.",
+          "name": "SERHAT ERTAN"
+        },
+        {
+          "shirt_no": "254.",
+          "name": "VECDİ YALÇIN"
+        }
+      ]
+    }
+  },
+  "events": [
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "OSMAN KARADENİZ",
+      "player_in": "MEMDUH ORUÇ",
+      "minute": 35,
+      "minute_text": "35. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "KÜRŞAD KÜÇÜKKAYALAR",
+      "player_in": "LEVENT UYSAL",
+      "minute": 50,
+      "minute_text": "50. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "THY",
+      "player_out": "HALİT TUĞRUL DÖŞEK",
+      "player_in": "AHMET CEM ÇAKIR",
+      "minute": 55,
+      "minute_text": "55. dk"
+    },
+    {
+      "type": "card",
+      "team": "THY",
+      "player": "ENVER YÜCE",
+      "minute": 70,
+      "minute_text": "70. dk"
+    },
+    {
+      "type": "card",
+      "team": "THY",
+      "player": "MURAT BÜYÜKÖNER",
+      "minute": 73,
+      "minute_text": "73. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "THY",
+      "player_out": "FATİH MEHMET ÇELER",
+      "player_in": "TAHSİN MUMCU",
+      "minute": 80,
+      "minute_text": "80. dk"
+    }
+  ],
+  "dataQuality": {
+    "lineupsAvailable": true,
+    "eventsAvailable": true,
+    "sourceType": "tff_detail_page"
+  }
+}

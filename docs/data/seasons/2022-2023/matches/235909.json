@@ -1,0 +1,394 @@
+{
+  "id": "235909",
+  "tff_match_id": "235909",
+  "season": "2022-2023",
+  "competition": "TFF 2.League (Professional Team)",
+  "roundType": "league",
+  "week": 33,
+  "stage": "33. Maç",
+  "date": "2023-04-19",
+  "time": "15:00",
+  "dateDisplay": "19.04.2023 - 15:00",
+  "homeTeam": "Balıkesirspor",
+  "awayTeam": "PAZARSPOR",
+  "homeTeamRaw": "BAYNET İNŞAAT BALIKESİRSPOR",
+  "awayTeamRaw": "PAZARSPOR",
+  "score": {
+    "home": 0,
+    "away": 2,
+    "display": "0-2",
+    "played": true
+  },
+  "balkes": {
+    "isHome": true,
+    "opponent": "PAZARSPOR",
+    "goalsFor": 0,
+    "goalsAgainst": 2,
+    "result": "L"
+  },
+  "detailUrl": "seasons/2022-2023/matches/235909.json",
+  "source": {
+    "name": "TFF",
+    "url": "https://www.tff.org/Default.aspx?macId=235909&pageID=528"
+  },
+  "match_code": "3520",
+  "venue": "BALIKESİR ATATÜRK - BALIKESİR",
+  "referees": [
+    {
+      "name": "MEHMET TÜRKMEN",
+      "role": "Referee"
+    },
+    {
+      "name": "SEFA ÖZCAN",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "SİNAN ERTİNĞÜ",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "ENVER AYDIN",
+      "role": "Fourth Official"
+    },
+    {
+      "name": "HÜSEYİN ALTINTAŞ",
+      "role": "Observer"
+    },
+    {
+      "name": "İBRAHİM ONAYLI",
+      "role": "Delegate"
+    },
+    {
+      "name": "VOLKAN TANRIVERDİ",
+      "role": "Delegate"
+    }
+  ],
+  "lineups": {
+    "home": {
+      "team": "Balıkesirspor",
+      "team_raw": "BAYNET İNŞAAT BALIKESİRSPOR",
+      "starting11": [
+        {
+          "shirt_no": "26.",
+          "name": "YASİN YİĞİT BERBER"
+        },
+        {
+          "shirt_no": "3.",
+          "name": "BERAT AYDOĞDU"
+        },
+        {
+          "shirt_no": "5.",
+          "name": "SEDAT DURSUN"
+        },
+        {
+          "shirt_no": "10.",
+          "name": "OĞUZ HAN AYNAOĞLU"
+        },
+        {
+          "shirt_no": "15.",
+          "name": "KAĞAN KAYALI"
+        },
+        {
+          "shirt_no": "20.",
+          "name": "BERK TOSUN"
+        },
+        {
+          "shirt_no": "21.",
+          "name": "SEDAT YİĞİT KURNAZ"
+        },
+        {
+          "shirt_no": "25.",
+          "name": "ABDULLAH ADIYAMAN"
+        },
+        {
+          "shirt_no": "39.",
+          "name": "HÜSEYİN KARABEY"
+        },
+        {
+          "shirt_no": "61.",
+          "name": "HASAN CAN BİNGÜL"
+        },
+        {
+          "shirt_no": "7.",
+          "name": "ANDAÇ GÜLERYÜZ"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "1.",
+          "name": "YİĞİTHAN KIR"
+        },
+        {
+          "shirt_no": "4.",
+          "name": "BİROL PARLAK"
+        },
+        {
+          "shirt_no": "99.",
+          "name": "EMİRHAN ÇAKIR"
+        },
+        {
+          "shirt_no": "27.",
+          "name": "DOĞANAY AVCI"
+        },
+        {
+          "shirt_no": "33.",
+          "name": "GÜNEY ÇELİK KELEŞ"
+        },
+        {
+          "shirt_no": "44.",
+          "name": "GÖRKEM ALTUN"
+        },
+        {
+          "shirt_no": "63.",
+          "name": "İBRAHİM HALİL ÇOLAK"
+        },
+        {
+          "shirt_no": "67.",
+          "name": "ARDA İBRAHİM AKGÜN"
+        },
+        {
+          "shirt_no": "69.",
+          "name": "UMUT CAN AKÇAOĞLU"
+        },
+        {
+          "shirt_no": "97.",
+          "name": "BERKAY AYKURT"
+        }
+      ],
+      "coach": "CAN CANGÖK"
+    },
+    "away": {
+      "team": "PAZARSPOR",
+      "team_raw": "PAZARSPOR",
+      "starting11": [
+        {
+          "shirt_no": "34.",
+          "name": "DOĞUKAN ÖZKAN"
+        },
+        {
+          "shirt_no": "80.",
+          "name": "ONUR KIZILTAŞ"
+        },
+        {
+          "shirt_no": "77.",
+          "name": "BURAK AVŞAR"
+        },
+        {
+          "shirt_no": "3.",
+          "name": "KORHAN GÜLER"
+        },
+        {
+          "shirt_no": "22.",
+          "name": "EMRULLAH ERTUŞ"
+        },
+        {
+          "shirt_no": "16.",
+          "name": "ÖMER FARUK ÇALIŞKAN"
+        },
+        {
+          "shirt_no": "12.",
+          "name": "SERCAN BESLER"
+        },
+        {
+          "shirt_no": "20.",
+          "name": "KADİR SALİH"
+        },
+        {
+          "shirt_no": "64.",
+          "name": "AHMET KARATAŞ"
+        },
+        {
+          "shirt_no": "99.",
+          "name": "SEYMEN SALİH ADALI"
+        },
+        {
+          "shirt_no": "50.",
+          "name": "HAMZA KAYA"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "1.",
+          "name": "YASİN DAVUŞ"
+        },
+        {
+          "shirt_no": "26.",
+          "name": "ALPEREN AŞKIN EROL"
+        },
+        {
+          "shirt_no": "11.",
+          "name": "ERAY YÜKSEL"
+        },
+        {
+          "shirt_no": "19.",
+          "name": "EMRE ZEYCAN"
+        },
+        {
+          "shirt_no": "8.",
+          "name": "MUZAFFER GEBECİ"
+        },
+        {
+          "shirt_no": "31.",
+          "name": "BAŞAR ÇAKICIOĞLU"
+        },
+        {
+          "shirt_no": "66.",
+          "name": "GÜVENÇ USTA"
+        }
+      ],
+      "coach": "NAZIM GÜLAY"
+    }
+  },
+  "events": [
+    {
+      "type": "goal",
+      "player": "EMRULLAH ERTUŞ",
+      "minute": 16,
+      "minute_text": "16. dk",
+      "note": "Ayak",
+      "team": "PAZARSPOR"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "BERK TOSUN",
+      "minute": 43,
+      "minute_text": "43. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "BERK TOSUN",
+      "player_in": "GÜNEY ÇELİK KELEŞ",
+      "minute": 46,
+      "minute_text": "46. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "ANDAÇ GÜLERYÜZ",
+      "player_in": "EMİRHAN ÇAKIR",
+      "minute": 46,
+      "minute_text": "46. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "ABDULLAH ADIYAMAN",
+      "player_in": "BERKAY AYKURT",
+      "minute": 46,
+      "minute_text": "46. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "KAĞAN KAYALI",
+      "minute": 51,
+      "minute_text": "51. dk"
+    },
+    {
+      "type": "card",
+      "team": "PAZARSPOR",
+      "player": "KORHAN GÜLER",
+      "minute": 51,
+      "minute_text": "51. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "EMİRHAN ÇAKIR",
+      "player_in": "DOĞANAY AVCI",
+      "minute": 51,
+      "minute_text": "51. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "PAZARSPOR",
+      "player_out": "EMRULLAH ERTUŞ",
+      "player_in": "ERAY YÜKSEL",
+      "minute": 60,
+      "minute_text": "60. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "OĞUZ HAN AYNAOĞLU",
+      "player_in": "İBRAHİM HALİL ÇOLAK",
+      "minute": 75,
+      "minute_text": "75. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "PAZARSPOR",
+      "player_out": "KORHAN GÜLER",
+      "player_in": "GÜVENÇ USTA",
+      "minute": 75,
+      "minute_text": "75. dk"
+    },
+    {
+      "type": "card",
+      "team": "PAZARSPOR",
+      "player": "GÜVENÇ USTA",
+      "minute": 85,
+      "minute_text": "85. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "HÜSEYİN KARABEY",
+      "minute": 87,
+      "minute_text": "87. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "BERAT AYDOĞDU",
+      "minute": 88,
+      "minute_text": "88. dk"
+    },
+    {
+      "type": "card",
+      "team": "PAZARSPOR",
+      "player": "SEYMEN SALİH ADALI",
+      "minute": 88,
+      "minute_text": "88. dk"
+    },
+    {
+      "type": "goal",
+      "player": "SERCAN BESLER",
+      "minute": 90.2,
+      "minute_text": "90+2. dk",
+      "note": "Ayak",
+      "team": "PAZARSPOR"
+    },
+    {
+      "type": "substitution",
+      "team": "PAZARSPOR",
+      "player_out": "ÖMER FARUK ÇALIŞKAN",
+      "player_in": "MUZAFFER GEBECİ",
+      "minute": 90.3,
+      "minute_text": "90+3. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "PAZARSPOR",
+      "player_out": "SEYMEN SALİH ADALI",
+      "player_in": "ALPEREN AŞKIN EROL",
+      "minute": 90.3,
+      "minute_text": "90+3. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "PAZARSPOR",
+      "player_out": "HAMZA KAYA",
+      "player_in": "EMRE ZEYCAN",
+      "minute": 90.3,
+      "minute_text": "90+3. dk"
+    }
+  ],
+  "dataQuality": {
+    "lineupsAvailable": true,
+    "eventsAvailable": true,
+    "sourceType": "tff_detail_page"
+  }
+}

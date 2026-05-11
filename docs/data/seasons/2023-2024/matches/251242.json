@@ -1,0 +1,346 @@
+{
+  "id": "251242",
+  "tff_match_id": "251242",
+  "season": "2023-2024",
+  "competition": "TFF 3. LEAGUE (Professional Team)",
+  "roundType": "league",
+  "week": 12,
+  "stage": "12. Maç",
+  "date": "2023-11-26",
+  "time": "14:00",
+  "dateDisplay": "26.11.2023 - 14:00",
+  "homeTeam": "Balıkesirspor",
+  "awayTeam": "BITEXEN ADANA 1954 FUTBOL KULÜBÜ",
+  "homeTeamRaw": "BALIKESİRSPOR",
+  "awayTeamRaw": "BITEXEN ADANA 1954 FUTBOL KULÜBÜ",
+  "score": {
+    "home": 0,
+    "away": 0,
+    "display": "0-0",
+    "played": true
+  },
+  "balkes": {
+    "isHome": true,
+    "opponent": "BITEXEN ADANA 1954 FUTBOL KULÜBÜ",
+    "goalsFor": 0,
+    "goalsAgainst": 0,
+    "result": "D"
+  },
+  "detailUrl": "seasons/2023-2024/matches/251242.json",
+  "source": {
+    "name": "TFF",
+    "url": "https://www.tff.org/Default.aspx?macId=251242&pageID=528"
+  },
+  "match_code": "4708",
+  "venue": "BALIKESİR ATATÜRK - BALIKESİR",
+  "referees": [
+    {
+      "name": "BATUHAN BAYAR",
+      "role": "Referee"
+    },
+    {
+      "name": "BERK TEZCAN",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "BATUHAN BIYIKLI",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "CİHAT ŞAMİL ULUTAŞ",
+      "role": "Fourth Official"
+    },
+    {
+      "name": "ABDÜLKADİR GÜVEN",
+      "role": "Observer"
+    },
+    {
+      "name": "CEVDET YUMUŞAK",
+      "role": "Delegate"
+    },
+    {
+      "name": "VURAL KARAGÜL",
+      "role": "Delegate"
+    }
+  ],
+  "lineups": {
+    "home": {
+      "team": "Balıkesirspor",
+      "team_raw": "BALIKESİRSPOR",
+      "starting11": [
+        {
+          "shirt_no": "12.",
+          "name": "HÜSEYİN ALTINTAŞ"
+        },
+        {
+          "shirt_no": "4.",
+          "name": "BİROL PARLAK"
+        },
+        {
+          "shirt_no": "6.",
+          "name": "BERAT AYDOĞDU"
+        },
+        {
+          "shirt_no": "11.",
+          "name": "ARDA İBRAHİM AKGÜN"
+        },
+        {
+          "shirt_no": "14.",
+          "name": "HAKAN AKGÜL"
+        },
+        {
+          "shirt_no": "15.",
+          "name": "ASIM HAMZAÇEBİ"
+        },
+        {
+          "shirt_no": "20.",
+          "name": "DOĞANAY AVCI"
+        },
+        {
+          "shirt_no": "27.",
+          "name": "RAHMİ ANIL BAŞARAN"
+        },
+        {
+          "shirt_no": "40.",
+          "name": "ERKAN SÜER"
+        },
+        {
+          "shirt_no": "54.",
+          "name": "ÖMER FARUK YAYLACI"
+        },
+        {
+          "shirt_no": "88.",
+          "name": "UTKAN GÖKÇEN"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "1.",
+          "name": "YİĞİTHAN KIR"
+        },
+        {
+          "shirt_no": "7.",
+          "name": "BERKAY AYKURT"
+        },
+        {
+          "shirt_no": "8.",
+          "name": "ÜMİT DOĞRU"
+        },
+        {
+          "shirt_no": "9.",
+          "name": "BERKE DOĞUKAN ÖNDE"
+        },
+        {
+          "shirt_no": "10.",
+          "name": "SEDAT YİĞİT KURNAZ"
+        },
+        {
+          "shirt_no": "19.",
+          "name": "ENES KARABULUT"
+        },
+        {
+          "shirt_no": "21.",
+          "name": "MUHSİN YILDIRIM"
+        },
+        {
+          "shirt_no": "22.",
+          "name": "GÖRKEM ALTUN"
+        },
+        {
+          "shirt_no": "53.",
+          "name": "DOĞUKAN SARAL"
+        },
+        {
+          "shirt_no": "55.",
+          "name": "OKTAY BALA"
+        }
+      ],
+      "coach": "İSMAİL CEM CAMBAZ"
+    },
+    "away": {
+      "team": "BITEXEN ADANA 1954 FUTBOL KULÜBÜ",
+      "team_raw": "BITEXEN ADANA 1954 FUTBOL KULÜBÜ",
+      "starting11": [
+        {
+          "shirt_no": "15.",
+          "name": "TOLGAHAN ACAR"
+        },
+        {
+          "shirt_no": "3.",
+          "name": "ERDİNÇ KARAKAŞ"
+        },
+        {
+          "shirt_no": "4.",
+          "name": "FADIL KOCAOĞLU"
+        },
+        {
+          "shirt_no": "5.",
+          "name": "YİĞİT DEMİR"
+        },
+        {
+          "shirt_no": "9.",
+          "name": "İSHAK KURT"
+        },
+        {
+          "shirt_no": "10.",
+          "name": "ÖMER BOZAN"
+        },
+        {
+          "shirt_no": "12.",
+          "name": "MEHMET SEFA ETÖZ"
+        },
+        {
+          "shirt_no": "14.",
+          "name": "ERDİ KASAPOĞLU"
+        },
+        {
+          "shirt_no": "17.",
+          "name": "MEHMET MUSTAFA YILDIZAÇ"
+        },
+        {
+          "shirt_no": "23.",
+          "name": "BERKAY ÇAKIR"
+        },
+        {
+          "shirt_no": "80.",
+          "name": "HARUN ATALAY"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "27.",
+          "name": "MİRAÇ FATİH DEĞİRMENCİ"
+        },
+        {
+          "shirt_no": "7.",
+          "name": "SEMİH EMİR ERDOĞAN"
+        },
+        {
+          "shirt_no": "8.",
+          "name": "BERKİN TAŞKIN"
+        },
+        {
+          "shirt_no": "11.",
+          "name": "NECATİ BİLGİÇ"
+        },
+        {
+          "shirt_no": "20.",
+          "name": "EZDİN UÇAR"
+        },
+        {
+          "shirt_no": "21.",
+          "name": "OSMAN ŞAHİN"
+        },
+        {
+          "shirt_no": "32.",
+          "name": "BERKEHAN BİÇER"
+        },
+        {
+          "shirt_no": "77.",
+          "name": "MUHAMMED LEYİS ALZIN"
+        },
+        {
+          "shirt_no": "88.",
+          "name": "FATİH ÖZKAN"
+        },
+        {
+          "shirt_no": "99.",
+          "name": "İBRAHİM KOCA"
+        }
+      ],
+      "coach": "ADEM ÇAĞLAYAN"
+    }
+  },
+  "events": [
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "BERAT AYDOĞDU",
+      "minute": 45.1,
+      "minute_text": "45+1. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "RAHMİ ANIL BAŞARAN",
+      "player_in": "OKTAY BALA",
+      "minute": 45.1,
+      "minute_text": "45+1. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "BITEXEN ADANA 1954 FUTBOL KULÜBÜ",
+      "player_out": "MEHMET SEFA ETÖZ",
+      "player_in": "OSMAN ŞAHİN",
+      "minute": 64,
+      "minute_text": "64. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "BITEXEN ADANA 1954 FUTBOL KULÜBÜ",
+      "player_out": "ERDİNÇ KARAKAŞ",
+      "player_in": "İBRAHİM KOCA",
+      "minute": 76,
+      "minute_text": "76. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "BITEXEN ADANA 1954 FUTBOL KULÜBÜ",
+      "player_out": "YİĞİT DEMİR",
+      "player_in": "BERKEHAN BİÇER",
+      "minute": 76,
+      "minute_text": "76. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "ARDA İBRAHİM AKGÜN",
+      "player_in": "BERKE DOĞUKAN ÖNDE",
+      "minute": 78,
+      "minute_text": "78. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "DOĞANAY AVCI",
+      "player_in": "BERKAY AYKURT",
+      "minute": 78,
+      "minute_text": "78. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "BITEXEN ADANA 1954 FUTBOL KULÜBÜ",
+      "player_out": "ÖMER BOZAN",
+      "player_in": "BERKİN TAŞKIN",
+      "minute": 85,
+      "minute_text": "85. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "HAKAN AKGÜL",
+      "player_in": "SEDAT YİĞİT KURNAZ",
+      "minute": 89,
+      "minute_text": "89. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "BERKE DOĞUKAN ÖNDE",
+      "minute": 90.4,
+      "minute_text": "90+4. dk"
+    },
+    {
+      "type": "card",
+      "team": "BITEXEN ADANA 1954 FUTBOL KULÜBÜ",
+      "player": "İSHAK KURT",
+      "minute": 90.4,
+      "minute_text": "90+4. dk"
+    }
+  ],
+  "dataQuality": {
+    "lineupsAvailable": true,
+    "eventsAvailable": true,
+    "sourceType": "tff_detail_page"
+  }
+}

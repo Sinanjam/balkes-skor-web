@@ -1,0 +1,391 @@
+{
+  "id": "235956",
+  "tff_match_id": "235956",
+  "season": "2022-2023",
+  "competition": "TFF 2.League (Professional Team)",
+  "roundType": "league",
+  "week": 3,
+  "stage": "3. Maç",
+  "date": "2022-09-10",
+  "time": "19:00",
+  "dateDisplay": "10.09.2022 - 19:00",
+  "homeTeam": "TECO KARACABEY BELEDİYE SPOR A.Ş.",
+  "awayTeam": "Balıkesirspor",
+  "homeTeamRaw": "TECO KARACABEY BELEDİYE SPOR A.Ş.",
+  "awayTeamRaw": "BAYNET İNŞAAT BALIKESİRSPOR",
+  "score": {
+    "home": 1,
+    "away": 1,
+    "display": "1-1",
+    "played": true
+  },
+  "balkes": {
+    "isHome": false,
+    "opponent": "TECO KARACABEY BELEDİYE SPOR A.Ş.",
+    "goalsFor": 1,
+    "goalsAgainst": 1,
+    "result": "D"
+  },
+  "detailUrl": "seasons/2022-2023/matches/235956.json",
+  "source": {
+    "name": "TFF",
+    "url": "https://www.tff.org/Default.aspx?macId=235956&pageID=528"
+  },
+  "match_code": "3567",
+  "venue": "KARACABEY M.FEHMİ GERÇEKER STADI - BURSA - KARACAB",
+  "referees": [
+    {
+      "name": "İLKER YASİN AVCI",
+      "role": "Referee"
+    },
+    {
+      "name": "ŞENOL BEKTAŞ",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "SİNAN BİLEN",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "BATUHAN BAYAR",
+      "role": "Fourth Official"
+    },
+    {
+      "name": "AHMET CENGİZ DUMAN",
+      "role": "Observer"
+    },
+    {
+      "name": "ERSİN ÖZMEN",
+      "role": "Delegate"
+    },
+    {
+      "name": "DURALİ TINAS",
+      "role": "Delegate"
+    }
+  ],
+  "lineups": {
+    "home": {
+      "team": "TECO KARACABEY BELEDİYE SPOR A.Ş.",
+      "team_raw": "TECO KARACABEY BELEDİYE SPOR A.Ş.",
+      "starting11": [
+        {
+          "shirt_no": "96.",
+          "name": "VEYSEL SAPAN"
+        },
+        {
+          "shirt_no": "6.",
+          "name": "CANER KOCA"
+        },
+        {
+          "shirt_no": "10.",
+          "name": "BEKİR CAN KARA"
+        },
+        {
+          "shirt_no": "11.",
+          "name": "ÖMER KUŞAN"
+        },
+        {
+          "shirt_no": "17.",
+          "name": "KADİR TURHAN"
+        },
+        {
+          "shirt_no": "32.",
+          "name": "MUSTAFA DİLER"
+        },
+        {
+          "shirt_no": "43.",
+          "name": "FATİH AKTAY"
+        },
+        {
+          "shirt_no": "67.",
+          "name": "ONUR KARAKABAK"
+        },
+        {
+          "shirt_no": "68.",
+          "name": "ULAŞ ZENGİN"
+        },
+        {
+          "shirt_no": "77.",
+          "name": "SADIK ARDA YILMAZTÜRK"
+        },
+        {
+          "shirt_no": "99.",
+          "name": "DEVRİM TAŞKAYA"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "1.",
+          "name": "HÜSEYİN ARSLAN"
+        },
+        {
+          "shirt_no": "2.",
+          "name": "YUSUF ERDEM GÜMÜŞ"
+        },
+        {
+          "shirt_no": "3.",
+          "name": "AHMET EREN"
+        },
+        {
+          "shirt_no": "5.",
+          "name": "İLKE NELİK"
+        },
+        {
+          "shirt_no": "7.",
+          "name": "TUĞAY ADAMCIL"
+        },
+        {
+          "shirt_no": "8.",
+          "name": "VEDAT BORA"
+        },
+        {
+          "shirt_no": "9.",
+          "name": "ATA KURTULUŞ"
+        },
+        {
+          "shirt_no": "14.",
+          "name": "MUHAMMET YEŞİL"
+        },
+        {
+          "shirt_no": "19.",
+          "name": "ABDULLAH BALIKÇI"
+        },
+        {
+          "shirt_no": "21.",
+          "name": "UĞUR MUSTAFA TÜRK"
+        }
+      ],
+      "coach": "RECEP ÇETİN"
+    },
+    "away": {
+      "team": "Balıkesirspor",
+      "team_raw": "BAYNET İNŞAAT BALIKESİRSPOR",
+      "starting11": [
+        {
+          "shirt_no": "1.",
+          "name": "YİĞİTHAN KIR"
+        },
+        {
+          "shirt_no": "63.",
+          "name": "İBRAHİM HALİL ÇOLAK"
+        },
+        {
+          "shirt_no": "4.",
+          "name": "BİROL PARLAK"
+        },
+        {
+          "shirt_no": "77.",
+          "name": "DOĞA İŞERİ"
+        },
+        {
+          "shirt_no": "10.",
+          "name": "OĞUZ HAN AYNAOĞLU"
+        },
+        {
+          "shirt_no": "5.",
+          "name": "SEDAT DURSUN"
+        },
+        {
+          "shirt_no": "7.",
+          "name": "ANDAÇ GÜLERYÜZ"
+        },
+        {
+          "shirt_no": "15.",
+          "name": "KAĞAN KAYALI"
+        },
+        {
+          "shirt_no": "39.",
+          "name": "HÜSEYİN KARABEY"
+        },
+        {
+          "shirt_no": "20.",
+          "name": "BERK TOSUN"
+        },
+        {
+          "shirt_no": "3.",
+          "name": "BERAT AYDOĞDU"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "26.",
+          "name": "YASİN YİĞİT BERBER"
+        },
+        {
+          "shirt_no": "97.",
+          "name": "BERKAY AYKURT"
+        },
+        {
+          "shirt_no": "22.",
+          "name": "AYBERK KAYGISIZ"
+        },
+        {
+          "shirt_no": "43.",
+          "name": "AHMET ÇAĞRI ÇOLAK"
+        },
+        {
+          "shirt_no": "33.",
+          "name": "GÜNEY ÇELİK KELEŞ"
+        },
+        {
+          "shirt_no": "23.",
+          "name": "ENES KARABULUT"
+        },
+        {
+          "shirt_no": "44.",
+          "name": "GÖRKEM ALTUN"
+        },
+        {
+          "shirt_no": "9.",
+          "name": "BEDİRHAN KOLKOPARAN"
+        },
+        {
+          "shirt_no": "21.",
+          "name": "SEDAT YİĞİT KURNAZ"
+        },
+        {
+          "shirt_no": "99.",
+          "name": "EMİRHAN ÇAKIR"
+        }
+      ],
+      "coach": "MUHAMMET YILMAZ"
+    }
+  },
+  "events": [
+    {
+      "type": "goal",
+      "player": "İBRAHİM HALİL ÇOLAK",
+      "minute": 13,
+      "minute_text": "13. dk",
+      "note": "Ayak",
+      "team": "Balıkesirspor"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "KAĞAN KAYALI",
+      "minute": 33,
+      "minute_text": "33. dk"
+    },
+    {
+      "type": "card",
+      "team": "TECO KARACABEY BELEDİYE SPOR A.Ş.",
+      "player": "VEYSEL SAPAN",
+      "minute": 44,
+      "minute_text": "44. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "ANDAÇ GÜLERYÜZ",
+      "minute": 44,
+      "minute_text": "44. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "OĞUZ HAN AYNAOĞLU",
+      "player_in": "AYBERK KAYGISIZ",
+      "minute": 60,
+      "minute_text": "60. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "ANDAÇ GÜLERYÜZ",
+      "player_in": "EMİRHAN ÇAKIR",
+      "minute": 60,
+      "minute_text": "60. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "TECO KARACABEY BELEDİYE SPOR A.Ş.",
+      "player_out": "MUSTAFA DİLER",
+      "player_in": "VEDAT BORA",
+      "minute": 62,
+      "minute_text": "62. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "TECO KARACABEY BELEDİYE SPOR A.Ş.",
+      "player_out": "FATİH AKTAY",
+      "player_in": "UĞUR MUSTAFA TÜRK",
+      "minute": 62,
+      "minute_text": "62. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "TECO KARACABEY BELEDİYE SPOR A.Ş.",
+      "player_out": "ÖMER KUŞAN",
+      "player_in": "ATA KURTULUŞ",
+      "minute": 62,
+      "minute_text": "62. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "TECO KARACABEY BELEDİYE SPOR A.Ş.",
+      "player_out": "BEKİR CAN KARA",
+      "player_in": "ABDULLAH BALIKÇI",
+      "minute": 62,
+      "minute_text": "62. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "BİROL PARLAK",
+      "minute": 69,
+      "minute_text": "69. dk"
+    },
+    {
+      "type": "goal",
+      "player": "UĞUR MUSTAFA TÜRK",
+      "minute": 75,
+      "minute_text": "75. dk",
+      "note": "Penaltı",
+      "team": "TECO KARACABEY BELEDİYE SPOR A.Ş."
+    },
+    {
+      "type": "card",
+      "team": "TECO KARACABEY BELEDİYE SPOR A.Ş.",
+      "player": "CANER KOCA",
+      "minute": 80,
+      "minute_text": "80. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "AYBERK KAYGISIZ",
+      "minute": 80,
+      "minute_text": "80. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "TECO KARACABEY BELEDİYE SPOR A.Ş.",
+      "player_out": "DEVRİM TAŞKAYA",
+      "player_in": "TUĞAY ADAMCIL",
+      "minute": 88,
+      "minute_text": "88. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "HÜSEYİN KARABEY",
+      "player_in": "BEDİRHAN KOLKOPARAN",
+      "minute": 89,
+      "minute_text": "89. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "İBRAHİM HALİL ÇOLAK",
+      "player_in": "BERKAY AYKURT",
+      "minute": 90.5,
+      "minute_text": "90+5. dk"
+    }
+  ],
+  "dataQuality": {
+    "lineupsAvailable": true,
+    "eventsAvailable": true,
+    "sourceType": "tff_detail_page"
+  }
+}

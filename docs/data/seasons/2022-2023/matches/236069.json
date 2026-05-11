@@ -1,0 +1,369 @@
+{
+  "id": "236069",
+  "tff_match_id": "236069",
+  "season": "2022-2023",
+  "competition": "TFF 2.League (Professional Team)",
+  "roundType": "league",
+  "week": 14,
+  "stage": "14. Maç",
+  "date": "2022-11-13",
+  "time": "14:00",
+  "dateDisplay": "13.11.2022 - 14:00",
+  "homeTeam": "PAZARSPOR",
+  "awayTeam": "Balıkesirspor",
+  "homeTeamRaw": "PAZARSPOR",
+  "awayTeamRaw": "BAYNET İNŞAAT BALIKESİRSPOR",
+  "score": {
+    "home": 0,
+    "away": 1,
+    "display": "0-1",
+    "played": true
+  },
+  "balkes": {
+    "isHome": false,
+    "opponent": "PAZARSPOR",
+    "goalsFor": 1,
+    "goalsAgainst": 0,
+    "result": "W"
+  },
+  "detailUrl": "seasons/2022-2023/matches/236069.json",
+  "source": {
+    "name": "TFF",
+    "url": "https://www.tff.org/Default.aspx?macId=236069&pageID=528"
+  },
+  "match_code": "3680",
+  "venue": "PAZAR İLÇE - RİZE",
+  "referees": [
+    {
+      "name": "BATUHAN GÜLTEK",
+      "role": "Referee"
+    },
+    {
+      "name": "MUHAMMED YILDIZ",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "MEHMET SIRAÇ AKPINAR",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "SERCAN KARACA",
+      "role": "Fourth Official"
+    },
+    {
+      "name": "COŞKUN TOPAÇ",
+      "role": "Observer"
+    },
+    {
+      "name": "TEMEL TÜYSÜZ",
+      "role": "Delegate"
+    },
+    {
+      "name": "MUAMMER ŞAHİN",
+      "role": "Delegate"
+    }
+  ],
+  "lineups": {
+    "home": {
+      "team": "PAZARSPOR",
+      "team_raw": "PAZARSPOR",
+      "starting11": [
+        {
+          "shirt_no": "1.",
+          "name": "YASİN DAVUŞ"
+        },
+        {
+          "shirt_no": "7.",
+          "name": "İLHAN TOPATAR"
+        },
+        {
+          "shirt_no": "8.",
+          "name": "MAKSUT BİRBEN"
+        },
+        {
+          "shirt_no": "10.",
+          "name": "İSMAİL DÜZGÜN"
+        },
+        {
+          "shirt_no": "12.",
+          "name": "SERCAN BESLER"
+        },
+        {
+          "shirt_no": "17.",
+          "name": "OĞUZHAN ESKİKÖY"
+        },
+        {
+          "shirt_no": "41.",
+          "name": "YAĞIZ RÜŞTÜ AKTAŞ"
+        },
+        {
+          "shirt_no": "47.",
+          "name": "METİN GÜLER"
+        },
+        {
+          "shirt_no": "58.",
+          "name": "MEHMET CANSIN ÇİÇEK"
+        },
+        {
+          "shirt_no": "70.",
+          "name": "OĞULCAN ENES DEMİROĞLU"
+        },
+        {
+          "shirt_no": "80.",
+          "name": "ONUR KIZILTAŞ"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "53.",
+          "name": "ERDEM KARAHAN"
+        },
+        {
+          "shirt_no": "4.",
+          "name": "EYÜP ENSAR BOZKURT"
+        },
+        {
+          "shirt_no": "5.",
+          "name": "BEDİRHAN ÖZYURT"
+        },
+        {
+          "shirt_no": "6.",
+          "name": "MUHAMMET NİŞANCI"
+        },
+        {
+          "shirt_no": "27.",
+          "name": "ÖZGÜR KUTLU"
+        },
+        {
+          "shirt_no": "50.",
+          "name": "HAMZA KAYA"
+        },
+        {
+          "shirt_no": "64.",
+          "name": "AHMET KARATAŞ"
+        },
+        {
+          "shirt_no": "66.",
+          "name": "GÜVENÇ USTA"
+        },
+        {
+          "shirt_no": "77.",
+          "name": "HAKAN DOĞRU"
+        },
+        {
+          "shirt_no": "99.",
+          "name": "ÖNDER SELİMOĞLU"
+        }
+      ],
+      "coach": "KEMALETTİN ŞENTÜRK"
+    },
+    "away": {
+      "team": "Balıkesirspor",
+      "team_raw": "BAYNET İNŞAAT BALIKESİRSPOR",
+      "starting11": [
+        {
+          "shirt_no": "1.",
+          "name": "YİĞİTHAN KIR"
+        },
+        {
+          "shirt_no": "3.",
+          "name": "BERAT AYDOĞDU"
+        },
+        {
+          "shirt_no": "4.",
+          "name": "BİROL PARLAK"
+        },
+        {
+          "shirt_no": "5.",
+          "name": "SEDAT DURSUN"
+        },
+        {
+          "shirt_no": "7.",
+          "name": "ANDAÇ GÜLERYÜZ"
+        },
+        {
+          "shirt_no": "10.",
+          "name": "OĞUZ HAN AYNAOĞLU"
+        },
+        {
+          "shirt_no": "15.",
+          "name": "KAĞAN KAYALI"
+        },
+        {
+          "shirt_no": "21.",
+          "name": "SEDAT YİĞİT KURNAZ"
+        },
+        {
+          "shirt_no": "22.",
+          "name": "AYBERK KAYGISIZ"
+        },
+        {
+          "shirt_no": "39.",
+          "name": "HÜSEYİN KARABEY"
+        },
+        {
+          "shirt_no": "77.",
+          "name": "DOĞA İŞERİ"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "26.",
+          "name": "YASİN YİĞİT BERBER"
+        },
+        {
+          "shirt_no": "20.",
+          "name": "BERK TOSUN"
+        },
+        {
+          "shirt_no": "25.",
+          "name": "ABDULLAH ADIYAMAN"
+        },
+        {
+          "shirt_no": "44.",
+          "name": "GÖRKEM ALTUN"
+        },
+        {
+          "shirt_no": "80.",
+          "name": "ÜMİT DOĞRU"
+        },
+        {
+          "shirt_no": "97.",
+          "name": "BERKAY AYKURT"
+        },
+        {
+          "shirt_no": "99.",
+          "name": "EMİRHAN ÇAKIR"
+        }
+      ],
+      "coach": "UĞUR BALCIOĞLU"
+    }
+  },
+  "events": [
+    {
+      "type": "substitution",
+      "team": "PAZARSPOR",
+      "player_out": "SERCAN BESLER",
+      "player_in": "ÖNDER SELİMOĞLU",
+      "minute": 56,
+      "minute_text": "56. dk"
+    },
+    {
+      "type": "goal",
+      "player": "AYBERK KAYGISIZ",
+      "minute": 61,
+      "minute_text": "61. dk",
+      "note": "Ayak",
+      "team": "Balıkesirspor"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "ANDAÇ GÜLERYÜZ",
+      "minute": 64,
+      "minute_text": "64. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "PAZARSPOR",
+      "player_out": "YAĞIZ RÜŞTÜ AKTAŞ",
+      "player_in": "AHMET KARATAŞ",
+      "minute": 64,
+      "minute_text": "64. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "YİĞİTHAN KIR",
+      "minute": 72,
+      "minute_text": "72. dk"
+    },
+    {
+      "type": "card",
+      "team": "PAZARSPOR",
+      "player": "ÖNDER SELİMOĞLU",
+      "minute": 74,
+      "minute_text": "74. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "SEDAT YİĞİT KURNAZ",
+      "player_in": "BERK TOSUN",
+      "minute": 74,
+      "minute_text": "74. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "BERK TOSUN",
+      "minute": 77,
+      "minute_text": "77. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "AYBERK KAYGISIZ",
+      "minute": 83,
+      "minute_text": "83. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "BERAT AYDOĞDU",
+      "player_in": "ÜMİT DOĞRU",
+      "minute": 83,
+      "minute_text": "83. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "ANDAÇ GÜLERYÜZ",
+      "player_in": "GÖRKEM ALTUN",
+      "minute": 83,
+      "minute_text": "83. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "OĞUZ HAN AYNAOĞLU",
+      "minute": 85,
+      "minute_text": "85. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "PAZARSPOR",
+      "player_out": "İLHAN TOPATAR",
+      "player_in": "ÖZGÜR KUTLU",
+      "minute": 85,
+      "minute_text": "85. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "AYBERK KAYGISIZ",
+      "player_in": "BERKAY AYKURT",
+      "minute": 90.2,
+      "minute_text": "90+2. dk"
+    },
+    {
+      "type": "card",
+      "team": "PAZARSPOR",
+      "player": "AHMET KARATAŞ",
+      "minute": 90.5,
+      "minute_text": "90+5. dk"
+    },
+    {
+      "type": "card",
+      "team": "PAZARSPOR",
+      "player": "ONUR KIZILTAŞ",
+      "minute": 90.6,
+      "minute_text": "90+6. dk"
+    }
+  ],
+  "dataQuality": {
+    "lineupsAvailable": true,
+    "eventsAvailable": true,
+    "sourceType": "tff_detail_page"
+  }
+}

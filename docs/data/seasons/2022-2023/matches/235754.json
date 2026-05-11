@@ -1,0 +1,369 @@
+{
+  "id": "235754",
+  "tff_match_id": "235754",
+  "season": "2022-2023",
+  "competition": "TFF 2.League (Professional Team)",
+  "roundType": "league",
+  "week": 18,
+  "stage": "18. Maç",
+  "date": "2022-12-11",
+  "time": "14:00",
+  "dateDisplay": "11.12.2022 - 14:00",
+  "homeTeam": "ZONGULDAK KÖMÜRSPOR A.Ş",
+  "awayTeam": "Balıkesirspor",
+  "homeTeamRaw": "ZONGULDAK KÖMÜRSPOR A.Ş",
+  "awayTeamRaw": "BAYNET İNŞAAT BALIKESİRSPOR",
+  "score": {
+    "home": 2,
+    "away": 0,
+    "display": "2-0",
+    "played": true
+  },
+  "balkes": {
+    "isHome": false,
+    "opponent": "ZONGULDAK KÖMÜRSPOR A.Ş",
+    "goalsFor": 0,
+    "goalsAgainst": 2,
+    "result": "L"
+  },
+  "detailUrl": "seasons/2022-2023/matches/235754.json",
+  "source": {
+    "name": "TFF",
+    "url": "https://www.tff.org/Default.aspx?macId=235754&pageID=528"
+  },
+  "match_code": "3365",
+  "venue": "KARAELMAS K.KÖKSAL - ZONGULDAK",
+  "referees": [
+    {
+      "name": "ERHAN KUTLU",
+      "role": "Referee"
+    },
+    {
+      "name": "BARIŞ ÇİÇEKSOYU",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "KADİR AKILLI",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "YUSUF ADNAN KENDİRCİLER",
+      "role": "Fourth Official"
+    },
+    {
+      "name": "HASAN KÖLEMEN",
+      "role": "Observer"
+    },
+    {
+      "name": "VEYSEL AYDOĞAN",
+      "role": "Delegate"
+    }
+  ],
+  "lineups": {
+    "home": {
+      "team": "ZONGULDAK KÖMÜRSPOR A.Ş",
+      "team_raw": "ZONGULDAK KÖMÜRSPOR A.Ş",
+      "starting11": [
+        {
+          "shirt_no": "13.",
+          "name": "YÜKSEL EGEMEN YAYLI"
+        },
+        {
+          "shirt_no": "4.",
+          "name": "EMRAH TAYSI"
+        },
+        {
+          "shirt_no": "8.",
+          "name": "EYÜP AKCAN"
+        },
+        {
+          "shirt_no": "10.",
+          "name": "AYKUT EMRE YAKUT"
+        },
+        {
+          "shirt_no": "14.",
+          "name": "HAKAN ÇEVİK"
+        },
+        {
+          "shirt_no": "21.",
+          "name": "MÜMİN UYAR"
+        },
+        {
+          "shirt_no": "34.",
+          "name": "FATİH BEKTAŞ"
+        },
+        {
+          "shirt_no": "44.",
+          "name": "MEVLÜT ÇELİK"
+        },
+        {
+          "shirt_no": "61.",
+          "name": "EMRE KARA"
+        },
+        {
+          "shirt_no": "72.",
+          "name": "EMBİYA AYYILDIZ"
+        },
+        {
+          "shirt_no": "77.",
+          "name": "OĞUZHAN MATUR"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "41.",
+          "name": "ÖMER KAVURKACI"
+        },
+        {
+          "shirt_no": "2.",
+          "name": "ÖMÜR HÜSEYİN AZTEKİN"
+        },
+        {
+          "shirt_no": "11.",
+          "name": "HÜSEYİN YILMAZ"
+        },
+        {
+          "shirt_no": "12.",
+          "name": "EMİN ALTUNAY"
+        },
+        {
+          "shirt_no": "17.",
+          "name": "BERKAY AKGÜL"
+        },
+        {
+          "shirt_no": "19.",
+          "name": "TARIK AKCAN"
+        },
+        {
+          "shirt_no": "23.",
+          "name": "HALİL ÇİÇEK"
+        },
+        {
+          "shirt_no": "35.",
+          "name": "ALPER AŞKIN"
+        },
+        {
+          "shirt_no": "83.",
+          "name": "YİĞİT FERHAT GENÇ"
+        }
+      ],
+      "coach": "ŞENOL DEMİR"
+    },
+    "away": {
+      "team": "Balıkesirspor",
+      "team_raw": "BAYNET İNŞAAT BALIKESİRSPOR",
+      "starting11": [
+        {
+          "shirt_no": "1.",
+          "name": "YİĞİTHAN KIR"
+        },
+        {
+          "shirt_no": "3.",
+          "name": "BERAT AYDOĞDU"
+        },
+        {
+          "shirt_no": "4.",
+          "name": "BİROL PARLAK"
+        },
+        {
+          "shirt_no": "10.",
+          "name": "OĞUZ HAN AYNAOĞLU"
+        },
+        {
+          "shirt_no": "15.",
+          "name": "KAĞAN KAYALI"
+        },
+        {
+          "shirt_no": "20.",
+          "name": "BERK TOSUN"
+        },
+        {
+          "shirt_no": "21.",
+          "name": "SEDAT YİĞİT KURNAZ"
+        },
+        {
+          "shirt_no": "39.",
+          "name": "HÜSEYİN KARABEY"
+        },
+        {
+          "shirt_no": "44.",
+          "name": "GÖRKEM ALTUN"
+        },
+        {
+          "shirt_no": "77.",
+          "name": "DOĞA İŞERİ"
+        },
+        {
+          "shirt_no": "99.",
+          "name": "EMİRHAN ÇAKIR"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "26.",
+          "name": "YASİN YİĞİT BERBER"
+        },
+        {
+          "shirt_no": "7.",
+          "name": "ANDAÇ GÜLERYÜZ"
+        },
+        {
+          "shirt_no": "23.",
+          "name": "ENES KARABULUT"
+        },
+        {
+          "shirt_no": "25.",
+          "name": "ABDULLAH ADIYAMAN"
+        },
+        {
+          "shirt_no": "33.",
+          "name": "GÜNEY ÇELİK KELEŞ"
+        },
+        {
+          "shirt_no": "46.",
+          "name": "SÜLEYMAN ENES YILDIRIM"
+        },
+        {
+          "shirt_no": "61.",
+          "name": "HASAN CAN BİNGÜL"
+        },
+        {
+          "shirt_no": "63.",
+          "name": "İBRAHİM HALİL ÇOLAK"
+        },
+        {
+          "shirt_no": "80.",
+          "name": "ÜMİT DOĞRU"
+        }
+      ],
+      "coach": "UĞUR BALCIOĞLU"
+    }
+  },
+  "events": [
+    {
+      "type": "card",
+      "team": "ZONGULDAK KÖMÜRSPOR A.Ş",
+      "player": "MEVLÜT ÇELİK",
+      "minute": 34,
+      "minute_text": "34. dk"
+    },
+    {
+      "type": "card",
+      "team": "ZONGULDAK KÖMÜRSPOR A.Ş",
+      "player": "AYKUT EMRE YAKUT",
+      "minute": 41,
+      "minute_text": "41. dk"
+    },
+    {
+      "type": "goal",
+      "player": "FATİH BEKTAŞ",
+      "minute": 48,
+      "minute_text": "48. dk",
+      "note": "Ayak",
+      "team": "ZONGULDAK KÖMÜRSPOR A.Ş"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "HÜSEYİN KARABEY",
+      "minute": 54,
+      "minute_text": "54. dk"
+    },
+    {
+      "type": "card",
+      "team": "ZONGULDAK KÖMÜRSPOR A.Ş",
+      "player": "EMRAH TAYSI",
+      "minute": 55,
+      "minute_text": "55. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "DOĞA İŞERİ",
+      "minute": 55,
+      "minute_text": "55. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "BERAT AYDOĞDU",
+      "minute": 55,
+      "minute_text": "55. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "BERK TOSUN",
+      "player_in": "ANDAÇ GÜLERYÜZ",
+      "minute": 64,
+      "minute_text": "64. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "GÖRKEM ALTUN",
+      "minute": 79,
+      "minute_text": "79. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "EMİRHAN ÇAKIR",
+      "player_in": "İBRAHİM HALİL ÇOLAK",
+      "minute": 79,
+      "minute_text": "79. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "ZONGULDAK KÖMÜRSPOR A.Ş",
+      "player_out": "AYKUT EMRE YAKUT",
+      "player_in": "EMİN ALTUNAY",
+      "minute": 83,
+      "minute_text": "83. dk"
+    },
+    {
+      "type": "goal",
+      "player": "EMBİYA AYYILDIZ",
+      "minute": 90.3,
+      "minute_text": "90+3. dk",
+      "note": "Penaltı",
+      "team": "ZONGULDAK KÖMÜRSPOR A.Ş"
+    },
+    {
+      "type": "substitution",
+      "team": "ZONGULDAK KÖMÜRSPOR A.Ş",
+      "player_out": "EMRE KARA",
+      "player_in": "HÜSEYİN YILMAZ",
+      "minute": 90.3,
+      "minute_text": "90+3. dk"
+    },
+    {
+      "type": "card",
+      "team": "ZONGULDAK KÖMÜRSPOR A.Ş",
+      "player": "HÜSEYİN YILMAZ",
+      "minute": 90.4,
+      "minute_text": "90+4. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "ZONGULDAK KÖMÜRSPOR A.Ş",
+      "player_out": "FATİH BEKTAŞ",
+      "player_in": "HALİL ÇİÇEK",
+      "minute": 90.4,
+      "minute_text": "90+4. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "ZONGULDAK KÖMÜRSPOR A.Ş",
+      "player_out": "EMBİYA AYYILDIZ",
+      "player_in": "TARIK AKCAN",
+      "minute": 90.4,
+      "minute_text": "90+4. dk"
+    }
+  ],
+  "dataQuality": {
+    "lineupsAvailable": true,
+    "eventsAvailable": true,
+    "sourceType": "tff_detail_page"
+  }
+}

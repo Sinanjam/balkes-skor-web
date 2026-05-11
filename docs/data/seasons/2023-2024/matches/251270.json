@@ -1,0 +1,368 @@
+{
+  "id": "251270",
+  "tff_match_id": "251270",
+  "season": "2023-2024",
+  "competition": "TFF 3. LEAGUE (Professional Team)",
+  "roundType": "league",
+  "week": 15,
+  "stage": "15. Maç",
+  "date": "2024-01-21",
+  "time": "14:00",
+  "dateDisplay": "21.01.2024 - 14:00",
+  "homeTeam": "Balıkesirspor",
+  "awayTeam": "BURSA YILDIRIM SPOR",
+  "homeTeamRaw": "BALIKESİRSPOR",
+  "awayTeamRaw": "BURSA YILDIRIM SPOR",
+  "score": {
+    "home": 1,
+    "away": 0,
+    "display": "1-0",
+    "played": true
+  },
+  "balkes": {
+    "isHome": true,
+    "opponent": "BURSA YILDIRIM SPOR",
+    "goalsFor": 1,
+    "goalsAgainst": 0,
+    "result": "W"
+  },
+  "detailUrl": "seasons/2023-2024/matches/251270.json",
+  "source": {
+    "name": "TFF",
+    "url": "https://www.tff.org/Default.aspx?macId=251270&pageID=528"
+  },
+  "match_code": "4736",
+  "venue": "BALIKESİR ATATÜRK - BALIKESİR",
+  "referees": [
+    {
+      "name": "ONUR GÜNEŞ",
+      "role": "Referee"
+    },
+    {
+      "name": "ARZU GÖRGÜN",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "MUSTAFA CEM BÜYÜK",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "BEDİRHAN EFEAKDOĞAN",
+      "role": "Fourth Official"
+    },
+    {
+      "name": "HAYATİ DOĞAN",
+      "role": "Observer"
+    },
+    {
+      "name": "SONER ÖZBAŞI",
+      "role": "Delegate"
+    },
+    {
+      "name": "MEHMET SÜLEYMAN YILDIRIM",
+      "role": "Delegate"
+    }
+  ],
+  "lineups": {
+    "home": {
+      "team": "Balıkesirspor",
+      "team_raw": "BALIKESİRSPOR",
+      "starting11": [
+        {
+          "shirt_no": "12.",
+          "name": "HÜSEYİN ALTINTAŞ"
+        },
+        {
+          "shirt_no": "88.",
+          "name": "UTKAN GÖKÇEN"
+        },
+        {
+          "shirt_no": "29.",
+          "name": "ABDURRAHMAN AYHANOĞLU"
+        },
+        {
+          "shirt_no": "70.",
+          "name": "GÖKSU MUTLU"
+        },
+        {
+          "shirt_no": "6.",
+          "name": "BERAT AYDOĞDU"
+        },
+        {
+          "shirt_no": "15.",
+          "name": "ASIM HAMZAÇEBİ"
+        },
+        {
+          "shirt_no": "28.",
+          "name": "BİLAL ŞEFLEK"
+        },
+        {
+          "shirt_no": "77.",
+          "name": "BATUHAN SÜER"
+        },
+        {
+          "shirt_no": "14.",
+          "name": "HAKAN AKGÜL"
+        },
+        {
+          "shirt_no": "7.",
+          "name": "ALİ SAY"
+        },
+        {
+          "shirt_no": "37.",
+          "name": "MUHAMMET HAŞİM ÇOBAN"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "1.",
+          "name": "YİĞİTHAN KIR"
+        },
+        {
+          "shirt_no": "5.",
+          "name": "KAĞAN KAYALI"
+        },
+        {
+          "shirt_no": "54.",
+          "name": "ÖMER FARUK YAYLACI"
+        },
+        {
+          "shirt_no": "33.",
+          "name": "CUMA ALİ ÜZÜM"
+        },
+        {
+          "shirt_no": "66.",
+          "name": "KADİR TORBACI"
+        },
+        {
+          "shirt_no": "40.",
+          "name": "ERKAN SÜER"
+        },
+        {
+          "shirt_no": "11.",
+          "name": "ARDA İBRAHİM AKGÜN"
+        },
+        {
+          "shirt_no": "10.",
+          "name": "SEDAT YİĞİT KURNAZ"
+        },
+        {
+          "shirt_no": "55.",
+          "name": "OKTAY BALA"
+        },
+        {
+          "shirt_no": "96.",
+          "name": "BERTUĞ BAYAR"
+        }
+      ],
+      "coach": "İSMAİL CEM CAMBAZ"
+    },
+    "away": {
+      "team": "BURSA YILDIRIM SPOR",
+      "team_raw": "BURSA YILDIRIM SPOR",
+      "starting11": [
+        {
+          "shirt_no": "1.",
+          "name": "MERTCAN BABAT"
+        },
+        {
+          "shirt_no": "14.",
+          "name": "MEHMET BAĞLI"
+        },
+        {
+          "shirt_no": "6.",
+          "name": "OĞUZHAN KANDEMİR"
+        },
+        {
+          "shirt_no": "7.",
+          "name": "ÇAĞLAR ÖZEL"
+        },
+        {
+          "shirt_no": "8.",
+          "name": "DOĞANAY KILIÇ"
+        },
+        {
+          "shirt_no": "9.",
+          "name": "GÖKHAN ERDÖL"
+        },
+        {
+          "shirt_no": "16.",
+          "name": "RÜŞTÜ HANLI"
+        },
+        {
+          "shirt_no": "90.",
+          "name": "UTKU BURAK KUNDUZCU"
+        },
+        {
+          "shirt_no": "44.",
+          "name": "EMİRHAN KAYALAR"
+        },
+        {
+          "shirt_no": "53.",
+          "name": "FURKAN ÖZDEMİR"
+        },
+        {
+          "shirt_no": "3.",
+          "name": "YUSUF ALİ ÇAKIR"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "13.",
+          "name": "ALPER KAĞAN ÇAKIR"
+        },
+        {
+          "shirt_no": "4.",
+          "name": "FATİH KILICCI"
+        },
+        {
+          "shirt_no": "10.",
+          "name": "BURAK OSMAN GENÇAL"
+        },
+        {
+          "shirt_no": "12.",
+          "name": "TALHA KARATAŞ"
+        },
+        {
+          "shirt_no": "19.",
+          "name": "HAKAN DEMİRCİ"
+        },
+        {
+          "shirt_no": "11.",
+          "name": "ERDAL KAYA"
+        },
+        {
+          "shirt_no": "55.",
+          "name": "ENES GÜMÜŞ"
+        },
+        {
+          "shirt_no": "52.",
+          "name": "MUHAMMET TALHA ÇAT"
+        },
+        {
+          "shirt_no": "88.",
+          "name": "AHMET ARDA ÇAKMAK"
+        },
+        {
+          "shirt_no": "94.",
+          "name": "FAHRİ PINAR"
+        }
+      ],
+      "coach": "MURAT GÜNDOĞDU"
+    }
+  },
+  "events": [
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "BİLAL ŞEFLEK",
+      "minute": 31,
+      "minute_text": "31. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "UTKAN GÖKÇEN",
+      "minute": 35,
+      "minute_text": "35. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "HAKAN AKGÜL",
+      "player_in": "KADİR TORBACI",
+      "minute": 46,
+      "minute_text": "46. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "UTKAN GÖKÇEN",
+      "player_in": "KAĞAN KAYALI",
+      "minute": 46,
+      "minute_text": "46. dk"
+    },
+    {
+      "type": "card",
+      "team": "BURSA YILDIRIM SPOR",
+      "player": "DOĞANAY KILIÇ",
+      "minute": 56,
+      "minute_text": "56. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "BURSA YILDIRIM SPOR",
+      "player_out": "FURKAN ÖZDEMİR",
+      "player_in": "ERDAL KAYA",
+      "minute": 63,
+      "minute_text": "63. dk"
+    },
+    {
+      "type": "card",
+      "team": "BURSA YILDIRIM SPOR",
+      "player": "GÖKHAN ERDÖL",
+      "minute": 65,
+      "minute_text": "65. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "BİLAL ŞEFLEK",
+      "player_in": "BERTUĞ BAYAR",
+      "minute": 71,
+      "minute_text": "71. dk"
+    },
+    {
+      "type": "goal",
+      "player": "CUMA ALİ ÜZÜM",
+      "minute": 77,
+      "minute_text": "77. dk",
+      "note": "Ayak",
+      "team": "Balıkesirspor"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "ALİ SAY",
+      "player_in": "ARDA İBRAHİM AKGÜN",
+      "minute": 79,
+      "minute_text": "79. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "BURSA YILDIRIM SPOR",
+      "player_out": "ÇAĞLAR ÖZEL",
+      "player_in": "HAKAN DEMİRCİ",
+      "minute": 81,
+      "minute_text": "81. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "BURSA YILDIRIM SPOR",
+      "player_out": "DOĞANAY KILIÇ",
+      "player_in": "BURAK OSMAN GENÇAL",
+      "minute": 81,
+      "minute_text": "81. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "CUMA ALİ ÜZÜM",
+      "minute": 82,
+      "minute_text": "82. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "MUHAMMET HAŞİM ÇOBAN",
+      "player_in": "CUMA ALİ ÜZÜM",
+      "minute": 90,
+      "minute_text": "90. dk"
+    }
+  ],
+  "dataQuality": {
+    "lineupsAvailable": true,
+    "eventsAvailable": true,
+    "sourceType": "tff_detail_page"
+  }
+}

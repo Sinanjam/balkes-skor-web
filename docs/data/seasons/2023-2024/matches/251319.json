@@ -1,0 +1,369 @@
+{
+  "id": "251319",
+  "tff_match_id": "251319",
+  "season": "2023-2024",
+  "competition": "TFF 3. LEAGUE (Professional Team)",
+  "roundType": "league",
+  "week": 22,
+  "stage": "22. Maç",
+  "date": "2024-03-10",
+  "time": "14:00",
+  "dateDisplay": "10.03.2024 - 14:00",
+  "homeTeam": "SİİRT İL ÖZEL İDARESİ SPOR",
+  "awayTeam": "Balıkesirspor",
+  "homeTeamRaw": "SİİRT İL ÖZEL İDARESİ SPOR",
+  "awayTeamRaw": "BALIKESİRSPOR",
+  "score": {
+    "home": 0,
+    "away": 1,
+    "display": "0-1",
+    "played": true
+  },
+  "balkes": {
+    "isHome": false,
+    "opponent": "SİİRT İL ÖZEL İDARESİ SPOR",
+    "goalsFor": 1,
+    "goalsAgainst": 0,
+    "result": "W"
+  },
+  "detailUrl": "seasons/2023-2024/matches/251319.json",
+  "source": {
+    "name": "TFF",
+    "url": "https://www.tff.org/Default.aspx?macId=251319&pageID=528"
+  },
+  "match_code": "4785",
+  "venue": "KURTALAN İLÇE STADI - SİİRT",
+  "referees": [
+    {
+      "name": "OĞUZ GÖZETENLER",
+      "role": "Referee"
+    },
+    {
+      "name": "MERT ŞAHİN",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "TOLGA DÜYÜNCÜ",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "OKAN YILMAZ",
+      "role": "Fourth Official"
+    },
+    {
+      "name": "BURHANETTİN ÇAĞLAR",
+      "role": "Observer"
+    },
+    {
+      "name": "CELALETTİN YAVUZ",
+      "role": "Delegate"
+    },
+    {
+      "name": "ERDEM EROĞLU",
+      "role": "Delegate"
+    }
+  ],
+  "lineups": {
+    "home": {
+      "team": "SİİRT İL ÖZEL İDARESİ SPOR",
+      "team_raw": "SİİRT İL ÖZEL İDARESİ SPOR",
+      "starting11": [
+        {
+          "shirt_no": "54.",
+          "name": "ALİ ALPER DOĞAN"
+        },
+        {
+          "shirt_no": "21.",
+          "name": "SERHAT TARHAN"
+        },
+        {
+          "shirt_no": "87.",
+          "name": "FURKAN KOPUZ"
+        },
+        {
+          "shirt_no": "11.",
+          "name": "MEHMET SALİH YİĞİT"
+        },
+        {
+          "shirt_no": "44.",
+          "name": "HAMZA ALPER"
+        },
+        {
+          "shirt_no": "72.",
+          "name": "MANSUR ÇALAR"
+        },
+        {
+          "shirt_no": "22.",
+          "name": "GÜRAY FIRAT"
+        },
+        {
+          "shirt_no": "77.",
+          "name": "EMRULLAH ERTUŞ"
+        },
+        {
+          "shirt_no": "42.",
+          "name": "ÖMER FARUK CANBİRDİ"
+        },
+        {
+          "shirt_no": "23.",
+          "name": "SERHAT YEŞİLÖRDEK"
+        },
+        {
+          "shirt_no": "13.",
+          "name": "İBRAHİM HALİL ÖNER"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "37.",
+          "name": "SEFA MÜCAHİD ÇİRİŞOĞLU"
+        },
+        {
+          "shirt_no": "10.",
+          "name": "HAKTAN ORAK"
+        },
+        {
+          "shirt_no": "2.",
+          "name": "ÖMER FARUK GÜMÜŞ"
+        },
+        {
+          "shirt_no": "6.",
+          "name": "AHMET KEŞLİ"
+        },
+        {
+          "shirt_no": "70.",
+          "name": "FURKAN GÜNEŞ"
+        },
+        {
+          "shirt_no": "30.",
+          "name": "YUSUF ASLANCI"
+        },
+        {
+          "shirt_no": "7.",
+          "name": "ABDURRAHMAN KUYUCU"
+        },
+        {
+          "shirt_no": "5.",
+          "name": "SEMİH TEK"
+        },
+        {
+          "shirt_no": "19.",
+          "name": "YUSUF ŞENGÜLER"
+        },
+        {
+          "shirt_no": "56.",
+          "name": "MUHAMMED ARİF SOYSAL"
+        }
+      ],
+      "coach": "MUSTAFA KALAFATOĞLU"
+    },
+    "away": {
+      "team": "Balıkesirspor",
+      "team_raw": "BALIKESİRSPOR",
+      "starting11": [
+        {
+          "shirt_no": "12.",
+          "name": "HÜSEYİN ALTINTAŞ"
+        },
+        {
+          "shirt_no": "29.",
+          "name": "ABDURRAHMAN AYHANOĞLU"
+        },
+        {
+          "shirt_no": "40.",
+          "name": "ERKAN SÜER"
+        },
+        {
+          "shirt_no": "88.",
+          "name": "UTKAN GÖKÇEN"
+        },
+        {
+          "shirt_no": "66.",
+          "name": "KADİR TORBACI"
+        },
+        {
+          "shirt_no": "47.",
+          "name": "MEHMET ASLAN"
+        },
+        {
+          "shirt_no": "33.",
+          "name": "CUMA ALİ ÜZÜM"
+        },
+        {
+          "shirt_no": "37.",
+          "name": "MUHAMMET HAŞİM ÇOBAN"
+        },
+        {
+          "shirt_no": "41.",
+          "name": "KORAY BAYKARA"
+        },
+        {
+          "shirt_no": "28.",
+          "name": "BİLAL ŞEFLEK"
+        },
+        {
+          "shirt_no": "77.",
+          "name": "BATUHAN SÜER"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "1.",
+          "name": "YİĞİTHAN KIR"
+        },
+        {
+          "shirt_no": "55.",
+          "name": "OKTAY BALA"
+        },
+        {
+          "shirt_no": "15.",
+          "name": "ASIM HAMZAÇEBİ"
+        },
+        {
+          "shirt_no": "7.",
+          "name": "ALİ SAY"
+        },
+        {
+          "shirt_no": "96.",
+          "name": "BERTUĞ BAYAR"
+        },
+        {
+          "shirt_no": "5.",
+          "name": "KAĞAN KAYALI"
+        },
+        {
+          "shirt_no": "14.",
+          "name": "HAKAN AKGÜL"
+        },
+        {
+          "shirt_no": "70.",
+          "name": "GÖKSU MUTLU"
+        },
+        {
+          "shirt_no": "10.",
+          "name": "SEDAT YİĞİT KURNAZ"
+        },
+        {
+          "shirt_no": "11.",
+          "name": "ARDA İBRAHİM AKGÜN"
+        }
+      ],
+      "coach": "İSMAİL CEM CAMBAZ"
+    }
+  },
+  "events": [
+    {
+      "type": "card",
+      "team": "SİİRT İL ÖZEL İDARESİ SPOR",
+      "player": "MANSUR ÇALAR",
+      "minute": 12,
+      "minute_text": "12. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "BİLAL ŞEFLEK",
+      "minute": 20,
+      "minute_text": "20. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "SİİRT İL ÖZEL İDARESİ SPOR",
+      "player_out": "MANSUR ÇALAR",
+      "player_in": "ÖMER FARUK GÜMÜŞ",
+      "minute": 40,
+      "minute_text": "40. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "SİİRT İL ÖZEL İDARESİ SPOR",
+      "player_out": "HAMZA ALPER",
+      "player_in": "ABDURRAHMAN KUYUCU",
+      "minute": 46,
+      "minute_text": "46. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "SİİRT İL ÖZEL İDARESİ SPOR",
+      "player_out": "EMRULLAH ERTUŞ",
+      "player_in": "HAKTAN ORAK",
+      "minute": 46,
+      "minute_text": "46. dk"
+    },
+    {
+      "type": "card",
+      "team": "SİİRT İL ÖZEL İDARESİ SPOR",
+      "player": "SERHAT TARHAN",
+      "minute": 63,
+      "minute_text": "63. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "BATUHAN SÜER",
+      "player_in": "ALİ SAY",
+      "minute": 70,
+      "minute_text": "70. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "ERKAN SÜER",
+      "player_in": "ASIM HAMZAÇEBİ",
+      "minute": 70,
+      "minute_text": "70. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "SİİRT İL ÖZEL İDARESİ SPOR",
+      "player_out": "MEHMET SALİH YİĞİT",
+      "player_in": "YUSUF ŞENGÜLER",
+      "minute": 80,
+      "minute_text": "80. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "BİLAL ŞEFLEK",
+      "player_in": "HAKAN AKGÜL",
+      "minute": 84,
+      "minute_text": "84. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "MEHMET ASLAN",
+      "player_in": "BERTUĞ BAYAR",
+      "minute": 84,
+      "minute_text": "84. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "MEHMET ASLAN",
+      "minute": 85,
+      "minute_text": "85. dk"
+    },
+    {
+      "type": "goal",
+      "player": "BERTUĞ BAYAR",
+      "minute": 90.2,
+      "minute_text": "90+2. dk",
+      "note": "Penaltı",
+      "team": "Balıkesirspor"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "MUHAMMET HAŞİM ÇOBAN",
+      "player_in": "GÖKSU MUTLU",
+      "minute": 90.4,
+      "minute_text": "90+4. dk"
+    }
+  ],
+  "dataQuality": {
+    "lineupsAvailable": true,
+    "eventsAvailable": true,
+    "sourceType": "tff_detail_page"
+  }
+}

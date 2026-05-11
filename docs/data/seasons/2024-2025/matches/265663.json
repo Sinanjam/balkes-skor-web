@@ -1,0 +1,370 @@
+{
+  "id": "265663",
+  "tff_match_id": "265663",
+  "season": "2024-2025",
+  "competition": "Nesine 3. League (Professional Team)",
+  "roundType": "league",
+  "week": 7,
+  "stage": "7. Maç",
+  "date": "2024-10-20",
+  "time": "19:00",
+  "dateDisplay": "20.10.2024 - 19:00",
+  "homeTeam": "Balıkesirspor",
+  "awayTeam": "SMART HOLDİNG A.Ş.ÇAYELİ SPOR",
+  "homeTeamRaw": "BALIKESİRSPOR",
+  "awayTeamRaw": "SMART HOLDİNG A.Ş.ÇAYELİ SPOR",
+  "score": {
+    "home": 2,
+    "away": 1,
+    "display": "2-1",
+    "played": true
+  },
+  "balkes": {
+    "isHome": true,
+    "opponent": "SMART HOLDİNG A.Ş.ÇAYELİ SPOR",
+    "goalsFor": 2,
+    "goalsAgainst": 1,
+    "result": "W"
+  },
+  "detailUrl": "seasons/2024-2025/matches/265663.json",
+  "source": {
+    "name": "TFF",
+    "url": "https://www.tff.org/Default.aspx?macId=265663&pageID=528"
+  },
+  "match_code": "4322",
+  "venue": "BALIKESİR ATATÜRK - BALIKESİR - BALIKESİR MERKEZ",
+  "referees": [
+    {
+      "name": "MUHAMMED SELİM ÖZBEK",
+      "role": "Referee"
+    },
+    {
+      "name": "BURAK GÜLTEK",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "SAMET KAYA",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "MEHMET TAŞDEMİR",
+      "role": "Fourth Official"
+    },
+    {
+      "name": "BAKİ YİĞİT",
+      "role": "Observer"
+    },
+    {
+      "name": "VOLKAN ALPTEKİN",
+      "role": "Delegate"
+    },
+    {
+      "name": "UMUT ÇALIŞKAN",
+      "role": "Delegate"
+    }
+  ],
+  "lineups": {
+    "home": {
+      "team": "Balıkesirspor",
+      "team_raw": "BALIKESİRSPOR",
+      "starting11": [
+        {
+          "shirt_no": "1.",
+          "name": "HÜSEYİN ALTINTAŞ"
+        },
+        {
+          "shirt_no": "22.",
+          "name": "TAYFUN KIRCA"
+        },
+        {
+          "shirt_no": "53.",
+          "name": "GÜVENÇ USTA"
+        },
+        {
+          "shirt_no": "2.",
+          "name": "MUHAMMET ARAZ"
+        },
+        {
+          "shirt_no": "68.",
+          "name": "VOLKAN ALTINSOY"
+        },
+        {
+          "shirt_no": "21.",
+          "name": "SERDAR GÜNCÜ"
+        },
+        {
+          "shirt_no": "8.",
+          "name": "ÖZER ÖZDEMİR"
+        },
+        {
+          "shirt_no": "80.",
+          "name": "MUHAMMED DEMİRCİ"
+        },
+        {
+          "shirt_no": "7.",
+          "name": "CELAL EMİR DEDE"
+        },
+        {
+          "shirt_no": "19.",
+          "name": "ARTUN AKÇAKIN"
+        },
+        {
+          "shirt_no": "9.",
+          "name": "BERTUĞ BAYAR"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "48.",
+          "name": "DOĞUKAN ÖZÇİMEN"
+        },
+        {
+          "shirt_no": "26.",
+          "name": "YASİN YİĞİT BERBER"
+        },
+        {
+          "shirt_no": "27.",
+          "name": "MERT TEKİN"
+        },
+        {
+          "shirt_no": "5.",
+          "name": "KAĞAN KAYALI"
+        },
+        {
+          "shirt_no": "3.",
+          "name": "AHMET GÜLAY"
+        },
+        {
+          "shirt_no": "61.",
+          "name": "MUHAMMED EREN TÜRKMEN"
+        },
+        {
+          "shirt_no": "77.",
+          "name": "MUSTAFA BURAK GÜNDOĞAN"
+        },
+        {
+          "shirt_no": "15.",
+          "name": "ASIM HAMZAÇEBİ"
+        },
+        {
+          "shirt_no": "32.",
+          "name": "ALİ KARAKAYA"
+        }
+      ]
+    },
+    "away": {
+      "team": "SMART HOLDİNG A.Ş.ÇAYELİ SPOR",
+      "team_raw": "SMART HOLDİNG A.Ş.ÇAYELİ SPOR",
+      "starting11": [
+        {
+          "shirt_no": "1.",
+          "name": "ERDİ YOKUŞLU"
+        },
+        {
+          "shirt_no": "4.",
+          "name": "KADİR ENES KIRA"
+        },
+        {
+          "shirt_no": "5.",
+          "name": "AHMET BATUHAN AKYÜZ"
+        },
+        {
+          "shirt_no": "6.",
+          "name": "TALHA ÖZCAN"
+        },
+        {
+          "shirt_no": "80.",
+          "name": "MERT ALTINÖZ"
+        },
+        {
+          "shirt_no": "93.",
+          "name": "SEFA AKIN BAŞIBÜYÜK"
+        },
+        {
+          "shirt_no": "9.",
+          "name": "HAKAN KUŞ"
+        },
+        {
+          "shirt_no": "10.",
+          "name": "SİNAN KALAYCI"
+        },
+        {
+          "shirt_no": "14.",
+          "name": "MUSA EREN KARAKAŞ"
+        },
+        {
+          "shirt_no": "19.",
+          "name": "MEHMET BERKANT YAYLAN"
+        },
+        {
+          "shirt_no": "53.",
+          "name": "ERTUĞRUL SANCAKTUTAN"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "99.",
+          "name": "UMUTCAN YENİSOY"
+        },
+        {
+          "shirt_no": "8.",
+          "name": "ALAATTİN HAMZA OK"
+        },
+        {
+          "shirt_no": "17.",
+          "name": "ATAKAN AKBULUT"
+        },
+        {
+          "shirt_no": "22.",
+          "name": "EYÜP ENSAR BOZKURT"
+        },
+        {
+          "shirt_no": "23.",
+          "name": "MEHMET AYTEMİZ"
+        },
+        {
+          "shirt_no": "24.",
+          "name": "ERAY DEMİRHAN"
+        },
+        {
+          "shirt_no": "34.",
+          "name": "MUHAMMED ALİ YILMAZ"
+        },
+        {
+          "shirt_no": "20.",
+          "name": "NEVRES DEMİR"
+        },
+        {
+          "shirt_no": "90.",
+          "name": "MUHARREM BOSTANCI"
+        },
+        {
+          "shirt_no": "77.",
+          "name": "BEDİRHAN KOLKOPARAN"
+        }
+      ],
+      "coach": "VEYİS KANBER"
+    }
+  },
+  "events": [
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "ÖZER ÖZDEMİR",
+      "minute": 27,
+      "minute_text": "27. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "MUHAMMED DEMİRCİ",
+      "player_in": "ASIM HAMZAÇEBİ",
+      "minute": 46,
+      "minute_text": "46. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "GÜVENÇ USTA",
+      "player_in": "MUHAMMED EREN TÜRKMEN",
+      "minute": 46,
+      "minute_text": "46. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "SMART HOLDİNG A.Ş.ÇAYELİ SPOR",
+      "player_out": "MERT ALTINÖZ",
+      "player_in": "ALAATTİN HAMZA OK",
+      "minute": 46,
+      "minute_text": "46. dk"
+    },
+    {
+      "type": "card",
+      "team": "SMART HOLDİNG A.Ş.ÇAYELİ SPOR",
+      "player": "KADİR ENES KIRA",
+      "minute": 48,
+      "minute_text": "48. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "SMART HOLDİNG A.Ş.ÇAYELİ SPOR",
+      "player_out": "KADİR ENES KIRA",
+      "player_in": "MEHMET AYTEMİZ",
+      "minute": 60,
+      "minute_text": "60. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "ASIM HAMZAÇEBİ",
+      "minute": 68,
+      "minute_text": "68. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "SMART HOLDİNG A.Ş.ÇAYELİ SPOR",
+      "player_out": "TALHA ÖZCAN",
+      "player_in": "MUHAMMED ALİ YILMAZ",
+      "minute": 72,
+      "minute_text": "72. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "TAYFUN KIRCA",
+      "minute": 74,
+      "minute_text": "74. dk"
+    },
+    {
+      "type": "goal",
+      "player": "HAKAN KUŞ",
+      "minute": 79,
+      "minute_text": "79. dk",
+      "note": "Ayak",
+      "team": "SMART HOLDİNG A.Ş.ÇAYELİ SPOR"
+    },
+    {
+      "type": "substitution",
+      "team": "SMART HOLDİNG A.Ş.ÇAYELİ SPOR",
+      "player_out": "MUSA EREN KARAKAŞ",
+      "player_in": "BEDİRHAN KOLKOPARAN",
+      "minute": 82,
+      "minute_text": "82. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "BERTUĞ BAYAR",
+      "player_in": "AHMET GÜLAY",
+      "minute": 84,
+      "minute_text": "84. dk"
+    },
+    {
+      "type": "card",
+      "team": "SMART HOLDİNG A.Ş.ÇAYELİ SPOR",
+      "player": "MEHMET BERKANT YAYLAN",
+      "minute": 87,
+      "minute_text": "87. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "SERDAR GÜNCÜ",
+      "minute": 88,
+      "minute_text": "88. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "ÖZER ÖZDEMİR",
+      "player_in": "KAĞAN KAYALI",
+      "minute": 90,
+      "minute_text": "90. dk"
+    }
+  ],
+  "dataQuality": {
+    "lineupsAvailable": true,
+    "eventsAvailable": true,
+    "sourceType": "tff_detail_page"
+  }
+}

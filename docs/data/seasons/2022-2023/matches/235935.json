@@ -1,0 +1,377 @@
+{
+  "id": "235935",
+  "tff_match_id": "235935",
+  "season": "2022-2023",
+  "competition": "TFF 2.League (Professional Team)",
+  "roundType": "league",
+  "week": 1,
+  "stage": "1. Maç",
+  "date": "2022-08-28",
+  "time": "20:00",
+  "dateDisplay": "28.08.2022 - 20:00",
+  "homeTeam": "İSKENDERUNSPOR A.Ş.",
+  "awayTeam": "Balıkesirspor",
+  "homeTeamRaw": "İSKENDERUNSPOR A.Ş.",
+  "awayTeamRaw": "BALIKESİRSPOR",
+  "score": {
+    "home": 1,
+    "away": 0,
+    "display": "1-0",
+    "played": true
+  },
+  "balkes": {
+    "isHome": false,
+    "opponent": "İSKENDERUNSPOR A.Ş.",
+    "goalsFor": 0,
+    "goalsAgainst": 1,
+    "result": "L"
+  },
+  "detailUrl": "seasons/2022-2023/matches/235935.json",
+  "source": {
+    "name": "TFF",
+    "url": "https://www.tff.org/Default.aspx?macId=235935&pageID=528"
+  },
+  "match_code": "3546",
+  "venue": "YENİ HATAY STADYUMU - HATAY",
+  "referees": [
+    {
+      "name": "ALİM KANDEMİR",
+      "role": "Referee"
+    },
+    {
+      "name": "MEHMET KURU",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "FURKAN ULU",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "RAMAZAN HAYMANA",
+      "role": "Fourth Official"
+    },
+    {
+      "name": "ADEM ELGÖRMÜŞ",
+      "role": "Observer"
+    },
+    {
+      "name": "İBRAHİM KÜÇÜK",
+      "role": "Delegate"
+    },
+    {
+      "name": "OKAN ARSLAN",
+      "role": "Delegate"
+    }
+  ],
+  "lineups": {
+    "home": {
+      "team": "İSKENDERUNSPOR A.Ş.",
+      "team_raw": "İSKENDERUNSPOR A.Ş.",
+      "starting11": [
+        {
+          "shirt_no": "1.",
+          "name": "MUHAMMET CAN TUNCER"
+        },
+        {
+          "shirt_no": "6.",
+          "name": "KAAN YÜKSEL"
+        },
+        {
+          "shirt_no": "33.",
+          "name": "KEMAL TOKAK"
+        },
+        {
+          "shirt_no": "50.",
+          "name": "ALİ KETEN"
+        },
+        {
+          "shirt_no": "20.",
+          "name": "AHMET DEVRET"
+        },
+        {
+          "shirt_no": "5.",
+          "name": "OKAN DERNEK"
+        },
+        {
+          "shirt_no": "8.",
+          "name": "İSMAİL GÜVEN"
+        },
+        {
+          "shirt_no": "10.",
+          "name": "İRFAN BAŞARAN"
+        },
+        {
+          "shirt_no": "7.",
+          "name": "ONUR RAMAZAN TOPRAK"
+        },
+        {
+          "shirt_no": "11.",
+          "name": "ENES SOY"
+        },
+        {
+          "shirt_no": "23.",
+          "name": "YASİN ABDİOĞLU"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "98.",
+          "name": "BERK BALABAN"
+        },
+        {
+          "shirt_no": "22.",
+          "name": "ERDİNÇ PEKGÖZ"
+        },
+        {
+          "shirt_no": "40.",
+          "name": "ERKAN SÜER"
+        },
+        {
+          "shirt_no": "14.",
+          "name": "KADİR ARİ"
+        },
+        {
+          "shirt_no": "9.",
+          "name": "HAMZA KÜÇÜKKÖYLÜ"
+        },
+        {
+          "shirt_no": "61.",
+          "name": "EMRE BEKİR"
+        },
+        {
+          "shirt_no": "28.",
+          "name": "SÜHEYL ÇETİN"
+        },
+        {
+          "shirt_no": "34.",
+          "name": "EMİR BİBEROĞLU"
+        },
+        {
+          "shirt_no": "18.",
+          "name": "ZEYNULLAH TÜRKAY"
+        },
+        {
+          "shirt_no": "55.",
+          "name": "ONUR URAL"
+        }
+      ],
+      "coach": "BÜLENT YENİHAYAT"
+    },
+    "away": {
+      "team": "Balıkesirspor",
+      "team_raw": "BALIKESİRSPOR",
+      "starting11": [
+        {
+          "shirt_no": "1.",
+          "name": "YİĞİTHAN KIR"
+        },
+        {
+          "shirt_no": "3.",
+          "name": "BERAT AYDOĞDU"
+        },
+        {
+          "shirt_no": "4.",
+          "name": "BİROL PARLAK"
+        },
+        {
+          "shirt_no": "5.",
+          "name": "SEDAT DURSUN"
+        },
+        {
+          "shirt_no": "7.",
+          "name": "ANDAÇ GÜLERYÜZ"
+        },
+        {
+          "shirt_no": "10.",
+          "name": "OĞUZ HAN AYNAOĞLU"
+        },
+        {
+          "shirt_no": "15.",
+          "name": "KAĞAN KAYALI"
+        },
+        {
+          "shirt_no": "20.",
+          "name": "BERK TOSUN"
+        },
+        {
+          "shirt_no": "39.",
+          "name": "HÜSEYİN KARABEY"
+        },
+        {
+          "shirt_no": "63.",
+          "name": "İBRAHİM HALİL ÇOLAK"
+        },
+        {
+          "shirt_no": "77.",
+          "name": "DOĞA İŞERİ"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "26.",
+          "name": "YASİN YİĞİT BERBER"
+        },
+        {
+          "shirt_no": "9.",
+          "name": "BEDİRHAN KOLKOPARAN"
+        },
+        {
+          "shirt_no": "21.",
+          "name": "SEDAT YİĞİT KURNAZ"
+        },
+        {
+          "shirt_no": "22.",
+          "name": "AYBERK KAYGISIZ"
+        },
+        {
+          "shirt_no": "44.",
+          "name": "GÖRKEM ALTUN"
+        },
+        {
+          "shirt_no": "97.",
+          "name": "BERKAY AYKURT"
+        },
+        {
+          "shirt_no": "99.",
+          "name": "EMİRHAN ÇAKIR"
+        }
+      ],
+      "coach": "MUHAMMET YILMAZ"
+    }
+  },
+  "events": [
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "BERAT AYDOĞDU",
+      "minute": 52,
+      "minute_text": "52. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "İSKENDERUNSPOR A.Ş.",
+      "player_out": "İSMAİL GÜVEN",
+      "player_in": "ERKAN SÜER",
+      "minute": 59,
+      "minute_text": "59. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "İSKENDERUNSPOR A.Ş.",
+      "player_out": "YASİN ABDİOĞLU",
+      "player_in": "HAMZA KÜÇÜKKÖYLÜ",
+      "minute": 59,
+      "minute_text": "59. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "ANDAÇ GÜLERYÜZ",
+      "player_in": "EMİRHAN ÇAKIR",
+      "minute": 63,
+      "minute_text": "63. dk"
+    },
+    {
+      "type": "card",
+      "team": "İSKENDERUNSPOR A.Ş.",
+      "player": "ALİ KETEN",
+      "minute": 70,
+      "minute_text": "70. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "İSKENDERUNSPOR A.Ş.",
+      "player_out": "ENES SOY",
+      "player_in": "KADİR ARİ",
+      "minute": 73,
+      "minute_text": "73. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "İSKENDERUNSPOR A.Ş.",
+      "player_out": "OKAN DERNEK",
+      "player_in": "ONUR URAL",
+      "minute": 73,
+      "minute_text": "73. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "EMİRHAN ÇAKIR",
+      "minute": 74,
+      "minute_text": "74. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "OĞUZ HAN AYNAOĞLU",
+      "player_in": "BEDİRHAN KOLKOPARAN",
+      "minute": 77,
+      "minute_text": "77. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "BERK TOSUN",
+      "minute": 80,
+      "minute_text": "80. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "YİĞİTHAN KIR",
+      "minute": 82,
+      "minute_text": "82. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "SEDAT DURSUN",
+      "minute": 84,
+      "minute_text": "84. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "BERK TOSUN",
+      "player_in": "GÖRKEM ALTUN",
+      "minute": 90,
+      "minute_text": "90. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "HÜSEYİN KARABEY",
+      "player_in": "AYBERK KAYGISIZ",
+      "minute": 90,
+      "minute_text": "90. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "BEDİRHAN KOLKOPARAN",
+      "minute": 90.9,
+      "minute_text": "90+9. dk"
+    },
+    {
+      "type": "goal",
+      "player": "İRFAN BAŞARAN",
+      "minute": 91.0,
+      "minute_text": "90+10. dk",
+      "note": "Penaltı",
+      "team": "İSKENDERUNSPOR A.Ş."
+    },
+    {
+      "type": "card",
+      "team": "İSKENDERUNSPOR A.Ş.",
+      "player": "İRFAN BAŞARAN",
+      "minute": 91.0,
+      "minute_text": "90+10. dk"
+    }
+  ],
+  "dataQuality": {
+    "lineupsAvailable": true,
+    "eventsAvailable": true,
+    "sourceType": "tff_detail_page"
+  }
+}

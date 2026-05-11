@@ -1,0 +1,392 @@
+{
+  "id": "265793",
+  "tff_match_id": "265793",
+  "season": "2024-2025",
+  "competition": "Nesine 3. League (Professional Team)",
+  "roundType": "league",
+  "week": 22,
+  "stage": "22. Maç",
+  "date": "2025-03-09",
+  "time": "14:00",
+  "dateDisplay": "9.03.2025 - 14:00",
+  "homeTeam": "Balıkesirspor",
+  "awayTeam": "TİRE 2021 FUTBOL KULÜBÜ",
+  "homeTeamRaw": "BALIKESİRSPOR",
+  "awayTeamRaw": "TİRE 2021 FUTBOL KULÜBÜ",
+  "score": {
+    "home": 1,
+    "away": 2,
+    "display": "1-2",
+    "played": true
+  },
+  "balkes": {
+    "isHome": true,
+    "opponent": "TİRE 2021 FUTBOL KULÜBÜ",
+    "goalsFor": 1,
+    "goalsAgainst": 2,
+    "result": "L"
+  },
+  "detailUrl": "seasons/2024-2025/matches/265793.json",
+  "source": {
+    "name": "TFF",
+    "url": "https://www.tff.org/Default.aspx?macId=265793&pageID=528"
+  },
+  "match_code": "4452",
+  "venue": "BALIKESİR ATATÜRK - BALIKESİR - BALIKESİR MERKEZ",
+  "referees": [
+    {
+      "name": "DOĞU YILMAZ",
+      "role": "Referee"
+    },
+    {
+      "name": "SEZGİN ŞAHBAZ",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "ONUR TATAR",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "GÖKTAN DEMELİ",
+      "role": "Fourth Official"
+    },
+    {
+      "name": "MUKADDEM GÜLPINAR",
+      "role": "Observer"
+    },
+    {
+      "name": "ÜNAL AKÇA",
+      "role": "Delegate"
+    },
+    {
+      "name": "HASAN AVCI",
+      "role": "Delegate"
+    }
+  ],
+  "lineups": {
+    "home": {
+      "team": "Balıkesirspor",
+      "team_raw": "BALIKESİRSPOR",
+      "starting11": [
+        {
+          "shirt_no": "1.",
+          "name": "HÜSEYİN ALTINTAŞ"
+        },
+        {
+          "shirt_no": "3.",
+          "name": "AHMET GÜLAY"
+        },
+        {
+          "shirt_no": "10.",
+          "name": "SEDAT YİĞİT KURNAZ"
+        },
+        {
+          "shirt_no": "15.",
+          "name": "ASIM HAMZAÇEBİ"
+        },
+        {
+          "shirt_no": "16.",
+          "name": "ŞAHİN ŞAFAKOĞLU"
+        },
+        {
+          "shirt_no": "19.",
+          "name": "ARTUN AKÇAKIN"
+        },
+        {
+          "shirt_no": "22.",
+          "name": "TAYFUN KIRCA"
+        },
+        {
+          "shirt_no": "30.",
+          "name": "BERKAY GÖRMEZ"
+        },
+        {
+          "shirt_no": "68.",
+          "name": "VOLKAN ALTINSOY"
+        },
+        {
+          "shirt_no": "70.",
+          "name": "EMİR ŞENOCAK"
+        },
+        {
+          "shirt_no": "80.",
+          "name": "MUHAMMED DEMİRCİ"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "48.",
+          "name": "DOĞUKAN ÖZÇİMEN"
+        },
+        {
+          "shirt_no": "2.",
+          "name": "MUHAMMET ARAZ"
+        },
+        {
+          "shirt_no": "5.",
+          "name": "KAĞAN KAYALI"
+        },
+        {
+          "shirt_no": "6.",
+          "name": "SAMET SEYMEN SARGIN"
+        },
+        {
+          "shirt_no": "7.",
+          "name": "CELAL EMİR DEDE"
+        },
+        {
+          "shirt_no": "8.",
+          "name": "ÖZER ÖZDEMİR"
+        },
+        {
+          "shirt_no": "9.",
+          "name": "BERTUĞ BAYAR"
+        },
+        {
+          "shirt_no": "21.",
+          "name": "SERDAR GÜNCÜ"
+        },
+        {
+          "shirt_no": "32.",
+          "name": "ALİ KARAKAYA"
+        },
+        {
+          "shirt_no": "53.",
+          "name": "GÜVENÇ USTA"
+        }
+      ],
+      "coach": "İSMAİL ERTEKİN"
+    },
+    "away": {
+      "team": "TİRE 2021 FUTBOL KULÜBÜ",
+      "team_raw": "TİRE 2021 FUTBOL KULÜBÜ",
+      "starting11": [
+        {
+          "shirt_no": "1.",
+          "name": "FATİH DEMİRLEK"
+        },
+        {
+          "shirt_no": "4.",
+          "name": "RIDVAN KOÇAK"
+        },
+        {
+          "shirt_no": "5.",
+          "name": "MURAT ŞİMŞEK"
+        },
+        {
+          "shirt_no": "7.",
+          "name": "MERTCAN AKTAŞ"
+        },
+        {
+          "shirt_no": "8.",
+          "name": "SAİD CAN AÇIKALIN"
+        },
+        {
+          "shirt_no": "11.",
+          "name": "SERHAT BAŞTAN"
+        },
+        {
+          "shirt_no": "19.",
+          "name": "MUSTAFA ÇALIŞKAN"
+        },
+        {
+          "shirt_no": "22.",
+          "name": "SEMİH GÖRER"
+        },
+        {
+          "shirt_no": "33.",
+          "name": "ÖZGÜR GÜLER"
+        },
+        {
+          "shirt_no": "48.",
+          "name": "MUSA YÜKSEL"
+        },
+        {
+          "shirt_no": "99.",
+          "name": "MURAT ELKATMIŞ"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "85.",
+          "name": "MERT DANIŞMAZ"
+        },
+        {
+          "shirt_no": "2.",
+          "name": "BERKE KILIÇ"
+        },
+        {
+          "shirt_no": "9.",
+          "name": "İLHAN ASLANOĞLU"
+        },
+        {
+          "shirt_no": "10.",
+          "name": "MEHMET TOSUN"
+        },
+        {
+          "shirt_no": "18.",
+          "name": "ANIL DOYURAN"
+        },
+        {
+          "shirt_no": "34.",
+          "name": "KADİR MERT ÖRENTEPE"
+        },
+        {
+          "shirt_no": "45.",
+          "name": "TEZCAN ERDOĞAN"
+        },
+        {
+          "shirt_no": "61.",
+          "name": "RECEP KARA"
+        },
+        {
+          "shirt_no": "66.",
+          "name": "BÜNYAMİN SAĞER"
+        },
+        {
+          "shirt_no": "83.",
+          "name": "YUSUF YILDIZ"
+        }
+      ],
+      "coach": "ALİ ÇALIŞ"
+    }
+  },
+  "events": [
+    {
+      "type": "goal",
+      "player": "SEDAT YİĞİT KURNAZ",
+      "minute": 10,
+      "minute_text": "10. dk",
+      "note": "Ayak",
+      "team": "Balıkesirspor"
+    },
+    {
+      "type": "card",
+      "team": "TİRE 2021 FUTBOL KULÜBÜ",
+      "player": "MURAT ŞİMŞEK",
+      "minute": 36,
+      "minute_text": "36. dk"
+    },
+    {
+      "type": "card",
+      "team": "TİRE 2021 FUTBOL KULÜBÜ",
+      "player": "SERHAT BAŞTAN",
+      "minute": 41,
+      "minute_text": "41. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "TİRE 2021 FUTBOL KULÜBÜ",
+      "player_out": "MURAT ŞİMŞEK",
+      "player_in": "MEHMET TOSUN",
+      "minute": 46,
+      "minute_text": "46. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "TİRE 2021 FUTBOL KULÜBÜ",
+      "player_out": "MUSA YÜKSEL",
+      "player_in": "TEZCAN ERDOĞAN",
+      "minute": 46,
+      "minute_text": "46. dk"
+    },
+    {
+      "type": "goal",
+      "player": "MURAT ELKATMIŞ",
+      "minute": 49,
+      "minute_text": "49. dk",
+      "note": "Ayak",
+      "team": "TİRE 2021 FUTBOL KULÜBÜ"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "EMİR ŞENOCAK",
+      "player_in": "BERTUĞ BAYAR",
+      "minute": 53,
+      "minute_text": "53. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "TİRE 2021 FUTBOL KULÜBÜ",
+      "player_out": "SEMİH GÖRER",
+      "player_in": "İLHAN ASLANOĞLU",
+      "minute": 67,
+      "minute_text": "67. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "SEDAT YİĞİT KURNAZ",
+      "minute": 74,
+      "minute_text": "74. dk"
+    },
+    {
+      "type": "goal",
+      "player": "SERHAT BAŞTAN",
+      "minute": 76,
+      "minute_text": "76. dk",
+      "note": "Ayak",
+      "team": "TİRE 2021 FUTBOL KULÜBÜ"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "SEDAT YİĞİT KURNAZ",
+      "player_in": "GÜVENÇ USTA",
+      "minute": 76,
+      "minute_text": "76. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "BERTUĞ BAYAR",
+      "minute": 78,
+      "minute_text": "78. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "BERKAY GÖRMEZ",
+      "player_in": "CELAL EMİR DEDE",
+      "minute": 82,
+      "minute_text": "82. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "AHMET GÜLAY",
+      "player_in": "ÖZER ÖZDEMİR",
+      "minute": 82,
+      "minute_text": "82. dk"
+    },
+    {
+      "type": "card",
+      "team": "TİRE 2021 FUTBOL KULÜBÜ",
+      "player": "MUSTAFA ÇALIŞKAN",
+      "minute": 83,
+      "minute_text": "83. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "TİRE 2021 FUTBOL KULÜBÜ",
+      "player_out": "MURAT ELKATMIŞ",
+      "player_in": "KADİR MERT ÖRENTEPE",
+      "minute": 92,
+      "minute_text": "92. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "TİRE 2021 FUTBOL KULÜBÜ",
+      "player_out": "SERHAT BAŞTAN",
+      "player_in": "RECEP KARA",
+      "minute": 94,
+      "minute_text": "94. dk"
+    }
+  ],
+  "dataQuality": {
+    "lineupsAvailable": true,
+    "eventsAvailable": true,
+    "sourceType": "tff_detail_page"
+  }
+}

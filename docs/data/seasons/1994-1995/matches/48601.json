@@ -1,0 +1,285 @@
+{
+  "id": "48601",
+  "tff_match_id": "48601",
+  "season": "1994-1995",
+  "competition": "League B Classification (Professional Team)",
+  "roundType": "league",
+  "week": 1,
+  "stage": "1. Maç",
+  "date": "1994-11-06",
+  "time": "14:00",
+  "dateDisplay": "6.11.1994 - 14:00",
+  "homeTeam": "Balıkesirspor",
+  "awayTeam": "MUĞLASPOR",
+  "homeTeamRaw": "BALIKESIRSPOR",
+  "awayTeamRaw": "MUĞLASPOR",
+  "score": {
+    "home": 0,
+    "away": 3,
+    "display": "0-3",
+    "played": true
+  },
+  "balkes": {
+    "isHome": true,
+    "opponent": "MUĞLASPOR",
+    "goalsFor": 0,
+    "goalsAgainst": 3,
+    "result": "L"
+  },
+  "detailUrl": "seasons/1994-1995/matches/48601.json",
+  "source": {
+    "name": "TFF",
+    "url": "https://www.tff.org/Default.aspx?macId=48601&pageID=528"
+  },
+  "match_code": "2155",
+  "venue": "BALIKESİR ATATÜRK",
+  "referees": [
+    {
+      "name": "ÖZKAN SARIOĞLU",
+      "role": "Referee"
+    },
+    {
+      "name": "FARUK AKKOR",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "MUSTAFA AYDINOĞLU",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "HİLMİ ALP SALTAN",
+      "role": "Observer"
+    }
+  ],
+  "lineups": {
+    "home": {
+      "team": "Balıkesirspor",
+      "team_raw": "BALIKESIRSPOR",
+      "starting11": [
+        {
+          "shirt_no": "1.",
+          "name": "ÜMİT LEVENT ZORLUER"
+        },
+        {
+          "shirt_no": "2.",
+          "name": "AYHAN YILDIZ"
+        },
+        {
+          "shirt_no": "3.",
+          "name": "AZİZ SAĞLAM"
+        },
+        {
+          "shirt_no": "4.",
+          "name": "GÖKHAN TETİK"
+        },
+        {
+          "shirt_no": "5.",
+          "name": "İMDAT YILMAZ"
+        },
+        {
+          "shirt_no": "6.",
+          "name": "CEM YETİŞEN"
+        },
+        {
+          "shirt_no": "7.",
+          "name": "ERGÜN UĞUR"
+        },
+        {
+          "shirt_no": "8.",
+          "name": "YEŞAR KANDEMİR"
+        },
+        {
+          "shirt_no": "9.",
+          "name": "AYTEKİN ÖZPINAR"
+        },
+        {
+          "shirt_no": "10.",
+          "name": "YILMAZ İŞLER"
+        },
+        {
+          "shirt_no": "11.",
+          "name": "SAMİ EMRE KÖKTEN"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "12.",
+          "name": "MENDERES SUNKAR"
+        },
+        {
+          "shirt_no": "13.",
+          "name": "CAN FERİK"
+        },
+        {
+          "shirt_no": "14.",
+          "name": "ENGİN GÜLIŞIK"
+        },
+        {
+          "shirt_no": "15.",
+          "name": "GÜROL MAĞILTAŞ"
+        },
+        {
+          "shirt_no": "16.",
+          "name": "ATAY EFE"
+        }
+      ]
+    },
+    "away": {
+      "team": "MUĞLASPOR",
+      "team_raw": "MUĞLASPOR",
+      "starting11": [
+        {
+          "shirt_no": "1.",
+          "name": "MESUT FIRATLIOĞLU"
+        },
+        {
+          "shirt_no": "2.",
+          "name": "ERDAL SARIBAŞ"
+        },
+        {
+          "shirt_no": "3.",
+          "name": "KORAY ECE"
+        },
+        {
+          "shirt_no": "4.",
+          "name": "SABRİ ÇETİN"
+        },
+        {
+          "shirt_no": "5.",
+          "name": "SABRİ KORKMAZ"
+        },
+        {
+          "shirt_no": "6.",
+          "name": "YÜCEL SARIGÜL"
+        },
+        {
+          "shirt_no": "7.",
+          "name": "MUSTAFA AKHANIM"
+        },
+        {
+          "shirt_no": "8.",
+          "name": "TEVFİK CİHAN BULUT"
+        },
+        {
+          "shirt_no": "9.",
+          "name": "İSMAİL İNCE"
+        },
+        {
+          "shirt_no": "10.",
+          "name": "ERCÜMENT GÖKÇELER"
+        },
+        {
+          "shirt_no": "11.",
+          "name": "MUSTAFA ADNAN YAZICIOĞLU"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "12.",
+          "name": "MEHMET SABRİ YILDIRAN"
+        },
+        {
+          "shirt_no": "13.",
+          "name": "ADNAN ŞENTÜRK"
+        },
+        {
+          "shirt_no": "14.",
+          "name": "UĞUR ERTÜRK"
+        },
+        {
+          "shirt_no": "15.",
+          "name": "NECATİ TOPÇU"
+        },
+        {
+          "shirt_no": "16.",
+          "name": "ÖZGÜR AYDIN"
+        }
+      ]
+    }
+  },
+  "events": [
+    {
+      "type": "goal",
+      "player": "MUSTAFA ADNAN YAZICIOĞLU",
+      "minute": 16,
+      "minute_text": "16. dk",
+      "note": "Ayak",
+      "team": "MUĞLASPOR"
+    },
+    {
+      "type": "substitution",
+      "team": "MUĞLASPOR",
+      "player_out": "MESUT FIRATLIOĞLU",
+      "player_in": "MEHMET SABRİ YILDIRAN",
+      "minute": 27,
+      "minute_text": "27. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "ERGÜN UĞUR",
+      "minute": 43,
+      "minute_text": "43. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "ERGÜN UĞUR",
+      "player_in": "CAN FERİK",
+      "minute": 46,
+      "minute_text": "46. dk"
+    },
+    {
+      "type": "goal",
+      "player": "MUSTAFA ADNAN YAZICIOĞLU",
+      "minute": 50,
+      "minute_text": "50. dk",
+      "note": "Ayak",
+      "team": "MUĞLASPOR"
+    },
+    {
+      "type": "card",
+      "team": "MUĞLASPOR",
+      "player": "KORAY ECE",
+      "minute": 55,
+      "minute_text": "55. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "MUĞLASPOR",
+      "player_out": "TEVFİK CİHAN BULUT",
+      "player_in": "ADNAN ŞENTÜRK",
+      "minute": 56,
+      "minute_text": "56. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "SAMİ EMRE KÖKTEN",
+      "player_in": "ENGİN GÜLIŞIK",
+      "minute": 60,
+      "minute_text": "60. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "MUĞLASPOR",
+      "player_out": "İSMAİL İNCE",
+      "player_in": "UĞUR ERTÜRK",
+      "minute": 75,
+      "minute_text": "75. dk"
+    },
+    {
+      "type": "goal",
+      "player": "ERCÜMENT GÖKÇELER",
+      "minute": 81,
+      "minute_text": "81. dk",
+      "note": "Ayak",
+      "team": "MUĞLASPOR"
+    }
+  ],
+  "dataQuality": {
+    "lineupsAvailable": true,
+    "eventsAvailable": true,
+    "sourceType": "tff_detail_page"
+  }
+}

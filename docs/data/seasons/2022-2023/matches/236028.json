@@ -1,0 +1,376 @@
+{
+  "id": "236028",
+  "tff_match_id": "236028",
+  "season": "2022-2023",
+  "competition": "TFF 2.League (Professional Team)",
+  "roundType": "league",
+  "week": 10,
+  "stage": "10. Maç",
+  "date": "2022-10-15",
+  "time": "19:00",
+  "dateDisplay": "15.10.2022 - 19:00",
+  "homeTeam": "Balıkesirspor",
+  "awayTeam": "SARIYER",
+  "homeTeamRaw": "BAYNET İNŞAAT BALIKESİRSPOR",
+  "awayTeamRaw": "SARIYER",
+  "score": {
+    "home": 1,
+    "away": 1,
+    "display": "1-1",
+    "played": true
+  },
+  "balkes": {
+    "isHome": true,
+    "opponent": "SARIYER",
+    "goalsFor": 1,
+    "goalsAgainst": 1,
+    "result": "D"
+  },
+  "detailUrl": "seasons/2022-2023/matches/236028.json",
+  "source": {
+    "name": "TFF",
+    "url": "https://www.tff.org/Default.aspx?macId=236028&pageID=528"
+  },
+  "match_code": "3639",
+  "venue": "BALIKESİR ATATÜRK - BALIKESİR",
+  "referees": [
+    {
+      "name": "ÖMER FARUK GÜLTEKİN",
+      "role": "Referee"
+    },
+    {
+      "name": "EMRE DOĞU",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "EMRE DEMİREL",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "ABDURRAHMAN EMRE HAYMANA",
+      "role": "Fourth Official"
+    },
+    {
+      "name": "BÜLENT GÜNEN",
+      "role": "Observer"
+    },
+    {
+      "name": "MURAT ILGIN",
+      "role": "Delegate"
+    },
+    {
+      "name": "HALUK CÖMERT",
+      "role": "Delegate"
+    }
+  ],
+  "lineups": {
+    "home": {
+      "team": "Balıkesirspor",
+      "team_raw": "BAYNET İNŞAAT BALIKESİRSPOR",
+      "starting11": [
+        {
+          "shirt_no": "1.",
+          "name": "YİĞİTHAN KIR"
+        },
+        {
+          "shirt_no": "63.",
+          "name": "İBRAHİM HALİL ÇOLAK"
+        },
+        {
+          "shirt_no": "15.",
+          "name": "KAĞAN KAYALI"
+        },
+        {
+          "shirt_no": "77.",
+          "name": "DOĞA İŞERİ"
+        },
+        {
+          "shirt_no": "99.",
+          "name": "EMİRHAN ÇAKIR"
+        },
+        {
+          "shirt_no": "22.",
+          "name": "AYBERK KAYGISIZ"
+        },
+        {
+          "shirt_no": "5.",
+          "name": "SEDAT DURSUN"
+        },
+        {
+          "shirt_no": "20.",
+          "name": "BERK TOSUN"
+        },
+        {
+          "shirt_no": "4.",
+          "name": "BİROL PARLAK"
+        },
+        {
+          "shirt_no": "10.",
+          "name": "OĞUZ HAN AYNAOĞLU"
+        },
+        {
+          "shirt_no": "3.",
+          "name": "BERAT AYDOĞDU"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "26.",
+          "name": "YASİN YİĞİT BERBER"
+        },
+        {
+          "shirt_no": "80.",
+          "name": "ÜMİT DOĞRU"
+        },
+        {
+          "shirt_no": "97.",
+          "name": "BERKAY AYKURT"
+        },
+        {
+          "shirt_no": "44.",
+          "name": "GÖRKEM ALTUN"
+        },
+        {
+          "shirt_no": "71.",
+          "name": "HASAN TURHAN TÜRKER"
+        },
+        {
+          "shirt_no": "33.",
+          "name": "GÜNEY ÇELİK KELEŞ"
+        },
+        {
+          "shirt_no": "21.",
+          "name": "SEDAT YİĞİT KURNAZ"
+        },
+        {
+          "shirt_no": "9.",
+          "name": "BEDİRHAN KOLKOPARAN"
+        },
+        {
+          "shirt_no": "61.",
+          "name": "HASAN CAN BİNGÜL"
+        },
+        {
+          "shirt_no": "23.",
+          "name": "ENES KARABULUT"
+        }
+      ],
+      "coach": "UĞUR BALCIOĞLU"
+    },
+    "away": {
+      "team": "SARIYER",
+      "team_raw": "SARIYER",
+      "starting11": [
+        {
+          "shirt_no": "1.",
+          "name": "ÖMER ALICI"
+        },
+        {
+          "shirt_no": "3.",
+          "name": "HÜSNÜ BAŞKURT"
+        },
+        {
+          "shirt_no": "8.",
+          "name": "HÜSEYİN ALTUĞ TAŞ"
+        },
+        {
+          "shirt_no": "10.",
+          "name": "BERKAY GÖRMEZ"
+        },
+        {
+          "shirt_no": "11.",
+          "name": "BARIŞ MEMİŞ"
+        },
+        {
+          "shirt_no": "14.",
+          "name": "EMİR CAN SAYAR"
+        },
+        {
+          "shirt_no": "22.",
+          "name": "NURİ TERLİKSİZ"
+        },
+        {
+          "shirt_no": "24.",
+          "name": "IŞIK KAAN ARSLAN"
+        },
+        {
+          "shirt_no": "29.",
+          "name": "EREN AYDIN"
+        },
+        {
+          "shirt_no": "55.",
+          "name": "BAHRİ CAN AVCI"
+        },
+        {
+          "shirt_no": "78.",
+          "name": "BERTUL KOCABAŞ"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "32.",
+          "name": "HACI RAMAZAN ÖZKANLI"
+        },
+        {
+          "shirt_no": "4.",
+          "name": "BORA ÇUHA"
+        },
+        {
+          "shirt_no": "5.",
+          "name": "SEZER YILDIRIM"
+        },
+        {
+          "shirt_no": "7.",
+          "name": "SAVAŞ YILMAZ"
+        },
+        {
+          "shirt_no": "9.",
+          "name": "TAHA DÖNMEZ"
+        },
+        {
+          "shirt_no": "19.",
+          "name": "METİN EMRE KARAAL"
+        },
+        {
+          "shirt_no": "20.",
+          "name": "ATALAY BABACAN"
+        },
+        {
+          "shirt_no": "26.",
+          "name": "ERKAN BÜKÜLMEZ"
+        },
+        {
+          "shirt_no": "57.",
+          "name": "RAMAZAN ÇEVİK"
+        },
+        {
+          "shirt_no": "61.",
+          "name": "ABDULKADİR ÖZDEMİR"
+        }
+      ],
+      "coach": "MEHMET DEMİRTAŞ"
+    }
+  },
+  "events": [
+    {
+      "type": "goal",
+      "player": "İBRAHİM HALİL ÇOLAK",
+      "minute": 3,
+      "minute_text": "3. dk",
+      "note": "Ayak",
+      "team": "Balıkesirspor"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "BERK TOSUN",
+      "minute": 32,
+      "minute_text": "32. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "SARIYER",
+      "player_out": "EMİR CAN SAYAR",
+      "player_in": "RAMAZAN ÇEVİK",
+      "minute": 46,
+      "minute_text": "46. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "SARIYER",
+      "player_out": "BARIŞ MEMİŞ",
+      "player_in": "SAVAŞ YILMAZ",
+      "minute": 46,
+      "minute_text": "46. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "SARIYER",
+      "player_out": "HÜSNÜ BAŞKURT",
+      "player_in": "TAHA DÖNMEZ",
+      "minute": 55,
+      "minute_text": "55. dk"
+    },
+    {
+      "type": "card",
+      "team": "SARIYER",
+      "player": "HÜSEYİN ALTUĞ TAŞ",
+      "minute": 58,
+      "minute_text": "58. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "DOĞA İŞERİ",
+      "minute": 60,
+      "minute_text": "60. dk"
+    },
+    {
+      "type": "card",
+      "team": "SARIYER",
+      "player": "EREN AYDIN",
+      "minute": 66,
+      "minute_text": "66. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "BERK TOSUN",
+      "player_in": "GÜNEY ÇELİK KELEŞ",
+      "minute": 70,
+      "minute_text": "70. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "SARIYER",
+      "player_out": "EREN AYDIN",
+      "player_in": "ATALAY BABACAN",
+      "minute": 76,
+      "minute_text": "76. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "OĞUZ HAN AYNAOĞLU",
+      "player_in": "GÖRKEM ALTUN",
+      "minute": 81,
+      "minute_text": "81. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "İBRAHİM HALİL ÇOLAK",
+      "minute": 85,
+      "minute_text": "85. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "İBRAHİM HALİL ÇOLAK",
+      "player_in": "ENES KARABULUT",
+      "minute": 90,
+      "minute_text": "90. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "EMİRHAN ÇAKIR",
+      "player_in": "BEDİRHAN KOLKOPARAN",
+      "minute": 90,
+      "minute_text": "90. dk"
+    },
+    {
+      "type": "goal",
+      "player": "BERTUL KOCABAŞ",
+      "minute": 90.5,
+      "minute_text": "90+5. dk",
+      "note": "Ayak",
+      "team": "SARIYER"
+    }
+  ],
+  "dataQuality": {
+    "lineupsAvailable": true,
+    "eventsAvailable": true,
+    "sourceType": "tff_detail_page"
+  }
+}

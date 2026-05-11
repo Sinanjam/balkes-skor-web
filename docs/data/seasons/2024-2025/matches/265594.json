@@ -1,0 +1,391 @@
+{
+  "id": "265594",
+  "tff_match_id": "265594",
+  "season": "2024-2025",
+  "competition": "Nesine 3. League (Professional Team)",
+  "roundType": "league",
+  "week": 2,
+  "stage": "2. Maç",
+  "date": "2024-09-15",
+  "time": "16:30",
+  "dateDisplay": "15.09.2024 - 16:30",
+  "homeTeam": "UŞAK SPOR A.Ş.",
+  "awayTeam": "Balıkesirspor",
+  "homeTeamRaw": "UŞAK SPOR A.Ş.",
+  "awayTeamRaw": "BALIKESİRSPOR",
+  "score": {
+    "home": 0,
+    "away": 2,
+    "display": "0-2",
+    "played": true
+  },
+  "balkes": {
+    "isHome": false,
+    "opponent": "UŞAK SPOR A.Ş.",
+    "goalsFor": 2,
+    "goalsAgainst": 0,
+    "result": "W"
+  },
+  "detailUrl": "seasons/2024-2025/matches/265594.json",
+  "source": {
+    "name": "TFF",
+    "url": "https://www.tff.org/Default.aspx?macId=265594&pageID=528"
+  },
+  "match_code": "4253",
+  "venue": "UŞAK 1 EYLÜL - UŞAK",
+  "referees": [
+    {
+      "name": "HASAN AVCI",
+      "role": "Referee"
+    },
+    {
+      "name": "AHMET OĞUZ YILMAZ",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "EMİRHAN DURMAZ",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "OSMAN CAN AÇIKLAR",
+      "role": "Fourth Official"
+    },
+    {
+      "name": "HASAN HÜSEYİN YILDIRIM",
+      "role": "Observer"
+    },
+    {
+      "name": "HİLMİ MAHİR BAŞARAN",
+      "role": "Delegate"
+    },
+    {
+      "name": "SERHAT ÖZKAYACAN",
+      "role": "Delegate"
+    }
+  ],
+  "lineups": {
+    "home": {
+      "team": "UŞAK SPOR A.Ş.",
+      "team_raw": "UŞAK SPOR A.Ş.",
+      "starting11": [
+        {
+          "shirt_no": "15.",
+          "name": "MEHMET DOĞAN"
+        },
+        {
+          "shirt_no": "64.",
+          "name": "MUHAMMED FATİH KUNAT"
+        },
+        {
+          "shirt_no": "80.",
+          "name": "CİHANGİR ÇAĞLIYAN"
+        },
+        {
+          "shirt_no": "26.",
+          "name": "İLKE NELİK"
+        },
+        {
+          "shirt_no": "41.",
+          "name": "EROL ZÖNGÜR"
+        },
+        {
+          "shirt_no": "20.",
+          "name": "MUHAMMET MUSTAFA GUNDAK"
+        },
+        {
+          "shirt_no": "30.",
+          "name": "BAYDUHAN TAŞOVA"
+        },
+        {
+          "shirt_no": "10.",
+          "name": "TANER YILDIZ"
+        },
+        {
+          "shirt_no": "11.",
+          "name": "SEMİH AKYILDIZ"
+        },
+        {
+          "shirt_no": "19.",
+          "name": "BERTUĞ UZ"
+        },
+        {
+          "shirt_no": "9.",
+          "name": "MURAT TORUN"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "1.",
+          "name": "CAN TÜRK"
+        },
+        {
+          "shirt_no": "24.",
+          "name": "EMRE SARIKAYA"
+        },
+        {
+          "shirt_no": "27.",
+          "name": "İSMAİL EFE ERBİL"
+        },
+        {
+          "shirt_no": "21.",
+          "name": "CANER SOLMAZ"
+        },
+        {
+          "shirt_no": "61.",
+          "name": "ORHAN GÜLLE"
+        },
+        {
+          "shirt_no": "8.",
+          "name": "TALHA MAYHOŞ"
+        },
+        {
+          "shirt_no": "29.",
+          "name": "CİHAD ATEŞ"
+        },
+        {
+          "shirt_no": "7.",
+          "name": "RÜSTEM YİĞİT YIKILMAZ"
+        },
+        {
+          "shirt_no": "25.",
+          "name": "SELÇUK ALİBAZ"
+        },
+        {
+          "shirt_no": "35.",
+          "name": "FATİH ÜGE"
+        }
+      ],
+      "coach": "EFRAHİM ALKIN"
+    },
+    "away": {
+      "team": "Balıkesirspor",
+      "team_raw": "BALIKESİRSPOR",
+      "starting11": [
+        {
+          "shirt_no": "1.",
+          "name": "HÜSEYİN ALTINTAŞ"
+        },
+        {
+          "shirt_no": "22.",
+          "name": "TAYFUN KIRCA"
+        },
+        {
+          "shirt_no": "2.",
+          "name": "MUHAMMET ARAZ"
+        },
+        {
+          "shirt_no": "16.",
+          "name": "ŞAHİN ŞAFAKOĞLU"
+        },
+        {
+          "shirt_no": "53.",
+          "name": "GÜVENÇ USTA"
+        },
+        {
+          "shirt_no": "21.",
+          "name": "SERDAR GÜNCÜ"
+        },
+        {
+          "shirt_no": "15.",
+          "name": "ASIM HAMZAÇEBİ"
+        },
+        {
+          "shirt_no": "10.",
+          "name": "SEDAT YİĞİT KURNAZ"
+        },
+        {
+          "shirt_no": "8.",
+          "name": "ÖZER ÖZDEMİR"
+        },
+        {
+          "shirt_no": "19.",
+          "name": "ARTUN AKÇAKIN"
+        },
+        {
+          "shirt_no": "9.",
+          "name": "BERTUĞ BAYAR"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "48.",
+          "name": "DOĞUKAN ÖZÇİMEN"
+        },
+        {
+          "shirt_no": "5.",
+          "name": "KAĞAN KAYALI"
+        },
+        {
+          "shirt_no": "61.",
+          "name": "MUHAMMED EREN TÜRKMEN"
+        },
+        {
+          "shirt_no": "68.",
+          "name": "VOLKAN ALTINSOY"
+        },
+        {
+          "shirt_no": "3.",
+          "name": "AHMET GÜLAY"
+        },
+        {
+          "shirt_no": "32.",
+          "name": "ALİ KARAKAYA"
+        },
+        {
+          "shirt_no": "6.",
+          "name": "SAMET SEYMEN SARGIN"
+        },
+        {
+          "shirt_no": "80.",
+          "name": "MUHAMMED DEMİRCİ"
+        },
+        {
+          "shirt_no": "27.",
+          "name": "MERT TEKİN"
+        },
+        {
+          "shirt_no": "7.",
+          "name": "CELAL EMİR DEDE"
+        }
+      ],
+      "coach": "LEVENT ERİŞ"
+    }
+  },
+  "events": [
+    {
+      "type": "card",
+      "team": "UŞAK SPOR A.Ş.",
+      "player": "CİHANGİR ÇAĞLIYAN",
+      "minute": 30,
+      "minute_text": "30. dk"
+    },
+    {
+      "type": "card",
+      "team": "UŞAK SPOR A.Ş.",
+      "player": "EROL ZÖNGÜR",
+      "minute": 44,
+      "minute_text": "44. dk"
+    },
+    {
+      "type": "goal",
+      "player": "ARTUN AKÇAKIN",
+      "minute": 45,
+      "minute_text": "45. dk",
+      "note": "Ayak",
+      "team": "Balıkesirspor"
+    },
+    {
+      "type": "substitution",
+      "team": "UŞAK SPOR A.Ş.",
+      "player_out": "BAYDUHAN TAŞOVA",
+      "player_in": "SELÇUK ALİBAZ",
+      "minute": 46,
+      "minute_text": "46. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "SEDAT YİĞİT KURNAZ",
+      "player_in": "AHMET GÜLAY",
+      "minute": 46,
+      "minute_text": "46. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "GÜVENÇ USTA",
+      "minute": 57,
+      "minute_text": "57. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "GÜVENÇ USTA",
+      "player_in": "MUHAMMED DEMİRCİ",
+      "minute": 60,
+      "minute_text": "60. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "UŞAK SPOR A.Ş.",
+      "player_out": "BERTUĞ UZ",
+      "player_in": "CİHAD ATEŞ",
+      "minute": 63,
+      "minute_text": "63. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "ASIM HAMZAÇEBİ",
+      "player_in": "ALİ KARAKAYA",
+      "minute": 67,
+      "minute_text": "67. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "ARTUN AKÇAKIN",
+      "player_in": "CELAL EMİR DEDE",
+      "minute": 80,
+      "minute_text": "80. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "ÖZER ÖZDEMİR",
+      "player_in": "VOLKAN ALTINSOY",
+      "minute": 80,
+      "minute_text": "80. dk"
+    },
+    {
+      "type": "card",
+      "team": "UŞAK SPOR A.Ş.",
+      "player": "MUHAMMET MUSTAFA GUNDAK",
+      "minute": 81,
+      "minute_text": "81. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "UŞAK SPOR A.Ş.",
+      "player_out": "MUHAMMET MUSTAFA GUNDAK",
+      "player_in": "CANER SOLMAZ",
+      "minute": 83,
+      "minute_text": "83. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "BERTUĞ BAYAR",
+      "minute": 84,
+      "minute_text": "84. dk"
+    },
+    {
+      "type": "goal",
+      "player": "VOLKAN ALTINSOY",
+      "minute": 86,
+      "minute_text": "86. dk",
+      "note": "Ayak",
+      "team": "Balıkesirspor"
+    },
+    {
+      "type": "substitution",
+      "team": "UŞAK SPOR A.Ş.",
+      "player_out": "SEMİH AKYILDIZ",
+      "player_in": "FATİH ÜGE",
+      "minute": 88,
+      "minute_text": "88. dk"
+    },
+    {
+      "type": "card",
+      "team": "UŞAK SPOR A.Ş.",
+      "player": "İLKE NELİK",
+      "minute": 90.3,
+      "minute_text": "90+3. dk"
+    }
+  ],
+  "dataQuality": {
+    "lineupsAvailable": true,
+    "eventsAvailable": true,
+    "sourceType": "tff_detail_page"
+  }
+}

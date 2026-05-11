@@ -1,0 +1,411 @@
+{
+  "id": "283311",
+  "tff_match_id": "283311",
+  "season": "2024-2025",
+  "competition": "Nesine 3.league Play Off (Professional Team)",
+  "roundType": "playoff",
+  "week": 32,
+  "stage": "32. Maç",
+  "date": "2025-05-24",
+  "time": "20:00",
+  "dateDisplay": "24.05.2025 - 20:00",
+  "homeTeam": "MUŞ SPOR KULÜBÜ",
+  "awayTeam": "Balıkesirspor",
+  "homeTeamRaw": "MUŞ SPOR KULÜBÜ",
+  "awayTeamRaw": "BALIKESİRSPOR",
+  "score": {
+    "home": 2,
+    "away": 0,
+    "display": "2-0",
+    "played": true
+  },
+  "balkes": {
+    "isHome": false,
+    "opponent": "MUŞ SPOR KULÜBÜ",
+    "goalsFor": 0,
+    "goalsAgainst": 2,
+    "result": "L"
+  },
+  "detailUrl": "seasons/2024-2025/matches/283311.json",
+  "source": {
+    "name": "TFF",
+    "url": "https://www.tff.org/Default.aspx?macId=283311&pageID=528"
+  },
+  "match_code": "(Finals)",
+  "venue": "YENİ ADANA STADYUMU - ADANA - SARIÇAM",
+  "referees": [
+    {
+      "name": "ALPER AKARSU",
+      "role": "Referee"
+    },
+    {
+      "name": "NURETTİN DİNÇER DEMİR",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "FARUK YAĞLI",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "EFE TANRIVERDİ",
+      "role": "Fourth Official"
+    },
+    {
+      "name": "CİHAN AYDIN",
+      "role": "VAR"
+    },
+    {
+      "name": "MEHMET EMİN TUĞRAL",
+      "role": "AVAR"
+    },
+    {
+      "name": "TUFAN AKÇAY",
+      "role": "Observer"
+    },
+    {
+      "name": "MÜMİN TOSLALI",
+      "role": "Delegate"
+    },
+    {
+      "name": "YALÇIN KAYA",
+      "role": "Delegate"
+    },
+    {
+      "name": "ÖMER ÇOBAN",
+      "role": "Delegate"
+    }
+  ],
+  "lineups": {
+    "home": {
+      "team": "MUŞ SPOR KULÜBÜ",
+      "team_raw": "MUŞ SPOR KULÜBÜ",
+      "starting11": [
+        {
+          "shirt_no": "71.",
+          "name": "ENES ÇETİN"
+        },
+        {
+          "shirt_no": "5.",
+          "name": "EFE KARAOĞLU"
+        },
+        {
+          "shirt_no": "14.",
+          "name": "AKIN AKMAN"
+        },
+        {
+          "shirt_no": "16.",
+          "name": "AYETULLAH KORKMAZER"
+        },
+        {
+          "shirt_no": "20.",
+          "name": "TUĞKAN KAMIŞOĞLU"
+        },
+        {
+          "shirt_no": "22.",
+          "name": "AHMET TEKİN"
+        },
+        {
+          "shirt_no": "27.",
+          "name": "İLKER GÜNASLAN"
+        },
+        {
+          "shirt_no": "28.",
+          "name": "HALİL YILMAZ"
+        },
+        {
+          "shirt_no": "45.",
+          "name": "SİTENLİY OKAVUÇİ"
+        },
+        {
+          "shirt_no": "61.",
+          "name": "EMİRHAN KARAGÜLLE"
+        },
+        {
+          "shirt_no": "99.",
+          "name": "YUSUF YILDIRIM"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "53.",
+          "name": "İLKER GÜNAY"
+        },
+        {
+          "shirt_no": "2.",
+          "name": "EMİRHAN KAYALAR"
+        },
+        {
+          "shirt_no": "4.",
+          "name": "MUHAMMET FATİH YILDIRIM"
+        },
+        {
+          "shirt_no": "7.",
+          "name": "AHMET SUN"
+        },
+        {
+          "shirt_no": "9.",
+          "name": "YAKUP ALKAN"
+        },
+        {
+          "shirt_no": "10.",
+          "name": "METİN YÜKSEL"
+        },
+        {
+          "shirt_no": "11.",
+          "name": "METİN EMRE KARAAL"
+        },
+        {
+          "shirt_no": "30.",
+          "name": "ADAR AYGÜR"
+        },
+        {
+          "shirt_no": "87.",
+          "name": "SARP TENİM"
+        },
+        {
+          "shirt_no": "19.",
+          "name": "BATUHAN ARICI"
+        }
+      ],
+      "coach": "FATİH ÇARDAK"
+    },
+    "away": {
+      "team": "Balıkesirspor",
+      "team_raw": "BALIKESİRSPOR",
+      "starting11": [
+        {
+          "shirt_no": "1.",
+          "name": "HÜSEYİN ALTINTAŞ"
+        },
+        {
+          "shirt_no": "22.",
+          "name": "TAYFUN KIRCA"
+        },
+        {
+          "shirt_no": "68.",
+          "name": "VOLKAN ALTINSOY"
+        },
+        {
+          "shirt_no": "16.",
+          "name": "ŞAHİN ŞAFAKOĞLU"
+        },
+        {
+          "shirt_no": "53.",
+          "name": "GÜVENÇ USTA"
+        },
+        {
+          "shirt_no": "30.",
+          "name": "BERKAY GÖRMEZ"
+        },
+        {
+          "shirt_no": "6.",
+          "name": "SAMET SEYMEN SARGIN"
+        },
+        {
+          "shirt_no": "21.",
+          "name": "SERDAR GÜNCÜ"
+        },
+        {
+          "shirt_no": "7.",
+          "name": "CELAL EMİR DEDE"
+        },
+        {
+          "shirt_no": "80.",
+          "name": "MUHAMMED DEMİRCİ"
+        },
+        {
+          "shirt_no": "19.",
+          "name": "ARTUN AKÇAKIN"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "48.",
+          "name": "DOĞUKAN ÖZÇİMEN"
+        },
+        {
+          "shirt_no": "5.",
+          "name": "KAĞAN KAYALI"
+        },
+        {
+          "shirt_no": "56.",
+          "name": "YİĞİT EPÖZDEMİR"
+        },
+        {
+          "shirt_no": "2.",
+          "name": "MUHAMMET ARAZ"
+        },
+        {
+          "shirt_no": "9.",
+          "name": "BERTUĞ BAYAR"
+        },
+        {
+          "shirt_no": "10.",
+          "name": "SEDAT YİĞİT KURNAZ"
+        },
+        {
+          "shirt_no": "70.",
+          "name": "EMİR ŞENOCAK"
+        },
+        {
+          "shirt_no": "15.",
+          "name": "ASIM HAMZAÇEBİ"
+        },
+        {
+          "shirt_no": "32.",
+          "name": "ALİ KARAKAYA"
+        },
+        {
+          "shirt_no": "29.",
+          "name": "TALHA DOĞUŞ"
+        }
+      ],
+      "coach": "İSMAİL ERTEKİN"
+    }
+  },
+  "events": [
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "GÜVENÇ USTA",
+      "minute": 18,
+      "minute_text": "18. dk"
+    },
+    {
+      "type": "goal",
+      "player": "SİTENLİY OKAVUÇİ",
+      "minute": 35,
+      "minute_text": "35. dk",
+      "note": "Kafa",
+      "team": "MUŞ SPOR KULÜBÜ"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "BERKAY GÖRMEZ",
+      "player_in": "BERTUĞ BAYAR",
+      "minute": 46,
+      "minute_text": "46. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "GÜVENÇ USTA",
+      "player_in": "SEDAT YİĞİT KURNAZ",
+      "minute": 46,
+      "minute_text": "46. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "SAMET SEYMEN SARGIN",
+      "player_in": "MUHAMMET ARAZ",
+      "minute": 46,
+      "minute_text": "46. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "ARTUN AKÇAKIN",
+      "minute": 59,
+      "minute_text": "59. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "MUŞ SPOR KULÜBÜ",
+      "player_out": "AYETULLAH KORKMAZER",
+      "player_in": "AHMET SUN",
+      "minute": 62,
+      "minute_text": "62. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "ŞAHİN ŞAFAKOĞLU",
+      "minute": 73,
+      "minute_text": "73. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "CELAL EMİR DEDE",
+      "player_in": "EMİR ŞENOCAK",
+      "minute": 73,
+      "minute_text": "73. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "MUŞ SPOR KULÜBÜ",
+      "player_out": "SİTENLİY OKAVUÇİ",
+      "player_in": "EMİRHAN KAYALAR",
+      "minute": 75,
+      "minute_text": "75. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "MUHAMMED DEMİRCİ",
+      "minute": 81,
+      "minute_text": "81. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "MUŞ SPOR KULÜBÜ",
+      "player_out": "AKIN AKMAN",
+      "player_in": "YAKUP ALKAN",
+      "minute": 85,
+      "minute_text": "85. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "MUŞ SPOR KULÜBÜ",
+      "player_out": "TUĞKAN KAMIŞOĞLU",
+      "player_in": "MUHAMMET FATİH YILDIRIM",
+      "minute": 85,
+      "minute_text": "85. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "MUŞ SPOR KULÜBÜ",
+      "player_out": "HALİL YILMAZ",
+      "player_in": "METİN YÜKSEL",
+      "minute": 85,
+      "minute_text": "85. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "YİĞİT EPÖZDEMİR",
+      "player_in": "YİĞİT EPÖZDEMİR",
+      "minute": 85,
+      "minute_text": "85. dk"
+    },
+    {
+      "type": "card",
+      "team": "MUŞ SPOR KULÜBÜ",
+      "player": "İLKER GÜNASLAN",
+      "minute": 87,
+      "minute_text": "87. dk"
+    },
+    {
+      "type": "card",
+      "team": "MUŞ SPOR KULÜBÜ",
+      "player": "EMİRHAN KAYALAR",
+      "minute": 89,
+      "minute_text": "89. dk"
+    },
+    {
+      "type": "goal",
+      "player": "YAKUP ALKAN",
+      "minute": 90.9,
+      "minute_text": "90+9. dk",
+      "note": "Ayak",
+      "team": "MUŞ SPOR KULÜBÜ"
+    }
+  ],
+  "dataQuality": {
+    "lineupsAvailable": true,
+    "eventsAvailable": true,
+    "sourceType": "tff_detail_page"
+  }
+}

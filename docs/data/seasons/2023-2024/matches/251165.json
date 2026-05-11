@@ -1,0 +1,398 @@
+{
+  "id": "251165",
+  "tff_match_id": "251165",
+  "season": "2023-2024",
+  "competition": "TFF 3. LEAGUE (Professional Team)",
+  "roundType": "league",
+  "week": 1,
+  "stage": "1. Maç",
+  "date": "2023-09-09",
+  "time": "16:30",
+  "dateDisplay": "9.09.2023 - 16:30",
+  "homeTeam": "BURSA YILDIRIM SPOR",
+  "awayTeam": "Balıkesirspor",
+  "homeTeamRaw": "BURSA YILDIRIM SPOR",
+  "awayTeamRaw": "BALIKESİRSPOR",
+  "score": {
+    "home": 2,
+    "away": 1,
+    "display": "2-1",
+    "played": true
+  },
+  "balkes": {
+    "isHome": false,
+    "opponent": "BURSA YILDIRIM SPOR",
+    "goalsFor": 1,
+    "goalsAgainst": 2,
+    "result": "L"
+  },
+  "detailUrl": "seasons/2023-2024/matches/251165.json",
+  "source": {
+    "name": "TFF",
+    "url": "https://www.tff.org/Default.aspx?macId=251165&pageID=528"
+  },
+  "match_code": "4631",
+  "venue": "MİNARELİ ÇAVUŞ SPOR TESİSLERİ - BURSA",
+  "referees": [
+    {
+      "name": "GÖKHAN ÖZBULUT",
+      "role": "Referee"
+    },
+    {
+      "name": "ERDEM TANIŞ",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "AZEM ZORLU",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "ABDULSAMET ŞENOĞLU",
+      "role": "Fourth Official"
+    },
+    {
+      "name": "FATİH GÜNDOĞDU",
+      "role": "Observer"
+    },
+    {
+      "name": "CEM İLDİR",
+      "role": "Delegate"
+    },
+    {
+      "name": "HAKAN ŞAHİN",
+      "role": "Delegate"
+    }
+  ],
+  "lineups": {
+    "home": {
+      "team": "BURSA YILDIRIM SPOR",
+      "team_raw": "BURSA YILDIRIM SPOR",
+      "starting11": [
+        {
+          "shirt_no": "13.",
+          "name": "ALPER KAĞAN ÇAKIR"
+        },
+        {
+          "shirt_no": "3.",
+          "name": "YUSUF ALİ ÇAKIR"
+        },
+        {
+          "shirt_no": "6.",
+          "name": "OĞUZHAN KANDEMİR"
+        },
+        {
+          "shirt_no": "7.",
+          "name": "ÇAĞLAR ÖZEL"
+        },
+        {
+          "shirt_no": "8.",
+          "name": "DOĞANAY KILIÇ"
+        },
+        {
+          "shirt_no": "9.",
+          "name": "GÖKHAN ERDÖL"
+        },
+        {
+          "shirt_no": "10.",
+          "name": "BURAK OSMAN GENÇAL"
+        },
+        {
+          "shirt_no": "11.",
+          "name": "ERDAL KAYA"
+        },
+        {
+          "shirt_no": "44.",
+          "name": "EMİRHAN KAYALAR"
+        },
+        {
+          "shirt_no": "45.",
+          "name": "MEHMET BERBER"
+        },
+        {
+          "shirt_no": "90.",
+          "name": "UTKU BURAK KUNDUZCU"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "1.",
+          "name": "MERTCAN BABAT"
+        },
+        {
+          "shirt_no": "5.",
+          "name": "HÜSEYİN FURKAN USLU"
+        },
+        {
+          "shirt_no": "12.",
+          "name": "TALHA KARATAŞ"
+        },
+        {
+          "shirt_no": "16.",
+          "name": "RÜŞTÜ HANLI"
+        },
+        {
+          "shirt_no": "19.",
+          "name": "HAKAN DEMİRCİ"
+        },
+        {
+          "shirt_no": "36.",
+          "name": "EREN KARA"
+        },
+        {
+          "shirt_no": "52.",
+          "name": "MUHAMMET TALHA ÇAT"
+        },
+        {
+          "shirt_no": "54.",
+          "name": "MERT POLAT KEKLİK"
+        },
+        {
+          "shirt_no": "88.",
+          "name": "AHMET ARDA ÇAKMAK"
+        }
+      ],
+      "coach": "MURAT GÜNDOĞDU"
+    },
+    "away": {
+      "team": "Balıkesirspor",
+      "team_raw": "BALIKESİRSPOR",
+      "starting11": [
+        {
+          "shirt_no": "1.",
+          "name": "YİĞİTHAN KIR"
+        },
+        {
+          "shirt_no": "22.",
+          "name": "GÖRKEM ALTUN"
+        },
+        {
+          "shirt_no": "5.",
+          "name": "KAĞAN KAYALI"
+        },
+        {
+          "shirt_no": "19.",
+          "name": "ENES KARABULUT"
+        },
+        {
+          "shirt_no": "3.",
+          "name": "GÜNEY ÇELİK KELEŞ"
+        },
+        {
+          "shirt_no": "8.",
+          "name": "ÜMİT DOĞRU"
+        },
+        {
+          "shirt_no": "16.",
+          "name": "BERK TOSUN"
+        },
+        {
+          "shirt_no": "10.",
+          "name": "SEDAT YİĞİT KURNAZ"
+        },
+        {
+          "shirt_no": "13.",
+          "name": "ABDULLAH ADIYAMAN"
+        },
+        {
+          "shirt_no": "7.",
+          "name": "BERKAY AYKURT"
+        },
+        {
+          "shirt_no": "20.",
+          "name": "DOĞANAY AVCI"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "25.",
+          "name": "YUNUS EMRE DAVRAN"
+        },
+        {
+          "shirt_no": "94.",
+          "name": "AHMET ÇAĞRI ÇOLAK"
+        },
+        {
+          "shirt_no": "44.",
+          "name": "AHMET BAKİ CANEL"
+        },
+        {
+          "shirt_no": "24.",
+          "name": "ARDA GÖROĞLU"
+        },
+        {
+          "shirt_no": "11.",
+          "name": "ARDA İBRAHİM AKGÜN"
+        },
+        {
+          "shirt_no": "6.",
+          "name": "BERAT AYDOĞDU"
+        },
+        {
+          "shirt_no": "61.",
+          "name": "HASAN CAN BİNGÜL"
+        },
+        {
+          "shirt_no": "23.",
+          "name": "MUHAMMED EREN TÜRKMEN"
+        },
+        {
+          "shirt_no": "43.",
+          "name": "ENES TALHA SARIBAŞ"
+        },
+        {
+          "shirt_no": "99.",
+          "name": "UMUT CAN AKÇAOĞLU"
+        }
+      ],
+      "coach": "RECEP ÇETİN"
+    }
+  },
+  "events": [
+    {
+      "type": "goal",
+      "player": "GÖKHAN ERDÖL",
+      "minute": 37,
+      "minute_text": "37. dk",
+      "note": "Kafa",
+      "team": "BURSA YILDIRIM SPOR"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "BERK TOSUN",
+      "minute": 43,
+      "minute_text": "43. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "ÜMİT DOĞRU",
+      "minute": 45.1,
+      "minute_text": "45+1. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "BERK TOSUN",
+      "player_in": "BERAT AYDOĞDU",
+      "minute": 46,
+      "minute_text": "46. dk"
+    },
+    {
+      "type": "card",
+      "team": "BURSA YILDIRIM SPOR",
+      "player": "DOĞANAY KILIÇ",
+      "minute": 55,
+      "minute_text": "55. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "BERAT AYDOĞDU",
+      "minute": 55,
+      "minute_text": "55. dk"
+    },
+    {
+      "type": "card",
+      "team": "BURSA YILDIRIM SPOR",
+      "player": "ERDAL KAYA",
+      "minute": 61,
+      "minute_text": "61. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "BURSA YILDIRIM SPOR",
+      "player_out": "ERDAL KAYA",
+      "player_in": "HAKAN DEMİRCİ",
+      "minute": 64,
+      "minute_text": "64. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "ABDULLAH ADIYAMAN",
+      "player_in": "ARDA İBRAHİM AKGÜN",
+      "minute": 68,
+      "minute_text": "68. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "KAĞAN KAYALI",
+      "minute": 71,
+      "minute_text": "71. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "BURSA YILDIRIM SPOR",
+      "player_out": "ÇAĞLAR ÖZEL",
+      "player_in": "EREN KARA",
+      "minute": 78,
+      "minute_text": "78. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "ARDA İBRAHİM AKGÜN",
+      "minute": 82,
+      "minute_text": "82. dk"
+    },
+    {
+      "type": "card",
+      "team": "BURSA YILDIRIM SPOR",
+      "player": "GÖKHAN ERDÖL",
+      "minute": 84,
+      "minute_text": "84. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "BURSA YILDIRIM SPOR",
+      "player_out": "BURAK OSMAN GENÇAL",
+      "player_in": "HÜSEYİN FURKAN USLU",
+      "minute": 86,
+      "minute_text": "86. dk"
+    },
+    {
+      "type": "goal",
+      "player": "SEDAT YİĞİT KURNAZ",
+      "minute": 90.2,
+      "minute_text": "90+2. dk",
+      "note": "Penaltı",
+      "team": "Balıkesirspor"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "BERKAY AYKURT",
+      "minute": 90.3,
+      "minute_text": "90+3. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "DOĞANAY AVCI",
+      "minute": 90.3,
+      "minute_text": "90+3. dk"
+    },
+    {
+      "type": "goal",
+      "player": "GÖKHAN ERDÖL",
+      "minute": 90.4,
+      "minute_text": "90+4. dk",
+      "note": "Kafa",
+      "team": "BURSA YILDIRIM SPOR"
+    },
+    {
+      "type": "card",
+      "team": "BURSA YILDIRIM SPOR",
+      "player": "EMİRHAN KAYALAR",
+      "minute": 90.5,
+      "minute_text": "90+5. dk"
+    }
+  ],
+  "dataQuality": {
+    "lineupsAvailable": true,
+    "eventsAvailable": true,
+    "sourceType": "tff_detail_page"
+  }
+}

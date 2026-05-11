@@ -1,0 +1,303 @@
+{
+  "id": "265648",
+  "tff_match_id": "265648",
+  "season": "2024-2025",
+  "competition": "Nesine 3. League (Professional Team)",
+  "roundType": "league",
+  "week": 29,
+  "stage": "29. Maç",
+  "date": "2025-04-26",
+  "time": "15:00",
+  "dateDisplay": "26.04.2025 - 15:00",
+  "homeTeam": "Balıkesirspor",
+  "awayTeam": "T.METAL 1963 SPOR",
+  "homeTeamRaw": "BALIKESİRSPOR",
+  "awayTeamRaw": "T.METAL 1963 SPOR",
+  "score": {
+    "home": 0,
+    "away": 0,
+    "display": "0-0",
+    "played": true
+  },
+  "balkes": {
+    "isHome": true,
+    "opponent": "T.METAL 1963 SPOR",
+    "goalsFor": 0,
+    "goalsAgainst": 0,
+    "result": "D"
+  },
+  "detailUrl": "seasons/2024-2025/matches/265648.json",
+  "source": {
+    "name": "TFF",
+    "url": "https://www.tff.org/Default.aspx?macId=265648&pageID=528"
+  },
+  "match_code": "4307",
+  "venue": "BALIKESİR ATATÜRK - BALIKESİR - BALIKESİR MERKEZ",
+  "referees": [
+    {
+      "name": "ERDEM TEMEL",
+      "role": "Referee"
+    },
+    {
+      "name": "AHMET KIVANÇ KADER",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "BERKAY DİNİZ",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "KEREM SİNEM",
+      "role": "Fourth Official"
+    },
+    {
+      "name": "COŞKUN DOĞAN",
+      "role": "Observer"
+    },
+    {
+      "name": "ERTUĞRUL ÖZTEN",
+      "role": "Delegate"
+    },
+    {
+      "name": "BİRKAN UZUN",
+      "role": "Delegate"
+    }
+  ],
+  "lineups": {
+    "home": {
+      "team": "Balıkesirspor",
+      "team_raw": "BALIKESİRSPOR",
+      "starting11": [
+        {
+          "shirt_no": "48.",
+          "name": "DOĞUKAN ÖZÇİMEN"
+        },
+        {
+          "shirt_no": "56.",
+          "name": "YİĞİT EPÖZDEMİR"
+        },
+        {
+          "shirt_no": "68.",
+          "name": "VOLKAN ALTINSOY"
+        },
+        {
+          "shirt_no": "16.",
+          "name": "ŞAHİN ŞAFAKOĞLU"
+        },
+        {
+          "shirt_no": "53.",
+          "name": "GÜVENÇ USTA"
+        },
+        {
+          "shirt_no": "7.",
+          "name": "CELAL EMİR DEDE"
+        },
+        {
+          "shirt_no": "10.",
+          "name": "SEDAT YİĞİT KURNAZ"
+        },
+        {
+          "shirt_no": "21.",
+          "name": "SERDAR GÜNCÜ"
+        },
+        {
+          "shirt_no": "30.",
+          "name": "BERKAY GÖRMEZ"
+        },
+        {
+          "shirt_no": "80.",
+          "name": "MUHAMMED DEMİRCİ"
+        },
+        {
+          "shirt_no": "9.",
+          "name": "BERTUĞ BAYAR"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "1.",
+          "name": "HÜSEYİN ALTINTAŞ"
+        },
+        {
+          "shirt_no": "26.",
+          "name": "YASİN YİĞİT BERBER"
+        },
+        {
+          "shirt_no": "5.",
+          "name": "KAĞAN KAYALI"
+        },
+        {
+          "shirt_no": "32.",
+          "name": "ALİ KARAKAYA"
+        },
+        {
+          "shirt_no": "3.",
+          "name": "AHMET GÜLAY"
+        },
+        {
+          "shirt_no": "70.",
+          "name": "EMİR ŞENOCAK"
+        },
+        {
+          "shirt_no": "6.",
+          "name": "SAMET SEYMEN SARGIN"
+        },
+        {
+          "shirt_no": "27.",
+          "name": "MERT TEKİN"
+        },
+        {
+          "shirt_no": "29.",
+          "name": "TALHA DOĞUŞ"
+        }
+      ],
+      "coach": "İSMAİL ERTEKİN"
+    },
+    "away": {
+      "team": "T.METAL 1963 SPOR",
+      "team_raw": "T.METAL 1963 SPOR",
+      "starting11": [
+        {
+          "shirt_no": "83.",
+          "name": "OĞUL KAAN DOĞAN"
+        },
+        {
+          "shirt_no": "77.",
+          "name": "HAKAN BOZKURT"
+        },
+        {
+          "shirt_no": "48.",
+          "name": "MEHMET SACİT YOLCU"
+        },
+        {
+          "shirt_no": "25.",
+          "name": "GÜRKAN ALVER"
+        },
+        {
+          "shirt_no": "35.",
+          "name": "İLYAS KAHRAMAN"
+        },
+        {
+          "shirt_no": "16.",
+          "name": "SAMET CANTÜRK"
+        },
+        {
+          "shirt_no": "5.",
+          "name": "EFE CAN ÇÖLBEKLER"
+        },
+        {
+          "shirt_no": "20.",
+          "name": "UMUT TARHAN"
+        },
+        {
+          "shirt_no": "11.",
+          "name": "AHMET ARDA TUZCU"
+        },
+        {
+          "shirt_no": "9.",
+          "name": "SARP EKİNCİ"
+        },
+        {
+          "shirt_no": "27.",
+          "name": "OĞUZHAN ERDOĞAN"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "1.",
+          "name": "OKAN GÜLTANG"
+        },
+        {
+          "shirt_no": "88.",
+          "name": "HALİL KOÇYİĞİT"
+        },
+        {
+          "shirt_no": "36.",
+          "name": "ABDUSSAMET YILMAZ"
+        },
+        {
+          "shirt_no": "2.",
+          "name": "ATABERK GÖK"
+        },
+        {
+          "shirt_no": "29.",
+          "name": "YAKUP UZUNEL"
+        },
+        {
+          "shirt_no": "10.",
+          "name": "BERKAY TOKER"
+        },
+        {
+          "shirt_no": "99.",
+          "name": "OSMAN BURAK DESTAN"
+        },
+        {
+          "shirt_no": "80.",
+          "name": "ONUR EFE EKRİ"
+        },
+        {
+          "shirt_no": "17.",
+          "name": "FURKAN AHMET ACER"
+        },
+        {
+          "shirt_no": "14.",
+          "name": "BATUHAN TEKİN"
+        }
+      ]
+    }
+  },
+  "events": [
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "ŞAHİN ŞAFAKOĞLU",
+      "minute": 25,
+      "minute_text": "25. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "BERKAY GÖRMEZ",
+      "player_in": "EMİR ŞENOCAK",
+      "minute": 61,
+      "minute_text": "61. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "CELAL EMİR DEDE",
+      "player_in": "KAĞAN KAYALI",
+      "minute": 61,
+      "minute_text": "61. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "SERDAR GÜNCÜ",
+      "player_in": "TALHA DOĞUŞ",
+      "minute": 69,
+      "minute_text": "69. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "SEDAT YİĞİT KURNAZ",
+      "player_in": "ALİ KARAKAYA",
+      "minute": 78,
+      "minute_text": "78. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "YİĞİT EPÖZDEMİR",
+      "player_in": "SAMET SEYMEN SARGIN",
+      "minute": 78,
+      "minute_text": "78. dk"
+    }
+  ],
+  "dataQuality": {
+    "lineupsAvailable": true,
+    "eventsAvailable": true,
+    "sourceType": "tff_detail_page"
+  }
+}

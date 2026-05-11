@@ -1,0 +1,354 @@
+{
+  "id": "58121",
+  "tff_match_id": "58121",
+  "season": "1991-1992",
+  "competition": "3. League (Professional Team)",
+  "roundType": "league",
+  "week": 1,
+  "stage": "1. Maç",
+  "date": "1991-09-15",
+  "time": "15:30",
+  "dateDisplay": "15.09.1991 - 15:30",
+  "homeTeam": "Balıkesirspor",
+  "awayTeam": "BURHANIYESPOR",
+  "homeTeamRaw": "BALIKESIRSPOR",
+  "awayTeamRaw": "BURHANIYESPOR",
+  "score": {
+    "home": 9,
+    "away": 1,
+    "display": "9-1",
+    "played": true
+  },
+  "balkes": {
+    "isHome": true,
+    "opponent": "BURHANIYESPOR",
+    "goalsFor": 9,
+    "goalsAgainst": 1,
+    "result": "W"
+  },
+  "detailUrl": "seasons/1991-1992/matches/58121.json",
+  "source": {
+    "name": "TFF",
+    "url": "https://www.tff.org/Default.aspx?macId=58121&pageID=528"
+  },
+  "match_code": "5071",
+  "venue": "BALIKESİR ATATÜRK",
+  "referees": [
+    {
+      "name": "İBRAHİM YAZICI",
+      "role": "Referee"
+    },
+    {
+      "name": "MEHMET ZİYA KIZILDUMAN",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "UĞUR KUŞDEMİR",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "M.KEMAL CAN",
+      "role": "Observer"
+    }
+  ],
+  "lineups": {
+    "home": {
+      "team": "Balıkesirspor",
+      "team_raw": "BALIKESIRSPOR",
+      "starting11": [
+        {
+          "shirt_no": "1.",
+          "name": "KÜRŞAD KÜÇÜKKAYALAR"
+        },
+        {
+          "shirt_no": "2.",
+          "name": "ADEM SALUR"
+        },
+        {
+          "shirt_no": "3.",
+          "name": "ÜNAL UZBAY"
+        },
+        {
+          "shirt_no": "4.",
+          "name": "MESUT DİLSÖZ"
+        },
+        {
+          "shirt_no": "5.",
+          "name": "SANCAR KİRAZLI"
+        },
+        {
+          "shirt_no": "6.",
+          "name": "ALİ RAVCI"
+        },
+        {
+          "shirt_no": "7.",
+          "name": "AYVAZ ÖZTÜRK"
+        },
+        {
+          "shirt_no": "8.",
+          "name": "OKAN ATAY"
+        },
+        {
+          "shirt_no": "9.",
+          "name": "ERKAN AKGÖNÜL"
+        },
+        {
+          "shirt_no": "10.",
+          "name": "MURAT BÖLÜKBAŞI"
+        },
+        {
+          "shirt_no": "11.",
+          "name": "MÜCAHİT BOZDEMİR"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "12.",
+          "name": "TAYFUN KANSOY"
+        },
+        {
+          "shirt_no": "13.",
+          "name": "CEVDET AYDEMİR"
+        },
+        {
+          "shirt_no": "14.",
+          "name": "BİRAN ERARSLAN"
+        },
+        {
+          "shirt_no": "15.",
+          "name": "HAYRİ SÖZERİ"
+        },
+        {
+          "shirt_no": "254.",
+          "name": "ALİ BAYRAK"
+        }
+      ]
+    },
+    "away": {
+      "team": "BURHANIYESPOR",
+      "team_raw": "BURHANIYESPOR",
+      "starting11": [
+        {
+          "shirt_no": "1.",
+          "name": "EMİN YAROĞLU"
+        },
+        {
+          "shirt_no": "2.",
+          "name": "MURAT SÜSLER"
+        },
+        {
+          "shirt_no": "3.",
+          "name": "TAMER TURAN"
+        },
+        {
+          "shirt_no": "4.",
+          "name": "ERCÜMENT MOR"
+        },
+        {
+          "shirt_no": "5.",
+          "name": "İSMET OK"
+        },
+        {
+          "shirt_no": "6.",
+          "name": "ZEKİ ŞAHİN"
+        },
+        {
+          "shirt_no": "7.",
+          "name": "TARIK KOPARAL"
+        },
+        {
+          "shirt_no": "8.",
+          "name": "AZİZ ALTAY"
+        },
+        {
+          "shirt_no": "9.",
+          "name": "ERHAN SAZLIK"
+        },
+        {
+          "shirt_no": "10.",
+          "name": "DOĞAN ÖZKURT"
+        },
+        {
+          "shirt_no": "11.",
+          "name": "YILMAZ BOZKURT"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "12.",
+          "name": "SÜLEYMAN GÜNER"
+        },
+        {
+          "shirt_no": "13.",
+          "name": "YUSUF ZİYA KURŞUN"
+        },
+        {
+          "shirt_no": "14.",
+          "name": "ÖMER KOÇ"
+        },
+        {
+          "shirt_no": "15.",
+          "name": "YUSUF BADEMCİ"
+        },
+        {
+          "shirt_no": "254.",
+          "name": "M.SELÇUK AKTAN"
+        }
+      ]
+    }
+  },
+  "events": [
+    {
+      "type": "goal",
+      "player": "OKAN ATAY",
+      "minute": 2,
+      "minute_text": "2. dk",
+      "note": "Ayak",
+      "team": "Balıkesirspor"
+    },
+    {
+      "type": "goal",
+      "player": "ERKAN AKGÖNÜL",
+      "minute": 11,
+      "minute_text": "11. dk",
+      "note": "Ayak",
+      "team": "Balıkesirspor"
+    },
+    {
+      "type": "goal",
+      "player": "MÜCAHİT BOZDEMİR",
+      "minute": 23,
+      "minute_text": "23. dk",
+      "note": "Penaltı",
+      "team": "Balıkesirspor"
+    },
+    {
+      "type": "card",
+      "team": "BURHANIYESPOR",
+      "player": "ZEKİ ŞAHİN",
+      "minute": 30,
+      "minute_text": "30. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "BURHANIYESPOR",
+      "player_out": "MURAT SÜSLER",
+      "player_in": "SÜLEYMAN GÜNER",
+      "minute": 30,
+      "minute_text": "30. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "ERKAN AKGÖNÜL",
+      "minute": 31,
+      "minute_text": "31. dk"
+    },
+    {
+      "type": "goal",
+      "player": "ALİ RAVCI",
+      "minute": 36,
+      "minute_text": "36. dk",
+      "note": "Ayak",
+      "team": "Balıkesirspor"
+    },
+    {
+      "type": "goal",
+      "player": "DOĞAN ÖZKURT",
+      "minute": 40,
+      "minute_text": "40. dk",
+      "note": "Ayak",
+      "team": "BURHANIYESPOR"
+    },
+    {
+      "type": "card",
+      "team": "BURHANIYESPOR",
+      "player": "ERCÜMENT MOR",
+      "minute": 44,
+      "minute_text": "44. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "ÜNAL UZBAY",
+      "player_in": "TAYFUN KANSOY",
+      "minute": 60,
+      "minute_text": "60. dk"
+    },
+    {
+      "type": "goal",
+      "player": "MURAT BÖLÜKBAŞI",
+      "minute": 61,
+      "minute_text": "61. dk",
+      "note": "Ayak",
+      "team": "Balıkesirspor"
+    },
+    {
+      "type": "substitution",
+      "team": "BURHANIYESPOR",
+      "player_out": "ERHAN SAZLIK",
+      "player_in": "YUSUF ZİYA KURŞUN",
+      "minute": 67,
+      "minute_text": "67. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "AYVAZ ÖZTÜRK",
+      "player_in": "CEVDET AYDEMİR",
+      "minute": 70,
+      "minute_text": "70. dk"
+    },
+    {
+      "type": "goal",
+      "player": "MÜCAHİT BOZDEMİR",
+      "minute": 72,
+      "minute_text": "72. dk",
+      "note": "Penaltı",
+      "team": "Balıkesirspor"
+    },
+    {
+      "type": "card",
+      "team": "BURHANIYESPOR",
+      "player": "EMİN YAROĞLU",
+      "minute": 73,
+      "minute_text": "73. dk"
+    },
+    {
+      "type": "goal",
+      "player": "MÜCAHİT BOZDEMİR",
+      "minute": 77,
+      "minute_text": "77. dk",
+      "note": "Penaltı",
+      "team": "Balıkesirspor"
+    },
+    {
+      "type": "goal",
+      "player": "ERKAN AKGÖNÜL",
+      "minute": 80,
+      "minute_text": "80. dk",
+      "note": "Ayak",
+      "team": "Balıkesirspor"
+    },
+    {
+      "type": "goal",
+      "player": "MESUT DİLSÖZ",
+      "minute": 81,
+      "minute_text": "81. dk",
+      "note": "Ayak",
+      "team": "Balıkesirspor"
+    },
+    {
+      "type": "card",
+      "team": "BURHANIYESPOR",
+      "player": "DOĞAN ÖZKURT",
+      "minute": 81,
+      "minute_text": "81. dk"
+    }
+  ],
+  "dataQuality": {
+    "lineupsAvailable": true,
+    "eventsAvailable": true,
+    "sourceType": "tff_detail_page"
+  }
+}

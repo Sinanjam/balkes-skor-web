@@ -1,0 +1,314 @@
+{
+  "id": "54225",
+  "tff_match_id": "54225",
+  "season": "1992-1993",
+  "competition": "League B Classification (Professional Team)",
+  "roundType": "league",
+  "week": 1,
+  "stage": "1. Maç",
+  "date": "1992-09-09",
+  "time": "16:30",
+  "dateDisplay": "9.09.1992 - 16:30",
+  "homeTeam": "Balıkesirspor",
+  "awayTeam": "MUĞLASPOR",
+  "homeTeamRaw": "BALIKESIRSPOR",
+  "awayTeamRaw": "MUĞLASPOR",
+  "score": {
+    "home": 3,
+    "away": 2,
+    "display": "3-2",
+    "played": true
+  },
+  "balkes": {
+    "isHome": true,
+    "opponent": "MUĞLASPOR",
+    "goalsFor": 3,
+    "goalsAgainst": 2,
+    "result": "W"
+  },
+  "detailUrl": "seasons/1992-1993/matches/54225.json",
+  "source": {
+    "name": "TFF",
+    "url": "https://www.tff.org/Default.aspx?macId=54225&pageID=528"
+  },
+  "match_code": "2155",
+  "venue": "BALIKESİR ATATÜRK",
+  "referees": [
+    {
+      "name": "TURGAY KAYNAK",
+      "role": "Referee"
+    },
+    {
+      "name": "SAVAŞ ŞENDİL",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "BEKİR ÖCAL",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "ERGÜN ERTEN",
+      "role": "Observer"
+    }
+  ],
+  "lineups": {
+    "home": {
+      "team": "Balıkesirspor",
+      "team_raw": "BALIKESIRSPOR",
+      "starting11": [
+        {
+          "shirt_no": "1.",
+          "name": "MENDERES SUNKAR"
+        },
+        {
+          "shirt_no": "2.",
+          "name": "HAYRİ SÖZERİ"
+        },
+        {
+          "shirt_no": "3.",
+          "name": "İMDAT YILMAZ"
+        },
+        {
+          "shirt_no": "4.",
+          "name": "MESUT DİLSÖZ"
+        },
+        {
+          "shirt_no": "5.",
+          "name": "SANCAR KİRAZLI"
+        },
+        {
+          "shirt_no": "6.",
+          "name": "EMRE AŞIK"
+        },
+        {
+          "shirt_no": "7.",
+          "name": "HASAN YILMAZ"
+        },
+        {
+          "shirt_no": "8.",
+          "name": "YILMAZ İŞLER"
+        },
+        {
+          "shirt_no": "9.",
+          "name": "ERTAN SÖZMENER"
+        },
+        {
+          "shirt_no": "10.",
+          "name": "MURAT BÖLÜKBAŞI"
+        },
+        {
+          "shirt_no": "11.",
+          "name": "TALAT NOYİN"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "12.",
+          "name": "OKAN ATAY"
+        },
+        {
+          "shirt_no": "13.",
+          "name": "CAN CANGÖK"
+        },
+        {
+          "shirt_no": "14.",
+          "name": "ERKAN AKGÖNÜL"
+        },
+        {
+          "shirt_no": "15.",
+          "name": "CAN FERİK"
+        },
+        {
+          "shirt_no": "254.",
+          "name": "VEYSEL BEŞİK"
+        }
+      ]
+    },
+    "away": {
+      "team": "MUĞLASPOR",
+      "team_raw": "MUĞLASPOR",
+      "starting11": [
+        {
+          "shirt_no": "1.",
+          "name": "ADNAN KARAHAN"
+        },
+        {
+          "shirt_no": "2.",
+          "name": "İSMAİL İNCE"
+        },
+        {
+          "shirt_no": "3.",
+          "name": "ÇETİN İÇTEN"
+        },
+        {
+          "shirt_no": "4.",
+          "name": "GÜRHAN SÖNMEZ"
+        },
+        {
+          "shirt_no": "5.",
+          "name": "SABRİ KORKMAZ"
+        },
+        {
+          "shirt_no": "6.",
+          "name": "GÜNAY ŞENTÜRK"
+        },
+        {
+          "shirt_no": "7.",
+          "name": "KUTAY POYRAZ"
+        },
+        {
+          "shirt_no": "8.",
+          "name": "MEHMET ŞİMŞEK"
+        },
+        {
+          "shirt_no": "9.",
+          "name": "ADNAN ŞENTÜRK"
+        },
+        {
+          "shirt_no": "10.",
+          "name": "ERDİNÇ PALA"
+        },
+        {
+          "shirt_no": "11.",
+          "name": "TEVFİK GÜRCAN GÜREL"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "12.",
+          "name": "ERDAL CAN"
+        },
+        {
+          "shirt_no": "13.",
+          "name": "LEVENT BAYRAKTAR"
+        },
+        {
+          "shirt_no": "14.",
+          "name": "MEHMET ATAY"
+        },
+        {
+          "shirt_no": "15.",
+          "name": "HÜSNÜ CAVLAK"
+        },
+        {
+          "shirt_no": "254.",
+          "name": "ERDAL HANAYLI"
+        }
+      ]
+    }
+  },
+  "events": [
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "HAYRİ SÖZERİ",
+      "player_in": "CAN CANGÖK",
+      "minute": 8,
+      "minute_text": "8. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "MUĞLASPOR",
+      "player_out": "MEHMET ŞİMŞEK",
+      "player_in": "HÜSNÜ CAVLAK",
+      "minute": 15,
+      "minute_text": "15. dk"
+    },
+    {
+      "type": "goal",
+      "player": "EMRE AŞIK",
+      "minute": 24,
+      "minute_text": "24. dk",
+      "note": "Ayak",
+      "team": "Balıkesirspor"
+    },
+    {
+      "type": "card",
+      "team": "MUĞLASPOR",
+      "player": "GÜNAY ŞENTÜRK",
+      "minute": 28,
+      "minute_text": "28. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "EMRE AŞIK",
+      "minute": 42,
+      "minute_text": "42. dk"
+    },
+    {
+      "type": "goal",
+      "player": "MESUT DİLSÖZ",
+      "minute": 46,
+      "minute_text": "46. dk",
+      "note": "Ayak",
+      "team": "Balıkesirspor"
+    },
+    {
+      "type": "goal",
+      "player": "YILMAZ İŞLER",
+      "minute": 57,
+      "minute_text": "57. dk",
+      "note": "Ayak",
+      "team": "Balıkesirspor"
+    },
+    {
+      "type": "card",
+      "team": "MUĞLASPOR",
+      "player": "ADNAN KARAHAN",
+      "minute": 65,
+      "minute_text": "65. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "MUĞLASPOR",
+      "player_out": "HÜSNÜ CAVLAK",
+      "player_in": "MEHMET ATAY",
+      "minute": 65,
+      "minute_text": "65. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "MESUT DİLSÖZ",
+      "player_in": "OKAN ATAY",
+      "minute": 67,
+      "minute_text": "67. dk"
+    },
+    {
+      "type": "goal",
+      "player": "KUTAY POYRAZ",
+      "minute": 86,
+      "minute_text": "86. dk",
+      "note": "Ayak",
+      "team": "MUĞLASPOR"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "OKAN ATAY",
+      "minute": 88,
+      "minute_text": "88. dk"
+    },
+    {
+      "type": "goal",
+      "player": "KUTAY POYRAZ",
+      "minute": 90,
+      "minute_text": "90. dk",
+      "note": "Penaltı",
+      "team": "MUĞLASPOR"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "CAN CANGÖK",
+      "minute": 90,
+      "minute_text": "90. dk"
+    }
+  ],
+  "dataQuality": {
+    "lineupsAvailable": true,
+    "eventsAvailable": true,
+    "sourceType": "tff_detail_page"
+  }
+}

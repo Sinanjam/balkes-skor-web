@@ -1,0 +1,33 @@
+[
+  {
+    "id": "48601",
+    "season": "1994-1995",
+    "competition": "League B Classification (Professional Team)",
+    "roundType": "league",
+    "week": 1,
+    "stage": "1. Maç",
+    "date": "1994-11-06",
+    "time": "14:00",
+    "dateDisplay": "6.11.1994 - 14:00",
+    "homeTeam": "Balıkesirspor",
+    "awayTeam": "MUĞLASPOR",
+    "score": {
+      "home": 0,
+      "away": 3,
+      "display": "0-3",
+      "played": true
+    },
+    "balkes": {
+      "isHome": true,
+      "opponent": "MUĞLASPOR",
+      "goalsFor": 0,
+      "goalsAgainst": 3,
+      "result": "L"
+    },
+    "detailUrl": "seasons/1994-1995/matches/48601.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=48601&pageID=528"
+    }
+  }
+]

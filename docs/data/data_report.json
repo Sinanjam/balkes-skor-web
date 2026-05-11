@@ -1,0 +1,81 @@
+{
+  "generatedAt": "2026-05-11T08:34:52Z",
+  "sourceZip": "balkes-tff-veri.zip",
+  "uploadedScan": {
+    "generated_at": "2026-05-11T10:54:26",
+    "mode": "max",
+    "visited_pages": 9000,
+    "team_pages_found": 2855,
+    "fixture_pages_found": 2736,
+    "match_details_found": 117,
+    "standings_snapshots_found": 0,
+    "fixture_windows_found": 81332,
+    "errors": 8,
+    "output_dir": "/home/sinanjam/balkes-tff-veri/processed",
+    "notes": [
+      "Bu araç yalnızca açık TFF HTML sayfalarını gezer; login, gizli API veya korumalı veri kullanmaz.",
+      "sections_raw alanı özellikle korunur: parser kaçırsa bile ilk 11/yedek/gol/kart/değişiklik metni ham olarak saklanır.",
+      "Eksik kalan sezonlar için resmi TFF URL'lerini tff_urls.txt dosyasına ekleyip script'i tekrar çalıştırabilirsin; cache kaldığı için kaldığı yerden hızlanır."
+    ]
+  },
+  "convertedProfessionalMatchesFromScan": 104,
+  "skippedOrNonProfessionalDetails": 13,
+  "totalAppMatches": 136,
+  "seasons": [
+    {
+      "id": "2025-2026",
+      "matchCount": 33,
+      "competition": "Nesine 3. Lig"
+    },
+    {
+      "id": "2024-2025",
+      "matchCount": 32,
+      "competition": "Nesine 3. League (Professional Team)"
+    },
+    {
+      "id": "2023-2024",
+      "matchCount": 28,
+      "competition": "TFF 3. LEAGUE (Professional Team)"
+    },
+    {
+      "id": "2022-2023",
+      "matchCount": 37,
+      "competition": "TFF 2.League (Professional Team)"
+    },
+    {
+      "id": "2009-2010",
+      "matchCount": 1,
+      "competition": "TFF 3. League Phase 1 (Professional Team)"
+    },
+    {
+      "id": "1994-1995",
+      "matchCount": 1,
+      "competition": "League B Classification (Professional Team)"
+    },
+    {
+      "id": "1992-1993",
+      "matchCount": 1,
+      "competition": "League B Classification (Professional Team)"
+    },
+    {
+      "id": "1991-1992",
+      "matchCount": 1,
+      "competition": "3. League (Professional Team)"
+    },
+    {
+      "id": "1990-1991",
+      "matchCount": 2,
+      "competition": "3. League (Professional Team)"
+    }
+  ],
+  "standingsSeasons": [
+    "2025-2026"
+  ],
+  "playersIndexed": 190,
+  "opponentsIndexed": 70,
+  "notes": [
+    "Uygulama kullanıcıya ham TFF metni, cache/debug veya kaynak içi teknik bilgi göstermez.",
+    "Büyük taramada haftalık puan durumu çıkmadığı için puan durumu yalnızca 2025-2026 sezonunda hazırdır.",
+    "Fixture window kayıtları çok sayıda ham pencere olduğundan uygulamaya doğrudan maç olarak alınmadı; temiz maç ekranlarında yalnızca detay sayfası doğrulanmış maçlar kullanıldı."
+  ]
+}

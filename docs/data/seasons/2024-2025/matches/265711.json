@@ -1,0 +1,402 @@
+{
+  "id": "265711",
+  "tff_match_id": "265711",
+  "season": "2024-2025",
+  "competition": "Nesine 3. League (Professional Team)",
+  "roundType": "league",
+  "week": 13,
+  "stage": "13. Maç",
+  "date": "2024-12-01",
+  "time": "14:00",
+  "dateDisplay": "1.12.2024 - 14:00",
+  "homeTeam": "ADIYAMAN FUTBOL KULÜBÜ A.Ş.",
+  "awayTeam": "Balıkesirspor",
+  "homeTeamRaw": "ADIYAMAN FUTBOL KULÜBÜ A.Ş.",
+  "awayTeamRaw": "BALIKESİRSPOR",
+  "score": {
+    "home": 0,
+    "away": 5,
+    "display": "0-5",
+    "played": true
+  },
+  "balkes": {
+    "isHome": false,
+    "opponent": "ADIYAMAN FUTBOL KULÜBÜ A.Ş.",
+    "goalsFor": 5,
+    "goalsAgainst": 0,
+    "result": "W"
+  },
+  "detailUrl": "seasons/2024-2025/matches/265711.json",
+  "source": {
+    "name": "TFF",
+    "url": "https://www.tff.org/Default.aspx?macId=265711&pageID=528"
+  },
+  "match_code": "4370",
+  "venue": "KAHTA İLÇE - ADIYAMAN - KAHTA",
+  "referees": [
+    {
+      "name": "ŞAHİN BERKER",
+      "role": "Referee"
+    },
+    {
+      "name": "VOLKAN KAAN TOPAL",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "AHMET ALGÜN",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "FEVZİ KADİR ÜREYİL",
+      "role": "Fourth Official"
+    },
+    {
+      "name": "CÜNEYT TANER",
+      "role": "Observer"
+    },
+    {
+      "name": "İSMET KEKLİK",
+      "role": "Delegate"
+    },
+    {
+      "name": "UMUT ÇALIŞKAN",
+      "role": "Delegate"
+    }
+  ],
+  "lineups": {
+    "home": {
+      "team": "ADIYAMAN FUTBOL KULÜBÜ A.Ş.",
+      "team_raw": "ADIYAMAN FUTBOL KULÜBÜ A.Ş.",
+      "starting11": [
+        {
+          "shirt_no": "1.",
+          "name": "ALPEREN GÜNER"
+        },
+        {
+          "shirt_no": "17.",
+          "name": "RAMAZAN EMİRHAN CİVELEK"
+        },
+        {
+          "shirt_no": "3.",
+          "name": "CENK ÇALIŞKAN"
+        },
+        {
+          "shirt_no": "5.",
+          "name": "MUSA ÇELİK"
+        },
+        {
+          "shirt_no": "15.",
+          "name": "OĞUZ ÇOLAK"
+        },
+        {
+          "shirt_no": "20.",
+          "name": "İBRAHİM KIRAÇ GÜNDÜZ"
+        },
+        {
+          "shirt_no": "61.",
+          "name": "MEHMET ŞAHİN SARI"
+        },
+        {
+          "shirt_no": "10.",
+          "name": "İBRAHİM MİRZA ARAL"
+        },
+        {
+          "shirt_no": "7.",
+          "name": "FIRAT ERGÜN"
+        },
+        {
+          "shirt_no": "21.",
+          "name": "VEDAT YEŞİLKAYA"
+        },
+        {
+          "shirt_no": "9.",
+          "name": "KEREM ERSİN"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "79.",
+          "name": "YUSUF ŞÜKRÜ SANCAKTAR"
+        },
+        {
+          "shirt_no": "81.",
+          "name": "BERKANT ÇEKİÇ"
+        },
+        {
+          "shirt_no": "23.",
+          "name": "YUNUS EMRE DEMİR"
+        },
+        {
+          "shirt_no": "29.",
+          "name": "YAKUP UZUNEL"
+        },
+        {
+          "shirt_no": "11.",
+          "name": "DURSUN BATUHAN KURU"
+        },
+        {
+          "shirt_no": "97.",
+          "name": "FARUK SAĞLIK"
+        },
+        {
+          "shirt_no": "22.",
+          "name": "MEHMET AYDOĞAN"
+        },
+        {
+          "shirt_no": "14.",
+          "name": "GÖKMEN ARDUÇ"
+        },
+        {
+          "shirt_no": "99.",
+          "name": "İSMAİL SALİH MUTLU"
+        },
+        {
+          "shirt_no": "63.",
+          "name": "AHMET UFAK"
+        }
+      ],
+      "coach": "METE KAHRAMAN"
+    },
+    "away": {
+      "team": "Balıkesirspor",
+      "team_raw": "BALIKESİRSPOR",
+      "starting11": [
+        {
+          "shirt_no": "1.",
+          "name": "HÜSEYİN ALTINTAŞ"
+        },
+        {
+          "shirt_no": "22.",
+          "name": "TAYFUN KIRCA"
+        },
+        {
+          "shirt_no": "68.",
+          "name": "VOLKAN ALTINSOY"
+        },
+        {
+          "shirt_no": "16.",
+          "name": "ŞAHİN ŞAFAKOĞLU"
+        },
+        {
+          "shirt_no": "3.",
+          "name": "AHMET GÜLAY"
+        },
+        {
+          "shirt_no": "10.",
+          "name": "SEDAT YİĞİT KURNAZ"
+        },
+        {
+          "shirt_no": "15.",
+          "name": "ASIM HAMZAÇEBİ"
+        },
+        {
+          "shirt_no": "8.",
+          "name": "ÖZER ÖZDEMİR"
+        },
+        {
+          "shirt_no": "80.",
+          "name": "MUHAMMED DEMİRCİ"
+        },
+        {
+          "shirt_no": "19.",
+          "name": "ARTUN AKÇAKIN"
+        },
+        {
+          "shirt_no": "7.",
+          "name": "CELAL EMİR DEDE"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "48.",
+          "name": "DOĞUKAN ÖZÇİMEN"
+        },
+        {
+          "shirt_no": "26.",
+          "name": "YASİN YİĞİT BERBER"
+        },
+        {
+          "shirt_no": "21.",
+          "name": "SERDAR GÜNCÜ"
+        },
+        {
+          "shirt_no": "56.",
+          "name": "YİĞİT EPÖZDEMİR"
+        },
+        {
+          "shirt_no": "32.",
+          "name": "ALİ KARAKAYA"
+        },
+        {
+          "shirt_no": "2.",
+          "name": "MUHAMMET ARAZ"
+        },
+        {
+          "shirt_no": "5.",
+          "name": "KAĞAN KAYALI"
+        },
+        {
+          "shirt_no": "61.",
+          "name": "MUHAMMED EREN TÜRKMEN"
+        },
+        {
+          "shirt_no": "6.",
+          "name": "SAMET SEYMEN SARGIN"
+        },
+        {
+          "shirt_no": "77.",
+          "name": "MUSTAFA BURAK GÜNDOĞAN"
+        }
+      ],
+      "coach": "İSMAİL ERTEKİN"
+    }
+  },
+  "events": [
+    {
+      "type": "goal",
+      "player": "VOLKAN ALTINSOY",
+      "minute": 24,
+      "minute_text": "24. dk",
+      "note": "Ayak",
+      "team": "Balıkesirspor"
+    },
+    {
+      "type": "goal",
+      "player": "SEDAT YİĞİT KURNAZ",
+      "minute": 39,
+      "minute_text": "39. dk",
+      "note": "Ayak",
+      "team": "Balıkesirspor"
+    },
+    {
+      "type": "card",
+      "team": "ADIYAMAN FUTBOL KULÜBÜ A.Ş.",
+      "player": "MUSA ÇELİK",
+      "minute": 42,
+      "minute_text": "42. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "ADIYAMAN FUTBOL KULÜBÜ A.Ş.",
+      "player_out": "RAMAZAN EMİRHAN CİVELEK",
+      "player_in": "YAKUP UZUNEL",
+      "minute": 45,
+      "minute_text": "45. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "ADIYAMAN FUTBOL KULÜBÜ A.Ş.",
+      "player_out": "MUSA ÇELİK",
+      "player_in": "FARUK SAĞLIK",
+      "minute": 45,
+      "minute_text": "45. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "ADIYAMAN FUTBOL KULÜBÜ A.Ş.",
+      "player_out": "İBRAHİM KIRAÇ GÜNDÜZ",
+      "player_in": "BERKANT ÇEKİÇ",
+      "minute": 45,
+      "minute_text": "45. dk"
+    },
+    {
+      "type": "card",
+      "team": "ADIYAMAN FUTBOL KULÜBÜ A.Ş.",
+      "player": "İBRAHİM MİRZA ARAL",
+      "minute": 46,
+      "minute_text": "46. dk"
+    },
+    {
+      "type": "goal",
+      "player": "ARTUN AKÇAKIN",
+      "minute": 51,
+      "minute_text": "51. dk",
+      "note": "Ayak",
+      "team": "Balıkesirspor"
+    },
+    {
+      "type": "goal",
+      "player": "ARTUN AKÇAKIN",
+      "minute": 60,
+      "minute_text": "60. dk",
+      "note": "Ayak",
+      "team": "Balıkesirspor"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "ŞAHİN ŞAFAKOĞLU",
+      "player_in": "MUHAMMET ARAZ",
+      "minute": 62,
+      "minute_text": "62. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "ADIYAMAN FUTBOL KULÜBÜ A.Ş.",
+      "player_out": "VEDAT YEŞİLKAYA",
+      "player_in": "MEHMET AYDOĞAN",
+      "minute": 64,
+      "minute_text": "64. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "ADIYAMAN FUTBOL KULÜBÜ A.Ş.",
+      "player_out": "FIRAT ERGÜN",
+      "player_in": "DURSUN BATUHAN KURU",
+      "minute": 64,
+      "minute_text": "64. dk"
+    },
+    {
+      "type": "goal",
+      "player": "ÖZER ÖZDEMİR",
+      "minute": 67,
+      "minute_text": "67. dk",
+      "note": "Ayak",
+      "team": "Balıkesirspor"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "ASIM HAMZAÇEBİ",
+      "player_in": "SERDAR GÜNCÜ",
+      "minute": 71,
+      "minute_text": "71. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "ÖZER ÖZDEMİR",
+      "player_in": "ALİ KARAKAYA",
+      "minute": 71,
+      "minute_text": "71. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "VOLKAN ALTINSOY",
+      "minute": 77,
+      "minute_text": "77. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "CELAL EMİR DEDE",
+      "player_in": "SAMET SEYMEN SARGIN",
+      "minute": 81,
+      "minute_text": "81. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "SEDAT YİĞİT KURNAZ",
+      "player_in": "MUSTAFA BURAK GÜNDOĞAN",
+      "minute": 81,
+      "minute_text": "81. dk"
+    }
+  ],
+  "dataQuality": {
+    "lineupsAvailable": true,
+    "eventsAvailable": true,
+    "sourceType": "tff_detail_page"
+  }
+}

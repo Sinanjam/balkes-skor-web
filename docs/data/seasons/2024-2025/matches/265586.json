@@ -1,0 +1,391 @@
+{
+  "id": "265586",
+  "tff_match_id": "265586",
+  "season": "2024-2025",
+  "competition": "Nesine 3. League (Professional Team)",
+  "roundType": "league",
+  "week": 1,
+  "stage": "1. Maç",
+  "date": "2024-09-08",
+  "time": "19:00",
+  "dateDisplay": "8.09.2024 - 19:00",
+  "homeTeam": "Balıkesirspor",
+  "awayTeam": "FATSA BELEDİYESPOR",
+  "homeTeamRaw": "BALIKESİRSPOR",
+  "awayTeamRaw": "FATSA BELEDİYESPOR",
+  "score": {
+    "home": 4,
+    "away": 1,
+    "display": "4-1",
+    "played": true
+  },
+  "balkes": {
+    "isHome": true,
+    "opponent": "FATSA BELEDİYESPOR",
+    "goalsFor": 4,
+    "goalsAgainst": 1,
+    "result": "W"
+  },
+  "detailUrl": "seasons/2024-2025/matches/265586.json",
+  "source": {
+    "name": "TFF",
+    "url": "https://www.tff.org/Default.aspx?macId=265586&pageID=528"
+  },
+  "match_code": "4245",
+  "venue": "BALIKESİR ATATÜRK - BALIKESİR - BALIKESİR MERKEZ",
+  "referees": [
+    {
+      "name": "ONUR GÜNEŞ",
+      "role": "Referee"
+    },
+    {
+      "name": "ERKAN KIRÇIL",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "EYUP ÖZER",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "AHMET KÖSE",
+      "role": "Fourth Official"
+    },
+    {
+      "name": "OSMAN KAYA",
+      "role": "Observer"
+    },
+    {
+      "name": "MUHAMMET ÖZÇAKAN",
+      "role": "Delegate"
+    },
+    {
+      "name": "MURAT ÇALIŞKAN",
+      "role": "Delegate"
+    }
+  ],
+  "lineups": {
+    "home": {
+      "team": "Balıkesirspor",
+      "team_raw": "BALIKESİRSPOR",
+      "starting11": [
+        {
+          "shirt_no": "1.",
+          "name": "HÜSEYİN ALTINTAŞ"
+        },
+        {
+          "shirt_no": "22.",
+          "name": "TAYFUN KIRCA"
+        },
+        {
+          "shirt_no": "68.",
+          "name": "VOLKAN ALTINSOY"
+        },
+        {
+          "shirt_no": "16.",
+          "name": "ŞAHİN ŞAFAKOĞLU"
+        },
+        {
+          "shirt_no": "53.",
+          "name": "GÜVENÇ USTA"
+        },
+        {
+          "shirt_no": "21.",
+          "name": "SERDAR GÜNCÜ"
+        },
+        {
+          "shirt_no": "15.",
+          "name": "ASIM HAMZAÇEBİ"
+        },
+        {
+          "shirt_no": "10.",
+          "name": "SEDAT YİĞİT KURNAZ"
+        },
+        {
+          "shirt_no": "8.",
+          "name": "ÖZER ÖZDEMİR"
+        },
+        {
+          "shirt_no": "19.",
+          "name": "ARTUN AKÇAKIN"
+        },
+        {
+          "shirt_no": "9.",
+          "name": "BERTUĞ BAYAR"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "48.",
+          "name": "DOĞUKAN ÖZÇİMEN"
+        },
+        {
+          "shirt_no": "5.",
+          "name": "KAĞAN KAYALI"
+        },
+        {
+          "shirt_no": "61.",
+          "name": "MUHAMMED EREN TÜRKMEN"
+        },
+        {
+          "shirt_no": "2.",
+          "name": "MUHAMMET ARAZ"
+        },
+        {
+          "shirt_no": "3.",
+          "name": "AHMET GÜLAY"
+        },
+        {
+          "shirt_no": "32.",
+          "name": "ALİ KARAKAYA"
+        },
+        {
+          "shirt_no": "6.",
+          "name": "SAMET SEYMEN SARGIN"
+        },
+        {
+          "shirt_no": "80.",
+          "name": "MUHAMMED DEMİRCİ"
+        },
+        {
+          "shirt_no": "20.",
+          "name": "DOĞANAY AVCI"
+        },
+        {
+          "shirt_no": "7.",
+          "name": "CELAL EMİR DEDE"
+        }
+      ],
+      "coach": "LEVENT ERİŞ"
+    },
+    "away": {
+      "team": "FATSA BELEDİYESPOR",
+      "team_raw": "FATSA BELEDİYESPOR",
+      "starting11": [
+        {
+          "shirt_no": "1.",
+          "name": "AHMET EREN ÖZCELEP"
+        },
+        {
+          "shirt_no": "65.",
+          "name": "ÖMER KANDEMİR"
+        },
+        {
+          "shirt_no": "58.",
+          "name": "MUSTAFA ARDA KARTAL"
+        },
+        {
+          "shirt_no": "16.",
+          "name": "SAMET CANTÜRK"
+        },
+        {
+          "shirt_no": "61.",
+          "name": "EMRE KARA"
+        },
+        {
+          "shirt_no": "5.",
+          "name": "İZLEM ANIL BALAKKIZ"
+        },
+        {
+          "shirt_no": "8.",
+          "name": "YUSUF YAĞCI"
+        },
+        {
+          "shirt_no": "11.",
+          "name": "SAVAŞ ÇAKIR"
+        },
+        {
+          "shirt_no": "10.",
+          "name": "HASAN ÇAVDAR"
+        },
+        {
+          "shirt_no": "17.",
+          "name": "YASİN ERATİLLA"
+        },
+        {
+          "shirt_no": "9.",
+          "name": "YUSUF FURKAN COŞKUN"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "54.",
+          "name": "ALİ ALPER DOĞAN"
+        },
+        {
+          "shirt_no": "20.",
+          "name": "EFE ERGİN"
+        },
+        {
+          "shirt_no": "28.",
+          "name": "YUNUS EMRE KARAMAN"
+        },
+        {
+          "shirt_no": "12.",
+          "name": "SERCAN BESLER"
+        },
+        {
+          "shirt_no": "23.",
+          "name": "MUHAMMED ÖZTÜRK"
+        },
+        {
+          "shirt_no": "25.",
+          "name": "YUSUF ARDA TAŞCİ"
+        },
+        {
+          "shirt_no": "4.",
+          "name": "SERKAN MUTLU"
+        },
+        {
+          "shirt_no": "77.",
+          "name": "BATUHAN NİHAT ULUTAŞ"
+        },
+        {
+          "shirt_no": "88.",
+          "name": "MÜCAHİT KARAGÖZ"
+        }
+      ],
+      "coach": "AYDEMİR EMRAH UZUN"
+    }
+  },
+  "events": [
+    {
+      "type": "goal",
+      "player": "ÖZER ÖZDEMİR",
+      "minute": 15,
+      "minute_text": "15. dk",
+      "note": "Ayak",
+      "team": "Balıkesirspor"
+    },
+    {
+      "type": "goal",
+      "player": "SAVAŞ ÇAKIR",
+      "minute": 20,
+      "minute_text": "20. dk",
+      "note": "Ayak",
+      "team": "FATSA BELEDİYESPOR"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "ÖZER ÖZDEMİR",
+      "minute": 23,
+      "minute_text": "23. dk"
+    },
+    {
+      "type": "goal",
+      "player": "BERTUĞ BAYAR",
+      "minute": 32,
+      "minute_text": "32. dk",
+      "note": "Kafa",
+      "team": "Balıkesirspor"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "VOLKAN ALTINSOY",
+      "minute": 42,
+      "minute_text": "42. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "VOLKAN ALTINSOY",
+      "player_in": "MUHAMMET ARAZ",
+      "minute": 46,
+      "minute_text": "46. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "FATSA BELEDİYESPOR",
+      "player_out": "ÖMER KANDEMİR",
+      "player_in": "MÜCAHİT KARAGÖZ",
+      "minute": 46,
+      "minute_text": "46. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "ASIM HAMZAÇEBİ",
+      "player_in": "MUHAMMED DEMİRCİ",
+      "minute": 58,
+      "minute_text": "58. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "FATSA BELEDİYESPOR",
+      "player_out": "YUSUF YAĞCI",
+      "player_in": "MUHAMMED ÖZTÜRK",
+      "minute": 60,
+      "minute_text": "60. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "FATSA BELEDİYESPOR",
+      "player_out": "YUSUF FURKAN COŞKUN",
+      "player_in": "YUNUS EMRE KARAMAN",
+      "minute": 60,
+      "minute_text": "60. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "BERTUĞ BAYAR",
+      "player_in": "CELAL EMİR DEDE",
+      "minute": 72,
+      "minute_text": "72. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "FATSA BELEDİYESPOR",
+      "player_out": "İZLEM ANIL BALAKKIZ",
+      "player_in": "SERCAN BESLER",
+      "minute": 72,
+      "minute_text": "72. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "FATSA BELEDİYESPOR",
+      "player_out": "HASAN ÇAVDAR",
+      "player_in": "BATUHAN NİHAT ULUTAŞ",
+      "minute": 79,
+      "minute_text": "79. dk"
+    },
+    {
+      "type": "goal",
+      "player": "CELAL EMİR DEDE",
+      "minute": 81,
+      "minute_text": "81. dk",
+      "note": "Ayak",
+      "team": "Balıkesirspor"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "ÖZER ÖZDEMİR",
+      "player_in": "ALİ KARAKAYA",
+      "minute": 85,
+      "minute_text": "85. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "SEDAT YİĞİT KURNAZ",
+      "player_in": "SAMET SEYMEN SARGIN",
+      "minute": 85,
+      "minute_text": "85. dk"
+    },
+    {
+      "type": "goal",
+      "player": "ŞAHİN ŞAFAKOĞLU",
+      "minute": 87,
+      "minute_text": "87. dk",
+      "note": "Ayak",
+      "team": "Balıkesirspor"
+    }
+  ],
+  "dataQuality": {
+    "lineupsAvailable": true,
+    "eventsAvailable": true,
+    "sourceType": "tff_detail_page"
+  }
+}

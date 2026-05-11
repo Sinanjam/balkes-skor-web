@@ -1,0 +1,33 @@
+{
+  "id": "2022-2023",
+  "name": "2022-2023",
+  "team": {
+    "id": "balikesirspor",
+    "name": "Balıkesirspor",
+    "tffClubId": "135"
+  },
+  "competition": "TFF 2.League (Professional Team)",
+  "group": "",
+  "summary": {
+    "matches": 37,
+    "leagueMatches": 37,
+    "playoffMatches": 0,
+    "cupMatches": 0,
+    "wins": 5,
+    "draws": 10,
+    "losses": 22,
+    "goalsFor": 29,
+    "goalsAgainst": 76,
+    "goalDifference": -47,
+    "points": 25,
+    "finalRank": null
+  },
+  "files": {
+    "matchesIndex": "seasons/2022-2023/matches_index.json",
+    "standingsByWeek": "seasons/2022-2023/standings_by_week.json"
+  },
+  "source": {
+    "name": "TFF",
+    "note": "Açık TFF sayfalarından dönüştürülmüş veri"
+  }
+}

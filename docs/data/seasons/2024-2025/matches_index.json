@@ -1,0 +1,994 @@
+[
+  {
+    "id": "265586",
+    "season": "2024-2025",
+    "competition": "Nesine 3. League (Professional Team)",
+    "roundType": "league",
+    "week": 1,
+    "stage": "1. Maç",
+    "date": "2024-09-08",
+    "time": "19:00",
+    "dateDisplay": "8.09.2024 - 19:00",
+    "homeTeam": "Balıkesirspor",
+    "awayTeam": "FATSA BELEDİYESPOR",
+    "score": {
+      "home": 4,
+      "away": 1,
+      "display": "4-1",
+      "played": true
+    },
+    "balkes": {
+      "isHome": true,
+      "opponent": "FATSA BELEDİYESPOR",
+      "goalsFor": 4,
+      "goalsAgainst": 1,
+      "result": "W"
+    },
+    "detailUrl": "seasons/2024-2025/matches/265586.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=265586&pageID=528"
+    }
+  },
+  {
+    "id": "265594",
+    "season": "2024-2025",
+    "competition": "Nesine 3. League (Professional Team)",
+    "roundType": "league",
+    "week": 2,
+    "stage": "2. Maç",
+    "date": "2024-09-15",
+    "time": "16:30",
+    "dateDisplay": "15.09.2024 - 16:30",
+    "homeTeam": "UŞAK SPOR A.Ş.",
+    "awayTeam": "Balıkesirspor",
+    "score": {
+      "home": 0,
+      "away": 2,
+      "display": "0-2",
+      "played": true
+    },
+    "balkes": {
+      "isHome": false,
+      "opponent": "UŞAK SPOR A.Ş.",
+      "goalsFor": 2,
+      "goalsAgainst": 0,
+      "result": "W"
+    },
+    "detailUrl": "seasons/2024-2025/matches/265594.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=265594&pageID=528"
+    }
+  },
+  {
+    "id": "265601",
+    "season": "2024-2025",
+    "competition": "Nesine 3. League (Professional Team)",
+    "roundType": "league",
+    "week": 3,
+    "stage": "3. Maç",
+    "date": "2024-09-21",
+    "time": "16:30",
+    "dateDisplay": "21.09.2024 - 16:30",
+    "homeTeam": "Balıkesirspor",
+    "awayTeam": "ONUKSPORTS KELKİT HÜRRİYET SPOR KULÜBÜ",
+    "score": {
+      "home": 0,
+      "away": 1,
+      "display": "0-1",
+      "played": true
+    },
+    "balkes": {
+      "isHome": true,
+      "opponent": "ONUKSPORTS KELKİT HÜRRİYET SPOR KULÜBÜ",
+      "goalsFor": 0,
+      "goalsAgainst": 1,
+      "result": "L"
+    },
+    "detailUrl": "seasons/2024-2025/matches/265601.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=265601&pageID=528"
+    }
+  },
+  {
+    "id": "265612",
+    "season": "2024-2025",
+    "competition": "Nesine 3. League (Professional Team)",
+    "roundType": "league",
+    "week": 4,
+    "stage": "4. Maç",
+    "date": "2024-09-29",
+    "time": "16:00",
+    "dateDisplay": "29.09.2024 - 16:00",
+    "homeTeam": "SİLİVRİSPOR",
+    "awayTeam": "Balıkesirspor",
+    "score": {
+      "home": 1,
+      "away": 2,
+      "display": "1-2",
+      "played": true
+    },
+    "balkes": {
+      "isHome": false,
+      "opponent": "SİLİVRİSPOR",
+      "goalsFor": 2,
+      "goalsAgainst": 1,
+      "result": "W"
+    },
+    "detailUrl": "seasons/2024-2025/matches/265612.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=265612&pageID=528"
+    }
+  },
+  {
+    "id": "265616",
+    "season": "2024-2025",
+    "competition": "Nesine 3. League (Professional Team)",
+    "roundType": "league",
+    "week": 5,
+    "stage": "5. Maç",
+    "date": "2024-10-05",
+    "time": "19:00",
+    "dateDisplay": "5.10.2024 - 19:00",
+    "homeTeam": "Balıkesirspor",
+    "awayTeam": "MUĞLASPOR KULÜBÜ",
+    "score": {
+      "home": 0,
+      "away": 1,
+      "display": "0-1",
+      "played": true
+    },
+    "balkes": {
+      "isHome": true,
+      "opponent": "MUĞLASPOR KULÜBÜ",
+      "goalsFor": 0,
+      "goalsAgainst": 1,
+      "result": "L"
+    },
+    "detailUrl": "seasons/2024-2025/matches/265616.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=265616&pageID=528"
+    }
+  },
+  {
+    "id": "265655",
+    "season": "2024-2025",
+    "competition": "Nesine 3. League (Professional Team)",
+    "roundType": "league",
+    "week": 6,
+    "stage": "6. Maç",
+    "date": "2024-10-13",
+    "time": "14:00",
+    "dateDisplay": "13.10.2024 - 14:00",
+    "homeTeam": "AMASYASPOR FUTBOL KULÜBÜ",
+    "awayTeam": "Balıkesirspor",
+    "score": {
+      "home": 2,
+      "away": 1,
+      "display": "2-1",
+      "played": true
+    },
+    "balkes": {
+      "isHome": false,
+      "opponent": "AMASYASPOR FUTBOL KULÜBÜ",
+      "goalsFor": 1,
+      "goalsAgainst": 2,
+      "result": "L"
+    },
+    "detailUrl": "seasons/2024-2025/matches/265655.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=265655&pageID=528"
+    }
+  },
+  {
+    "id": "265663",
+    "season": "2024-2025",
+    "competition": "Nesine 3. League (Professional Team)",
+    "roundType": "league",
+    "week": 7,
+    "stage": "7. Maç",
+    "date": "2024-10-20",
+    "time": "19:00",
+    "dateDisplay": "20.10.2024 - 19:00",
+    "homeTeam": "Balıkesirspor",
+    "awayTeam": "SMART HOLDİNG A.Ş.ÇAYELİ SPOR",
+    "score": {
+      "home": 2,
+      "away": 1,
+      "display": "2-1",
+      "played": true
+    },
+    "balkes": {
+      "isHome": true,
+      "opponent": "SMART HOLDİNG A.Ş.ÇAYELİ SPOR",
+      "goalsFor": 2,
+      "goalsAgainst": 1,
+      "result": "W"
+    },
+    "detailUrl": "seasons/2024-2025/matches/265663.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=265663&pageID=528"
+    }
+  },
+  {
+    "id": "265673",
+    "season": "2024-2025",
+    "competition": "Nesine 3. League (Professional Team)",
+    "roundType": "league",
+    "week": 8,
+    "stage": "8. Maç",
+    "date": "2024-10-26",
+    "time": "19:00",
+    "dateDisplay": "26.10.2024 - 19:00",
+    "homeTeam": "TİRE 2021 FUTBOL KULÜBÜ",
+    "awayTeam": "Balıkesirspor",
+    "score": {
+      "home": 1,
+      "away": 2,
+      "display": "1-2",
+      "played": true
+    },
+    "balkes": {
+      "isHome": false,
+      "opponent": "TİRE 2021 FUTBOL KULÜBÜ",
+      "goalsFor": 2,
+      "goalsAgainst": 1,
+      "result": "W"
+    },
+    "detailUrl": "seasons/2024-2025/matches/265673.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=265673&pageID=528"
+    }
+  },
+  {
+    "id": "265678",
+    "season": "2024-2025",
+    "competition": "Nesine 3. League (Professional Team)",
+    "roundType": "league",
+    "week": 9,
+    "stage": "9. Maç",
+    "date": "2024-11-03",
+    "time": "14:00",
+    "dateDisplay": "3.11.2024 - 14:00",
+    "homeTeam": "Balıkesirspor",
+    "awayTeam": "ETİMESGUT BELEDİYESPOR",
+    "score": {
+      "home": 0,
+      "away": 0,
+      "display": "0-0",
+      "played": true
+    },
+    "balkes": {
+      "isHome": true,
+      "opponent": "ETİMESGUT BELEDİYESPOR",
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "result": "D"
+    },
+    "detailUrl": "seasons/2024-2025/matches/265678.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=265678&pageID=528"
+    }
+  },
+  {
+    "id": "265693",
+    "season": "2024-2025",
+    "competition": "Nesine 3. League (Professional Team)",
+    "roundType": "league",
+    "week": 10,
+    "stage": "10. Maç",
+    "date": "2024-11-10",
+    "time": "14:00",
+    "dateDisplay": "10.11.2024 - 14:00",
+    "homeTeam": "ETİ GÜBRE MAZIDAĞI FOSFAT SPOR",
+    "awayTeam": "Balıkesirspor",
+    "score": {
+      "home": 1,
+      "away": 0,
+      "display": "1-0",
+      "played": true
+    },
+    "balkes": {
+      "isHome": false,
+      "opponent": "ETİ GÜBRE MAZIDAĞI FOSFAT SPOR",
+      "goalsFor": 0,
+      "goalsAgainst": 1,
+      "result": "L"
+    },
+    "detailUrl": "seasons/2024-2025/matches/265693.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=265693&pageID=528"
+    }
+  },
+  {
+    "id": "265694",
+    "season": "2024-2025",
+    "competition": "Nesine 3. League (Professional Team)",
+    "roundType": "league",
+    "week": 11,
+    "stage": "11. Maç",
+    "date": "2024-11-16",
+    "time": "14:00",
+    "dateDisplay": "16.11.2024 - 14:00",
+    "homeTeam": "BEYKOZ İSHAKLI SPOR FAALİYETLERİ A.Ş.",
+    "awayTeam": "Balıkesirspor",
+    "score": {
+      "home": 3,
+      "away": 3,
+      "display": "3-3",
+      "played": true
+    },
+    "balkes": {
+      "isHome": false,
+      "opponent": "BEYKOZ İSHAKLI SPOR FAALİYETLERİ A.Ş.",
+      "goalsFor": 3,
+      "goalsAgainst": 3,
+      "result": "D"
+    },
+    "detailUrl": "seasons/2024-2025/matches/265694.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=265694&pageID=528"
+    }
+  },
+  {
+    "id": "265707",
+    "season": "2024-2025",
+    "competition": "Nesine 3. League (Professional Team)",
+    "roundType": "league",
+    "week": 12,
+    "stage": "12. Maç",
+    "date": "2024-11-23",
+    "time": "14:00",
+    "dateDisplay": "23.11.2024 - 14:00",
+    "homeTeam": "Balıkesirspor",
+    "awayTeam": "NEVŞEHİR BELEDİYE SPOR",
+    "score": {
+      "home": 3,
+      "away": 1,
+      "display": "3-1",
+      "played": true
+    },
+    "balkes": {
+      "isHome": true,
+      "opponent": "NEVŞEHİR BELEDİYE SPOR",
+      "goalsFor": 3,
+      "goalsAgainst": 1,
+      "result": "W"
+    },
+    "detailUrl": "seasons/2024-2025/matches/265707.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=265707&pageID=528"
+    }
+  },
+  {
+    "id": "265711",
+    "season": "2024-2025",
+    "competition": "Nesine 3. League (Professional Team)",
+    "roundType": "league",
+    "week": 13,
+    "stage": "13. Maç",
+    "date": "2024-12-01",
+    "time": "14:00",
+    "dateDisplay": "1.12.2024 - 14:00",
+    "homeTeam": "ADIYAMAN FUTBOL KULÜBÜ A.Ş.",
+    "awayTeam": "Balıkesirspor",
+    "score": {
+      "home": 0,
+      "away": 5,
+      "display": "0-5",
+      "played": true
+    },
+    "balkes": {
+      "isHome": false,
+      "opponent": "ADIYAMAN FUTBOL KULÜBÜ A.Ş.",
+      "goalsFor": 5,
+      "goalsAgainst": 0,
+      "result": "W"
+    },
+    "detailUrl": "seasons/2024-2025/matches/265711.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=265711&pageID=528"
+    }
+  },
+  {
+    "id": "265723",
+    "season": "2024-2025",
+    "competition": "Nesine 3. League (Professional Team)",
+    "roundType": "league",
+    "week": 14,
+    "stage": "14. Maç",
+    "date": "2024-12-08",
+    "time": "14:00",
+    "dateDisplay": "8.12.2024 - 14:00",
+    "homeTeam": "Balıkesirspor",
+    "awayTeam": "İNEGÖL KAFKAS SPOR KULÜBÜ",
+    "score": {
+      "home": 2,
+      "away": 0,
+      "display": "2-0",
+      "played": true
+    },
+    "balkes": {
+      "isHome": true,
+      "opponent": "İNEGÖL KAFKAS SPOR KULÜBÜ",
+      "goalsFor": 2,
+      "goalsAgainst": 0,
+      "result": "W"
+    },
+    "detailUrl": "seasons/2024-2025/matches/265723.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=265723&pageID=528"
+    }
+  },
+  {
+    "id": "265728",
+    "season": "2024-2025",
+    "competition": "Nesine 3. League (Professional Team)",
+    "roundType": "league",
+    "week": 15,
+    "stage": "15. Maç",
+    "date": "2024-12-15",
+    "time": "14:00",
+    "dateDisplay": "15.12.2024 - 14:00",
+    "homeTeam": "T.METAL 1963 SPOR",
+    "awayTeam": "Balıkesirspor",
+    "score": {
+      "home": 1,
+      "away": 2,
+      "display": "1-2",
+      "played": true
+    },
+    "balkes": {
+      "isHome": false,
+      "opponent": "T.METAL 1963 SPOR",
+      "goalsFor": 2,
+      "goalsAgainst": 1,
+      "result": "W"
+    },
+    "detailUrl": "seasons/2024-2025/matches/265728.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=265728&pageID=528"
+    }
+  },
+  {
+    "id": "265738",
+    "season": "2024-2025",
+    "competition": "Nesine 3. League (Professional Team)",
+    "roundType": "league",
+    "week": 16,
+    "stage": "16. Maç",
+    "date": "2025-01-19",
+    "time": "14:00",
+    "dateDisplay": "19.01.2025 - 14:00",
+    "homeTeam": "FATSA BELEDİYESPOR",
+    "awayTeam": "Balıkesirspor",
+    "score": {
+      "home": 0,
+      "away": 3,
+      "display": "0-3",
+      "played": true
+    },
+    "balkes": {
+      "isHome": false,
+      "opponent": "FATSA BELEDİYESPOR",
+      "goalsFor": 3,
+      "goalsAgainst": 0,
+      "result": "W"
+    },
+    "detailUrl": "seasons/2024-2025/matches/265738.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=265738&pageID=528"
+    }
+  },
+  {
+    "id": "265746",
+    "season": "2024-2025",
+    "competition": "Nesine 3. League (Professional Team)",
+    "roundType": "league",
+    "week": 17,
+    "stage": "17. Maç",
+    "date": "2025-01-25",
+    "time": "14:00",
+    "dateDisplay": "25.01.2025 - 14:00",
+    "homeTeam": "Balıkesirspor",
+    "awayTeam": "UŞAK SPOR A.Ş.",
+    "score": {
+      "home": 2,
+      "away": 0,
+      "display": "2-0",
+      "played": true
+    },
+    "balkes": {
+      "isHome": true,
+      "opponent": "UŞAK SPOR A.Ş.",
+      "goalsFor": 2,
+      "goalsAgainst": 0,
+      "result": "W"
+    },
+    "detailUrl": "seasons/2024-2025/matches/265746.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=265746&pageID=528"
+    }
+  },
+  {
+    "id": "265753",
+    "season": "2024-2025",
+    "competition": "Nesine 3. League (Professional Team)",
+    "roundType": "league",
+    "week": 18,
+    "stage": "18. Maç",
+    "date": "2025-02-02",
+    "time": "14:00",
+    "dateDisplay": "2.02.2025 - 14:00",
+    "homeTeam": "ONUKSPORTS KELKİT HÜRRİYET SPOR KULÜBÜ",
+    "awayTeam": "Balıkesirspor",
+    "score": {
+      "home": 1,
+      "away": 1,
+      "display": "1-1",
+      "played": true
+    },
+    "balkes": {
+      "isHome": false,
+      "opponent": "ONUKSPORTS KELKİT HÜRRİYET SPOR KULÜBÜ",
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "result": "D"
+    },
+    "detailUrl": "seasons/2024-2025/matches/265753.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=265753&pageID=528"
+    }
+  },
+  {
+    "id": "265764",
+    "season": "2024-2025",
+    "competition": "Nesine 3. League (Professional Team)",
+    "roundType": "league",
+    "week": 19,
+    "stage": "19. Maç",
+    "date": "2025-02-09",
+    "time": "14:00",
+    "dateDisplay": "9.02.2025 - 14:00",
+    "homeTeam": "Balıkesirspor",
+    "awayTeam": "SİLİVRİSPOR",
+    "score": {
+      "home": 4,
+      "away": 0,
+      "display": "4-0",
+      "played": true
+    },
+    "balkes": {
+      "isHome": true,
+      "opponent": "SİLİVRİSPOR",
+      "goalsFor": 4,
+      "goalsAgainst": 0,
+      "result": "W"
+    },
+    "detailUrl": "seasons/2024-2025/matches/265764.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=265764&pageID=528"
+    }
+  },
+  {
+    "id": "265768",
+    "season": "2024-2025",
+    "competition": "Nesine 3. League (Professional Team)",
+    "roundType": "league",
+    "week": 20,
+    "stage": "20. Maç",
+    "date": "2025-02-16",
+    "time": "14:00",
+    "dateDisplay": "16.02.2025 - 14:00",
+    "homeTeam": "MUĞLASPOR KULÜBÜ",
+    "awayTeam": "Balıkesirspor",
+    "score": {
+      "home": 2,
+      "away": 0,
+      "display": "2-0",
+      "played": true
+    },
+    "balkes": {
+      "isHome": false,
+      "opponent": "MUĞLASPOR KULÜBÜ",
+      "goalsFor": 0,
+      "goalsAgainst": 2,
+      "result": "L"
+    },
+    "detailUrl": "seasons/2024-2025/matches/265768.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=265768&pageID=528"
+    }
+  },
+  {
+    "id": "265783",
+    "season": "2024-2025",
+    "competition": "Nesine 3. League (Professional Team)",
+    "roundType": "league",
+    "week": 21,
+    "stage": "21. Maç",
+    "date": "2025-03-02",
+    "time": "14:00",
+    "dateDisplay": "2.03.2025 - 14:00",
+    "homeTeam": "SMART HOLDİNG A.Ş.ÇAYELİ SPOR",
+    "awayTeam": "Balıkesirspor",
+    "score": {
+      "home": 0,
+      "away": 1,
+      "display": "0-1",
+      "played": true
+    },
+    "balkes": {
+      "isHome": false,
+      "opponent": "SMART HOLDİNG A.Ş.ÇAYELİ SPOR",
+      "goalsFor": 1,
+      "goalsAgainst": 0,
+      "result": "W"
+    },
+    "detailUrl": "seasons/2024-2025/matches/265783.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=265783&pageID=528"
+    }
+  },
+  {
+    "id": "265793",
+    "season": "2024-2025",
+    "competition": "Nesine 3. League (Professional Team)",
+    "roundType": "league",
+    "week": 22,
+    "stage": "22. Maç",
+    "date": "2025-03-09",
+    "time": "14:00",
+    "dateDisplay": "9.03.2025 - 14:00",
+    "homeTeam": "Balıkesirspor",
+    "awayTeam": "TİRE 2021 FUTBOL KULÜBÜ",
+    "score": {
+      "home": 1,
+      "away": 2,
+      "display": "1-2",
+      "played": true
+    },
+    "balkes": {
+      "isHome": true,
+      "opponent": "TİRE 2021 FUTBOL KULÜBÜ",
+      "goalsFor": 1,
+      "goalsAgainst": 2,
+      "result": "L"
+    },
+    "detailUrl": "seasons/2024-2025/matches/265793.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=265793&pageID=528"
+    }
+  },
+  {
+    "id": "265798",
+    "season": "2024-2025",
+    "competition": "Nesine 3. League (Professional Team)",
+    "roundType": "league",
+    "week": 23,
+    "stage": "23. Maç",
+    "date": "2025-03-15",
+    "time": "14:00",
+    "dateDisplay": "15.03.2025 - 14:00",
+    "homeTeam": "ETİMESGUT SPOR KULÜBÜ",
+    "awayTeam": "Balıkesirspor",
+    "score": {
+      "home": 0,
+      "away": 1,
+      "display": "0-1",
+      "played": true
+    },
+    "balkes": {
+      "isHome": false,
+      "opponent": "ETİMESGUT SPOR KULÜBÜ",
+      "goalsFor": 1,
+      "goalsAgainst": 0,
+      "result": "W"
+    },
+    "detailUrl": "seasons/2024-2025/matches/265798.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=265798&pageID=528"
+    }
+  },
+  {
+    "id": "265813",
+    "season": "2024-2025",
+    "competition": "Nesine 3. League (Professional Team)",
+    "roundType": "league",
+    "week": 24,
+    "stage": "24. Maç",
+    "date": "2025-03-22",
+    "time": "14:00",
+    "dateDisplay": "22.03.2025 - 14:00",
+    "homeTeam": "Balıkesirspor",
+    "awayTeam": "ETİ GÜBRE MAZIDAĞI FOSFAT SPOR",
+    "score": {
+      "home": 1,
+      "away": 2,
+      "display": "1-2",
+      "played": true
+    },
+    "balkes": {
+      "isHome": true,
+      "opponent": "ETİ GÜBRE MAZIDAĞI FOSFAT SPOR",
+      "goalsFor": 1,
+      "goalsAgainst": 2,
+      "result": "L"
+    },
+    "detailUrl": "seasons/2024-2025/matches/265813.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=265813&pageID=528"
+    }
+  },
+  {
+    "id": "265814",
+    "season": "2024-2025",
+    "competition": "Nesine 3. League (Professional Team)",
+    "roundType": "league",
+    "week": 25,
+    "stage": "25. Maç",
+    "date": "2025-03-26",
+    "time": "14:00",
+    "dateDisplay": "26.03.2025 - 14:00",
+    "homeTeam": "Balıkesirspor",
+    "awayTeam": "BEYKOZ İSHAKLI SPOR FAALİYETLERİ A.Ş.",
+    "score": {
+      "home": 3,
+      "away": 1,
+      "display": "3-1",
+      "played": true
+    },
+    "balkes": {
+      "isHome": true,
+      "opponent": "BEYKOZ İSHAKLI SPOR FAALİYETLERİ A.Ş.",
+      "goalsFor": 3,
+      "goalsAgainst": 1,
+      "result": "W"
+    },
+    "detailUrl": "seasons/2024-2025/matches/265814.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=265814&pageID=528"
+    }
+  },
+  {
+    "id": "265775",
+    "season": "2024-2025",
+    "competition": "Nesine 3. League (Professional Team)",
+    "roundType": "league",
+    "week": 26,
+    "stage": "26. Maç",
+    "date": "2025-04-02",
+    "time": "14:00",
+    "dateDisplay": "2.04.2025 - 14:00",
+    "homeTeam": "Balıkesirspor",
+    "awayTeam": "YURT ET AMASYASPOR FK",
+    "score": {
+      "home": 1,
+      "away": 1,
+      "display": "1-1",
+      "played": true
+    },
+    "balkes": {
+      "isHome": true,
+      "opponent": "YURT ET AMASYASPOR FK",
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "result": "D"
+    },
+    "detailUrl": "seasons/2024-2025/matches/265775.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=265775&pageID=528"
+    }
+  },
+  {
+    "id": "265627",
+    "season": "2024-2025",
+    "competition": "Nesine 3. League (Professional Team)",
+    "roundType": "league",
+    "week": 27,
+    "stage": "27. Maç",
+    "date": "2025-04-06",
+    "time": "15:00",
+    "dateDisplay": "6.04.2025 - 15:00",
+    "homeTeam": "NEVŞEHİR BELEDİYE SPOR",
+    "awayTeam": "Balıkesirspor",
+    "score": {
+      "home": 0,
+      "away": 5,
+      "display": "0-5",
+      "played": true
+    },
+    "balkes": {
+      "isHome": false,
+      "opponent": "NEVŞEHİR BELEDİYE SPOR",
+      "goalsFor": 5,
+      "goalsAgainst": 0,
+      "result": "W"
+    },
+    "detailUrl": "seasons/2024-2025/matches/265627.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=265627&pageID=528"
+    }
+  },
+  {
+    "id": "265643",
+    "season": "2024-2025",
+    "competition": "Nesine 3. League (Professional Team)",
+    "roundType": "league",
+    "week": 28,
+    "stage": "28. Maç",
+    "date": "2025-04-20",
+    "time": "15:00",
+    "dateDisplay": "20.04.2025 - 15:00",
+    "homeTeam": "İNEGÖL KAFKAS SPOR KULÜBÜ",
+    "awayTeam": "Balıkesirspor",
+    "score": {
+      "home": 4,
+      "away": 0,
+      "display": "4-0",
+      "played": true
+    },
+    "balkes": {
+      "isHome": false,
+      "opponent": "İNEGÖL KAFKAS SPOR KULÜBÜ",
+      "goalsFor": 0,
+      "goalsAgainst": 4,
+      "result": "L"
+    },
+    "detailUrl": "seasons/2024-2025/matches/265643.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=265643&pageID=528"
+    }
+  },
+  {
+    "id": "265648",
+    "season": "2024-2025",
+    "competition": "Nesine 3. League (Professional Team)",
+    "roundType": "league",
+    "week": 29,
+    "stage": "29. Maç",
+    "date": "2025-04-26",
+    "time": "15:00",
+    "dateDisplay": "26.04.2025 - 15:00",
+    "homeTeam": "Balıkesirspor",
+    "awayTeam": "T.METAL 1963 SPOR",
+    "score": {
+      "home": 0,
+      "away": 0,
+      "display": "0-0",
+      "played": true
+    },
+    "balkes": {
+      "isHome": true,
+      "opponent": "T.METAL 1963 SPOR",
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "result": "D"
+    },
+    "detailUrl": "seasons/2024-2025/matches/265648.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=265648&pageID=528"
+    }
+  },
+  {
+    "id": "283042",
+    "season": "2024-2025",
+    "competition": "Nesine 3.league Play Off (Professional Team)",
+    "roundType": "playoff",
+    "week": 30,
+    "stage": "30. Maç",
+    "date": "2025-05-15",
+    "time": "16:00",
+    "dateDisplay": "15.05.2025 - 16:00",
+    "homeTeam": "ETİ GÜBRE MAZIDAĞI FOSFAT SPOR",
+    "awayTeam": "Balıkesirspor",
+    "score": {
+      "home": 0,
+      "away": 1,
+      "display": "0-1",
+      "played": true
+    },
+    "balkes": {
+      "isHome": false,
+      "opponent": "ETİ GÜBRE MAZIDAĞI FOSFAT SPOR",
+      "goalsFor": 1,
+      "goalsAgainst": 0,
+      "result": "W"
+    },
+    "detailUrl": "seasons/2024-2025/matches/283042.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=283042&pageID=528"
+    }
+  },
+  {
+    "id": "283046",
+    "season": "2024-2025",
+    "competition": "Nesine 3.league Play Off (Professional Team)",
+    "roundType": "playoff",
+    "week": 31,
+    "stage": "31. Maç",
+    "date": "2025-05-19",
+    "time": "20:00",
+    "dateDisplay": "19.05.2025 - 20:00",
+    "homeTeam": "Balıkesirspor",
+    "awayTeam": "ETİ GÜBRE MAZIDAĞI FOSFAT SPOR",
+    "score": {
+      "home": 1,
+      "away": 1,
+      "display": "1-1",
+      "played": true
+    },
+    "balkes": {
+      "isHome": true,
+      "opponent": "ETİ GÜBRE MAZIDAĞI FOSFAT SPOR",
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "result": "D"
+    },
+    "detailUrl": "seasons/2024-2025/matches/283046.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=283046&pageID=528"
+    }
+  },
+  {
+    "id": "283311",
+    "season": "2024-2025",
+    "competition": "Nesine 3.league Play Off (Professional Team)",
+    "roundType": "playoff",
+    "week": 32,
+    "stage": "32. Maç",
+    "date": "2025-05-24",
+    "time": "20:00",
+    "dateDisplay": "24.05.2025 - 20:00",
+    "homeTeam": "MUŞ SPOR KULÜBÜ",
+    "awayTeam": "Balıkesirspor",
+    "score": {
+      "home": 2,
+      "away": 0,
+      "display": "2-0",
+      "played": true
+    },
+    "balkes": {
+      "isHome": false,
+      "opponent": "MUŞ SPOR KULÜBÜ",
+      "goalsFor": 0,
+      "goalsAgainst": 2,
+      "result": "L"
+    },
+    "detailUrl": "seasons/2024-2025/matches/283311.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=283311&pageID=528"
+    }
+  }
+]

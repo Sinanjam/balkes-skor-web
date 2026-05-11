@@ -1,0 +1,375 @@
+{
+  "id": "265601",
+  "tff_match_id": "265601",
+  "season": "2024-2025",
+  "competition": "Nesine 3. League (Professional Team)",
+  "roundType": "league",
+  "week": 3,
+  "stage": "3. Maç",
+  "date": "2024-09-21",
+  "time": "16:30",
+  "dateDisplay": "21.09.2024 - 16:30",
+  "homeTeam": "Balıkesirspor",
+  "awayTeam": "ONUKSPORTS KELKİT HÜRRİYET SPOR KULÜBÜ",
+  "homeTeamRaw": "BALIKESİRSPOR",
+  "awayTeamRaw": "ONUKSPORTS KELKİT HÜRRİYET SPOR KULÜBÜ",
+  "score": {
+    "home": 0,
+    "away": 1,
+    "display": "0-1",
+    "played": true
+  },
+  "balkes": {
+    "isHome": true,
+    "opponent": "ONUKSPORTS KELKİT HÜRRİYET SPOR KULÜBÜ",
+    "goalsFor": 0,
+    "goalsAgainst": 1,
+    "result": "L"
+  },
+  "detailUrl": "seasons/2024-2025/matches/265601.json",
+  "source": {
+    "name": "TFF",
+    "url": "https://www.tff.org/Default.aspx?macId=265601&pageID=528"
+  },
+  "match_code": "4260",
+  "venue": "BALIKESİR ATATÜRK - BALIKESİR - BALIKESİR MERKEZ",
+  "referees": [
+    {
+      "name": "ONUR BİNGÖL",
+      "role": "Referee"
+    },
+    {
+      "name": "CANER KURT",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "BERAN YALÇIN",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "NURULLAH YARDIMCI",
+      "role": "Fourth Official"
+    },
+    {
+      "name": "HAYATİ DOĞAN",
+      "role": "Observer"
+    },
+    {
+      "name": "ERTAN BEKAR",
+      "role": "Delegate"
+    },
+    {
+      "name": "ZEYNEP ERDOĞAN",
+      "role": "Delegate"
+    }
+  ],
+  "lineups": {
+    "home": {
+      "team": "Balıkesirspor",
+      "team_raw": "BALIKESİRSPOR",
+      "starting11": [
+        {
+          "shirt_no": "1.",
+          "name": "HÜSEYİN ALTINTAŞ"
+        },
+        {
+          "shirt_no": "2.",
+          "name": "MUHAMMET ARAZ"
+        },
+        {
+          "shirt_no": "68.",
+          "name": "VOLKAN ALTINSOY"
+        },
+        {
+          "shirt_no": "16.",
+          "name": "ŞAHİN ŞAFAKOĞLU"
+        },
+        {
+          "shirt_no": "22.",
+          "name": "TAYFUN KIRCA"
+        },
+        {
+          "shirt_no": "21.",
+          "name": "SERDAR GÜNCÜ"
+        },
+        {
+          "shirt_no": "8.",
+          "name": "ÖZER ÖZDEMİR"
+        },
+        {
+          "shirt_no": "10.",
+          "name": "SEDAT YİĞİT KURNAZ"
+        },
+        {
+          "shirt_no": "80.",
+          "name": "MUHAMMED DEMİRCİ"
+        },
+        {
+          "shirt_no": "9.",
+          "name": "BERTUĞ BAYAR"
+        },
+        {
+          "shirt_no": "19.",
+          "name": "ARTUN AKÇAKIN"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "48.",
+          "name": "DOĞUKAN ÖZÇİMEN"
+        },
+        {
+          "shirt_no": "77.",
+          "name": "MUSTAFA BURAK GÜNDOĞAN"
+        },
+        {
+          "shirt_no": "61.",
+          "name": "MUHAMMED EREN TÜRKMEN"
+        },
+        {
+          "shirt_no": "5.",
+          "name": "KAĞAN KAYALI"
+        },
+        {
+          "shirt_no": "3.",
+          "name": "AHMET GÜLAY"
+        },
+        {
+          "shirt_no": "15.",
+          "name": "ASIM HAMZAÇEBİ"
+        },
+        {
+          "shirt_no": "32.",
+          "name": "ALİ KARAKAYA"
+        },
+        {
+          "shirt_no": "53.",
+          "name": "GÜVENÇ USTA"
+        },
+        {
+          "shirt_no": "6.",
+          "name": "SAMET SEYMEN SARGIN"
+        },
+        {
+          "shirt_no": "7.",
+          "name": "CELAL EMİR DEDE"
+        }
+      ],
+      "coach": "LEVENT ERİŞ"
+    },
+    "away": {
+      "team": "ONUKSPORTS KELKİT HÜRRİYET SPOR KULÜBÜ",
+      "team_raw": "ONUKSPORTS KELKİT HÜRRİYET SPOR KULÜBÜ",
+      "starting11": [
+        {
+          "shirt_no": "1.",
+          "name": "SUPHİ DAĞ"
+        },
+        {
+          "shirt_no": "4.",
+          "name": "ERCAN ŞİRİN"
+        },
+        {
+          "shirt_no": "24.",
+          "name": "ALPEREN KÖROĞLU"
+        },
+        {
+          "shirt_no": "61.",
+          "name": "CENK CELİL KARAOSMANOĞLU"
+        },
+        {
+          "shirt_no": "2.",
+          "name": "ABDURRAHMAN İLKYAZ"
+        },
+        {
+          "shirt_no": "8.",
+          "name": "AHMET BAHÇIVAN"
+        },
+        {
+          "shirt_no": "5.",
+          "name": "YÜCEL YILDIRIM"
+        },
+        {
+          "shirt_no": "7.",
+          "name": "ALPARSLAN FİDAN"
+        },
+        {
+          "shirt_no": "11.",
+          "name": "BATUHAN RECEP ATAY"
+        },
+        {
+          "shirt_no": "10.",
+          "name": "BURAK TEMİR"
+        },
+        {
+          "shirt_no": "29.",
+          "name": "YUNUS EMRE ERTÜRK"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "71.",
+          "name": "EMREHAN ÖZÇELİK"
+        },
+        {
+          "shirt_no": "93.",
+          "name": "SALİH AKÇAY"
+        },
+        {
+          "shirt_no": "55.",
+          "name": "ALİ GÜNDOĞDU"
+        },
+        {
+          "shirt_no": "18.",
+          "name": "ALİ ÖZDEMİR"
+        },
+        {
+          "shirt_no": "20.",
+          "name": "AHMET ÇELİK"
+        },
+        {
+          "shirt_no": "6.",
+          "name": "MUSTAFA YORULMAZ"
+        },
+        {
+          "shirt_no": "35.",
+          "name": "OSMAN KEÇELİOĞLU"
+        },
+        {
+          "shirt_no": "19.",
+          "name": "SALİM İYİK"
+        },
+        {
+          "shirt_no": "77.",
+          "name": "EMİRHAN DEMİR"
+        },
+        {
+          "shirt_no": "54.",
+          "name": "ALİHAN BEL"
+        }
+      ],
+      "coach": "SERDAR GÖÇERLER"
+    }
+  },
+  "events": [
+    {
+      "type": "card",
+      "team": "ONUKSPORTS KELKİT HÜRRİYET SPOR KULÜBÜ",
+      "player": "ABDURRAHMAN İLKYAZ",
+      "minute": 35,
+      "minute_text": "35. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "ÖZER ÖZDEMİR",
+      "minute": 41,
+      "minute_text": "41. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "SEDAT YİĞİT KURNAZ",
+      "player_in": "CELAL EMİR DEDE",
+      "minute": 45,
+      "minute_text": "45. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "ONUKSPORTS KELKİT HÜRRİYET SPOR KULÜBÜ",
+      "player_out": "BURAK TEMİR",
+      "player_in": "SALİH AKÇAY",
+      "minute": 45,
+      "minute_text": "45. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "ONUKSPORTS KELKİT HÜRRİYET SPOR KULÜBÜ",
+      "player_out": "BATUHAN RECEP ATAY",
+      "player_in": "EMİRHAN DEMİR",
+      "minute": 45,
+      "minute_text": "45. dk"
+    },
+    {
+      "type": "card",
+      "team": "ONUKSPORTS KELKİT HÜRRİYET SPOR KULÜBÜ",
+      "player": "SALİM İYİK",
+      "minute": 53,
+      "minute_text": "53. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "ONUKSPORTS KELKİT HÜRRİYET SPOR KULÜBÜ",
+      "player_out": "AHMET BAHÇIVAN",
+      "player_in": "MUSTAFA YORULMAZ",
+      "minute": 60,
+      "minute_text": "60. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "ONUKSPORTS KELKİT HÜRRİYET SPOR KULÜBÜ",
+      "player_out": "ALPARSLAN FİDAN",
+      "player_in": "SALİM İYİK",
+      "minute": 60,
+      "minute_text": "60. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "MUHAMMET ARAZ",
+      "player_in": "ASIM HAMZAÇEBİ",
+      "minute": 63,
+      "minute_text": "63. dk"
+    },
+    {
+      "type": "goal",
+      "player": "YUNUS EMRE ERTÜRK",
+      "minute": 76,
+      "minute_text": "76. dk",
+      "note": "Kafa",
+      "team": "ONUKSPORTS KELKİT HÜRRİYET SPOR KULÜBÜ"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "DOĞUKAN ÖZÇİMEN",
+      "minute": 79,
+      "minute_text": "79. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "ONUKSPORTS KELKİT HÜRRİYET SPOR KULÜBÜ",
+      "player_out": "YÜCEL YILDIRIM",
+      "player_in": "ALİ ÖZDEMİR",
+      "minute": 83,
+      "minute_text": "83. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "ARTUN AKÇAKIN",
+      "minute": 87,
+      "minute_text": "87. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "MUHAMMED DEMİRCİ",
+      "player_in": "GÜVENÇ USTA",
+      "minute": 87,
+      "minute_text": "87. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "SERDAR GÜNCÜ",
+      "minute": 90.5,
+      "minute_text": "90+5. dk"
+    }
+  ],
+  "dataQuality": {
+    "lineupsAvailable": true,
+    "eventsAvailable": true,
+    "sourceType": "tff_detail_page"
+  }
+}

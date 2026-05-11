@@ -1,0 +1,346 @@
+{
+  "id": "235901",
+  "tff_match_id": "235901",
+  "season": "2022-2023",
+  "competition": "TFF 2.League (Professional Team)",
+  "roundType": "league",
+  "week": 32,
+  "stage": "32. Maç",
+  "date": "2023-04-15",
+  "time": "15:00",
+  "dateDisplay": "15.04.2023 - 15:00",
+  "homeTeam": "WEECOINS KIRKLARELİSPOR",
+  "awayTeam": "Balıkesirspor",
+  "homeTeamRaw": "WEECOINS KIRKLARELİSPOR",
+  "awayTeamRaw": "BAYNET İNŞAAT BALIKESİRSPOR",
+  "score": {
+    "home": 0,
+    "away": 0,
+    "display": "0-0",
+    "played": true
+  },
+  "balkes": {
+    "isHome": false,
+    "opponent": "WEECOINS KIRKLARELİSPOR",
+    "goalsFor": 0,
+    "goalsAgainst": 0,
+    "result": "D"
+  },
+  "detailUrl": "seasons/2022-2023/matches/235901.json",
+  "source": {
+    "name": "TFF",
+    "url": "https://www.tff.org/Default.aspx?macId=235901&pageID=528"
+  },
+  "match_code": "3512",
+  "venue": "KIRKLARELİ ATATÜRK - KIRKLARELİ",
+  "referees": [
+    {
+      "name": "RAMAZAN DOĞANAY",
+      "role": "Referee"
+    },
+    {
+      "name": "KURTULUŞ ASLAN",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "BUĞUR HAN GÜLER",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "MERTCAN ERÖLMEZ",
+      "role": "Fourth Official"
+    },
+    {
+      "name": "MEHMET YILDIRIM",
+      "role": "Observer"
+    },
+    {
+      "name": "BEKİR ŞEKER",
+      "role": "Delegate"
+    },
+    {
+      "name": "TAHSİN ÜÇPINAR",
+      "role": "Delegate"
+    }
+  ],
+  "lineups": {
+    "home": {
+      "team": "WEECOINS KIRKLARELİSPOR",
+      "team_raw": "WEECOINS KIRKLARELİSPOR",
+      "starting11": [
+        {
+          "shirt_no": "1.",
+          "name": "MEHMET CİNPİR"
+        },
+        {
+          "shirt_no": "2.",
+          "name": "NECMİCAN CEBECİ"
+        },
+        {
+          "shirt_no": "7.",
+          "name": "CANBERK ÖMER ÖZDEMİR"
+        },
+        {
+          "shirt_no": "10.",
+          "name": "HÜSEYİN ERAY KARATAŞ"
+        },
+        {
+          "shirt_no": "17.",
+          "name": "UĞUR AYGÖREN"
+        },
+        {
+          "shirt_no": "23.",
+          "name": "ENES İSLAM İLKİN"
+        },
+        {
+          "shirt_no": "28.",
+          "name": "BURAK ALBAYRAK"
+        },
+        {
+          "shirt_no": "30.",
+          "name": "HASAN EMRE YEŞİLYURT"
+        },
+        {
+          "shirt_no": "35.",
+          "name": "TAŞKIN KARTAL"
+        },
+        {
+          "shirt_no": "39.",
+          "name": "ÜMİT CAN TOKCU"
+        },
+        {
+          "shirt_no": "99.",
+          "name": "MUZAFFER KAHRIMAN"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "54.",
+          "name": "HÜSEYİN YILMAZ"
+        },
+        {
+          "shirt_no": "6.",
+          "name": "OĞUZHAN EFE YILMAZ"
+        },
+        {
+          "shirt_no": "13.",
+          "name": "ENSAR ARSLAN"
+        },
+        {
+          "shirt_no": "20.",
+          "name": "FURKAN ŞAMİL ÇETİN"
+        },
+        {
+          "shirt_no": "22.",
+          "name": "RECEP CAN ALTINORAK"
+        },
+        {
+          "shirt_no": "25.",
+          "name": "ENDER AYGÖREN"
+        },
+        {
+          "shirt_no": "29.",
+          "name": "BİLAL AYAZ İNEL"
+        },
+        {
+          "shirt_no": "41.",
+          "name": "SEMİH ÜSTÜN"
+        },
+        {
+          "shirt_no": "77.",
+          "name": "MAHMUT CANER ALİOĞLU"
+        },
+        {
+          "shirt_no": "97.",
+          "name": "BARIN AYDOĞDU"
+        }
+      ],
+      "coach": "BİLGİN ERDEM"
+    },
+    "away": {
+      "team": "Balıkesirspor",
+      "team_raw": "BAYNET İNŞAAT BALIKESİRSPOR",
+      "starting11": [
+        {
+          "shirt_no": "26.",
+          "name": "YASİN YİĞİT BERBER"
+        },
+        {
+          "shirt_no": "3.",
+          "name": "BERAT AYDOĞDU"
+        },
+        {
+          "shirt_no": "5.",
+          "name": "SEDAT DURSUN"
+        },
+        {
+          "shirt_no": "10.",
+          "name": "OĞUZ HAN AYNAOĞLU"
+        },
+        {
+          "shirt_no": "15.",
+          "name": "KAĞAN KAYALI"
+        },
+        {
+          "shirt_no": "21.",
+          "name": "SEDAT YİĞİT KURNAZ"
+        },
+        {
+          "shirt_no": "25.",
+          "name": "ABDULLAH ADIYAMAN"
+        },
+        {
+          "shirt_no": "27.",
+          "name": "DOĞANAY AVCI"
+        },
+        {
+          "shirt_no": "33.",
+          "name": "GÜNEY ÇELİK KELEŞ"
+        },
+        {
+          "shirt_no": "39.",
+          "name": "HÜSEYİN KARABEY"
+        },
+        {
+          "shirt_no": "99.",
+          "name": "EMİRHAN ÇAKIR"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "1.",
+          "name": "YİĞİTHAN KIR"
+        },
+        {
+          "shirt_no": "6.",
+          "name": "MUSTAFA ÖNCÜ"
+        },
+        {
+          "shirt_no": "7.",
+          "name": "ANDAÇ GÜLERYÜZ"
+        },
+        {
+          "shirt_no": "20.",
+          "name": "BERK TOSUN"
+        },
+        {
+          "shirt_no": "44.",
+          "name": "GÖRKEM ALTUN"
+        },
+        {
+          "shirt_no": "61.",
+          "name": "HASAN CAN BİNGÜL"
+        },
+        {
+          "shirt_no": "63.",
+          "name": "İBRAHİM HALİL ÇOLAK"
+        },
+        {
+          "shirt_no": "67.",
+          "name": "ARDA İBRAHİM AKGÜN"
+        },
+        {
+          "shirt_no": "80.",
+          "name": "ÜMİT DOĞRU"
+        },
+        {
+          "shirt_no": "97.",
+          "name": "BERKAY AYKURT"
+        }
+      ],
+      "coach": "CAN CANGÖK"
+    }
+  },
+  "events": [
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "GÜNEY ÇELİK KELEŞ",
+      "player_in": "BERKAY AYKURT",
+      "minute": 46,
+      "minute_text": "46. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "DOĞANAY AVCI",
+      "player_in": "ANDAÇ GÜLERYÜZ",
+      "minute": 46,
+      "minute_text": "46. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "WEECOINS KIRKLARELİSPOR",
+      "player_out": "ENES İSLAM İLKİN",
+      "player_in": "SEMİH ÜSTÜN",
+      "minute": 60,
+      "minute_text": "60. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "WEECOINS KIRKLARELİSPOR",
+      "player_out": "HASAN EMRE YEŞİLYURT",
+      "player_in": "FURKAN ŞAMİL ÇETİN",
+      "minute": 60,
+      "minute_text": "60. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "WEECOINS KIRKLARELİSPOR",
+      "player_out": "MUZAFFER KAHRIMAN",
+      "player_in": "ENSAR ARSLAN",
+      "minute": 60,
+      "minute_text": "60. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "WEECOINS KIRKLARELİSPOR",
+      "player_out": "ÜMİT CAN TOKCU",
+      "player_in": "OĞUZHAN EFE YILMAZ",
+      "minute": 74,
+      "minute_text": "74. dk"
+    },
+    {
+      "type": "card",
+      "team": "WEECOINS KIRKLARELİSPOR",
+      "player": "HÜSEYİN ERAY KARATAŞ",
+      "minute": 75,
+      "minute_text": "75. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "ABDULLAH ADIYAMAN",
+      "minute": 75,
+      "minute_text": "75. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "EMİRHAN ÇAKIR",
+      "player_in": "BERK TOSUN",
+      "minute": 79,
+      "minute_text": "79. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "WEECOINS KIRKLARELİSPOR",
+      "player_out": "HÜSEYİN ERAY KARATAŞ",
+      "player_in": "MAHMUT CANER ALİOĞLU",
+      "minute": 82,
+      "minute_text": "82. dk"
+    },
+    {
+      "type": "card",
+      "team": "WEECOINS KIRKLARELİSPOR",
+      "player": "OĞUZHAN EFE YILMAZ",
+      "minute": 90.4,
+      "minute_text": "90+4. dk"
+    }
+  ],
+  "dataQuality": {
+    "lineupsAvailable": true,
+    "eventsAvailable": true,
+    "sourceType": "tff_detail_page"
+  }
+}

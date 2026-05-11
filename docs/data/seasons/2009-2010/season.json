@@ -1,0 +1,33 @@
+{
+  "id": "2009-2010",
+  "name": "2009-2010",
+  "team": {
+    "id": "balikesirspor",
+    "name": "Balıkesirspor",
+    "tffClubId": "135"
+  },
+  "competition": "TFF 3. League Phase 1 (Professional Team)",
+  "group": "",
+  "summary": {
+    "matches": 1,
+    "leagueMatches": 1,
+    "playoffMatches": 0,
+    "cupMatches": 0,
+    "wins": 1,
+    "draws": 0,
+    "losses": 0,
+    "goalsFor": 2,
+    "goalsAgainst": 0,
+    "goalDifference": 2,
+    "points": 3,
+    "finalRank": null
+  },
+  "files": {
+    "matchesIndex": "seasons/2009-2010/matches_index.json",
+    "standingsByWeek": "seasons/2009-2010/standings_by_week.json"
+  },
+  "source": {
+    "name": "TFF",
+    "note": "Açık TFF sayfalarından dönüştürülmüş veri"
+  }
+}

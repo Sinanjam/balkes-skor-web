@@ -1,0 +1,391 @@
+{
+  "id": "265813",
+  "tff_match_id": "265813",
+  "season": "2024-2025",
+  "competition": "Nesine 3. League (Professional Team)",
+  "roundType": "league",
+  "week": 24,
+  "stage": "24. Maç",
+  "date": "2025-03-22",
+  "time": "14:00",
+  "dateDisplay": "22.03.2025 - 14:00",
+  "homeTeam": "Balıkesirspor",
+  "awayTeam": "ETİ GÜBRE MAZIDAĞI FOSFAT SPOR",
+  "homeTeamRaw": "BALIKESİRSPOR",
+  "awayTeamRaw": "ETİ GÜBRE MAZIDAĞI FOSFAT SPOR",
+  "score": {
+    "home": 1,
+    "away": 2,
+    "display": "1-2",
+    "played": true
+  },
+  "balkes": {
+    "isHome": true,
+    "opponent": "ETİ GÜBRE MAZIDAĞI FOSFAT SPOR",
+    "goalsFor": 1,
+    "goalsAgainst": 2,
+    "result": "L"
+  },
+  "detailUrl": "seasons/2024-2025/matches/265813.json",
+  "source": {
+    "name": "TFF",
+    "url": "https://www.tff.org/Default.aspx?macId=265813&pageID=528"
+  },
+  "match_code": "4472",
+  "venue": "BALIKESİR ATATÜRK - BALIKESİR - BALIKESİR MERKEZ",
+  "referees": [
+    {
+      "name": "AHMET RESULOĞLU",
+      "role": "Referee"
+    },
+    {
+      "name": "MEHMET ERDOĞAN",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "FURKAN OGÜN DEMİR",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "MUSTAFA AYKUT DEMİREL",
+      "role": "Fourth Official"
+    },
+    {
+      "name": "KAZIM YENİ",
+      "role": "Observer"
+    },
+    {
+      "name": "ÜMİT İZDAŞ",
+      "role": "Delegate"
+    },
+    {
+      "name": "RAMAZAN ALTUNTAS",
+      "role": "Delegate"
+    }
+  ],
+  "lineups": {
+    "home": {
+      "team": "Balıkesirspor",
+      "team_raw": "BALIKESİRSPOR",
+      "starting11": [
+        {
+          "shirt_no": "1.",
+          "name": "HÜSEYİN ALTINTAŞ"
+        },
+        {
+          "shirt_no": "3.",
+          "name": "AHMET GÜLAY"
+        },
+        {
+          "shirt_no": "7.",
+          "name": "CELAL EMİR DEDE"
+        },
+        {
+          "shirt_no": "10.",
+          "name": "SEDAT YİĞİT KURNAZ"
+        },
+        {
+          "shirt_no": "15.",
+          "name": "ASIM HAMZAÇEBİ"
+        },
+        {
+          "shirt_no": "16.",
+          "name": "ŞAHİN ŞAFAKOĞLU"
+        },
+        {
+          "shirt_no": "19.",
+          "name": "ARTUN AKÇAKIN"
+        },
+        {
+          "shirt_no": "22.",
+          "name": "TAYFUN KIRCA"
+        },
+        {
+          "shirt_no": "30.",
+          "name": "BERKAY GÖRMEZ"
+        },
+        {
+          "shirt_no": "68.",
+          "name": "VOLKAN ALTINSOY"
+        },
+        {
+          "shirt_no": "80.",
+          "name": "MUHAMMED DEMİRCİ"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "48.",
+          "name": "DOĞUKAN ÖZÇİMEN"
+        },
+        {
+          "shirt_no": "2.",
+          "name": "MUHAMMET ARAZ"
+        },
+        {
+          "shirt_no": "5.",
+          "name": "KAĞAN KAYALI"
+        },
+        {
+          "shirt_no": "6.",
+          "name": "SAMET SEYMEN SARGIN"
+        },
+        {
+          "shirt_no": "21.",
+          "name": "SERDAR GÜNCÜ"
+        },
+        {
+          "shirt_no": "27.",
+          "name": "MERT TEKİN"
+        },
+        {
+          "shirt_no": "32.",
+          "name": "ALİ KARAKAYA"
+        },
+        {
+          "shirt_no": "53.",
+          "name": "GÜVENÇ USTA"
+        },
+        {
+          "shirt_no": "56.",
+          "name": "YİĞİT EPÖZDEMİR"
+        },
+        {
+          "shirt_no": "70.",
+          "name": "EMİR ŞENOCAK"
+        }
+      ],
+      "coach": "İSMAİL ERTEKİN"
+    },
+    "away": {
+      "team": "ETİ GÜBRE MAZIDAĞI FOSFAT SPOR",
+      "team_raw": "ETİ GÜBRE MAZIDAĞI FOSFAT SPOR",
+      "starting11": [
+        {
+          "shirt_no": "34.",
+          "name": "ALİ RIZA KIRMIZITAŞ"
+        },
+        {
+          "shirt_no": "2.",
+          "name": "MAHSUM KARA"
+        },
+        {
+          "shirt_no": "3.",
+          "name": "MUHAMMET YUSUF OCAK"
+        },
+        {
+          "shirt_no": "17.",
+          "name": "MEHMET NUR ASLAN"
+        },
+        {
+          "shirt_no": "29.",
+          "name": "SEFA TUNÇ"
+        },
+        {
+          "shirt_no": "30.",
+          "name": "TANER YILDIZ"
+        },
+        {
+          "shirt_no": "55.",
+          "name": "BATUHAN AYVAZ"
+        },
+        {
+          "shirt_no": "70.",
+          "name": "BURAK TEMİR"
+        },
+        {
+          "shirt_no": "77.",
+          "name": "DENİZ KESKİN"
+        },
+        {
+          "shirt_no": "90.",
+          "name": "ERDİ KASAPOĞLU"
+        },
+        {
+          "shirt_no": "97.",
+          "name": "ONUR ŞİRİN"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "25.",
+          "name": "BİLAL KARATAŞ"
+        },
+        {
+          "shirt_no": "6.",
+          "name": "MELİK AHMET İPEK"
+        },
+        {
+          "shirt_no": "9.",
+          "name": "HALİL İBRAHİM KAYA"
+        },
+        {
+          "shirt_no": "10.",
+          "name": "YUNUS EMRE MEST"
+        },
+        {
+          "shirt_no": "19.",
+          "name": "MUSTAFA ETHEM ERBOĞA"
+        },
+        {
+          "shirt_no": "26.",
+          "name": "METİN GÜLER"
+        },
+        {
+          "shirt_no": "42.",
+          "name": "MUHAMMED FURKAN DEMİR"
+        },
+        {
+          "shirt_no": "47.",
+          "name": "HAKAN OĞUZHAN"
+        },
+        {
+          "shirt_no": "81.",
+          "name": "ÖZGÜR KAZAR"
+        },
+        {
+          "shirt_no": "85.",
+          "name": "FURKAN BİLDEN"
+        }
+      ],
+      "coach": "SERDAR GÖÇERLER"
+    }
+  },
+  "events": [
+    {
+      "type": "goal",
+      "player": "ARTUN AKÇAKIN",
+      "minute": 22,
+      "minute_text": "22. dk",
+      "note": "Ayak",
+      "team": "Balıkesirspor"
+    },
+    {
+      "type": "substitution",
+      "team": "ETİ GÜBRE MAZIDAĞI FOSFAT SPOR",
+      "player_out": "MEHMET NUR ASLAN",
+      "player_in": "MUHAMMED FURKAN DEMİR",
+      "minute": 46,
+      "minute_text": "46. dk"
+    },
+    {
+      "type": "goal",
+      "player": "YUNUS EMRE MEST",
+      "minute": 62,
+      "minute_text": "62. dk",
+      "note": "Ayak",
+      "team": "ETİ GÜBRE MAZIDAĞI FOSFAT SPOR"
+    },
+    {
+      "type": "goal",
+      "player": "BURAK TEMİR",
+      "minute": 66,
+      "minute_text": "66. dk",
+      "note": "Ayak",
+      "team": "ETİ GÜBRE MAZIDAĞI FOSFAT SPOR"
+    },
+    {
+      "type": "substitution",
+      "team": "ETİ GÜBRE MAZIDAĞI FOSFAT SPOR",
+      "player_out": "BATUHAN AYVAZ",
+      "player_in": "MELİK AHMET İPEK",
+      "minute": 72,
+      "minute_text": "72. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "ASIM HAMZAÇEBİ",
+      "player_in": "SERDAR GÜNCÜ",
+      "minute": 74,
+      "minute_text": "74. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "CELAL EMİR DEDE",
+      "player_in": "MUHAMMET ARAZ",
+      "minute": 74,
+      "minute_text": "74. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "SEDAT YİĞİT KURNAZ",
+      "minute": 79,
+      "minute_text": "79. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "ETİ GÜBRE MAZIDAĞI FOSFAT SPOR",
+      "player_out": "TANER YILDIZ",
+      "player_in": "HALİL İBRAHİM KAYA",
+      "minute": 80,
+      "minute_text": "80. dk"
+    },
+    {
+      "type": "card",
+      "team": "ETİ GÜBRE MAZIDAĞI FOSFAT SPOR",
+      "player": "ALİ RIZA KIRMIZITAŞ",
+      "minute": 82,
+      "minute_text": "82. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "AHMET GÜLAY",
+      "player_in": "EMİR ŞENOCAK",
+      "minute": 84,
+      "minute_text": "84. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "SEDAT YİĞİT KURNAZ",
+      "player_in": "GÜVENÇ USTA",
+      "minute": 84,
+      "minute_text": "84. dk"
+    },
+    {
+      "type": "card",
+      "team": "ETİ GÜBRE MAZIDAĞI FOSFAT SPOR",
+      "player": "HALİL İBRAHİM KAYA",
+      "minute": 85,
+      "minute_text": "85. dk"
+    },
+    {
+      "type": "card",
+      "team": "ETİ GÜBRE MAZIDAĞI FOSFAT SPOR",
+      "player": "ONUR ŞİRİN",
+      "minute": 86,
+      "minute_text": "86. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "GÜVENÇ USTA",
+      "minute": 90.3,
+      "minute_text": "90+3. dk"
+    },
+    {
+      "type": "card",
+      "team": "ETİ GÜBRE MAZIDAĞI FOSFAT SPOR",
+      "player": "BURAK TEMİR",
+      "minute": 90.5,
+      "minute_text": "90+5. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "ETİ GÜBRE MAZIDAĞI FOSFAT SPOR",
+      "player_out": "BURAK TEMİR",
+      "player_in": "YUNUS EMRE MEST",
+      "minute": 90.6,
+      "minute_text": "90+6. dk"
+    }
+  ],
+  "dataQuality": {
+    "lineupsAvailable": true,
+    "eventsAvailable": true,
+    "sourceType": "tff_detail_page"
+  }
+}

@@ -1,0 +1,702 @@
+[
+  {
+    "name": "ESKİŞEHİRSPOR KULÜBÜ",
+    "matches": 4,
+    "wins": 2,
+    "draws": 1,
+    "losses": 1,
+    "goalsFor": 6,
+    "goalsAgainst": 5,
+    "lastMatchDate": "2026-04-28"
+  },
+  {
+    "name": "ETİ GÜBRE MAZIDAĞI FOSFAT SPOR",
+    "matches": 4,
+    "wins": 1,
+    "draws": 1,
+    "losses": 2,
+    "goalsFor": 3,
+    "goalsAgainst": 4,
+    "lastMatchDate": "2025-05-19"
+  },
+  {
+    "name": "NEVŞEHİR BELEDİYE SPOR",
+    "matches": 4,
+    "wins": 4,
+    "draws": 0,
+    "losses": 0,
+    "goalsFor": 11,
+    "goalsAgainst": 1,
+    "lastMatchDate": "2025-04-06"
+  },
+  {
+    "name": "TİRE 2021 FUTBOL KULÜBÜ",
+    "matches": 4,
+    "wins": 1,
+    "draws": 1,
+    "losses": 2,
+    "goalsFor": 5,
+    "goalsAgainst": 6,
+    "lastMatchDate": "2026-01-18"
+  },
+  {
+    "name": "ETİMESGUT BELEDİYESPOR",
+    "matches": 3,
+    "wins": 0,
+    "draws": 2,
+    "losses": 1,
+    "goalsFor": 1,
+    "goalsAgainst": 4,
+    "lastMatchDate": "2024-11-03"
+  },
+  {
+    "name": "UŞAK SPOR A.Ş.",
+    "matches": 3,
+    "wins": 2,
+    "draws": 0,
+    "losses": 1,
+    "goalsFor": 4,
+    "goalsAgainst": 1,
+    "lastMatchDate": "2025-01-25"
+  },
+  {
+    "name": "1461 TRABZON FK",
+    "matches": 2,
+    "wins": 0,
+    "draws": 0,
+    "losses": 2,
+    "goalsFor": 2,
+    "goalsAgainst": 4,
+    "lastMatchDate": "2023-04-30"
+  },
+  {
+    "name": "23 ELAZIĞ FUTBOL KULÜBÜ",
+    "matches": 2,
+    "wins": 0,
+    "draws": 1,
+    "losses": 1,
+    "goalsFor": 0,
+    "goalsAgainst": 1,
+    "lastMatchDate": "2024-02-11"
+  },
+  {
+    "name": "ADIYAMAN FUTBOL KULÜBÜ A.Ş.",
+    "matches": 2,
+    "wins": 1,
+    "draws": 1,
+    "losses": 0,
+    "goalsFor": 6,
+    "goalsAgainst": 1,
+    "lastMatchDate": "2024-12-01"
+  },
+  {
+    "name": "AFYONSPOR KULÜBÜ",
+    "matches": 2,
+    "wins": 2,
+    "draws": 0,
+    "losses": 0,
+    "goalsFor": 7,
+    "goalsAgainst": 0,
+    "lastMatchDate": "2026-02-08"
+  },
+  {
+    "name": "ALANYA 1221 FUTBOL SPOR KULÜBÜ",
+    "matches": 2,
+    "wins": 1,
+    "draws": 0,
+    "losses": 1,
+    "goalsFor": 2,
+    "goalsAgainst": 1,
+    "lastMatchDate": "2026-02-14"
+  },
+  {
+    "name": "ALTAY",
+    "matches": 2,
+    "wins": 2,
+    "draws": 0,
+    "losses": 0,
+    "goalsFor": 4,
+    "goalsAgainst": 0,
+    "lastMatchDate": "2026-03-15"
+  },
+  {
+    "name": "ANKARA DEMİRSPOR",
+    "matches": 2,
+    "wins": 0,
+    "draws": 0,
+    "losses": 2,
+    "goalsFor": 1,
+    "goalsAgainst": 5,
+    "lastMatchDate": "2023-03-05"
+  },
+  {
+    "name": "ARMONİ ALANYA KESTELSPOR",
+    "matches": 2,
+    "wins": 1,
+    "draws": 1,
+    "losses": 0,
+    "goalsFor": 3,
+    "goalsAgainst": 0,
+    "lastMatchDate": "2024-02-25"
+  },
+  {
+    "name": "AYVALIKGÜCÜ BELEDİYESPOR",
+    "matches": 2,
+    "wins": 0,
+    "draws": 0,
+    "losses": 2,
+    "goalsFor": 1,
+    "goalsAgainst": 3,
+    "lastMatchDate": "2026-03-29"
+  },
+  {
+    "name": "BERGAMA SPORTİF FAALİYETLER A.Ş",
+    "matches": 2,
+    "wins": 0,
+    "draws": 1,
+    "losses": 1,
+    "goalsFor": 3,
+    "goalsAgainst": 4,
+    "lastMatchDate": "2024-04-21"
+  },
+  {
+    "name": "BEYKOZ İSHAKLI SPOR FAALİYETLERİ A.Ş.",
+    "matches": 2,
+    "wins": 1,
+    "draws": 1,
+    "losses": 0,
+    "goalsFor": 6,
+    "goalsAgainst": 4,
+    "lastMatchDate": "2025-03-26"
+  },
+  {
+    "name": "BITEXEN ADANA 1954 FUTBOL KULÜBÜ",
+    "matches": 2,
+    "wins": 0,
+    "draws": 1,
+    "losses": 1,
+    "goalsFor": 1,
+    "goalsAgainst": 2,
+    "lastMatchDate": "2024-04-07"
+  },
+  {
+    "name": "BITEXEN VAN SPOR FK",
+    "matches": 2,
+    "wins": 0,
+    "draws": 0,
+    "losses": 2,
+    "goalsFor": 0,
+    "goalsAgainst": 11,
+    "lastMatchDate": "2023-05-20"
+  },
+  {
+    "name": "BORNOVA 1877 SPORTİF YATIRIMLAR A.Ş.",
+    "matches": 2,
+    "wins": 1,
+    "draws": 1,
+    "losses": 0,
+    "goalsFor": 5,
+    "goalsAgainst": 2,
+    "lastMatchDate": "2026-04-18"
+  },
+  {
+    "name": "BUCASPOR 1928",
+    "matches": 2,
+    "wins": 0,
+    "draws": 0,
+    "losses": 2,
+    "goalsFor": 0,
+    "goalsAgainst": 5,
+    "lastMatchDate": "2023-04-02"
+  },
+  {
+    "name": "BURSA YILDIRIM SPOR",
+    "matches": 2,
+    "wins": 1,
+    "draws": 0,
+    "losses": 1,
+    "goalsFor": 2,
+    "goalsAgainst": 2,
+    "lastMatchDate": "2024-01-21"
+  },
+  {
+    "name": "DİYARBEKİR SPOR A.Ş.",
+    "matches": 2,
+    "wins": 1,
+    "draws": 0,
+    "losses": 1,
+    "goalsFor": 4,
+    "goalsAgainst": 3,
+    "lastMatchDate": "2023-01-22"
+  },
+  {
+    "name": "ESKİŞEHİR ANADOLU SPOR FAALİYETLERİ A.Ş.",
+    "matches": 2,
+    "wins": 1,
+    "draws": 1,
+    "losses": 0,
+    "goalsFor": 3,
+    "goalsAgainst": 1,
+    "lastMatchDate": "2026-02-22"
+  },
+  {
+    "name": "FATSA BELEDİYESPOR",
+    "matches": 2,
+    "wins": 2,
+    "draws": 0,
+    "losses": 0,
+    "goalsFor": 7,
+    "goalsAgainst": 1,
+    "lastMatchDate": "2025-01-19"
+  },
+  {
+    "name": "FETHİYESPOR",
+    "matches": 2,
+    "wins": 1,
+    "draws": 0,
+    "losses": 1,
+    "goalsFor": 3,
+    "goalsAgainst": 7,
+    "lastMatchDate": "2023-04-23"
+  },
+  {
+    "name": "GMG KASTAMONUSPOR",
+    "matches": 2,
+    "wins": 0,
+    "draws": 1,
+    "losses": 1,
+    "goalsFor": 1,
+    "goalsAgainst": 2,
+    "lastMatchDate": "2023-03-15"
+  },
+  {
+    "name": "GÜNEŞ HOLDİNG ÇANKAYA SPOR KULÜBÜ",
+    "matches": 2,
+    "wins": 1,
+    "draws": 1,
+    "losses": 0,
+    "goalsFor": 2,
+    "goalsAgainst": 1,
+    "lastMatchDate": "2024-03-24"
+  },
+  {
+    "name": "KARŞIYAKA",
+    "matches": 2,
+    "wins": 1,
+    "draws": 0,
+    "losses": 1,
+    "goalsFor": 3,
+    "goalsAgainst": 3,
+    "lastMatchDate": "2026-01-25"
+  },
+  {
+    "name": "KIRŞEHİR FUTBOL SPOR KULÜBÜ",
+    "matches": 2,
+    "wins": 1,
+    "draws": 1,
+    "losses": 0,
+    "goalsFor": 1,
+    "goalsAgainst": 0,
+    "lastMatchDate": "2023-03-19"
+  },
+  {
+    "name": "KOCAELİSPOR",
+    "matches": 2,
+    "wins": 0,
+    "draws": 0,
+    "losses": 2,
+    "goalsFor": 1,
+    "goalsAgainst": 9,
+    "lastMatchDate": "2023-03-11"
+  },
+  {
+    "name": "KÜTAHYASPOR FUTBOL SPOR KULÜBÜ",
+    "matches": 2,
+    "wins": 0,
+    "draws": 1,
+    "losses": 1,
+    "goalsFor": 3,
+    "goalsAgainst": 4,
+    "lastMatchDate": "2026-02-01"
+  },
+  {
+    "name": "MUĞLASPOR",
+    "matches": 2,
+    "wins": 1,
+    "draws": 0,
+    "losses": 1,
+    "goalsFor": 3,
+    "goalsAgainst": 5,
+    "lastMatchDate": "1994-11-06"
+  },
+  {
+    "name": "MUĞLASPOR KULÜBÜ",
+    "matches": 2,
+    "wins": 0,
+    "draws": 0,
+    "losses": 2,
+    "goalsFor": 0,
+    "goalsAgainst": 3,
+    "lastMatchDate": "2025-02-16"
+  },
+  {
+    "name": "MUŞ 1984 MUŞSPOR",
+    "matches": 2,
+    "wins": 0,
+    "draws": 1,
+    "losses": 1,
+    "goalsFor": 0,
+    "goalsAgainst": 2,
+    "lastMatchDate": "2024-02-18"
+  },
+  {
+    "name": "NAZİLLİ SPOR A.Ş.",
+    "matches": 2,
+    "wins": 2,
+    "draws": 0,
+    "losses": 0,
+    "goalsFor": 10,
+    "goalsAgainst": 0,
+    "lastMatchDate": "2026-03-08"
+  },
+  {
+    "name": "OKTAŞ UŞAK SPOR A.Ş.",
+    "matches": 2,
+    "wins": 2,
+    "draws": 0,
+    "losses": 0,
+    "goalsFor": 5,
+    "goalsAgainst": 1,
+    "lastMatchDate": "2026-03-25"
+  },
+  {
+    "name": "ONUKSPORTS KELKİT HÜRRİYET SPOR KULÜBÜ",
+    "matches": 2,
+    "wins": 0,
+    "draws": 1,
+    "losses": 1,
+    "goalsFor": 1,
+    "goalsAgainst": 2,
+    "lastMatchDate": "2025-02-02"
+  },
+  {
+    "name": "ORDUSPOR 1967 A.Ş.",
+    "matches": 2,
+    "wins": 0,
+    "draws": 0,
+    "losses": 2,
+    "goalsFor": 1,
+    "goalsAgainst": 8,
+    "lastMatchDate": "2024-03-03"
+  },
+  {
+    "name": "PAZARSPOR",
+    "matches": 2,
+    "wins": 1,
+    "draws": 0,
+    "losses": 1,
+    "goalsFor": 1,
+    "goalsAgainst": 2,
+    "lastMatchDate": "2023-04-19"
+  },
+  {
+    "name": "SARIYER",
+    "matches": 2,
+    "wins": 1,
+    "draws": 1,
+    "losses": 0,
+    "goalsFor": 5,
+    "goalsAgainst": 3,
+    "lastMatchDate": "2023-03-29"
+  },
+  {
+    "name": "SEBAT GENÇLİK SPOR",
+    "matches": 2,
+    "wins": 1,
+    "draws": 0,
+    "losses": 1,
+    "goalsFor": 4,
+    "goalsAgainst": 3,
+    "lastMatchDate": "2024-04-03"
+  },
+  {
+    "name": "SERİK BELEDİYESPOR",
+    "matches": 2,
+    "wins": 0,
+    "draws": 0,
+    "losses": 2,
+    "goalsFor": 1,
+    "goalsAgainst": 5,
+    "lastMatchDate": "2023-03-25"
+  },
+  {
+    "name": "SMART HOLDİNG A.Ş.ÇAYELİ SPOR",
+    "matches": 2,
+    "wins": 2,
+    "draws": 0,
+    "losses": 0,
+    "goalsFor": 3,
+    "goalsAgainst": 1,
+    "lastMatchDate": "2025-03-02"
+  },
+  {
+    "name": "SULTANBEYLİ BELEDİYE SPOR",
+    "matches": 2,
+    "wins": 0,
+    "draws": 1,
+    "losses": 1,
+    "goalsFor": 3,
+    "goalsAgainst": 4,
+    "lastMatchDate": "2024-03-17"
+  },
+  {
+    "name": "SÖKE 1970 SPOR KULÜBÜ",
+    "matches": 2,
+    "wins": 1,
+    "draws": 1,
+    "losses": 0,
+    "goalsFor": 3,
+    "goalsAgainst": 2,
+    "lastMatchDate": "2026-01-11"
+  },
+  {
+    "name": "SİLİVRİSPOR",
+    "matches": 2,
+    "wins": 2,
+    "draws": 0,
+    "losses": 0,
+    "goalsFor": 6,
+    "goalsAgainst": 1,
+    "lastMatchDate": "2025-02-09"
+  },
+  {
+    "name": "SİİRT İL ÖZEL İDARESİ SPOR",
+    "matches": 2,
+    "wins": 1,
+    "draws": 1,
+    "losses": 0,
+    "goalsFor": 2,
+    "goalsAgainst": 1,
+    "lastMatchDate": "2024-03-10"
+  },
+  {
+    "name": "T.METAL 1963 SPOR",
+    "matches": 2,
+    "wins": 1,
+    "draws": 1,
+    "losses": 0,
+    "goalsFor": 2,
+    "goalsAgainst": 1,
+    "lastMatchDate": "2025-04-26"
+  },
+  {
+    "name": "TECO KARACABEY BELEDİYE SPOR A.Ş.",
+    "matches": 2,
+    "wins": 0,
+    "draws": 1,
+    "losses": 1,
+    "goalsFor": 1,
+    "goalsAgainst": 3,
+    "lastMatchDate": "2023-01-29"
+  },
+  {
+    "name": "TOKAT BELEDİYE PLEVNE SPOR",
+    "matches": 2,
+    "wins": 0,
+    "draws": 2,
+    "losses": 0,
+    "goalsFor": 2,
+    "goalsAgainst": 2,
+    "lastMatchDate": "2024-04-14"
+  },
+  {
+    "name": "WEECOINS KIRKLARELİSPOR",
+    "matches": 2,
+    "wins": 0,
+    "draws": 2,
+    "losses": 0,
+    "goalsFor": 1,
+    "goalsAgainst": 1,
+    "lastMatchDate": "2023-04-15"
+  },
+  {
+    "name": "ZONGULDAK KÖMÜRSPOR A.Ş",
+    "matches": 2,
+    "wins": 0,
+    "draws": 1,
+    "losses": 1,
+    "goalsFor": 3,
+    "goalsAgainst": 5,
+    "lastMatchDate": "2023-05-16"
+  },
+  {
+    "name": "İNEGÖL KAFKAS SPOR KULÜBÜ",
+    "matches": 2,
+    "wins": 1,
+    "draws": 0,
+    "losses": 1,
+    "goalsFor": 2,
+    "goalsAgainst": 4,
+    "lastMatchDate": "2025-04-20"
+  },
+  {
+    "name": "İSKENDERUNSPOR A.Ş.",
+    "matches": 2,
+    "wins": 0,
+    "draws": 1,
+    "losses": 1,
+    "goalsFor": 2,
+    "goalsAgainst": 3,
+    "lastMatchDate": "2023-01-15"
+  },
+  {
+    "name": "İZMİR ÇORUHLU FUTBOL KULÜBÜ A.Ş.",
+    "matches": 2,
+    "wins": 1,
+    "draws": 1,
+    "losses": 0,
+    "goalsFor": 3,
+    "goalsAgainst": 2,
+    "lastMatchDate": "2026-02-28"
+  },
+  {
+    "name": "AFC KABLO KANALLARI UŞAK SPOR A.Ş.",
+    "matches": 1,
+    "wins": 0,
+    "draws": 0,
+    "losses": 1,
+    "goalsFor": 0,
+    "goalsAgainst": 2,
+    "lastMatchDate": "2023-04-09"
+  },
+  {
+    "name": "ALİBEYKÖY",
+    "matches": 1,
+    "wins": 1,
+    "draws": 0,
+    "losses": 0,
+    "goalsFor": 2,
+    "goalsAgainst": 0,
+    "lastMatchDate": "2009-11-25"
+  },
+  {
+    "name": "AMASYASPOR FUTBOL KULÜBÜ",
+    "matches": 1,
+    "wins": 0,
+    "draws": 0,
+    "losses": 1,
+    "goalsFor": 1,
+    "goalsAgainst": 2,
+    "lastMatchDate": "2024-10-13"
+  },
+  {
+    "name": "BURHANIYESPOR",
+    "matches": 1,
+    "wins": 1,
+    "draws": 0,
+    "losses": 0,
+    "goalsFor": 9,
+    "goalsAgainst": 1,
+    "lastMatchDate": "1991-09-15"
+  },
+  {
+    "name": "DENİZLİ İDMANYURDU 1959 SPOR KULÜBÜ",
+    "matches": 1,
+    "wins": 1,
+    "draws": 0,
+    "losses": 0,
+    "goalsFor": 1,
+    "goalsAgainst": 0,
+    "lastMatchDate": "2026-04-05"
+  },
+  {
+    "name": "DENİZLİ İDMANYURDU GÜRELLER SPOR KULÜBÜ",
+    "matches": 1,
+    "wins": 1,
+    "draws": 0,
+    "losses": 0,
+    "goalsFor": 3,
+    "goalsAgainst": 1,
+    "lastMatchDate": "2025-12-13"
+  },
+  {
+    "name": "EDREMITSPOR",
+    "matches": 1,
+    "wins": 0,
+    "draws": 0,
+    "losses": 1,
+    "goalsFor": 0,
+    "goalsAgainst": 1,
+    "lastMatchDate": "1990-11-11"
+  },
+  {
+    "name": "ETİMESGUT SPOR KULÜBÜ",
+    "matches": 1,
+    "wins": 1,
+    "draws": 0,
+    "losses": 0,
+    "goalsFor": 1,
+    "goalsAgainst": 0,
+    "lastMatchDate": "2025-03-15"
+  },
+  {
+    "name": "MUŞ SPOR KULÜBÜ",
+    "matches": 1,
+    "wins": 0,
+    "draws": 0,
+    "losses": 1,
+    "goalsFor": 0,
+    "goalsAgainst": 2,
+    "lastMatchDate": "2025-05-24"
+  },
+  {
+    "name": "THY",
+    "matches": 1,
+    "wins": 0,
+    "draws": 0,
+    "losses": 1,
+    "goalsFor": 0,
+    "goalsAgainst": 1,
+    "lastMatchDate": "1991-04-28"
+  },
+  {
+    "name": "YALOVA FK 77 SPOR KULÜBÜ",
+    "matches": 1,
+    "wins": 0,
+    "draws": 0,
+    "losses": 1,
+    "goalsFor": 1,
+    "goalsAgainst": 2,
+    "lastMatchDate": "2025-09-17"
+  },
+  {
+    "name": "YURT ET AMASYASPOR FK",
+    "matches": 1,
+    "wins": 0,
+    "draws": 1,
+    "losses": 0,
+    "goalsFor": 1,
+    "goalsAgainst": 1,
+    "lastMatchDate": "2025-04-02"
+  },
+  {
+    "name": "ÇATALCASPOR",
+    "matches": 1,
+    "wins": 0,
+    "draws": 1,
+    "losses": 0,
+    "goalsFor": 1,
+    "goalsAgainst": 1,
+    "lastMatchDate": "2023-09-17"
+  },
+  {
+    "name": "İDAŞ ÇATALCASPOR",
+    "matches": 1,
+    "wins": 0,
+    "draws": 1,
+    "losses": 0,
+    "goalsFor": 1,
+    "goalsAgainst": 1,
+    "lastMatchDate": "2024-01-28"
+  }
+]

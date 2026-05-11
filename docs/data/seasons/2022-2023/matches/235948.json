@@ -1,0 +1,431 @@
+{
+  "id": "235948",
+  "tff_match_id": "235948",
+  "season": "2022-2023",
+  "competition": "TFF 2.League (Professional Team)",
+  "roundType": "league",
+  "week": 2,
+  "stage": "2. Maç",
+  "date": "2022-09-04",
+  "time": "20:00",
+  "dateDisplay": "4.09.2022 - 20:00",
+  "homeTeam": "Balıkesirspor",
+  "awayTeam": "DİYARBEKİR SPOR A.Ş.",
+  "homeTeamRaw": "BAYNET İNŞAAT BALIKESİRSPOR",
+  "awayTeamRaw": "DİYARBEKİR SPOR A.Ş.",
+  "score": {
+    "home": 4,
+    "away": 2,
+    "display": "4-2",
+    "played": true
+  },
+  "balkes": {
+    "isHome": true,
+    "opponent": "DİYARBEKİR SPOR A.Ş.",
+    "goalsFor": 4,
+    "goalsAgainst": 2,
+    "result": "W"
+  },
+  "detailUrl": "seasons/2022-2023/matches/235948.json",
+  "source": {
+    "name": "TFF",
+    "url": "https://www.tff.org/Default.aspx?macId=235948&pageID=528"
+  },
+  "match_code": "3559",
+  "venue": "BALIKESİR ATATÜRK - BALIKESİR",
+  "referees": [
+    {
+      "name": "BURAK TAŞKINSOY",
+      "role": "Referee"
+    },
+    {
+      "name": "SEFA ÖZCAN",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "ÇAĞRI YILDIRIM",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "CİHAN ATAŞ",
+      "role": "Fourth Official"
+    },
+    {
+      "name": "SERKAN GENÇERLER",
+      "role": "Observer"
+    },
+    {
+      "name": "AYDIN BALKANLI",
+      "role": "Delegate"
+    },
+    {
+      "name": "SERKAN YURDABAK",
+      "role": "Delegate"
+    }
+  ],
+  "lineups": {
+    "home": {
+      "team": "Balıkesirspor",
+      "team_raw": "BAYNET İNŞAAT BALIKESİRSPOR",
+      "starting11": [
+        {
+          "shirt_no": "1.",
+          "name": "YİĞİTHAN KIR"
+        },
+        {
+          "shirt_no": "63.",
+          "name": "İBRAHİM HALİL ÇOLAK"
+        },
+        {
+          "shirt_no": "4.",
+          "name": "BİROL PARLAK"
+        },
+        {
+          "shirt_no": "77.",
+          "name": "DOĞA İŞERİ"
+        },
+        {
+          "shirt_no": "10.",
+          "name": "OĞUZ HAN AYNAOĞLU"
+        },
+        {
+          "shirt_no": "5.",
+          "name": "SEDAT DURSUN"
+        },
+        {
+          "shirt_no": "7.",
+          "name": "ANDAÇ GÜLERYÜZ"
+        },
+        {
+          "shirt_no": "15.",
+          "name": "KAĞAN KAYALI"
+        },
+        {
+          "shirt_no": "39.",
+          "name": "HÜSEYİN KARABEY"
+        },
+        {
+          "shirt_no": "20.",
+          "name": "BERK TOSUN"
+        },
+        {
+          "shirt_no": "3.",
+          "name": "BERAT AYDOĞDU"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "26.",
+          "name": "YASİN YİĞİT BERBER"
+        },
+        {
+          "shirt_no": "97.",
+          "name": "BERKAY AYKURT"
+        },
+        {
+          "shirt_no": "22.",
+          "name": "AYBERK KAYGISIZ"
+        },
+        {
+          "shirt_no": "43.",
+          "name": "AHMET ÇAĞRI ÇOLAK"
+        },
+        {
+          "shirt_no": "33.",
+          "name": "GÜNEY ÇELİK KELEŞ"
+        },
+        {
+          "shirt_no": "27.",
+          "name": "DOĞANAY AVCI"
+        },
+        {
+          "shirt_no": "44.",
+          "name": "GÖRKEM ALTUN"
+        },
+        {
+          "shirt_no": "9.",
+          "name": "BEDİRHAN KOLKOPARAN"
+        },
+        {
+          "shirt_no": "21.",
+          "name": "SEDAT YİĞİT KURNAZ"
+        },
+        {
+          "shirt_no": "99.",
+          "name": "EMİRHAN ÇAKIR"
+        }
+      ],
+      "coach": "MUHAMMET YILMAZ"
+    },
+    "away": {
+      "team": "DİYARBEKİR SPOR A.Ş.",
+      "team_raw": "DİYARBEKİR SPOR A.Ş.",
+      "starting11": [
+        {
+          "shirt_no": "1.",
+          "name": "GÖKHAN SİVEREK"
+        },
+        {
+          "shirt_no": "4.",
+          "name": "BARAN IŞIK"
+        },
+        {
+          "shirt_no": "5.",
+          "name": "NURİ MELİH MURSAL"
+        },
+        {
+          "shirt_no": "8.",
+          "name": "YASİN ELMAS"
+        },
+        {
+          "shirt_no": "10.",
+          "name": "İLKER SAYAN"
+        },
+        {
+          "shirt_no": "14.",
+          "name": "FATİH ÇİPLAK"
+        },
+        {
+          "shirt_no": "17.",
+          "name": "ENES SUBAŞI"
+        },
+        {
+          "shirt_no": "18.",
+          "name": "YASİN PALAZ"
+        },
+        {
+          "shirt_no": "21.",
+          "name": "SERHAT ENES ÇALIŞAN"
+        },
+        {
+          "shirt_no": "75.",
+          "name": "OZAN KARABACAK"
+        },
+        {
+          "shirt_no": "99.",
+          "name": "ONAT KUTAY KURT"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "25.",
+          "name": "MÜCAHİT ÇIRA"
+        },
+        {
+          "shirt_no": "6.",
+          "name": "RIDVAN BİNGÖL"
+        },
+        {
+          "shirt_no": "9.",
+          "name": "EMRULLAH SAYAR"
+        },
+        {
+          "shirt_no": "11.",
+          "name": "BERKAY CEYLAN"
+        },
+        {
+          "shirt_no": "70.",
+          "name": "DOĞAN KARAKUŞ"
+        },
+        {
+          "shirt_no": "41.",
+          "name": "AHMET ÖZER"
+        },
+        {
+          "shirt_no": "46.",
+          "name": "İSA BALTACI"
+        },
+        {
+          "shirt_no": "61.",
+          "name": "MUHAMMED SARIKAYA"
+        },
+        {
+          "shirt_no": "77.",
+          "name": "ŞERİF DOĞAN"
+        },
+        {
+          "shirt_no": "78.",
+          "name": "CİHAN AYDIN"
+        }
+      ],
+      "coach": "ENDER ALKAN"
+    }
+  },
+  "events": [
+    {
+      "type": "card",
+      "team": "DİYARBEKİR SPOR A.Ş.",
+      "player": "ONAT KUTAY KURT",
+      "minute": 16,
+      "minute_text": "16. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "HÜSEYİN KARABEY",
+      "minute": 28,
+      "minute_text": "28. dk"
+    },
+    {
+      "type": "goal",
+      "player": "BERAT AYDOĞDU",
+      "minute": 34,
+      "minute_text": "34. dk",
+      "note": "Ayak",
+      "team": "Balıkesirspor"
+    },
+    {
+      "type": "card",
+      "team": "DİYARBEKİR SPOR A.Ş.",
+      "player": "FATİH ÇİPLAK",
+      "minute": 42,
+      "minute_text": "42. dk"
+    },
+    {
+      "type": "card",
+      "team": "DİYARBEKİR SPOR A.Ş.",
+      "player": "SERHAT ENES ÇALIŞAN",
+      "minute": 42,
+      "minute_text": "42. dk"
+    },
+    {
+      "type": "goal",
+      "player": "ONAT KUTAY KURT",
+      "minute": 44,
+      "minute_text": "44. dk",
+      "note": "Ayak",
+      "team": "DİYARBEKİR SPOR A.Ş."
+    },
+    {
+      "type": "substitution",
+      "team": "DİYARBEKİR SPOR A.Ş.",
+      "player_out": "İLKER SAYAN",
+      "player_in": "RIDVAN BİNGÖL",
+      "minute": 46,
+      "minute_text": "46. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "DİYARBEKİR SPOR A.Ş.",
+      "player_out": "SERHAT ENES ÇALIŞAN",
+      "player_in": "EMRULLAH SAYAR",
+      "minute": 46,
+      "minute_text": "46. dk"
+    },
+    {
+      "type": "goal",
+      "player": "OĞUZ HAN AYNAOĞLU",
+      "minute": 54,
+      "minute_text": "54. dk",
+      "note": "Ayak",
+      "team": "Balıkesirspor"
+    },
+    {
+      "type": "substitution",
+      "team": "DİYARBEKİR SPOR A.Ş.",
+      "player_out": "NURİ MELİH MURSAL",
+      "player_in": "CİHAN AYDIN",
+      "minute": 56,
+      "minute_text": "56. dk"
+    },
+    {
+      "type": "goal",
+      "player": "HÜSEYİN KARABEY",
+      "minute": 59,
+      "minute_text": "59. dk",
+      "note": "Ayak",
+      "team": "Balıkesirspor"
+    },
+    {
+      "type": "substitution",
+      "team": "DİYARBEKİR SPOR A.Ş.",
+      "player_out": "ONAT KUTAY KURT",
+      "player_in": "MUHAMMED SARIKAYA",
+      "minute": 70,
+      "minute_text": "70. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "ANDAÇ GÜLERYÜZ",
+      "player_in": "AYBERK KAYGISIZ",
+      "minute": 72,
+      "minute_text": "72. dk"
+    },
+    {
+      "type": "goal",
+      "player": "İBRAHİM HALİL ÇOLAK",
+      "minute": 75,
+      "minute_text": "75. dk",
+      "note": "Ayak",
+      "team": "Balıkesirspor"
+    },
+    {
+      "type": "substitution",
+      "team": "DİYARBEKİR SPOR A.Ş.",
+      "player_out": "OZAN KARABACAK",
+      "player_in": "BERKAY CEYLAN",
+      "minute": 75,
+      "minute_text": "75. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "OĞUZ HAN AYNAOĞLU",
+      "player_in": "EMİRHAN ÇAKIR",
+      "minute": 81,
+      "minute_text": "81. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "HÜSEYİN KARABEY",
+      "player_in": "BEDİRHAN KOLKOPARAN",
+      "minute": 81,
+      "minute_text": "81. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "BİROL PARLAK",
+      "minute": 83,
+      "minute_text": "83. dk"
+    },
+    {
+      "type": "card",
+      "team": "DİYARBEKİR SPOR A.Ş.",
+      "player": "CİHAN AYDIN",
+      "minute": 83,
+      "minute_text": "83. dk"
+    },
+    {
+      "type": "goal",
+      "player": "BERKAY CEYLAN",
+      "minute": 90,
+      "minute_text": "90. dk",
+      "note": "Ayak",
+      "team": "DİYARBEKİR SPOR A.Ş."
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "BERAT AYDOĞDU",
+      "player_in": "AHMET ÇAĞRI ÇOLAK",
+      "minute": 90.2,
+      "minute_text": "90+2. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "İBRAHİM HALİL ÇOLAK",
+      "player_in": "BERKAY AYKURT",
+      "minute": 90.2,
+      "minute_text": "90+2. dk"
+    }
+  ],
+  "dataQuality": {
+    "lineupsAvailable": true,
+    "eventsAvailable": true,
+    "sourceType": "tff_detail_page"
+  }
+}

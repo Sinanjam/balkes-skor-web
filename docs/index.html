@@ -3,95 +3,185 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-  <meta name="theme-color" content="#b00018">
-  <meta name="description" content="Balıkesirspor'a özel maç, skor, puan durumu ve TFF açık veri arşivi.">
+  <meta name="theme-color" content="#090b12">
+  <meta name="color-scheme" content="dark">
+  <meta name="description" content="Balkes Skor: Balıkesirspor maç, skor, oyuncu, rakip ve TFF açık veri arşivi.">
   <title>Balkes Skor</title>
-  <link rel="icon" href="assets/ic_launcher.png" onerror="this.href='assets/ic_launcher.svg'">
-  <link rel="apple-touch-icon" href="assets/ic_launcher.png">
+  <link rel="icon" href="assets/ic_launcher.png">
+  <link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
   <link rel="stylesheet" href="style.css">
   <script data-goatcounter="https://balkesskor.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
 </head>
 <body>
-  <header class="hero">
-    <div class="hero-shell">
-      <div class="brand-row">
-        <img class="logo" src="assets/logo_balkes_skor.png" onerror="this.src='assets/logo_balkes_skor.svg'" alt="Balkes Skor logosu">
-        <div>
-          <div class="kicker">Balıkesirspor maç merkezi</div>
-          <h1>Balkes Skor</h1>
-          <p class="lead">TFF açık verilerinden hazırlanmış fikstür, sonuç, puan durumu, ilk 11 ve maç olayları arşivi.</p>
-          <div class="hero-actions">
-            <a class="download" href="https://github.com/Sinanjam/balkes-skor/releases/latest/download/BalkesSkor-beta-debug.apk">Android Beta APK İndir</a>
-            <a class="ghost" href="https://github.com/Sinanjam/balkes-skor/releases/latest">Son release</a>
-          </div>
+  <div class="ambient ambient-a"></div>
+  <div class="ambient ambient-b"></div>
+
+  <header class="site-header">
+    <nav class="topbar" aria-label="Ana menü">
+      <a class="brand" href="#top" aria-label="Balkes Skor ana sayfa">
+        <img src="assets/logo_balkes_skor.png" alt="" class="brand-logo">
+        <span>Balkes Skor</span>
+      </a>
+      <div class="nav-links">
+        <a href="#maclar">Maçlar</a>
+        <a href="#oyuncular">Oyuncular</a>
+        <a href="#rakipler">Rakipler</a>
+        <a href="#hakkinda">Hakkında</a>
+      </div>
+      <a class="download-mini" href="https://github.com/Sinanjam/balkes-skor/releases/latest/download/BalkesSkor-beta-debug.apk" rel="noopener">APK İndir</a>
+    </nav>
+
+    <section class="hero" id="top">
+      <div class="hero-copy">
+        <div class="eyebrow"><span class="pulse"></span> Balıkesirspor maç merkezi</div>
+        <h1>Balıkesirspor verileri tek yerde.</h1>
+        <p>Maçlar, sezon kıyasları, oyuncu performansları, rakip geçmişi ve TFF açık verilerinden derlenen arşiv.</p>
+        <div class="hero-actions">
+          <a class="primary" href="https://github.com/Sinanjam/balkes-skor/releases/latest/download/BalkesSkor-beta-debug.apk" rel="noopener">Android APK indir</a>
+          <a class="secondary" href="#maclar">Verileri incele</a>
         </div>
       </div>
-      <aside class="hero-card">
-        <span>Veri durumu</span>
+      <aside class="hero-card glass">
+        <img src="assets/logo_balkes_skor.png" alt="Balkes Skor logosu" class="hero-logo">
+        <div class="live-line">Veri durumu</div>
         <strong id="data-status">Yükleniyor...</strong>
-        <small id="data-source">GitHub Pages / yerel JSON</small>
+        <small id="data-source">GitHub Pages JSON verisi</small>
       </aside>
-    </div>
+    </section>
   </header>
 
-  <main class="shell">
-    <section class="summary-grid" aria-label="Sezon özeti">
-      <div class="stat-card"><span>Sezon</span><strong id="season-name">—</strong></div>
-      <div class="stat-card"><span>Lig Maçı</span><strong id="league-matches">—</strong></div>
-      <div class="stat-card"><span>Puan</span><strong id="points">—</strong></div>
-      <div class="stat-card"><span>Averaj</span><strong id="goal-diff">—</strong></div>
+  <main>
+    <section class="metric-grid" aria-label="Genel özet">
+      <article class="metric-card"><span>Sezon</span><strong id="metric-seasons">—</strong><small>arşivde</small></article>
+      <article class="metric-card"><span>Maç</span><strong id="metric-matches">—</strong><small>tasnifli</small></article>
+      <article class="metric-card"><span>Oyuncu</span><strong id="metric-players">—</strong><small>indeksli</small></article>
+      <article class="metric-card"><span>Rakip</span><strong id="metric-opponents">—</strong><small>geçmiş</small></article>
     </section>
 
-    <section class="spotlight-grid">
+    <section class="panel wide" id="sezonlar">
+      <div class="section-head">
+        <div>
+          <span class="overline">Sezon kıyası</span>
+          <h2>Sağa kaydırdıkça eski sezonlara git</h2>
+        </div>
+        <small>En yeni sezon solda, eski sezonlar sağa doğru akar.</small>
+      </div>
+      <div class="season-rail" id="season-rail" tabindex="0" aria-label="Sezonlar"></div>
+    </section>
+
+    <section class="season-detail grid-2">
       <article class="panel">
-        <div class="section-title"><span>Son maç</span><button id="open-last-match" type="button">Detay</button></div>
-        <div id="last-match" class="match-spot">Yükleniyor...</div>
+        <div class="section-head compact">
+          <div>
+            <span class="overline">Seçili sezon</span>
+            <h2 id="selected-season-title">—</h2>
+          </div>
+          <select id="season-select" aria-label="Sezon seç"></select>
+        </div>
+        <div class="season-stats" id="season-stats"></div>
       </article>
       <article class="panel">
-        <div class="section-title"><span>Puan durumu</span><button id="jump-standings" type="button">Tabloya git</button></div>
-        <div id="standings-mini" class="mini-table">Yükleniyor...</div>
+        <div class="section-head compact">
+          <div>
+            <span class="overline">Son maç</span>
+            <h2>Skor kartı</h2>
+          </div>
+          <button class="ghost" id="last-detail" type="button">Detay</button>
+        </div>
+        <div id="last-match" class="last-match">Yükleniyor...</div>
       </article>
     </section>
 
-    <section class="toolbar" aria-label="Maç arama ve filtreleme">
-      <input id="search" placeholder="Rakip, hafta, skor veya stat ara..." autocomplete="off">
-      <select id="season-select" aria-label="Sezon seçimi"></select>
-      <select id="result-filter" aria-label="Sonuç filtresi">
-        <option value="">Tüm sonuçlar</option>
-        <option value="W">Galibiyet</option>
-        <option value="D">Beraberlik</option>
-        <option value="L">Mağlubiyet</option>
-      </select>
-      <select id="round-filter" aria-label="Tur filtresi">
-        <option value="">Lig + Play-off</option>
-        <option value="league">Lig</option>
-        <option value="playoff">Play-off</option>
-      </select>
+    <section class="panel" id="maclar">
+      <div class="section-head">
+        <div>
+          <span class="overline">Fikstür ve sonuçlar</span>
+          <h2>Maçlar</h2>
+        </div>
+        <small id="match-count">—</small>
+      </div>
+      <div class="toolbar">
+        <input id="search" placeholder="Rakip, skor, stat, hafta ara..." autocomplete="off">
+        <select id="result-filter" aria-label="Sonuç filtresi">
+          <option value="">Tüm sonuçlar</option>
+          <option value="W">Galibiyet</option>
+          <option value="D">Beraberlik</option>
+          <option value="L">Mağlubiyet</option>
+        </select>
+        <select id="round-filter" aria-label="Maç tipi filtresi">
+          <option value="">Tüm maçlar</option>
+          <option value="league">Lig</option>
+          <option value="playoff">Play-off</option>
+          <option value="cup">Kupa</option>
+        </select>
+      </div>
+      <section id="detail" class="match-detail" hidden></section>
+      <div id="matches" class="match-list"></div>
     </section>
 
-    <section id="detail" class="detail" hidden></section>
-
-    <section class="content-grid">
-      <article class="panel matches-panel">
-        <div class="section-title"><span>Maçlar</span><small id="match-count">—</small></div>
-        <div id="matches" class="matches"></div>
-      </article>
-      <article class="panel standings-panel" id="standings-panel">
-        <div class="section-title"><span>Puan Durumu</span><select id="week-select" aria-label="Hafta seçimi"></select></div>
+    <section class="grid-2">
+      <article class="panel" id="puan">
+        <div class="section-head compact">
+          <div>
+            <span class="overline">Haftalık</span>
+            <h2>Puan durumu</h2>
+          </div>
+          <select id="week-select" aria-label="Puan durumu haftası"></select>
+        </div>
         <div class="table-wrap">
           <table id="standings-table">
-            <thead><tr><th>#</th><th>Takım</th><th>O</th><th>G</th><th>B</th><th>M</th><th>A</th><th>Y</th><th>AV</th><th>P</th></tr></thead>
-            <tbody><tr><td colspan="10">Yükleniyor...</td></tr></tbody>
+            <thead><tr><th>#</th><th>Takım</th><th>O</th><th>G</th><th>B</th><th>M</th><th>AV</th><th>P</th></tr></thead>
+            <tbody></tbody>
           </table>
         </div>
       </article>
+
+      <article class="panel" id="rakipler">
+        <div class="section-head compact">
+          <div>
+            <span class="overline">Rakip geçmişi</span>
+            <h2>Rakipler</h2>
+          </div>
+          <input id="opponent-search" placeholder="Rakip ara..." autocomplete="off">
+        </div>
+        <div id="opponents" class="opponent-list"></div>
+      </article>
+    </section>
+
+    <section class="panel" id="oyuncular">
+      <div class="section-head">
+        <div>
+          <span class="overline">Oyuncu performansları</span>
+          <h2>Oyuncular</h2>
+        </div>
+        <input id="player-search" placeholder="Oyuncu ara..." autocomplete="off">
+      </div>
+      <div class="player-note">Oyuncuya dokununca kart içinde detaylar açılır.</div>
+      <div id="players" class="player-grid"></div>
+    </section>
+
+    <section class="panel about" id="hakkinda">
+      <div class="section-head">
+        <div>
+          <span class="overline">Balkes Skor</span>
+          <h2>Hakkında</h2>
+        </div>
+      </div>
+      <ul>
+        <li>Sadece TFF sitelerinden çekebildiğimiz veriler baz alınmıştır.</li>
+        <li>Kaynak Kodları: <a href="https://github.com/Sinanjam/balkes-skor.git" rel="noopener">https://github.com/Sinanjam/balkes-skor.git</a></li>
+        <li>Web sitesi: <a href="https://sinanjam.github.io/balkes-skor-web/" rel="noopener">https://sinanjam.github.io/balkes-skor-web/</a></li>
+      </ul>
+      <p class="counter-line">GoatCounter sayacı aktiftir: <strong>balkesskor.goatcounter.com</strong></p>
     </section>
   </main>
 
   <footer class="footer">
-    <strong>Balkes Skor</strong>
-    <span>Resmi olmayan taraftar projesidir. Veriler TFF açık sayfalarından derlenir.</span>
+    <span>Balkes Skor</span>
+    <small>TFF açık verileriyle hazırlanmış taraftar arşivi.</small>
   </footer>
+
+  <noscript><img src="https://balkesskor.goatcounter.com/count?p=/noscript" alt="" style="position:absolute;left:-9999px;width:1px;height:1px"></noscript>
   <script src="app.js"></script>
 </body>
 </html>

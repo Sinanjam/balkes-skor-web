@@ -1,0 +1,406 @@
+{
+  "id": "251240",
+  "tff_match_id": "251240",
+  "season": "2023-2024",
+  "competition": "TFF 3. LEAGUE (Professional Team)",
+  "roundType": "league",
+  "week": 11,
+  "stage": "11. Maç",
+  "date": "2023-11-19",
+  "time": "14:00",
+  "dateDisplay": "19.11.2023 - 14:00",
+  "homeTeam": "SEBAT GENÇLİK SPOR",
+  "awayTeam": "Balıkesirspor",
+  "homeTeamRaw": "SEBAT GENÇLİK SPOR",
+  "awayTeamRaw": "BALIKESİRSPOR",
+  "score": {
+    "home": 2,
+    "away": 0,
+    "display": "2-0",
+    "played": true
+  },
+  "balkes": {
+    "isHome": false,
+    "opponent": "SEBAT GENÇLİK SPOR",
+    "goalsFor": 0,
+    "goalsAgainst": 2,
+    "result": "L"
+  },
+  "detailUrl": "seasons/2023-2024/matches/251240.json",
+  "source": {
+    "name": "TFF",
+    "url": "https://www.tff.org/Default.aspx?macId=251240&pageID=528"
+  },
+  "match_code": "4706",
+  "venue": "ORTAHİSAR YAVUZ SELİM STADI - TRABZON",
+  "referees": [
+    {
+      "name": "AHMET TURAN TİMUROĞLU",
+      "role": "Referee"
+    },
+    {
+      "name": "YAKUP KEÇECİ",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "YUNUS YILDIZ",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "RIDVAN KARA",
+      "role": "Fourth Official"
+    },
+    {
+      "name": "METİN CEBECİ",
+      "role": "Observer"
+    },
+    {
+      "name": "MUSTAFA SİNAN IŞIK",
+      "role": "Delegate"
+    },
+    {
+      "name": "ERTÜRK MUTLU",
+      "role": "Delegate"
+    }
+  ],
+  "lineups": {
+    "home": {
+      "team": "SEBAT GENÇLİK SPOR",
+      "team_raw": "SEBAT GENÇLİK SPOR",
+      "starting11": [
+        {
+          "shirt_no": "34.",
+          "name": "ONUR BİLGİN"
+        },
+        {
+          "shirt_no": "4.",
+          "name": "EMRAH ÇIRAK"
+        },
+        {
+          "shirt_no": "5.",
+          "name": "MUHAMMET DOĞUKAN KALKIŞIM"
+        },
+        {
+          "shirt_no": "7.",
+          "name": "VEYSEL SÖNMEZSOY"
+        },
+        {
+          "shirt_no": "9.",
+          "name": "ÖNDER SELİMOĞLU"
+        },
+        {
+          "shirt_no": "14.",
+          "name": "VOLKAN ULUĞ"
+        },
+        {
+          "shirt_no": "17.",
+          "name": "ADNAN GÜLEN"
+        },
+        {
+          "shirt_no": "27.",
+          "name": "MUHAMMED ENES DOĞAN"
+        },
+        {
+          "shirt_no": "36.",
+          "name": "BURAK CAN AKINCI"
+        },
+        {
+          "shirt_no": "61.",
+          "name": "MURAT KANOĞLU"
+        },
+        {
+          "shirt_no": "63.",
+          "name": "RIDVAN BİNGÖL"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "96.",
+          "name": "HAKAN AYDIN"
+        },
+        {
+          "shirt_no": "58.",
+          "name": "ALİ ALPEREN ÇELİK"
+        },
+        {
+          "shirt_no": "10.",
+          "name": "EMİR UZUN"
+        },
+        {
+          "shirt_no": "11.",
+          "name": "SAVAŞ ÇAKIR"
+        },
+        {
+          "shirt_no": "18.",
+          "name": "ÖMER KANDEMİR"
+        },
+        {
+          "shirt_no": "23.",
+          "name": "EYÜP ENİS SEİS"
+        },
+        {
+          "shirt_no": "46.",
+          "name": "FAHRETTİN BIYIKLI"
+        },
+        {
+          "shirt_no": "66.",
+          "name": "ONUR SEİS"
+        },
+        {
+          "shirt_no": "21.",
+          "name": "MUHAMMED MUSTAFA PINARCI"
+        },
+        {
+          "shirt_no": "99.",
+          "name": "TAYYİP EBRAR CUMUR"
+        }
+      ],
+      "coach": "İBRAHİM PARLAYAN"
+    },
+    "away": {
+      "team": "Balıkesirspor",
+      "team_raw": "BALIKESİRSPOR",
+      "starting11": [
+        {
+          "shirt_no": "12.",
+          "name": "HÜSEYİN ALTINTAŞ"
+        },
+        {
+          "shirt_no": "5.",
+          "name": "KAĞAN KAYALI"
+        },
+        {
+          "shirt_no": "54.",
+          "name": "ÖMER FARUK YAYLACI"
+        },
+        {
+          "shirt_no": "4.",
+          "name": "BİROL PARLAK"
+        },
+        {
+          "shirt_no": "70.",
+          "name": "GÖKSU MUTLU"
+        },
+        {
+          "shirt_no": "15.",
+          "name": "ASIM HAMZAÇEBİ"
+        },
+        {
+          "shirt_no": "10.",
+          "name": "SEDAT YİĞİT KURNAZ"
+        },
+        {
+          "shirt_no": "6.",
+          "name": "BERAT AYDOĞDU"
+        },
+        {
+          "shirt_no": "11.",
+          "name": "ARDA İBRAHİM AKGÜN"
+        },
+        {
+          "shirt_no": "55.",
+          "name": "OKTAY BALA"
+        },
+        {
+          "shirt_no": "27.",
+          "name": "RAHMİ ANIL BAŞARAN"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "1.",
+          "name": "YİĞİTHAN KIR"
+        },
+        {
+          "shirt_no": "7.",
+          "name": "BERKAY AYKURT"
+        },
+        {
+          "shirt_no": "14.",
+          "name": "HAKAN AKGÜL"
+        },
+        {
+          "shirt_no": "40.",
+          "name": "ERKAN SÜER"
+        },
+        {
+          "shirt_no": "21.",
+          "name": "MUHSİN YILDIRIM"
+        },
+        {
+          "shirt_no": "53.",
+          "name": "DOĞUKAN SARAL"
+        },
+        {
+          "shirt_no": "9.",
+          "name": "BERKE DOĞUKAN ÖNDE"
+        },
+        {
+          "shirt_no": "88.",
+          "name": "UTKAN GÖKÇEN"
+        },
+        {
+          "shirt_no": "19.",
+          "name": "ENES KARABULUT"
+        },
+        {
+          "shirt_no": "22.",
+          "name": "GÖRKEM ALTUN"
+        }
+      ],
+      "coach": "İSMAİL CEM CAMBAZ"
+    }
+  },
+  "events": [
+    {
+      "type": "card",
+      "team": "SEBAT GENÇLİK SPOR",
+      "player": "VOLKAN ULUĞ",
+      "minute": 8,
+      "minute_text": "8. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "GÖKSU MUTLU",
+      "minute": 11,
+      "minute_text": "11. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "ÖMER FARUK YAYLACI",
+      "minute": 16,
+      "minute_text": "16. dk"
+    },
+    {
+      "type": "goal",
+      "player": "ÖNDER SELİMOĞLU",
+      "minute": 43,
+      "minute_text": "43. dk",
+      "note": "Ayak",
+      "team": "SEBAT GENÇLİK SPOR"
+    },
+    {
+      "type": "card",
+      "team": "SEBAT GENÇLİK SPOR",
+      "player": "BURAK CAN AKINCI",
+      "minute": 44,
+      "minute_text": "44. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "SEBAT GENÇLİK SPOR",
+      "player_out": "VOLKAN ULUĞ",
+      "player_in": "EYÜP ENİS SEİS",
+      "minute": 46,
+      "minute_text": "46. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "BİROL PARLAK",
+      "player_in": "ENES KARABULUT",
+      "minute": 46,
+      "minute_text": "46. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "SEDAT YİĞİT KURNAZ",
+      "player_in": "ERKAN SÜER",
+      "minute": 46,
+      "minute_text": "46. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "ARDA İBRAHİM AKGÜN",
+      "player_in": "BERKAY AYKURT",
+      "minute": 46,
+      "minute_text": "46. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "SEBAT GENÇLİK SPOR",
+      "player_out": "MUHAMMET DOĞUKAN KALKIŞIM",
+      "player_in": "SAVAŞ ÇAKIR",
+      "minute": 67,
+      "minute_text": "67. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "ENES KARABULUT",
+      "minute": 71,
+      "minute_text": "71. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "SEBAT GENÇLİK SPOR",
+      "player_out": "VEYSEL SÖNMEZSOY",
+      "player_in": "ALİ ALPEREN ÇELİK",
+      "minute": 73,
+      "minute_text": "73. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "RAHMİ ANIL BAŞARAN",
+      "player_in": "BERKE DOĞUKAN ÖNDE",
+      "minute": 77,
+      "minute_text": "77. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "SEBAT GENÇLİK SPOR",
+      "player_out": "SAVAŞ ÇAKIR",
+      "player_in": "EMİR UZUN",
+      "minute": 86,
+      "minute_text": "86. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "SEBAT GENÇLİK SPOR",
+      "player_out": "RIDVAN BİNGÖL",
+      "player_in": "FAHRETTİN BIYIKLI",
+      "minute": 86,
+      "minute_text": "86. dk"
+    },
+    {
+      "type": "card",
+      "team": "SEBAT GENÇLİK SPOR",
+      "player": "ÖNDER SELİMOĞLU",
+      "minute": 88,
+      "minute_text": "88. dk"
+    },
+    {
+      "type": "goal",
+      "player": "EMİR UZUN",
+      "minute": 89,
+      "minute_text": "89. dk",
+      "note": "Ayak",
+      "team": "SEBAT GENÇLİK SPOR"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "OKTAY BALA",
+      "player_in": "MUHSİN YILDIRIM",
+      "minute": 90,
+      "minute_text": "90. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "KAĞAN KAYALI",
+      "minute": 90.3,
+      "minute_text": "90+3. dk"
+    }
+  ],
+  "dataQuality": {
+    "lineupsAvailable": true,
+    "eventsAvailable": true,
+    "sourceType": "tff_detail_page"
+  }
+}

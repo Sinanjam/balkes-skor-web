@@ -1,0 +1,391 @@
+{
+  "id": "235920",
+  "tff_match_id": "235920",
+  "season": "2022-2023",
+  "competition": "TFF 2.League (Professional Team)",
+  "roundType": "league",
+  "week": 34,
+  "stage": "34. Maç",
+  "date": "2023-04-23",
+  "time": "15:00",
+  "dateDisplay": "23.04.2023 - 15:00",
+  "homeTeam": "FETHİYESPOR",
+  "awayTeam": "Balıkesirspor",
+  "homeTeamRaw": "FETHİYESPOR",
+  "awayTeamRaw": "BAYNET İNŞAAT BALIKESİRSPOR",
+  "score": {
+    "home": 7,
+    "away": 1,
+    "display": "7-1",
+    "played": true
+  },
+  "balkes": {
+    "isHome": false,
+    "opponent": "FETHİYESPOR",
+    "goalsFor": 1,
+    "goalsAgainst": 7,
+    "result": "L"
+  },
+  "detailUrl": "seasons/2022-2023/matches/235920.json",
+  "source": {
+    "name": "TFF",
+    "url": "https://www.tff.org/Default.aspx?macId=235920&pageID=528"
+  },
+  "match_code": "3531",
+  "venue": "FETHİYE İLÇE - MUĞLA - FETHİYE",
+  "referees": [
+    {
+      "name": "İLKER YASİN AVCI",
+      "role": "Referee"
+    },
+    {
+      "name": "NURETTİN DİNÇER DEMİR",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "AZAD İLHAN",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "YAKUP ÖZHAN",
+      "role": "Fourth Official"
+    },
+    {
+      "name": "MEHMET NEVZAT ADAL",
+      "role": "Observer"
+    },
+    {
+      "name": "ERHAN SÜYEK",
+      "role": "Delegate"
+    }
+  ],
+  "lineups": {
+    "home": {
+      "team": "FETHİYESPOR",
+      "team_raw": "FETHİYESPOR",
+      "starting11": [
+        {
+          "shirt_no": "13.",
+          "name": "ÜBEYD ADIYAMAN"
+        },
+        {
+          "shirt_no": "3.",
+          "name": "DOĞANCAN KILIÇ"
+        },
+        {
+          "shirt_no": "92.",
+          "name": "SEZER ÖZMEN"
+        },
+        {
+          "shirt_no": "7.",
+          "name": "RIDVAN TÜRKER"
+        },
+        {
+          "shirt_no": "37.",
+          "name": "BERKAY SAMANCI"
+        },
+        {
+          "shirt_no": "12.",
+          "name": "İLYAS YILMAZER"
+        },
+        {
+          "shirt_no": "28.",
+          "name": "BERKİN TAŞKIN"
+        },
+        {
+          "shirt_no": "11.",
+          "name": "AYKUT ULUÇ"
+        },
+        {
+          "shirt_no": "33.",
+          "name": "SELÇUK ALİBAZ"
+        },
+        {
+          "shirt_no": "19.",
+          "name": "MURAT YILMAZ"
+        },
+        {
+          "shirt_no": "23.",
+          "name": "BURAK ÖZDUMAN"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "97.",
+          "name": "ENES FİDAYEO"
+        },
+        {
+          "shirt_no": "41.",
+          "name": "ONUR TAHA TAKIR"
+        },
+        {
+          "shirt_no": "8.",
+          "name": "SELİM KAYACI"
+        },
+        {
+          "shirt_no": "48.",
+          "name": "CİHAN KAZAN"
+        },
+        {
+          "shirt_no": "80.",
+          "name": "ALİ CEYLAN"
+        },
+        {
+          "shirt_no": "21.",
+          "name": "OKTAY BALCI"
+        },
+        {
+          "shirt_no": "99.",
+          "name": "HANİFİ ÖZKÖK"
+        }
+      ],
+      "coach": "ERHAN ALTIN"
+    },
+    "away": {
+      "team": "Balıkesirspor",
+      "team_raw": "BAYNET İNŞAAT BALIKESİRSPOR",
+      "starting11": [
+        {
+          "shirt_no": "1.",
+          "name": "YİĞİTHAN KIR"
+        },
+        {
+          "shirt_no": "25.",
+          "name": "ABDULLAH ADIYAMAN"
+        },
+        {
+          "shirt_no": "33.",
+          "name": "GÜNEY ÇELİK KELEŞ"
+        },
+        {
+          "shirt_no": "44.",
+          "name": "GÖRKEM ALTUN"
+        },
+        {
+          "shirt_no": "28.",
+          "name": "MUHAMMED EREN TÜRKMEN"
+        },
+        {
+          "shirt_no": "61.",
+          "name": "HASAN CAN BİNGÜL"
+        },
+        {
+          "shirt_no": "21.",
+          "name": "SEDAT YİĞİT KURNAZ"
+        },
+        {
+          "shirt_no": "27.",
+          "name": "DOĞANAY AVCI"
+        },
+        {
+          "shirt_no": "80.",
+          "name": "ÜMİT DOĞRU"
+        },
+        {
+          "shirt_no": "6.",
+          "name": "MUSTAFA ÖNCÜ"
+        },
+        {
+          "shirt_no": "67.",
+          "name": "ARDA İBRAHİM AKGÜN"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "79.",
+          "name": "YUNUS EMRE DAVRAN"
+        },
+        {
+          "shirt_no": "12.",
+          "name": "OKAN ARI"
+        },
+        {
+          "shirt_no": "69.",
+          "name": "UMUT CAN AKÇAOĞLU"
+        },
+        {
+          "shirt_no": "2.",
+          "name": "MUSTAFA BURAK GÜNDOĞAN"
+        },
+        {
+          "shirt_no": "17.",
+          "name": "TALHA GÖKŞİN"
+        },
+        {
+          "shirt_no": "24.",
+          "name": "ARDA GÖROĞLU"
+        },
+        {
+          "shirt_no": "43.",
+          "name": "AHMET ÇAĞRI ÇOLAK"
+        }
+      ],
+      "coach": "CAN CANGÖK"
+    }
+  },
+  "events": [
+    {
+      "type": "goal",
+      "player": "GÜNEY ÇELİK KELEŞ",
+      "minute": 20,
+      "minute_text": "20. dk",
+      "note": "Ayak",
+      "team": "Balıkesirspor"
+    },
+    {
+      "type": "goal",
+      "player": "BURAK ÖZDUMAN",
+      "minute": 26,
+      "minute_text": "26. dk",
+      "note": "Kafa",
+      "team": "FETHİYESPOR"
+    },
+    {
+      "type": "goal",
+      "player": "MURAT YILMAZ",
+      "minute": 33,
+      "minute_text": "33. dk",
+      "note": "Penaltı",
+      "team": "FETHİYESPOR"
+    },
+    {
+      "type": "card",
+      "team": "FETHİYESPOR",
+      "player": "BERKİN TAŞKIN",
+      "minute": 35,
+      "minute_text": "35. dk"
+    },
+    {
+      "type": "goal",
+      "player": "SELÇUK ALİBAZ",
+      "minute": 39,
+      "minute_text": "39. dk",
+      "note": "Ayak",
+      "team": "FETHİYESPOR"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "ÜMİT DOĞRU",
+      "player_in": "MUSTAFA BURAK GÜNDOĞAN",
+      "minute": 46,
+      "minute_text": "46. dk"
+    },
+    {
+      "type": "goal",
+      "player": "MURAT YILMAZ",
+      "minute": 48,
+      "minute_text": "48. dk",
+      "note": "Kafa",
+      "team": "FETHİYESPOR"
+    },
+    {
+      "type": "substitution",
+      "team": "FETHİYESPOR",
+      "player_out": "BERKAY SAMANCI",
+      "player_in": "SELİM KAYACI",
+      "minute": 56,
+      "minute_text": "56. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "FETHİYESPOR",
+      "player_out": "AYKUT ULUÇ",
+      "player_in": "ALİ CEYLAN",
+      "minute": 56,
+      "minute_text": "56. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "FETHİYESPOR",
+      "player_out": "BURAK ÖZDUMAN",
+      "player_in": "HANİFİ ÖZKÖK",
+      "minute": 56,
+      "minute_text": "56. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "ABDULLAH ADIYAMAN",
+      "player_in": "UMUT CAN AKÇAOĞLU",
+      "minute": 61,
+      "minute_text": "61. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "MUSTAFA ÖNCÜ",
+      "player_in": "OKAN ARI",
+      "minute": 61,
+      "minute_text": "61. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "FETHİYESPOR",
+      "player_out": "SELÇUK ALİBAZ",
+      "player_in": "OKTAY BALCI",
+      "minute": 65,
+      "minute_text": "65. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "MUHAMMED EREN TÜRKMEN",
+      "minute": 68,
+      "minute_text": "68. dk"
+    },
+    {
+      "type": "goal",
+      "player": "MURAT YILMAZ",
+      "minute": 74,
+      "minute_text": "74. dk",
+      "note": "Kafa",
+      "team": "FETHİYESPOR"
+    },
+    {
+      "type": "substitution",
+      "team": "FETHİYESPOR",
+      "player_out": "BERKİN TAŞKIN",
+      "player_in": "CİHAN KAZAN",
+      "minute": 78,
+      "minute_text": "78. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "ARDA İBRAHİM AKGÜN",
+      "player_in": "AHMET ÇAĞRI ÇOLAK",
+      "minute": 80,
+      "minute_text": "80. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "DOĞANAY AVCI",
+      "player_in": "TALHA GÖKŞİN",
+      "minute": 80,
+      "minute_text": "80. dk"
+    },
+    {
+      "type": "goal",
+      "player": "SELİM KAYACI",
+      "minute": 81,
+      "minute_text": "81. dk",
+      "note": "Ayak",
+      "team": "FETHİYESPOR"
+    },
+    {
+      "type": "goal",
+      "player": "OKTAY BALCI",
+      "minute": 88,
+      "minute_text": "88. dk",
+      "note": "Penaltı",
+      "team": "FETHİYESPOR"
+    }
+  ],
+  "dataQuality": {
+    "lineupsAvailable": true,
+    "eventsAvailable": true,
+    "sourceType": "tff_detail_page"
+  }
+}

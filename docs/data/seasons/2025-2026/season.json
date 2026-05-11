@@ -9,15 +9,17 @@
   "competition": "Nesine 3. Lig",
   "group": "04. Grup",
   "summary": {
+    "matches": 33,
     "leagueMatches": 30,
     "playoffMatches": 2,
-    "wins": 17,
+    "cupMatches": 1,
+    "wins": 18,
     "draws": 7,
-    "losses": 6,
-    "goalsFor": 59,
-    "goalsAgainst": 24,
-    "goalDifference": 35,
-    "points": 58,
+    "losses": 8,
+    "goalsFor": 62,
+    "goalsAgainst": 30,
+    "goalDifference": 32,
+    "points": 61,
     "finalRank": 5
   },
   "files": {

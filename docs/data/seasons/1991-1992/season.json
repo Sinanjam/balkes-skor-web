@@ -1,0 +1,33 @@
+{
+  "id": "1991-1992",
+  "name": "1991-1992",
+  "team": {
+    "id": "balikesirspor",
+    "name": "Balıkesirspor",
+    "tffClubId": "135"
+  },
+  "competition": "3. League (Professional Team)",
+  "group": "",
+  "summary": {
+    "matches": 1,
+    "leagueMatches": 1,
+    "playoffMatches": 0,
+    "cupMatches": 0,
+    "wins": 1,
+    "draws": 0,
+    "losses": 0,
+    "goalsFor": 9,
+    "goalsAgainst": 1,
+    "goalDifference": 8,
+    "points": 3,
+    "finalRank": null
+  },
+  "files": {
+    "matchesIndex": "seasons/1991-1992/matches_index.json",
+    "standingsByWeek": "seasons/1991-1992/standings_by_week.json"
+  },
+  "source": {
+    "name": "TFF",
+    "note": "Açık TFF sayfalarından dönüştürülmüş veri"
+  }
+}

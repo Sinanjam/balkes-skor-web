@@ -1,0 +1,388 @@
+{
+  "id": "235732",
+  "tff_match_id": "235732",
+  "season": "2022-2023",
+  "competition": "TFF 2.League (Professional Team)",
+  "roundType": "league",
+  "week": 16,
+  "stage": "16. Maç",
+  "date": "2022-11-27",
+  "time": "14:00",
+  "dateDisplay": "27.11.2022 - 14:00",
+  "homeTeam": "1461 TRABZON FK",
+  "awayTeam": "Balıkesirspor",
+  "homeTeamRaw": "1461 TRABZON FK",
+  "awayTeamRaw": "BAYNET İNŞAAT BALIKESİRSPOR",
+  "score": {
+    "home": 2,
+    "away": 1,
+    "display": "2-1",
+    "played": true
+  },
+  "balkes": {
+    "isHome": false,
+    "opponent": "1461 TRABZON FK",
+    "goalsFor": 1,
+    "goalsAgainst": 2,
+    "result": "L"
+  },
+  "detailUrl": "seasons/2022-2023/matches/235732.json",
+  "source": {
+    "name": "TFF",
+    "url": "https://www.tff.org/Default.aspx?macId=235732&pageID=528"
+  },
+  "match_code": "3343",
+  "venue": "ORTAHİSAR YAVUZ SELİM STADI - TRABZON",
+  "referees": [
+    {
+      "name": "YUNUS DURSUN",
+      "role": "Referee"
+    },
+    {
+      "name": "BURAK GÜLTEK",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "ÇAĞLAR DEMİRKIRAN",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "FURKAN BAKAN",
+      "role": "Fourth Official"
+    },
+    {
+      "name": "ONUR SALIK",
+      "role": "Observer"
+    },
+    {
+      "name": "SERKAN KURAL",
+      "role": "Delegate"
+    },
+    {
+      "name": "HÜSEYİN ÇAPKIN",
+      "role": "Delegate"
+    }
+  ],
+  "lineups": {
+    "home": {
+      "team": "1461 TRABZON FK",
+      "team_raw": "1461 TRABZON FK",
+      "starting11": [
+        {
+          "shirt_no": "16.",
+          "name": "AZAT KUÇKAR"
+        },
+        {
+          "shirt_no": "5.",
+          "name": "ONUR AKDENİZ"
+        },
+        {
+          "shirt_no": "7.",
+          "name": "MUAMMER DENİZHAN TAŞKAN"
+        },
+        {
+          "shirt_no": "8.",
+          "name": "TUNAHAN ERGÜL"
+        },
+        {
+          "shirt_no": "9.",
+          "name": "UTKU ŞEN"
+        },
+        {
+          "shirt_no": "10.",
+          "name": "ÖZKAN YILDIRIM"
+        },
+        {
+          "shirt_no": "20.",
+          "name": "KEREM BAYKUŞ"
+        },
+        {
+          "shirt_no": "23.",
+          "name": "ARİF MORKAYA"
+        },
+        {
+          "shirt_no": "26.",
+          "name": "ALİ EREN İYİCAN"
+        },
+        {
+          "shirt_no": "35.",
+          "name": "MERT ÖZMEN"
+        },
+        {
+          "shirt_no": "42.",
+          "name": "ABDULKADİR KORKUT"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "1.",
+          "name": "ÖZKAN KARABULUT"
+        },
+        {
+          "shirt_no": "4.",
+          "name": "BUĞRAHAN KARSLI"
+        },
+        {
+          "shirt_no": "6.",
+          "name": "CİHAT ÇAKMAK"
+        },
+        {
+          "shirt_no": "11.",
+          "name": "BERKAY SEFA KARA"
+        },
+        {
+          "shirt_no": "19.",
+          "name": "NAFİCAN YARDIMCI"
+        },
+        {
+          "shirt_no": "21.",
+          "name": "AHMET ABDULLAH ÇAKMAK"
+        },
+        {
+          "shirt_no": "66.",
+          "name": "SALİM FARSAK"
+        },
+        {
+          "shirt_no": "77.",
+          "name": "İSMAİL HAKTAN ODABAŞI"
+        },
+        {
+          "shirt_no": "90.",
+          "name": "FUAT BAVUK"
+        },
+        {
+          "shirt_no": "99.",
+          "name": "ATALAY YILDIRIM"
+        }
+      ],
+      "coach": "ULAŞ ULUSAN"
+    },
+    "away": {
+      "team": "Balıkesirspor",
+      "team_raw": "BAYNET İNŞAAT BALIKESİRSPOR",
+      "starting11": [
+        {
+          "shirt_no": "1.",
+          "name": "YİĞİTHAN KIR"
+        },
+        {
+          "shirt_no": "44.",
+          "name": "GÖRKEM ALTUN"
+        },
+        {
+          "shirt_no": "15.",
+          "name": "KAĞAN KAYALI"
+        },
+        {
+          "shirt_no": "77.",
+          "name": "DOĞA İŞERİ"
+        },
+        {
+          "shirt_no": "22.",
+          "name": "AYBERK KAYGISIZ"
+        },
+        {
+          "shirt_no": "5.",
+          "name": "SEDAT DURSUN"
+        },
+        {
+          "shirt_no": "3.",
+          "name": "BERAT AYDOĞDU"
+        },
+        {
+          "shirt_no": "39.",
+          "name": "HÜSEYİN KARABEY"
+        },
+        {
+          "shirt_no": "21.",
+          "name": "SEDAT YİĞİT KURNAZ"
+        },
+        {
+          "shirt_no": "10.",
+          "name": "OĞUZ HAN AYNAOĞLU"
+        },
+        {
+          "shirt_no": "7.",
+          "name": "ANDAÇ GÜLERYÜZ"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "26.",
+          "name": "YASİN YİĞİT BERBER"
+        },
+        {
+          "shirt_no": "33.",
+          "name": "GÜNEY ÇELİK KELEŞ"
+        },
+        {
+          "shirt_no": "63.",
+          "name": "İBRAHİM HALİL ÇOLAK"
+        },
+        {
+          "shirt_no": "99.",
+          "name": "EMİRHAN ÇAKIR"
+        },
+        {
+          "shirt_no": "97.",
+          "name": "BERKAY AYKURT"
+        },
+        {
+          "shirt_no": "23.",
+          "name": "ENES KARABULUT"
+        },
+        {
+          "shirt_no": "80.",
+          "name": "ÜMİT DOĞRU"
+        },
+        {
+          "shirt_no": "25.",
+          "name": "ABDULLAH ADIYAMAN"
+        },
+        {
+          "shirt_no": "20.",
+          "name": "BERK TOSUN"
+        }
+      ],
+      "coach": "UĞUR BALCIOĞLU"
+    }
+  },
+  "events": [
+    {
+      "type": "goal",
+      "player": "KEREM BAYKUŞ",
+      "minute": 18,
+      "minute_text": "18. dk",
+      "note": "Ayak",
+      "team": "1461 TRABZON FK"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "HÜSEYİN KARABEY",
+      "minute": 22,
+      "minute_text": "22. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "SEDAT YİĞİT KURNAZ",
+      "player_in": "İBRAHİM HALİL ÇOLAK",
+      "minute": 46,
+      "minute_text": "46. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "HÜSEYİN KARABEY",
+      "player_in": "ABDULLAH ADIYAMAN",
+      "minute": 46,
+      "minute_text": "46. dk"
+    },
+    {
+      "type": "goal",
+      "player": "İBRAHİM HALİL ÇOLAK",
+      "minute": 51,
+      "minute_text": "51. dk",
+      "note": "Ayak",
+      "team": "Balıkesirspor"
+    },
+    {
+      "type": "goal",
+      "player": "KEREM BAYKUŞ",
+      "minute": 56,
+      "minute_text": "56. dk",
+      "note": "Ayak",
+      "team": "1461 TRABZON FK"
+    },
+    {
+      "type": "substitution",
+      "team": "1461 TRABZON FK",
+      "player_out": "MUAMMER DENİZHAN TAŞKAN",
+      "player_in": "BERKAY SEFA KARA",
+      "minute": 57,
+      "minute_text": "57. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "1461 TRABZON FK",
+      "player_out": "KEREM BAYKUŞ",
+      "player_in": "AHMET ABDULLAH ÇAKMAK",
+      "minute": 57,
+      "minute_text": "57. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "BERAT AYDOĞDU",
+      "player_in": "ÜMİT DOĞRU",
+      "minute": 69,
+      "minute_text": "69. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "ANDAÇ GÜLERYÜZ",
+      "player_in": "BERKAY AYKURT",
+      "minute": 69,
+      "minute_text": "69. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "1461 TRABZON FK",
+      "player_out": "UTKU ŞEN",
+      "player_in": "FUAT BAVUK",
+      "minute": 71,
+      "minute_text": "71. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "ABDULLAH ADIYAMAN",
+      "minute": 75,
+      "minute_text": "75. dk"
+    },
+    {
+      "type": "card",
+      "team": "1461 TRABZON FK",
+      "player": "AHMET ABDULLAH ÇAKMAK",
+      "minute": 81,
+      "minute_text": "81. dk"
+    },
+    {
+      "type": "card",
+      "team": "1461 TRABZON FK",
+      "player": "FUAT BAVUK",
+      "minute": 82,
+      "minute_text": "82. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "1461 TRABZON FK",
+      "player_out": "ÖZKAN YILDIRIM",
+      "player_in": "SALİM FARSAK",
+      "minute": 87,
+      "minute_text": "87. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "AYBERK KAYGISIZ",
+      "player_in": "EMİRHAN ÇAKIR",
+      "minute": 89,
+      "minute_text": "89. dk"
+    },
+    {
+      "type": "card",
+      "team": "1461 TRABZON FK",
+      "player": "AZAT KUÇKAR",
+      "minute": 90.2,
+      "minute_text": "90+2. dk"
+    }
+  ],
+  "dataQuality": {
+    "lineupsAvailable": true,
+    "eventsAvailable": true,
+    "sourceType": "tff_detail_page"
+  }
+}

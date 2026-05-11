@@ -1,0 +1,422 @@
+{
+  "id": "265643",
+  "tff_match_id": "265643",
+  "season": "2024-2025",
+  "competition": "Nesine 3. League (Professional Team)",
+  "roundType": "league",
+  "week": 28,
+  "stage": "28. Maç",
+  "date": "2025-04-20",
+  "time": "15:00",
+  "dateDisplay": "20.04.2025 - 15:00",
+  "homeTeam": "İNEGÖL KAFKAS SPOR KULÜBÜ",
+  "awayTeam": "Balıkesirspor",
+  "homeTeamRaw": "İNEGÖL KAFKAS SPOR KULÜBÜ",
+  "awayTeamRaw": "BALIKESİRSPOR",
+  "score": {
+    "home": 4,
+    "away": 0,
+    "display": "4-0",
+    "played": true
+  },
+  "balkes": {
+    "isHome": false,
+    "opponent": "İNEGÖL KAFKAS SPOR KULÜBÜ",
+    "goalsFor": 0,
+    "goalsAgainst": 4,
+    "result": "L"
+  },
+  "detailUrl": "seasons/2024-2025/matches/265643.json",
+  "source": {
+    "name": "TFF",
+    "url": "https://www.tff.org/Default.aspx?macId=265643&pageID=528"
+  },
+  "match_code": "4302",
+  "venue": "İNEGÖL İLÇE STADI - BURSA - İNEGÖL",
+  "referees": [
+    {
+      "name": "AYBERK DEMİRBAŞ",
+      "role": "Referee"
+    },
+    {
+      "name": "BUĞRA CAN SEMERCİOĞLU",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "MELİH KURTULUŞ",
+      "role": "Assistant Referee"
+    },
+    {
+      "name": "ABDULSAMET ŞENOĞLU",
+      "role": "Fourth Official"
+    },
+    {
+      "name": "HASAN HÜSEYİN YILDIRIM",
+      "role": "Observer"
+    },
+    {
+      "name": "MURAT KURT",
+      "role": "Delegate"
+    },
+    {
+      "name": "İSMAİL KILIÇ",
+      "role": "Delegate"
+    }
+  ],
+  "lineups": {
+    "home": {
+      "team": "İNEGÖL KAFKAS SPOR KULÜBÜ",
+      "team_raw": "İNEGÖL KAFKAS SPOR KULÜBÜ",
+      "starting11": [
+        {
+          "shirt_no": "88.",
+          "name": "BEKİR SEVGİ"
+        },
+        {
+          "shirt_no": "4.",
+          "name": "FİKRET SEVİLGEN"
+        },
+        {
+          "shirt_no": "9.",
+          "name": "BATUHAN DOĞRUKIRAN"
+        },
+        {
+          "shirt_no": "11.",
+          "name": "SERDAR EYLİK"
+        },
+        {
+          "shirt_no": "12.",
+          "name": "UMUT DOĞDU"
+        },
+        {
+          "shirt_no": "21.",
+          "name": "KEREM DEMİR"
+        },
+        {
+          "shirt_no": "23.",
+          "name": "ADNAN GÜLEN"
+        },
+        {
+          "shirt_no": "25.",
+          "name": "EMRE KARADAĞ"
+        },
+        {
+          "shirt_no": "41.",
+          "name": "HASAN BEKİL"
+        },
+        {
+          "shirt_no": "61.",
+          "name": "EMRE KARA"
+        },
+        {
+          "shirt_no": "77.",
+          "name": "YUSUF KAPLAN"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "1.",
+          "name": "EMRE ŞEKER"
+        },
+        {
+          "shirt_no": "7.",
+          "name": "EREN DANİŞ"
+        },
+        {
+          "shirt_no": "17.",
+          "name": "ÖMER FARUK BOZ"
+        },
+        {
+          "shirt_no": "18.",
+          "name": "MUHAMMED EMİR ÖZBİLEN"
+        },
+        {
+          "shirt_no": "20.",
+          "name": "DENİZ DİRK KNIBBE"
+        },
+        {
+          "shirt_no": "33.",
+          "name": "DOĞUKAN ATEŞ"
+        },
+        {
+          "shirt_no": "35.",
+          "name": "HAKAN ÇITAK"
+        },
+        {
+          "shirt_no": "55.",
+          "name": "TARIK FURKAN ÇALIŞIR"
+        },
+        {
+          "shirt_no": "80.",
+          "name": "BİLAL GÜNEY"
+        },
+        {
+          "shirt_no": "22.",
+          "name": "ÇAĞATAY POLATDEMİR"
+        }
+      ],
+      "coach": "HASAN UĞUR KARDAL"
+    },
+    "away": {
+      "team": "Balıkesirspor",
+      "team_raw": "BALIKESİRSPOR",
+      "starting11": [
+        {
+          "shirt_no": "1.",
+          "name": "HÜSEYİN ALTINTAŞ"
+        },
+        {
+          "shirt_no": "22.",
+          "name": "TAYFUN KIRCA"
+        },
+        {
+          "shirt_no": "68.",
+          "name": "VOLKAN ALTINSOY"
+        },
+        {
+          "shirt_no": "16.",
+          "name": "ŞAHİN ŞAFAKOĞLU"
+        },
+        {
+          "shirt_no": "3.",
+          "name": "AHMET GÜLAY"
+        },
+        {
+          "shirt_no": "10.",
+          "name": "SEDAT YİĞİT KURNAZ"
+        },
+        {
+          "shirt_no": "21.",
+          "name": "SERDAR GÜNCÜ"
+        },
+        {
+          "shirt_no": "30.",
+          "name": "BERKAY GÖRMEZ"
+        },
+        {
+          "shirt_no": "19.",
+          "name": "ARTUN AKÇAKIN"
+        },
+        {
+          "shirt_no": "80.",
+          "name": "MUHAMMED DEMİRCİ"
+        },
+        {
+          "shirt_no": "7.",
+          "name": "CELAL EMİR DEDE"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "48.",
+          "name": "DOĞUKAN ÖZÇİMEN"
+        },
+        {
+          "shirt_no": "2.",
+          "name": "MUHAMMET ARAZ"
+        },
+        {
+          "shirt_no": "56.",
+          "name": "YİĞİT EPÖZDEMİR"
+        },
+        {
+          "shirt_no": "9.",
+          "name": "BERTUĞ BAYAR"
+        },
+        {
+          "shirt_no": "32.",
+          "name": "ALİ KARAKAYA"
+        },
+        {
+          "shirt_no": "53.",
+          "name": "GÜVENÇ USTA"
+        },
+        {
+          "shirt_no": "70.",
+          "name": "EMİR ŞENOCAK"
+        },
+        {
+          "shirt_no": "5.",
+          "name": "KAĞAN KAYALI"
+        },
+        {
+          "shirt_no": "27.",
+          "name": "MERT TEKİN"
+        },
+        {
+          "shirt_no": "6.",
+          "name": "SAMET SEYMEN SARGIN"
+        }
+      ],
+      "coach": "İSMAİL ERTEKİN"
+    }
+  },
+  "events": [
+    {
+      "type": "card",
+      "team": "İNEGÖL KAFKAS SPOR KULÜBÜ",
+      "player": "HASAN BEKİL",
+      "minute": 23,
+      "minute_text": "23. dk"
+    },
+    {
+      "type": "card",
+      "team": "İNEGÖL KAFKAS SPOR KULÜBÜ",
+      "player": "YUSUF KAPLAN",
+      "minute": 33,
+      "minute_text": "33. dk"
+    },
+    {
+      "type": "goal",
+      "player": "BATUHAN DOĞRUKIRAN",
+      "minute": 41,
+      "minute_text": "41. dk",
+      "note": "Kafa",
+      "team": "İNEGÖL KAFKAS SPOR KULÜBÜ"
+    },
+    {
+      "type": "card",
+      "team": "İNEGÖL KAFKAS SPOR KULÜBÜ",
+      "player": "BATUHAN DOĞRUKIRAN",
+      "minute": 45.1,
+      "minute_text": "45+1. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "ŞAHİN ŞAFAKOĞLU",
+      "minute": 45.3,
+      "minute_text": "45+3. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "SEDAT YİĞİT KURNAZ",
+      "player_in": "SAMET SEYMEN SARGIN",
+      "minute": 46,
+      "minute_text": "46. dk"
+    },
+    {
+      "type": "goal",
+      "player": "YUSUF KAPLAN",
+      "minute": 56,
+      "minute_text": "56. dk",
+      "note": "Ayak",
+      "team": "İNEGÖL KAFKAS SPOR KULÜBÜ"
+    },
+    {
+      "type": "card",
+      "team": "İNEGÖL KAFKAS SPOR KULÜBÜ",
+      "player": "ADNAN GÜLEN",
+      "minute": 63,
+      "minute_text": "63. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "ARTUN AKÇAKIN",
+      "minute": 63,
+      "minute_text": "63. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "SERDAR GÜNCÜ",
+      "player_in": "BERTUĞ BAYAR",
+      "minute": 67,
+      "minute_text": "67. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "CELAL EMİR DEDE",
+      "player_in": "EMİR ŞENOCAK",
+      "minute": 67,
+      "minute_text": "67. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "İNEGÖL KAFKAS SPOR KULÜBÜ",
+      "player_out": "YUSUF KAPLAN",
+      "player_in": "BİLAL GÜNEY",
+      "minute": 75,
+      "minute_text": "75. dk"
+    },
+    {
+      "type": "card",
+      "team": "Balıkesirspor",
+      "player": "TAYFUN KIRCA",
+      "minute": 76,
+      "minute_text": "76. dk"
+    },
+    {
+      "type": "goal",
+      "player": "BİLAL GÜNEY",
+      "minute": 81,
+      "minute_text": "81. dk",
+      "note": "Ayak",
+      "team": "İNEGÖL KAFKAS SPOR KULÜBÜ"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "ARTUN AKÇAKIN",
+      "player_in": "KAĞAN KAYALI",
+      "minute": 81,
+      "minute_text": "81. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "player_out": "MUHAMMED DEMİRCİ",
+      "player_in": "MUHAMMET ARAZ",
+      "minute": 81,
+      "minute_text": "81. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "İNEGÖL KAFKAS SPOR KULÜBÜ",
+      "player_out": "SERDAR EYLİK",
+      "player_in": "ÇAĞATAY POLATDEMİR",
+      "minute": 86,
+      "minute_text": "86. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "İNEGÖL KAFKAS SPOR KULÜBÜ",
+      "player_out": "BATUHAN DOĞRUKIRAN",
+      "player_in": "MUHAMMED EMİR ÖZBİLEN",
+      "minute": 86,
+      "minute_text": "86. dk"
+    },
+    {
+      "type": "goal",
+      "player": "MUHAMMED EMİR ÖZBİLEN",
+      "minute": 88,
+      "minute_text": "88. dk",
+      "note": "Ayak",
+      "team": "İNEGÖL KAFKAS SPOR KULÜBÜ"
+    },
+    {
+      "type": "substitution",
+      "team": "İNEGÖL KAFKAS SPOR KULÜBÜ",
+      "player_out": "HASAN BEKİL",
+      "player_in": "TARIK FURKAN ÇALIŞIR",
+      "minute": 90.2,
+      "minute_text": "90+2. dk"
+    },
+    {
+      "type": "substitution",
+      "team": "İNEGÖL KAFKAS SPOR KULÜBÜ",
+      "player_out": "KEREM DEMİR",
+      "player_in": "DENİZ DİRK KNIBBE",
+      "minute": 90.2,
+      "minute_text": "90+2. dk"
+    }
+  ],
+  "dataQuality": {
+    "lineupsAvailable": true,
+    "eventsAvailable": true,
+    "sourceType": "tff_detail_page"
+  }
+}

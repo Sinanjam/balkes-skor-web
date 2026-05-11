@@ -1,0 +1,33 @@
+{
+  "id": "1992-1993",
+  "name": "1992-1993",
+  "team": {
+    "id": "balikesirspor",
+    "name": "Balıkesirspor",
+    "tffClubId": "135"
+  },
+  "competition": "League B Classification (Professional Team)",
+  "group": "",
+  "summary": {
+    "matches": 1,
+    "leagueMatches": 1,
+    "playoffMatches": 0,
+    "cupMatches": 0,
+    "wins": 1,
+    "draws": 0,
+    "losses": 0,
+    "goalsFor": 3,
+    "goalsAgainst": 2,
+    "goalDifference": 1,
+    "points": 3,
+    "finalRank": null
+  },
+  "files": {
+    "matchesIndex": "seasons/1992-1993/matches_index.json",
+    "standingsByWeek": "seasons/1992-1993/standings_by_week.json"
+  },
+  "source": {
+    "name": "TFF",
+    "note": "Açık TFF sayfalarından dönüştürülmüş veri"
+  }
+}
