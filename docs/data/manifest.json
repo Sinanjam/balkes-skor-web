@@ -5,229 +5,46 @@
   "appVersion": "0.5.0-beta-debug",
   "generatedAt": "2026-05-11T08:34:52Z",
   "dataBaseUrl": "https://raw.githubusercontent.com/Sinanjam/balkes-skor/main/data/",
-  "team": {
-    "id": "balikesirspor",
-    "name": "Balıkesirspor"
-  },
+  "team": "Balıkesirspor",
   "assets": {
     "logo": "assets/logo_balkes_skor.png"
   },
   "availableSeasons": [
     {
       "id": "2025-2026",
-      "name": "2025-2026",
-      "competition": "Nesine 3. Lig",
-      "group": "04. Grup",
-      "matchCount": 33,
-      "seasonUrl": "seasons/2025-2026/season.json",
-      "matchesIndexUrl": "seasons/2025-2026/matches_index.json",
-      "standingsUrl": "seasons/2025-2026/standings_by_week.json",
-      "summary": {
-        "matches": 33,
-        "leagueMatches": 30,
-        "playoffMatches": 2,
-        "cupMatches": 1,
-        "wins": 18,
-        "draws": 7,
-        "losses": 8,
-        "goalsFor": 62,
-        "goalsAgainst": 30,
-        "goalDifference": 32,
-        "points": 61,
-        "finalRank": 5
-      }
+      "matchCount": 33
     },
     {
       "id": "2024-2025",
-      "name": "2024-2025",
-      "competition": "Nesine 3. League (Professional Team)",
-      "group": "",
-      "matchCount": 32,
-      "seasonUrl": "seasons/2024-2025/season.json",
-      "matchesIndexUrl": "seasons/2024-2025/matches_index.json",
-      "standingsUrl": "seasons/2024-2025/standings_by_week.json",
-      "summary": {
-        "matches": 32,
-        "leagueMatches": 29,
-        "playoffMatches": 3,
-        "cupMatches": 0,
-        "wins": 17,
-        "draws": 6,
-        "losses": 9,
-        "goalsFor": 53,
-        "goalsAgainst": 30,
-        "goalDifference": 23,
-        "points": 57,
-        "finalRank": null
-      }
+      "matchCount": 32
     },
     {
       "id": "2023-2024",
-      "name": "2023-2024",
-      "competition": "TFF 3. LEAGUE (Professional Team)",
-      "group": "",
-      "matchCount": 28,
-      "seasonUrl": "seasons/2023-2024/season.json",
-      "matchesIndexUrl": "seasons/2023-2024/matches_index.json",
-      "standingsUrl": "seasons/2023-2024/standings_by_week.json",
-      "summary": {
-        "matches": 28,
-        "leagueMatches": 28,
-        "playoffMatches": 0,
-        "cupMatches": 0,
-        "wins": 7,
-        "draws": 12,
-        "losses": 9,
-        "goalsFor": 28,
-        "goalsAgainst": 32,
-        "goalDifference": -4,
-        "points": 33,
-        "finalRank": null
-      }
+      "matchCount": 28
     },
     {
       "id": "2022-2023",
-      "name": "2022-2023",
-      "competition": "TFF 2.League (Professional Team)",
-      "group": "",
-      "matchCount": 37,
-      "seasonUrl": "seasons/2022-2023/season.json",
-      "matchesIndexUrl": "seasons/2022-2023/matches_index.json",
-      "standingsUrl": "seasons/2022-2023/standings_by_week.json",
-      "summary": {
-        "matches": 37,
-        "leagueMatches": 37,
-        "playoffMatches": 0,
-        "cupMatches": 0,
-        "wins": 5,
-        "draws": 10,
-        "losses": 22,
-        "goalsFor": 29,
-        "goalsAgainst": 76,
-        "goalDifference": -47,
-        "points": 25,
-        "finalRank": null
-      }
+      "matchCount": 37
     },
     {
       "id": "2009-2010",
-      "name": "2009-2010",
-      "competition": "TFF 3. League Phase 1 (Professional Team)",
-      "group": "",
-      "matchCount": 1,
-      "seasonUrl": "seasons/2009-2010/season.json",
-      "matchesIndexUrl": "seasons/2009-2010/matches_index.json",
-      "standingsUrl": "seasons/2009-2010/standings_by_week.json",
-      "summary": {
-        "matches": 1,
-        "leagueMatches": 1,
-        "playoffMatches": 0,
-        "cupMatches": 0,
-        "wins": 1,
-        "draws": 0,
-        "losses": 0,
-        "goalsFor": 2,
-        "goalsAgainst": 0,
-        "goalDifference": 2,
-        "points": 3,
-        "finalRank": null
-      }
+      "matchCount": 1
     },
     {
       "id": "1994-1995",
-      "name": "1994-1995",
-      "competition": "League B Classification (Professional Team)",
-      "group": "",
-      "matchCount": 1,
-      "seasonUrl": "seasons/1994-1995/season.json",
-      "matchesIndexUrl": "seasons/1994-1995/matches_index.json",
-      "standingsUrl": "seasons/1994-1995/standings_by_week.json",
-      "summary": {
-        "matches": 1,
-        "leagueMatches": 1,
-        "playoffMatches": 0,
-        "cupMatches": 0,
-        "wins": 0,
-        "draws": 0,
-        "losses": 1,
-        "goalsFor": 0,
-        "goalsAgainst": 3,
-        "goalDifference": -3,
-        "points": 0,
-        "finalRank": null
-      }
+      "matchCount": 1
     },
     {
       "id": "1992-1993",
-      "name": "1992-1993",
-      "competition": "League B Classification (Professional Team)",
-      "group": "",
-      "matchCount": 1,
-      "seasonUrl": "seasons/1992-1993/season.json",
-      "matchesIndexUrl": "seasons/1992-1993/matches_index.json",
-      "standingsUrl": "seasons/1992-1993/standings_by_week.json",
-      "summary": {
-        "matches": 1,
-        "leagueMatches": 1,
-        "playoffMatches": 0,
-        "cupMatches": 0,
-        "wins": 1,
-        "draws": 0,
-        "losses": 0,
-        "goalsFor": 3,
-        "goalsAgainst": 2,
-        "goalDifference": 1,
-        "points": 3,
-        "finalRank": null
-      }
+      "matchCount": 1
     },
     {
       "id": "1991-1992",
-      "name": "1991-1992",
-      "competition": "3. League (Professional Team)",
-      "group": "",
-      "matchCount": 1,
-      "seasonUrl": "seasons/1991-1992/season.json",
-      "matchesIndexUrl": "seasons/1991-1992/matches_index.json",
-      "standingsUrl": "seasons/1991-1992/standings_by_week.json",
-      "summary": {
-        "matches": 1,
-        "leagueMatches": 1,
-        "playoffMatches": 0,
-        "cupMatches": 0,
-        "wins": 1,
-        "draws": 0,
-        "losses": 0,
-        "goalsFor": 9,
-        "goalsAgainst": 1,
-        "goalDifference": 8,
-        "points": 3,
-        "finalRank": null
-      }
+      "matchCount": 1
     },
     {
       "id": "1990-1991",
-      "name": "1990-1991",
-      "competition": "3. League (Professional Team)",
-      "group": "",
-      "matchCount": 2,
-      "seasonUrl": "seasons/1990-1991/season.json",
-      "matchesIndexUrl": "seasons/1990-1991/matches_index.json",
-      "standingsUrl": "seasons/1990-1991/standings_by_week.json",
-      "summary": {
-        "matches": 2,
-        "leagueMatches": 2,
-        "playoffMatches": 0,
-        "cupMatches": 0,
-        "wins": 0,
-        "draws": 0,
-        "losses": 2,
-        "goalsFor": 0,
-        "goalsAgainst": 2,
-        "goalDifference": -2,
-        "points": 0,
-        "finalRank": null
-      }
+      "matchCount": 2
     }
   ],
   "global": {
@@ -236,6 +53,7 @@
     "searchIndexUrl": "search_index.json",
     "dataReportUrl": "data_report.json"
   },
-  "appDataVersion": 5,
-  "appMinVersion": "0.5.0-beta-debug"
+  "appDataVersion": 6,
+  "appMinVersion": "0.5.0-beta-debug",
+  "lastUpdated": "2026-05-11T11:34:14.435904+00:00"
 }

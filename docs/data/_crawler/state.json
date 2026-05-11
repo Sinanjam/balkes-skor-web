@@ -1,0 +1,13 @@
+{
+  "mode": "season_backfill",
+  "direction": "new_to_old",
+  "skipSeasons": [
+    "2025-2026"
+  ],
+  "currentSeason": "2023-2024",
+  "completedSeasons": [
+    "2024-2025"
+  ],
+  "failedSeasons": [],
+  "lastRun": "2026-05-11T11:34:14.404769+00:00"
+}
