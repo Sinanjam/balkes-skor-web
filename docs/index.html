@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="tr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#b00018">
+  <meta name="description" content="Balıkesirspor'a özel maç, skor, puan durumu ve TFF açık veri arşivi.">
+  <title>Balkes Skor</title>
+  <link rel="icon" href="assets/ic_launcher.png" onerror="this.href='assets/ic_launcher.svg'">
+  <link rel="apple-touch-icon" href="assets/ic_launcher.png">
+  <link rel="stylesheet" href="style.css">
+  <script data-goatcounter="https://balkesskor.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+</head>
+<body>
+  <header class="hero">
+    <div class="hero-shell">
+      <div class="brand-row">
+        <img class="logo" src="assets/logo_balkes_skor.png" onerror="this.src='assets/logo_balkes_skor.svg'" alt="Balkes Skor logosu">
+        <div>
+          <div class="kicker">Balıkesirspor maç merkezi</div>
+          <h1>Balkes Skor</h1>
+          <p class="lead">TFF açık verilerinden hazırlanmış fikstür, sonuç, puan durumu, ilk 11 ve maç olayları arşivi.</p>
+          <div class="hero-actions">
+            <a class="download" href="https://github.com/Sinanjam/balkes-skor/releases/latest/download/BalkesSkor-beta-debug.apk">Android Beta APK İndir</a>
+            <a class="ghost" href="https://github.com/Sinanjam/balkes-skor/releases/latest">Son release</a>
+          </div>
+        </div>
+      </div>
+      <aside class="hero-card">
+        <span>Veri durumu</span>
+        <strong id="data-status">Yükleniyor...</strong>
+        <small id="data-source">GitHub Pages / yerel JSON</small>
+      </aside>
+    </div>
+  </header>
+
+  <main class="shell">
+    <section class="summary-grid" aria-label="Sezon özeti">
+      <div class="stat-card"><span>Sezon</span><strong id="season-name">—</strong></div>
+      <div class="stat-card"><span>Lig Maçı</span><strong id="league-matches">—</strong></div>
+      <div class="stat-card"><span>Puan</span><strong id="points">—</strong></div>
+      <div class="stat-card"><span>Averaj</span><strong id="goal-diff">—</strong></div>
+    </section>
+
+    <section class="spotlight-grid">
+      <article class="panel">
+        <div class="section-title"><span>Son maç</span><button id="open-last-match" type="button">Detay</button></div>
+        <div id="last-match" class="match-spot">Yükleniyor...</div>
+      </article>
+      <article class="panel">
+        <div class="section-title"><span>Puan durumu</span><button id="jump-standings" type="button">Tabloya git</button></div>
+        <div id="standings-mini" class="mini-table">Yükleniyor...</div>
+      </article>
+    </section>
+
+    <section class="toolbar" aria-label="Maç arama ve filtreleme">
+      <input id="search" placeholder="Rakip, hafta, skor veya stat ara..." autocomplete="off">
+      <select id="season-select" aria-label="Sezon seçimi"></select>
+      <select id="result-filter" aria-label="Sonuç filtresi">
+        <option value="">Tüm sonuçlar</option>
+        <option value="W">Galibiyet</option>
+        <option value="D">Beraberlik</option>
+        <option value="L">Mağlubiyet</option>
+      </select>
+      <select id="round-filter" aria-label="Tur filtresi">
+        <option value="">Lig + Play-off</option>
+        <option value="league">Lig</option>
+        <option value="playoff">Play-off</option>
+      </select>
+    </section>
+
+    <section id="detail" class="detail" hidden></section>
+
+    <section class="content-grid">
+      <article class="panel matches-panel">
+        <div class="section-title"><span>Maçlar</span><small id="match-count">—</small></div>
+        <div id="matches" class="matches"></div>
+      </article>
+      <article class="panel standings-panel" id="standings-panel">
+        <div class="section-title"><span>Puan Durumu</span><select id="week-select" aria-label="Hafta seçimi"></select></div>
+        <div class="table-wrap">
+          <table id="standings-table">
+            <thead><tr><th>#</th><th>Takım</th><th>O</th><th>G</th><th>B</th><th>M</th><th>A</th><th>Y</th><th>AV</th><th>P</th></tr></thead>
+            <tbody><tr><td colspan="10">Yükleniyor...</td></tr></tbody>
+          </table>
+        </div>
+      </article>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <strong>Balkes Skor</strong>
+    <span>Resmi olmayan taraftar projesidir. Veriler TFF açık sayfalarından derlenir.</span>
+  </footer>
+  <script src="app.js"></script>
+</body>
+</html>

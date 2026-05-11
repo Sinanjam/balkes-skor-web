@@ -1,0 +1,840 @@
+{
+  "id": "285724",
+  "tff_match_id": "285724",
+  "season": "2025-2026",
+  "competition": "Nesine 3. Lig (Profesyonel Takım)",
+  "group": "04. Grup",
+  "roundType": "league",
+  "week": 15,
+  "stage": "15. Hafta",
+  "date": "2025-12-21",
+  "time": "17:00",
+  "dateDisplay": "21.12.2025 - 17:00",
+  "homeTeam": "Balıkesirspor",
+  "awayTeam": "BORNOVA 1877 SPORTİF YATIRIMLAR A.Ş.",
+  "homeTeamRaw": "NEV SAĞLIK GRUBU BALIKESİRSPOR",
+  "awayTeamRaw": "BORNOVA 1877 SPORTİF YATIRIMLAR A.Ş.",
+  "score": {
+    "home": 1,
+    "away": 1,
+    "display": "1-1",
+    "played": true
+  },
+  "source": {
+    "name": "TFF",
+    "url": "https://www.tff.org/Default.aspx?pageID=29&macId=285724"
+  },
+  "sourceWeekPage": "https://www.tff.org/Default.aspx?grupID=2786&hafta=15&pageID=971",
+  "match_code": "4835",
+  "venue": "BALIKESİR ATATÜRK - BALIKESİR - BALIKESİR MERKEZ",
+  "referees": [
+    {
+      "name": "OĞUZHAN DEMİR",
+      "role_tr": "Hakem",
+      "raw": "OĞUZHAN DEMİR(Hakem)",
+      "person_url": "https://www.tff.org/Default.aspx?pageId=72&hakemId=1286654"
+    },
+    {
+      "name": "ERDİ ABDULMECİT SAYAR",
+      "role_tr": "1. Yardımcı Hakem",
+      "raw": "ERDİ ABDULMECİT SAYAR(1. Yardımcı Hakem)",
+      "person_url": "https://www.tff.org/Default.aspx?pageId=72&hakemId=930791"
+    },
+    {
+      "name": "GÜRCAN USLU",
+      "role_tr": "2. Yardımcı Hakem",
+      "raw": "GÜRCAN USLU(2. Yardımcı Hakem)",
+      "person_url": "https://www.tff.org/Default.aspx?pageId=72&hakemId=1158733"
+    },
+    {
+      "name": "AYBERK BURHAN",
+      "role_tr": "Dördüncü Hakem",
+      "raw": "AYBERK BURHAN(Dördüncü Hakem)",
+      "person_url": "https://www.tff.org/Default.aspx?pageId=72&hakemId=997466"
+    }
+  ],
+  "lineups": {
+    "home": {
+      "team": "Balıkesirspor",
+      "team_raw": "NEV SAĞLIK GRUBU BALIKESİRSPOR",
+      "starting11": [
+        {
+          "shirt_no": "28.",
+          "name": "TALHA DEMİRKOL",
+          "person_url": "https://www.tff.org/Default.aspx?pageId=30&kisiId=1919922",
+          "tff_person_id": "1919922"
+        },
+        {
+          "shirt_no": "6.",
+          "name": "HARUN TOPRAK",
+          "person_url": "https://www.tff.org/Default.aspx?pageId=30&kisiId=1771562",
+          "tff_person_id": "1771562"
+        },
+        {
+          "shirt_no": "8.",
+          "name": "TALHA DOĞUŞ",
+          "person_url": "https://www.tff.org/Default.aspx?pageId=30&kisiId=2022790",
+          "tff_person_id": "2022790"
+        },
+        {
+          "shirt_no": "9.",
+          "name": "ARTUN AKÇAKIN",
+          "person_url": "https://www.tff.org/Default.aspx?pageId=30&kisiId=652987",
+          "tff_person_id": "652987"
+        },
+        {
+          "shirt_no": "10.",
+          "name": "SEDAT YİĞİT KURNAZ",
+          "person_url": "https://www.tff.org/Default.aspx?pageId=30&kisiId=1712887",
+          "tff_person_id": "1712887"
+        },
+        {
+          "shirt_no": "17.",
+          "name": "BORA YILMAZ",
+          "person_url": "https://www.tff.org/Default.aspx?pageId=30&kisiId=1629396",
+          "tff_person_id": "1629396"
+        },
+        {
+          "shirt_no": "20.",
+          "name": "YEKTA SÖNMEZ",
+          "person_url": "https://www.tff.org/Default.aspx?pageId=30&kisiId=1515022",
+          "tff_person_id": "1515022"
+        },
+        {
+          "shirt_no": "21.",
+          "name": "HASAN GÜNDOĞDU",
+          "person_url": "https://www.tff.org/Default.aspx?pageId=30&kisiId=1214605",
+          "tff_person_id": "1214605"
+        },
+        {
+          "shirt_no": "27.",
+          "name": "ERŞAN YAŞA",
+          "person_url": "https://www.tff.org/Default.aspx?pageId=30&kisiId=1589637",
+          "tff_person_id": "1589637"
+        },
+        {
+          "shirt_no": "29.",
+          "name": "AHMET NECAT AYDIN",
+          "person_url": "https://www.tff.org/Default.aspx?pageId=30&kisiId=1770316",
+          "tff_person_id": "1770316"
+        },
+        {
+          "shirt_no": "33.",
+          "name": "YİĞİT EPÖZDEMİR",
+          "person_url": "https://www.tff.org/Default.aspx?pageId=30&kisiId=1749227",
+          "tff_person_id": "1749227"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "76.",
+          "name": "MEHMET EMRE YAR",
+          "person_url": "https://www.tff.org/Default.aspx?pageId=30&kisiId=1894863",
+          "tff_person_id": "1894863"
+        },
+        {
+          "shirt_no": "18.",
+          "name": "OĞUZCAN KESGİN",
+          "person_url": "https://www.tff.org/Default.aspx?pageId=30&kisiId=1757645",
+          "tff_person_id": "1757645"
+        },
+        {
+          "shirt_no": "30.",
+          "name": "EFE ÖZEN",
+          "person_url": "https://www.tff.org/Default.aspx?pageId=30&kisiId=2022352",
+          "tff_person_id": "2022352"
+        },
+        {
+          "shirt_no": "35.",
+          "name": "BURAK CAN",
+          "person_url": "https://www.tff.org/Default.aspx?pageId=30&kisiId=2100614",
+          "tff_person_id": "2100614"
+        },
+        {
+          "shirt_no": "41.",
+          "name": "MİKDAT ÇİL",
+          "person_url": "https://www.tff.org/Default.aspx?pageId=30&kisiId=2015877",
+          "tff_person_id": "2015877"
+        },
+        {
+          "shirt_no": "45.",
+          "name": "YİĞİT DÖNMEZ",
+          "person_url": "https://www.tff.org/Default.aspx?pageId=30&kisiId=2063980",
+          "tff_person_id": "2063980"
+        },
+        {
+          "shirt_no": "61.",
+          "name": "KÜRŞAT MUTLU",
+          "person_url": "https://www.tff.org/Default.aspx?pageId=30&kisiId=2054966",
+          "tff_person_id": "2054966"
+        },
+        {
+          "shirt_no": "70.",
+          "name": "ALİ TOPÇU",
+          "person_url": "https://www.tff.org/Default.aspx?pageId=30&kisiId=2825011",
+          "tff_person_id": "2825011"
+        },
+        {
+          "shirt_no": "85.",
+          "name": "HASAN HÜSEYİN ERİŞ",
+          "person_url": "https://www.tff.org/Default.aspx?pageId=30&kisiId=2209227",
+          "tff_person_id": "2209227"
+        },
+        {
+          "shirt_no": "99.",
+          "name": "KADİRCAN ALBAHAN",
+          "person_url": "https://www.tff.org/Default.aspx?pageId=30&kisiId=2441590",
+          "tff_person_id": "2441590"
+        }
+      ],
+      "coach": "CEM KAVÇAK",
+      "coaches": [
+        {
+          "name": "CEM KAVÇAK",
+          "person_url": "https://www.tff.org/Default.aspx?pageId=219&antId=28597"
+        }
+      ],
+      "goals": [
+        {
+          "name": "ARTUN AKÇAKIN",
+          "minute_text": "49.dk",
+          "minute": 49,
+          "goal_kind": "P",
+          "raw": "ARTUN AKÇAKIN,49.dk (P)",
+          "team": "Balıkesirspor",
+          "side": "home",
+          "type": "goal"
+        }
+      ],
+      "cards": [
+        {
+          "name": "HASAN GÜNDOĞDU",
+          "minute_text": "68.dk",
+          "minute": 68,
+          "card_type_tr": "Sarı Kart",
+          "type": "yellow_card",
+          "person_url": "https://www.tff.org/Default.aspx?pageId=30&kisiId=1214605",
+          "tff_person_id": "1214605"
+        },
+        {
+          "name": "YİĞİT EPÖZDEMİR",
+          "minute_text": "69.dk",
+          "minute": 69,
+          "card_type_tr": "Sarı Kart",
+          "type": "yellow_card",
+          "person_url": "https://www.tff.org/Default.aspx?pageId=30&kisiId=1749227",
+          "tff_person_id": "1749227"
+        },
+        {
+          "name": "AHMET NECAT AYDIN",
+          "minute_text": "78.dk",
+          "minute": 78,
+          "card_type_tr": "Sarı Kart",
+          "type": "yellow_card",
+          "person_url": "https://www.tff.org/Default.aspx?pageId=30&kisiId=1770316",
+          "tff_person_id": "1770316"
+        },
+        {
+          "name": "HARUN TOPRAK",
+          "minute_text": "71.dk",
+          "minute": 71,
+          "card_type_tr": "Sarı Kart",
+          "type": "yellow_card",
+          "person_url": "https://www.tff.org/Default.aspx?pageId=30&kisiId=1771562",
+          "tff_person_id": "1771562"
+        },
+        {
+          "name": "TALHA DOĞUŞ",
+          "minute_text": "52.dk",
+          "minute": 52,
+          "card_type_tr": "Sarı Kart",
+          "type": "yellow_card",
+          "person_url": "https://www.tff.org/Default.aspx?pageId=30&kisiId=2022790",
+          "tff_person_id": "2022790"
+        }
+      ],
+      "substitutions": [
+        {
+          "minute_text": "73.dk",
+          "minute": 73,
+          "player_in": "ALİ TOPÇU",
+          "player_out": "BORA YILMAZ"
+        },
+        {
+          "minute_text": "89.dk",
+          "minute": 89,
+          "player_in": "KADİRCAN ALBAHAN",
+          "player_out": "SEDAT YİĞİT KURNAZ"
+        },
+        {
+          "minute_text": "89.dk",
+          "minute": 89,
+          "player_in": "OĞUZCAN KESGİN",
+          "player_out": "TALHA DOĞUŞ"
+        }
+      ],
+      "players_out": [
+        {
+          "name": "BORA YILMAZ",
+          "minute_text": "73.dk",
+          "minute": 73,
+          "person_url": "https://www.tff.org/Default.aspx?pageId=30&kisiId=1629396",
+          "tff_person_id": "1629396"
+        },
+        {
+          "name": "SEDAT YİĞİT KURNAZ",
+          "minute_text": "89.dk",
+          "minute": 89,
+          "person_url": "https://www.tff.org/Default.aspx?pageId=30&kisiId=1712887",
+          "tff_person_id": "1712887"
+        },
+        {
+          "name": "TALHA DOĞUŞ",
+          "minute_text": "89.dk",
+          "minute": 89,
+          "person_url": "https://www.tff.org/Default.aspx?pageId=30&kisiId=2022790",
+          "tff_person_id": "2022790"
+        }
+      ],
+      "players_in": [
+        {
+          "name": "ALİ TOPÇU",
+          "minute_text": "73.dk",
+          "minute": 73,
+          "person_url": "https://www.tff.org/Default.aspx?pageId=30&kisiId=2825011",
+          "tff_person_id": "2825011"
+        },
+        {
+          "name": "KADİRCAN ALBAHAN",
+          "minute_text": "89.dk",
+          "minute": 89,
+          "person_url": "https://www.tff.org/Default.aspx?pageId=30&kisiId=2441590",
+          "tff_person_id": "2441590"
+        },
+        {
+          "name": "OĞUZCAN KESGİN",
+          "minute_text": "89.dk",
+          "minute": 89,
+          "person_url": "https://www.tff.org/Default.aspx?pageId=30&kisiId=1757645",
+          "tff_person_id": "1757645"
+        }
+      ]
+    },
+    "away": {
+      "team": "BORNOVA 1877 SPORTİF YATIRIMLAR A.Ş.",
+      "team_raw": "BORNOVA 1877 SPORTİF YATIRIMLAR A.Ş.",
+      "starting11": [
+        {
+          "shirt_no": "44.",
+          "name": "BATU EFE AKDAĞ",
+          "person_url": "https://www.tff.org/Default.aspx?pageId=30&kisiId=2074005",
+          "tff_person_id": "2074005"
+        },
+        {
+          "shirt_no": "5.",
+          "name": "BARAN KIRMACİ",
+          "person_url": "https://www.tff.org/Default.aspx?pageId=30&kisiId=1898794",
+          "tff_person_id": "1898794"
+        },
+        {
+          "shirt_no": "8.",
+          "name": "MURAT ARSLAN",
+          "person_url": "https://www.tff.org/Default.aspx?pageId=30&kisiId=1292958",
+          "tff_person_id": "1292958"
+        },
+        {
+          "shirt_no": "9.",
+          "name": "ABDULKADİR KUZEY",
+          "person_url": "https://www.tff.org/Default.aspx?pageId=30&kisiId=881674",
+          "tff_person_id": "881674"
+        },
+        {
+          "shirt_no": "19.",
+          "name": "ERTUĞRUL YILDIRIM",
+          "person_url": "https://www.tff.org/Default.aspx?pageId=30&kisiId=2022696",
+          "tff_person_id": "2022696"
+        },
+        {
+          "shirt_no": "23.",
+          "name": "RECEP KEREM BİROL",
+          "person_url": "https://www.tff.org/Default.aspx?pageId=30&kisiId=2074511",
+          "tff_person_id": "2074511"
+        },
+        {
+          "shirt_no": "24.",
+          "name": "EGE ASIM DUYAR",
+          "person_url": "https://www.tff.org/Default.aspx?pageId=30&kisiId=2102574",
+          "tff_person_id": "2102574"
+        },
+        {
+          "shirt_no": "26.",
+          "name": "METE ŞENTÜRK",
+          "person_url": "https://www.tff.org/Default.aspx?pageId=30&kisiId=1672907",
+          "tff_person_id": "1672907"
+        },
+        {
+          "shirt_no": "48.",
+          "name": "ARDA FURKAN ABBAK",
+          "person_url": "https://www.tff.org/Default.aspx?pageId=30&kisiId=1552792",
+          "tff_person_id": "1552792"
+        },
+        {
+          "shirt_no": "70.",
+          "name": "EGE KARAYEL",
+          "person_url": "https://www.tff.org/Default.aspx?pageId=30&kisiId=2166967",
+          "tff_person_id": "2166967"
+        },
+        {
+          "shirt_no": "86.",
+          "name": "ENVER BÜYÜKDERE",
+          "person_url": "https://www.tff.org/Default.aspx?pageId=30&kisiId=1997529",
+          "tff_person_id": "1997529"
+        }
+      ],
+      "substitutes": [
+        {
+          "shirt_no": "73.",
+          "name": "ASLAN İLİDİ",
+          "person_url": "https://www.tff.org/Default.aspx?pageId=30&kisiId=2094315",
+          "tff_person_id": "2094315"
+        },
+        {
+          "shirt_no": "3.",
+          "name": "AYTUĞ YILDIRIM",
+          "person_url": "https://www.tff.org/Default.aspx?pageId=30&kisiId=2144729",
+          "tff_person_id": "2144729"
+        },
+        {
+          "shirt_no": "7.",
+          "name": "EMRE AKBULUT",
+          "person_url": "https://www.tff.org/Default.aspx?pageId=30&kisiId=1367797",
+          "tff_person_id": "1367797"
+        },
+        {
+          "shirt_no": "12.",
+          "name": "TURAN ALİ DEMİRCİ",
+          "person_url": "https://www.tff.org/Default.aspx?pageId=30&kisiId=1800969",
+          "tff_person_id": "1800969"
+        },
+        {
+          "shirt_no": "17.",
+          "name": "AHMET ATA KALAYCIOĞLU",
+          "person_url": "https://www.tff.org/Default.aspx?pageId=30&kisiId=1967002",
+          "tff_person_id": "1967002"
+        },
+        {
+          "shirt_no": "53.",
+          "name": "BATUHAN GÜNER",
+          "person_url": "https://www.tff.org/Default.aspx?pageId=30&kisiId=1984905",
+          "tff_person_id": "1984905"
+        },
+        {
+          "shirt_no": "69.",
+          "name": "İLHAN DOĞANAY",
+          "person_url": "https://www.tff.org/Default.aspx?pageId=30&kisiId=2029154",
+          "tff_person_id": "2029154"
+        },
+        {
+          "shirt_no": "77.",
+          "name": "BERKE KILIÇ",
+          "person_url": "https://www.tff.org/Default.aspx?pageId=30&kisiId=1847146",
+          "tff_person_id": "1847146"
+        },
+        {
+          "shirt_no": "83.",
+          "name": "BORAN YILMAZ",
+          "person_url": "https://www.tff.org/Default.aspx?pageId=30&kisiId=1999310",
+          "tff_person_id": "1999310"
+        },
+        {
+          "shirt_no": "96.",
+          "name": "ÖMER HIZIROĞLU",
+          "person_url": "https://www.tff.org/Default.aspx?pageId=30&kisiId=1989952",
+          "tff_person_id": "1989952"
+        }
+      ],
+      "coach": "FERHAT BÖLÜKBAŞI",
+      "coaches": [
+        {
+          "name": "FERHAT BÖLÜKBAŞI",
+          "person_url": "https://www.tff.org/Default.aspx?pageId=219&antId=29205"
+        }
+      ],
+      "goals": [
+        {
+          "name": "MURAT ARSLAN",
+          "minute_text": "66.dk",
+          "minute": 66,
+          "goal_kind": "F",
+          "raw": "MURAT ARSLAN,66.dk (F)",
+          "team": "BORNOVA 1877 SPORTİF YATIRIMLAR A.Ş.",
+          "side": "away",
+          "type": "goal"
+        }
+      ],
+      "cards": [
+        {
+          "name": "MURAT ARSLAN",
+          "minute_text": "48.dk",
+          "minute": 48,
+          "card_type_tr": "Sarı Kart",
+          "type": "yellow_card",
+          "person_url": "https://www.tff.org/Default.aspx?pageId=30&kisiId=1292958",
+          "tff_person_id": "1292958"
+        },
+        {
+          "name": "ARDA FURKAN ABBAK",
+          "minute_text": "55.dk",
+          "minute": 55,
+          "card_type_tr": "Sarı Kart",
+          "type": "yellow_card",
+          "person_url": "https://www.tff.org/Default.aspx?pageId=30&kisiId=1552792",
+          "tff_person_id": "1552792"
+        },
+        {
+          "name": "TURAN ALİ DEMİRCİ",
+          "minute_text": "43.dk",
+          "minute": 43,
+          "card_type_tr": "Sarı Kart",
+          "type": "yellow_card",
+          "person_url": "https://www.tff.org/Default.aspx?pageId=30&kisiId=1800969",
+          "tff_person_id": "1800969"
+        },
+        {
+          "name": "AHMET ATA KALAYCIOĞLU",
+          "minute_text": "90+2.dk",
+          "minute": 90.02,
+          "card_type_tr": "Sarı Kart",
+          "type": "yellow_card",
+          "person_url": "https://www.tff.org/Default.aspx?pageId=30&kisiId=1967002",
+          "tff_person_id": "1967002"
+        },
+        {
+          "name": "ENVER BÜYÜKDERE",
+          "minute_text": "78.dk",
+          "minute": 78,
+          "card_type_tr": "Sarı Kart",
+          "type": "yellow_card",
+          "person_url": "https://www.tff.org/Default.aspx?pageId=30&kisiId=1997529",
+          "tff_person_id": "1997529"
+        },
+        {
+          "name": "EGE KARAYEL",
+          "minute_text": "35.dk",
+          "minute": 35,
+          "card_type_tr": "Sarı Kart",
+          "type": "yellow_card",
+          "person_url": "https://www.tff.org/Default.aspx?pageId=30&kisiId=2166967",
+          "tff_person_id": "2166967"
+        }
+      ],
+      "substitutions": [
+        {
+          "minute_text": "78.dk",
+          "minute": 78,
+          "player_in": "ÖMER HIZIROĞLU",
+          "player_out": "ABDULKADİR KUZEY"
+        },
+        {
+          "minute_text": "64.dk",
+          "minute": 64,
+          "player_in": "BORAN YILMAZ",
+          "player_out": "BARAN KIRMACİ"
+        },
+        {
+          "minute_text": "87.dk",
+          "minute": 87,
+          "player_in": "BERKE KILIÇ",
+          "player_out": "ENVER BÜYÜKDERE"
+        },
+        {
+          "minute_text": "87.dk",
+          "minute": 87,
+          "player_in": "AHMET ATA KALAYCIOĞLU",
+          "player_out": "ERTUĞRUL YILDIRIM"
+        },
+        {
+          "minute_text": "78.dk",
+          "minute": 78,
+          "player_in": "İLHAN DOĞANAY",
+          "player_out": "EGE KARAYEL"
+        }
+      ],
+      "players_out": [
+        {
+          "name": "ABDULKADİR KUZEY",
+          "minute_text": "78.dk",
+          "minute": 78,
+          "person_url": "https://www.tff.org/Default.aspx?pageId=30&kisiId=881674",
+          "tff_person_id": "881674"
+        },
+        {
+          "name": "BARAN KIRMACİ",
+          "minute_text": "64.dk",
+          "minute": 64,
+          "person_url": "https://www.tff.org/Default.aspx?pageId=30&kisiId=1898794",
+          "tff_person_id": "1898794"
+        },
+        {
+          "name": "ENVER BÜYÜKDERE",
+          "minute_text": "78.dk",
+          "minute": 78,
+          "person_url": "https://www.tff.org/Default.aspx?pageId=30&kisiId=1997529",
+          "tff_person_id": "1997529"
+        },
+        {
+          "name": "ERTUĞRUL YILDIRIM",
+          "minute_text": "87.dk",
+          "minute": 87,
+          "person_url": "https://www.tff.org/Default.aspx?pageId=30&kisiId=2022696",
+          "tff_person_id": "2022696"
+        },
+        {
+          "name": "EGE KARAYEL",
+          "minute_text": "87.dk",
+          "minute": 87,
+          "person_url": "https://www.tff.org/Default.aspx?pageId=30&kisiId=2166967",
+          "tff_person_id": "2166967"
+        }
+      ],
+      "players_in": [
+        {
+          "name": "ÖMER HIZIROĞLU",
+          "minute_text": "78.dk",
+          "minute": 78,
+          "person_url": "https://www.tff.org/Default.aspx?pageId=30&kisiId=1989952",
+          "tff_person_id": "1989952"
+        },
+        {
+          "name": "BORAN YILMAZ",
+          "minute_text": "64.dk",
+          "minute": 64,
+          "person_url": "https://www.tff.org/Default.aspx?pageId=30&kisiId=1999310",
+          "tff_person_id": "1999310"
+        },
+        {
+          "name": "BERKE KILIÇ",
+          "minute_text": "87.dk",
+          "minute": 87,
+          "person_url": "https://www.tff.org/Default.aspx?pageId=30&kisiId=1847146",
+          "tff_person_id": "1847146"
+        },
+        {
+          "name": "AHMET ATA KALAYCIOĞLU",
+          "minute_text": "87.dk",
+          "minute": 87,
+          "person_url": "https://www.tff.org/Default.aspx?pageId=30&kisiId=1967002",
+          "tff_person_id": "1967002"
+        },
+        {
+          "name": "İLHAN DOĞANAY",
+          "minute_text": "78.dk",
+          "minute": 78,
+          "person_url": "https://www.tff.org/Default.aspx?pageId=30&kisiId=2029154",
+          "tff_person_id": "2029154"
+        }
+      ]
+    }
+  },
+  "events": [
+    {
+      "type": "yellow_card",
+      "team": "BORNOVA 1877 SPORTİF YATIRIMLAR A.Ş.",
+      "side": "away",
+      "player": "EGE KARAYEL",
+      "minute": 35,
+      "minute_text": "35.dk",
+      "card_type_tr": "Sarı Kart"
+    },
+    {
+      "type": "yellow_card",
+      "team": "BORNOVA 1877 SPORTİF YATIRIMLAR A.Ş.",
+      "side": "away",
+      "player": "TURAN ALİ DEMİRCİ",
+      "minute": 43,
+      "minute_text": "43.dk",
+      "card_type_tr": "Sarı Kart"
+    },
+    {
+      "type": "yellow_card",
+      "team": "BORNOVA 1877 SPORTİF YATIRIMLAR A.Ş.",
+      "side": "away",
+      "player": "MURAT ARSLAN",
+      "minute": 48,
+      "minute_text": "48.dk",
+      "card_type_tr": "Sarı Kart"
+    },
+    {
+      "type": "goal",
+      "team": "Balıkesirspor",
+      "side": "home",
+      "player": "ARTUN AKÇAKIN",
+      "minute": 49,
+      "minute_text": "49.dk",
+      "goal_kind": "P",
+      "raw": "ARTUN AKÇAKIN,49.dk (P)"
+    },
+    {
+      "type": "yellow_card",
+      "team": "Balıkesirspor",
+      "side": "home",
+      "player": "TALHA DOĞUŞ",
+      "minute": 52,
+      "minute_text": "52.dk",
+      "card_type_tr": "Sarı Kart"
+    },
+    {
+      "type": "yellow_card",
+      "team": "BORNOVA 1877 SPORTİF YATIRIMLAR A.Ş.",
+      "side": "away",
+      "player": "ARDA FURKAN ABBAK",
+      "minute": 55,
+      "minute_text": "55.dk",
+      "card_type_tr": "Sarı Kart"
+    },
+    {
+      "type": "substitution",
+      "team": "BORNOVA 1877 SPORTİF YATIRIMLAR A.Ş.",
+      "side": "away",
+      "minute": 64,
+      "minute_text": "64.dk",
+      "player_in": "BORAN YILMAZ",
+      "player_out": "BARAN KIRMACİ"
+    },
+    {
+      "type": "goal",
+      "team": "BORNOVA 1877 SPORTİF YATIRIMLAR A.Ş.",
+      "side": "away",
+      "player": "MURAT ARSLAN",
+      "minute": 66,
+      "minute_text": "66.dk",
+      "goal_kind": "F",
+      "raw": "MURAT ARSLAN,66.dk (F)"
+    },
+    {
+      "type": "yellow_card",
+      "team": "Balıkesirspor",
+      "side": "home",
+      "player": "HASAN GÜNDOĞDU",
+      "minute": 68,
+      "minute_text": "68.dk",
+      "card_type_tr": "Sarı Kart"
+    },
+    {
+      "type": "yellow_card",
+      "team": "Balıkesirspor",
+      "side": "home",
+      "player": "YİĞİT EPÖZDEMİR",
+      "minute": 69,
+      "minute_text": "69.dk",
+      "card_type_tr": "Sarı Kart"
+    },
+    {
+      "type": "yellow_card",
+      "team": "Balıkesirspor",
+      "side": "home",
+      "player": "HARUN TOPRAK",
+      "minute": 71,
+      "minute_text": "71.dk",
+      "card_type_tr": "Sarı Kart"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "side": "home",
+      "minute": 73,
+      "minute_text": "73.dk",
+      "player_in": "ALİ TOPÇU",
+      "player_out": "BORA YILMAZ"
+    },
+    {
+      "type": "substitution",
+      "team": "BORNOVA 1877 SPORTİF YATIRIMLAR A.Ş.",
+      "side": "away",
+      "minute": 78,
+      "minute_text": "78.dk",
+      "player_in": "ÖMER HIZIROĞLU",
+      "player_out": "ABDULKADİR KUZEY"
+    },
+    {
+      "type": "substitution",
+      "team": "BORNOVA 1877 SPORTİF YATIRIMLAR A.Ş.",
+      "side": "away",
+      "minute": 78,
+      "minute_text": "78.dk",
+      "player_in": "İLHAN DOĞANAY",
+      "player_out": "EGE KARAYEL"
+    },
+    {
+      "type": "yellow_card",
+      "team": "Balıkesirspor",
+      "side": "home",
+      "player": "AHMET NECAT AYDIN",
+      "minute": 78,
+      "minute_text": "78.dk",
+      "card_type_tr": "Sarı Kart"
+    },
+    {
+      "type": "yellow_card",
+      "team": "BORNOVA 1877 SPORTİF YATIRIMLAR A.Ş.",
+      "side": "away",
+      "player": "ENVER BÜYÜKDERE",
+      "minute": 78,
+      "minute_text": "78.dk",
+      "card_type_tr": "Sarı Kart"
+    },
+    {
+      "type": "substitution",
+      "team": "BORNOVA 1877 SPORTİF YATIRIMLAR A.Ş.",
+      "side": "away",
+      "minute": 87,
+      "minute_text": "87.dk",
+      "player_in": "BERKE KILIÇ",
+      "player_out": "ENVER BÜYÜKDERE"
+    },
+    {
+      "type": "substitution",
+      "team": "BORNOVA 1877 SPORTİF YATIRIMLAR A.Ş.",
+      "side": "away",
+      "minute": 87,
+      "minute_text": "87.dk",
+      "player_in": "AHMET ATA KALAYCIOĞLU",
+      "player_out": "ERTUĞRUL YILDIRIM"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "side": "home",
+      "minute": 89,
+      "minute_text": "89.dk",
+      "player_in": "KADİRCAN ALBAHAN",
+      "player_out": "SEDAT YİĞİT KURNAZ"
+    },
+    {
+      "type": "substitution",
+      "team": "Balıkesirspor",
+      "side": "home",
+      "minute": 89,
+      "minute_text": "89.dk",
+      "player_in": "OĞUZCAN KESGİN",
+      "player_out": "TALHA DOĞUŞ"
+    },
+    {
+      "type": "yellow_card",
+      "team": "BORNOVA 1877 SPORTİF YATIRIMLAR A.Ş.",
+      "side": "away",
+      "player": "AHMET ATA KALAYCIOĞLU",
+      "minute": 90.02,
+      "minute_text": "90+2.dk",
+      "card_type_tr": "Sarı Kart"
+    }
+  ],
+  "source_file": "Default.aspx_macId-285724_pageID-29_3e7d634da4d3951d.html",
+  "balkes": {
+    "isHome": true,
+    "opponent": "BORNOVA 1877 SPORTİF YATIRIMLAR A.Ş.",
+    "goalsFor": 1,
+    "goalsAgainst": 1,
+    "result": "D"
+  }
+}

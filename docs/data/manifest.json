@@ -1,0 +1,24 @@
+{
+  "app": "Balkes Skor",
+  "schemaVersion": 1,
+  "generatedAt": "2026-05-11T03:54:45Z",
+  "dataBaseUrl": "https://raw.githubusercontent.com/Sinanjam/balkes-skor/main/data/",
+  "team": {
+    "id": "balikesirspor",
+    "name": "Balıkesirspor"
+  },
+  "assets": {
+    "logo": "assets/logo_balkes_skor.png"
+  },
+  "availableSeasons": [
+    {
+      "id": "2025-2026",
+      "name": "2025-2026",
+      "competition": "Nesine 3. Lig",
+      "group": "04. Grup",
+      "seasonUrl": "seasons/2025-2026/season.json",
+      "matchesIndexUrl": "seasons/2025-2026/matches_index.json",
+      "standingsUrl": "seasons/2025-2026/standings_by_week.json"
+    }
+  ]
+}

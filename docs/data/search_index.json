@@ -1,0 +1,450 @@
+[
+  {
+    "type": "match",
+    "id": "285615",
+    "season": "2025-2026",
+    "title": "SÖKE 1970 SPOR KULÜBÜ - Balıkesirspor",
+    "subtitle": "7.09.2025 - 17:00 · 1-1",
+    "url": "seasons/2025-2026/matches/285615.json",
+    "tokens": [
+      "SÖKE 1970 SPOR KULÜBÜ",
+      "Balıkesirspor",
+      "285615",
+      "1. Hafta"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "285620",
+    "season": "2025-2026",
+    "title": "Balıkesirspor - TİRE 2021 FUTBOL KULÜBÜ",
+    "subtitle": "13.09.2025 - 19:00 · 1-2",
+    "url": "seasons/2025-2026/matches/285620.json",
+    "tokens": [
+      "Balıkesirspor",
+      "TİRE 2021 FUTBOL KULÜBÜ",
+      "285620",
+      "2. Hafta"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "285632",
+    "season": "2025-2026",
+    "title": "KARŞIYAKA - Balıkesirspor",
+    "subtitle": "21.09.2025 - 19:00 · 2-1",
+    "url": "seasons/2025-2026/matches/285632.json",
+    "tokens": [
+      "KARŞIYAKA",
+      "Balıkesirspor",
+      "285632",
+      "3. Hafta"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "285636",
+    "season": "2025-2026",
+    "title": "Balıkesirspor - KÜTAHYASPOR FUTBOL SPOR KULÜBÜ",
+    "subtitle": "28.09.2025 - 19:00 · 2-2",
+    "url": "seasons/2025-2026/matches/285636.json",
+    "tokens": [
+      "Balıkesirspor",
+      "KÜTAHYASPOR FUTBOL SPOR KULÜBÜ",
+      "285636",
+      "4. Hafta"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "285649",
+    "season": "2025-2026",
+    "title": "Balıkesirspor - AFYONSPOR KULÜBÜ",
+    "subtitle": "5.10.2025 - 19:00 · 4-0",
+    "url": "seasons/2025-2026/matches/285649.json",
+    "tokens": [
+      "Balıkesirspor",
+      "AFYONSPOR KULÜBÜ",
+      "285649",
+      "5. Hafta"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "285653",
+    "season": "2025-2026",
+    "title": "ALANYA 1221 FUTBOL SPOR KULÜBÜ - Balıkesirspor",
+    "subtitle": "12.10.2025 - 15:30 · 0-2",
+    "url": "seasons/2025-2026/matches/285653.json",
+    "tokens": [
+      "ALANYA 1221 FUTBOL SPOR KULÜBÜ",
+      "Balıkesirspor",
+      "285653",
+      "6. Hafta"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "285664",
+    "season": "2025-2026",
+    "title": "Balıkesirspor - ESKİŞEHİR ANADOLU SPOR FAALİYETLERİ A.Ş.",
+    "subtitle": "19.10.2025 - 19:00 · 2-0",
+    "url": "seasons/2025-2026/matches/285664.json",
+    "tokens": [
+      "Balıkesirspor",
+      "ESKİŞEHİR ANADOLU SPOR FAALİYETLERİ A.Ş.",
+      "285664",
+      "7. Hafta"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "285671",
+    "season": "2025-2026",
+    "title": "İZMİR ÇORUHLU FUTBOL KULÜBÜ A.Ş. - Balıkesirspor",
+    "subtitle": "26.10.2025 - 19:00 · 2-2",
+    "url": "seasons/2025-2026/matches/285671.json",
+    "tokens": [
+      "İZMİR ÇORUHLU FUTBOL KULÜBÜ A.Ş.",
+      "Balıkesirspor",
+      "285671",
+      "8. Hafta"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "285679",
+    "season": "2025-2026",
+    "title": "Balıkesirspor - NAZİLLİ SPOR A.Ş.",
+    "subtitle": "1.11.2025 - 15:00 · 3-0",
+    "url": "seasons/2025-2026/matches/285679.json",
+    "tokens": [
+      "Balıkesirspor",
+      "NAZİLLİ SPOR A.Ş.",
+      "285679",
+      "9. Hafta"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "285682",
+    "season": "2025-2026",
+    "title": "ALTAY - Balıkesirspor",
+    "subtitle": "9.11.2025 - 17:00 · 0-1",
+    "url": "seasons/2025-2026/matches/285682.json",
+    "tokens": [
+      "ALTAY",
+      "Balıkesirspor",
+      "285682",
+      "10. Hafta"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "285694",
+    "season": "2025-2026",
+    "title": "Balıkesirspor - OKTAŞ UŞAK SPOR A.Ş.",
+    "subtitle": "30.11.2025 - 17:00 · 3-1",
+    "url": "seasons/2025-2026/matches/285694.json",
+    "tokens": [
+      "Balıkesirspor",
+      "OKTAŞ UŞAK SPOR A.Ş.",
+      "285694",
+      "11. Hafta"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "285700",
+    "season": "2025-2026",
+    "title": "AYVALIKGÜCÜ BELEDİYESPOR - Balıkesirspor",
+    "subtitle": "7.12.2025 - 15:00 · 1-0",
+    "url": "seasons/2025-2026/matches/285700.json",
+    "tokens": [
+      "AYVALIKGÜCÜ BELEDİYESPOR",
+      "Balıkesirspor",
+      "285700",
+      "12. Hafta"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "285709",
+    "season": "2025-2026",
+    "title": "Balıkesirspor - DENİZLİ İDMANYURDU GÜRELLER SPOR KULÜBÜ",
+    "subtitle": "13.12.2025 - 17:00 · 3-1",
+    "url": "seasons/2025-2026/matches/285709.json",
+    "tokens": [
+      "Balıkesirspor",
+      "DENİZLİ İDMANYURDU GÜRELLER SPOR KULÜBÜ",
+      "285709",
+      "13. Hafta"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "285718",
+    "season": "2025-2026",
+    "title": "ESKİŞEHİRSPOR KULÜBÜ - Balıkesirspor",
+    "subtitle": "17.12.2025 - 17:00 · 0-3",
+    "url": "seasons/2025-2026/matches/285718.json",
+    "tokens": [
+      "ESKİŞEHİRSPOR KULÜBÜ",
+      "Balıkesirspor",
+      "285718",
+      "14. Hafta"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "285724",
+    "season": "2025-2026",
+    "title": "Balıkesirspor - BORNOVA 1877 SPORTİF YATIRIMLAR A.Ş.",
+    "subtitle": "21.12.2025 - 17:00 · 1-1",
+    "url": "seasons/2025-2026/matches/285724.json",
+    "tokens": [
+      "Balıkesirspor",
+      "BORNOVA 1877 SPORTİF YATIRIMLAR A.Ş.",
+      "285724",
+      "15. Hafta"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "285735",
+    "season": "2025-2026",
+    "title": "Balıkesirspor - SÖKE 1970 SPOR KULÜBÜ",
+    "subtitle": "11.01.2026 - 15:00 · 2-1",
+    "url": "seasons/2025-2026/matches/285735.json",
+    "tokens": [
+      "Balıkesirspor",
+      "SÖKE 1970 SPOR KULÜBÜ",
+      "285735",
+      "16. Hafta"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "285740",
+    "season": "2025-2026",
+    "title": "TİRE 2021 FUTBOL KULÜBÜ - Balıkesirspor",
+    "subtitle": "18.01.2026 - 17:00 · 1-1",
+    "url": "seasons/2025-2026/matches/285740.json",
+    "tokens": [
+      "TİRE 2021 FUTBOL KULÜBÜ",
+      "Balıkesirspor",
+      "285740",
+      "17. Hafta"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "285752",
+    "season": "2025-2026",
+    "title": "Balıkesirspor - KARŞIYAKA",
+    "subtitle": "25.01.2026 - 17:00 · 2-1",
+    "url": "seasons/2025-2026/matches/285752.json",
+    "tokens": [
+      "Balıkesirspor",
+      "KARŞIYAKA",
+      "285752",
+      "18. Hafta"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "285756",
+    "season": "2025-2026",
+    "title": "KÜTAHYASPOR FUTBOL SPOR KULÜBÜ - Balıkesirspor",
+    "subtitle": "1.02.2026 - 15:00 · 2-1",
+    "url": "seasons/2025-2026/matches/285756.json",
+    "tokens": [
+      "KÜTAHYASPOR FUTBOL SPOR KULÜBÜ",
+      "Balıkesirspor",
+      "285756",
+      "19. Hafta"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "285769",
+    "season": "2025-2026",
+    "title": "AFYONSPOR KULÜBÜ - Balıkesirspor",
+    "subtitle": "8.02.2026 - 15:00 · 0-3",
+    "url": "seasons/2025-2026/matches/285769.json",
+    "tokens": [
+      "AFYONSPOR KULÜBÜ",
+      "Balıkesirspor",
+      "285769",
+      "20. Hafta"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "285773",
+    "season": "2025-2026",
+    "title": "Balıkesirspor - ALANYA 1221 FUTBOL SPOR KULÜBÜ",
+    "subtitle": "14.02.2026 - 15:00 · 0-1",
+    "url": "seasons/2025-2026/matches/285773.json",
+    "tokens": [
+      "Balıkesirspor",
+      "ALANYA 1221 FUTBOL SPOR KULÜBÜ",
+      "285773",
+      "21. Hafta"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "285784",
+    "season": "2025-2026",
+    "title": "ESKİŞEHİR ANADOLU SPOR FAALİYETLERİ A.Ş. - Balıkesirspor",
+    "subtitle": "22.02.2026 - 15:00 · 1-1",
+    "url": "seasons/2025-2026/matches/285784.json",
+    "tokens": [
+      "ESKİŞEHİR ANADOLU SPOR FAALİYETLERİ A.Ş.",
+      "Balıkesirspor",
+      "285784",
+      "22. Hafta"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "285791",
+    "season": "2025-2026",
+    "title": "Balıkesirspor - İZMİR ÇORUHLU FUTBOL KULÜBÜ A.Ş.",
+    "subtitle": "28.02.2026 - 16:00 · 1-0",
+    "url": "seasons/2025-2026/matches/285791.json",
+    "tokens": [
+      "Balıkesirspor",
+      "İZMİR ÇORUHLU FUTBOL KULÜBÜ A.Ş.",
+      "285791",
+      "23. Hafta"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "285799",
+    "season": "2025-2026",
+    "title": "NAZİLLİ SPOR A.Ş. - Balıkesirspor",
+    "subtitle": "8.03.2026 - 15:30 · 0-7",
+    "url": "seasons/2025-2026/matches/285799.json",
+    "tokens": [
+      "NAZİLLİ SPOR A.Ş.",
+      "Balıkesirspor",
+      "285799",
+      "24. Hafta"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "285802",
+    "season": "2025-2026",
+    "title": "Balıkesirspor - ALTAY",
+    "subtitle": "15.03.2026 - 15:30 · 3-0",
+    "url": "seasons/2025-2026/matches/285802.json",
+    "tokens": [
+      "Balıkesirspor",
+      "ALTAY",
+      "285802",
+      "25. Hafta"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "285814",
+    "season": "2025-2026",
+    "title": "OKTAŞ UŞAK SPOR A.Ş. - Balıkesirspor",
+    "subtitle": "25.03.2026 - 14:00 · 0-2",
+    "url": "seasons/2025-2026/matches/285814.json",
+    "tokens": [
+      "OKTAŞ UŞAK SPOR A.Ş.",
+      "Balıkesirspor",
+      "285814",
+      "26. Hafta"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "285820",
+    "season": "2025-2026",
+    "title": "Balıkesirspor - AYVALIKGÜCÜ BELEDİYESPOR",
+    "subtitle": "29.03.2026 - 18:00 · 1-2",
+    "url": "seasons/2025-2026/matches/285820.json",
+    "tokens": [
+      "Balıkesirspor",
+      "AYVALIKGÜCÜ BELEDİYESPOR",
+      "285820",
+      "27. Hafta"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "285829",
+    "season": "2025-2026",
+    "title": "DENİZLİ İDMANYURDU 1959 SPOR KULÜBÜ - Balıkesirspor",
+    "subtitle": "5.04.2026 - 16:00 · 0-1",
+    "url": "seasons/2025-2026/matches/285829.json",
+    "tokens": [
+      "DENİZLİ İDMANYURDU 1959 SPOR KULÜBÜ",
+      "Balıkesirspor",
+      "285829",
+      "28. Hafta"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "285838",
+    "season": "2025-2026",
+    "title": "Balıkesirspor - ESKİŞEHİRSPOR KULÜBÜ",
+    "subtitle": "12.04.2026 - 16:00 · 1-1",
+    "url": "seasons/2025-2026/matches/285838.json",
+    "tokens": [
+      "Balıkesirspor",
+      "ESKİŞEHİRSPOR KULÜBÜ",
+      "285838",
+      "29. Hafta"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "285844",
+    "season": "2025-2026",
+    "title": "BORNOVA 1877 SPORTİF YATIRIMLAR A.Ş. - Balıkesirspor",
+    "subtitle": "18.04.2026 - 16:00 · 1-4",
+    "url": "seasons/2025-2026/matches/285844.json",
+    "tokens": [
+      "BORNOVA 1877 SPORTİF YATIRIMLAR A.Ş.",
+      "Balıkesirspor",
+      "285844",
+      "30. Hafta"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "316898",
+    "season": "2025-2026",
+    "title": "Balıkesirspor - ESKİŞEHİRSPOR KULÜBÜ",
+    "subtitle": "24.04.2026 - 20:00 · 2-1",
+    "url": "seasons/2025-2026/matches/316898.json",
+    "tokens": [
+      "Balıkesirspor",
+      "ESKİŞEHİRSPOR KULÜBÜ",
+      "316898",
+      "1.Tur Maçları"
+    ]
+  },
+  {
+    "type": "match",
+    "id": "316899",
+    "season": "2025-2026",
+    "title": "ESKİŞEHİRSPOR KULÜBÜ - Balıkesirspor",
+    "subtitle": "28.04.2026 - 20:00 · 3-0",
+    "url": "seasons/2025-2026/matches/316899.json",
+    "tokens": [
+      "ESKİŞEHİRSPOR KULÜBÜ",
+      "Balıkesirspor",
+      "316899",
+      "1.Tur Maçları"
+    ]
+  }
+]
