@@ -1,9 +1,9 @@
 {
   "app": "Balkes Skor",
   "schemaVersion": 2,
-  "dataVersion": 5,
+  "dataVersion": 6,
   "appVersion": "0.5.0-beta-debug",
-  "generatedAt": "2026-05-11T08:34:52Z",
+  "generatedAt": "2026-05-12T22:06:53.731455Z",
   "dataBaseUrl": "https://raw.githubusercontent.com/Sinanjam/balkes-skor/main/data/",
   "team": "Balıkesirspor",
   "assets": {
@@ -16,18 +16,26 @@
     },
     {
       "id": "2024-2025",
-      "matchCount": 32
+      "matchCount": 33
     },
     {
       "id": "2023-2024",
-      "matchCount": 28
+      "matchCount": 29
     },
     {
       "id": "2022-2023",
       "matchCount": 37
     },
     {
+      "id": "2018-2019",
+      "matchCount": 2
+    },
+    {
       "id": "2009-2010",
+      "matchCount": 1
+    },
+    {
+      "id": "1996-1997",
       "matchCount": 1
     },
     {
@@ -55,5 +63,5 @@
   },
   "appDataVersion": 6,
   "appMinVersion": "0.5.0-beta-debug",
-  "lastUpdated": "2026-05-11T11:34:14.435904+00:00"
+  "lastUpdated": "2026-05-12T22:06:53.731455+00:00"
 }

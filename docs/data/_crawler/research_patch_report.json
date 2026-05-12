@@ -1,0 +1,47 @@
+{
+  "generatedAt": "2026-05-12T22:06:53.731455+00:00",
+  "source": "GPT/Gemini + TFF doğrulama araştırması patch",
+  "added": [
+    {
+      "id": "252547",
+      "season": "2023-2024",
+      "roundType": "cup",
+      "match": "Balıkesirspor 0-1 BURHANİYE BELEDİYESPOR"
+    },
+    {
+      "id": "271250",
+      "season": "2024-2025",
+      "roundType": "cup",
+      "match": "KİLİS BLD.SPOR 2-0 Balıkesirspor"
+    },
+    {
+      "id": "205830",
+      "season": "2018-2019",
+      "roundType": "cup",
+      "match": "Balıkesirspor Baltok 1-1 ÇAYKUR RİZESPOR A.Ş."
+    },
+    {
+      "id": "195050",
+      "season": "2018-2019",
+      "roundType": "league",
+      "match": "BOLUSPOR 1-0 Balıkesirspor Baltok"
+    },
+    {
+      "id": "41478",
+      "season": "1996-1997",
+      "roundType": "league",
+      "match": "BUCASPOR 2-0 Balıkesirspor"
+    }
+  ],
+  "skipped": [],
+  "duplicateKnown": {
+    "251270": "2023-2024 sezonunda zaten mevcut: Balıkesirspor 1-0 Bursa Yıldırım Spor.",
+    "251361": "2023-2024 sezonunda zaten mevcut: Bergama Sportif Faaliyetler A.Ş. 2-1 Balıkesirspor."
+  },
+  "notes": [
+    "251270 ve 251361 tekrar olduğu için eklenmedi.",
+    "252547 ve 271250 mevcut sezonlara kupa maçı olarak eklendi.",
+    "41478, 205830 ve 195050 yeni sezon iskeletiyle tarihsel backfill olarak eklendi.",
+    "standings_by_week dosyaları bu patch ile doldurulmadı; ayrı TFF hafta taraması gerekir."
+  ]
+}

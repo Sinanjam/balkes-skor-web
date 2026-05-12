@@ -155,6 +155,37 @@
     }
   },
   {
+    "id": "271250",
+    "season": "2024-2025",
+    "competition": "Ziraat Türkiye Kupası (Professional Team)",
+    "roundType": "cup",
+    "week": null,
+    "stage": "2. Tur",
+    "date": "2024-10-08",
+    "time": "13:00",
+    "dateDisplay": "8.10.2024 - 13:00",
+    "homeTeam": "KİLİS BLD.SPOR",
+    "awayTeam": "Balıkesirspor",
+    "score": {
+      "home": 2,
+      "away": 0,
+      "display": "2-0",
+      "played": true
+    },
+    "balkes": {
+      "isHome": false,
+      "opponent": "KİLİS BLD.SPOR",
+      "goalsFor": 0,
+      "goalsAgainst": 2,
+      "result": "L"
+    },
+    "detailUrl": "seasons/2024-2025/matches/271250.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=271250&pageID=528"
+    }
+  },
+  {
     "id": "265655",
     "season": "2024-2025",
     "competition": "Nesine 3. League (Professional Team)",

@@ -1,0 +1,64 @@
+[
+  {
+    "id": "205830",
+    "season": "2018-2019",
+    "competition": "Ziraat Türkiye Kupası (Professional Team)",
+    "roundType": "cup",
+    "week": null,
+    "stage": "5. Tur",
+    "date": "2018-12-18",
+    "time": "15:00",
+    "dateDisplay": "18.12.2018 - 15:00",
+    "homeTeam": "Balıkesirspor Baltok",
+    "awayTeam": "ÇAYKUR RİZESPOR A.Ş.",
+    "score": {
+      "home": 1,
+      "away": 1,
+      "display": "1-1",
+      "played": true
+    },
+    "balkes": {
+      "isHome": true,
+      "opponent": "ÇAYKUR RİZESPOR A.Ş.",
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "result": "D"
+    },
+    "detailUrl": "seasons/2018-2019/matches/205830.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=205830&pageID=528"
+    }
+  },
+  {
+    "id": "195050",
+    "season": "2018-2019",
+    "competition": "Spor Toto 1. Lig (Professional Team)",
+    "roundType": "league",
+    "week": null,
+    "stage": "Lig",
+    "date": "2019-03-17",
+    "time": "16:00",
+    "dateDisplay": "17.03.2019 - 16:00",
+    "homeTeam": "BOLUSPOR",
+    "awayTeam": "Balıkesirspor Baltok",
+    "score": {
+      "home": 1,
+      "away": 0,
+      "display": "1-0",
+      "played": true
+    },
+    "balkes": {
+      "isHome": false,
+      "opponent": "BOLUSPOR",
+      "goalsFor": 0,
+      "goalsAgainst": 1,
+      "result": "L"
+    },
+    "detailUrl": "seasons/2018-2019/matches/195050.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=195050&pageID=528"
+    }
+  }
+]

@@ -1,0 +1,104 @@
+{
+  "id": "252547",
+  "tffMatchId": "252547",
+  "season": "2023-2024",
+  "competition": "Ziraat Türkiye Kupası (Professional Team)",
+  "group": "",
+  "roundType": "cup",
+  "week": null,
+  "stage": "1. Tur",
+  "date": "2023-09-26",
+  "time": "17:30",
+  "dateDisplay": "26.09.2023 - 17:30",
+  "stadium": "BALIKESİR ATATÜRK",
+  "city": "BALIKESİR",
+  "referee": "Mülazım Argız",
+  "assistantReferees": [
+    "Cihat Sevi",
+    "Mertcan Tezcan"
+  ],
+  "fourthOfficial": "",
+  "homeTeam": "Balıkesirspor",
+  "awayTeam": "BURHANİYE BELEDİYESPOR",
+  "score": {
+    "home": 0,
+    "away": 1,
+    "display": "0-1",
+    "played": true
+  },
+  "events": [
+    {
+      "minute": "22",
+      "type": "yellow_card",
+      "team": "BURHANİYE BELEDİYESPOR",
+      "player": "Mustafa Kaya",
+      "note": "TFF doğrulama araştırması"
+    },
+    {
+      "minute": "56",
+      "type": "yellow_card",
+      "team": "BURHANİYE BELEDİYESPOR",
+      "player": "Atakan Doğanay",
+      "note": "TFF doğrulama araştırması"
+    },
+    {
+      "minute": "69",
+      "type": "goal",
+      "team": "BURHANİYE BELEDİYESPOR",
+      "player": "Abdulkadir Oruçoğlu",
+      "note": "TFF doğrulama araştırması"
+    },
+    {
+      "minute": "71",
+      "type": "yellow_card",
+      "team": "BURHANİYE BELEDİYESPOR",
+      "player": "Berkay Kalakcı",
+      "note": "TFF doğrulama araştırması"
+    },
+    {
+      "minute": "82",
+      "type": "yellow_card",
+      "team": "BURHANİYE BELEDİYESPOR",
+      "player": "Kadir Kaya",
+      "note": "TFF doğrulama araştırması"
+    }
+  ],
+  "homeCoach": "Recep Çetin",
+  "awayCoach": "Hüseyin Aydoğan",
+  "source": {
+    "name": "TFF",
+    "url": "https://www.tff.org/Default.aspx?macId=252547&pageID=528"
+  },
+  "dataQuality": {
+    "level": "official_tff_open_data",
+    "notes": [
+      "GPT/Gemini kontrol listesinde doğrulandı; 2023-2024 mevcut sezona kupa maçı olarak eklendi."
+    ]
+  },
+  "balkes": {
+    "isHome": true,
+    "opponent": "BURHANİYE BELEDİYESPOR",
+    "goalsFor": 0,
+    "goalsAgainst": 1,
+    "result": "L"
+  },
+  "lineups": {
+    "home": {
+      "team": "Balıkesirspor",
+      "starting11": [],
+      "substitutes": [],
+      "coach": "Recep Çetin"
+    },
+    "away": {
+      "team": "BURHANİYE BELEDİYESPOR",
+      "starting11": [],
+      "substitutes": [],
+      "coach": "Hüseyin Aydoğan"
+    }
+  },
+  "halfTimeScore": {
+    "home": null,
+    "away": null,
+    "display": ""
+  }
+}

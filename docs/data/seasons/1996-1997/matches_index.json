@@ -1,0 +1,33 @@
+[
+  {
+    "id": "41478",
+    "season": "1996-1997",
+    "competition": "Lig B Klasman (Professional Team)",
+    "roundType": "league",
+    "week": null,
+    "stage": "Lig B Klasman",
+    "date": "1996-10-27",
+    "time": "14:00",
+    "dateDisplay": "27.10.1996 - 14:00",
+    "homeTeam": "BUCASPOR",
+    "awayTeam": "Balıkesirspor",
+    "score": {
+      "home": 2,
+      "away": 0,
+      "display": "2-0",
+      "played": true
+    },
+    "balkes": {
+      "isHome": false,
+      "opponent": "BUCASPOR",
+      "goalsFor": 0,
+      "goalsAgainst": 2,
+      "result": "L"
+    },
+    "detailUrl": "seasons/1996-1997/matches/41478.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=41478&pageID=528"
+    }
+  }
+]

@@ -93,6 +93,37 @@
     }
   },
   {
+    "id": "252547",
+    "season": "2023-2024",
+    "competition": "Ziraat Türkiye Kupası (Professional Team)",
+    "roundType": "cup",
+    "week": null,
+    "stage": "1. Tur",
+    "date": "2023-09-26",
+    "time": "17:30",
+    "dateDisplay": "26.09.2023 - 17:30",
+    "homeTeam": "Balıkesirspor",
+    "awayTeam": "BURHANİYE BELEDİYESPOR",
+    "score": {
+      "home": 0,
+      "away": 1,
+      "display": "0-1",
+      "played": true
+    },
+    "balkes": {
+      "isHome": true,
+      "opponent": "BURHANİYE BELEDİYESPOR",
+      "goalsFor": 0,
+      "goalsAgainst": 1,
+      "result": "L"
+    },
+    "detailUrl": "seasons/2023-2024/matches/252547.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=252547&pageID=528"
+    }
+  },
+  {
     "id": "251186",
     "season": "2023-2024",
     "competition": "TFF 3. LEAGUE (Professional Team)",

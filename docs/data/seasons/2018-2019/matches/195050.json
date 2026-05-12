@@ -1,0 +1,63 @@
+{
+  "id": "195050",
+  "tffMatchId": "195050",
+  "season": "2018-2019",
+  "competition": "Spor Toto 1. Lig (Professional Team)",
+  "group": "",
+  "roundType": "league",
+  "week": null,
+  "stage": "Lig",
+  "date": "2019-03-17",
+  "time": "16:00",
+  "dateDisplay": "17.03.2019 - 16:00",
+  "stadium": "BOLU ATATÜRK",
+  "city": "BOLU",
+  "referee": "Yasin Kol",
+  "assistantReferees": [],
+  "fourthOfficial": "",
+  "homeTeam": "BOLUSPOR",
+  "awayTeam": "Balıkesirspor Baltok",
+  "score": {
+    "home": 1,
+    "away": 0,
+    "display": "1-0",
+    "played": true
+  },
+  "events": [],
+  "source": {
+    "name": "TFF",
+    "url": "https://www.tff.org/Default.aspx?macId=195050&pageID=528"
+  },
+  "dataQuality": {
+    "level": "official_tff_open_data",
+    "notes": [
+      "GPT sonucunda doğrulandı; Gemini metnindeki 'tespit edilemedi' ifadesiyle çeliştiği için TFF doğrulaması esas alındı."
+    ]
+  },
+  "balkes": {
+    "isHome": false,
+    "opponent": "BOLUSPOR",
+    "goalsFor": 0,
+    "goalsAgainst": 1,
+    "result": "L"
+  },
+  "lineups": {
+    "home": {
+      "team": "BOLUSPOR",
+      "starting11": [],
+      "substitutes": [],
+      "coach": ""
+    },
+    "away": {
+      "team": "Balıkesirspor Baltok",
+      "starting11": [],
+      "substitutes": [],
+      "coach": ""
+    }
+  },
+  "halfTimeScore": {
+    "home": null,
+    "away": null,
+    "display": ""
+  }
+}

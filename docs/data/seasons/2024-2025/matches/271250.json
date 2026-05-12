@@ -1,0 +1,109 @@
+{
+  "id": "271250",
+  "tffMatchId": "271250",
+  "season": "2024-2025",
+  "competition": "Ziraat Türkiye Kupası (Professional Team)",
+  "group": "",
+  "roundType": "cup",
+  "week": null,
+  "stage": "2. Tur",
+  "date": "2024-10-08",
+  "time": "13:00",
+  "dateDisplay": "8.10.2024 - 13:00",
+  "stadium": "7 ARALIK STADI",
+  "city": "KİLİS",
+  "referee": "Efe Tanrıverdi",
+  "assistantReferees": [
+    "Levent Yeşilyurt",
+    "Adem Mazlum"
+  ],
+  "fourthOfficial": "Keman Erol",
+  "homeTeam": "KİLİS BLD.SPOR",
+  "awayTeam": "Balıkesirspor",
+  "score": {
+    "home": 2,
+    "away": 0,
+    "display": "2-0",
+    "played": true
+  },
+  "events": [
+    {
+      "minute": "42",
+      "type": "yellow_card",
+      "team": "Balıkesirspor",
+      "player": "Muhammed Eren Türkmen",
+      "note": "TFF doğrulama araştırması"
+    },
+    {
+      "minute": "45+3",
+      "type": "yellow_card",
+      "team": "KİLİS BLD.SPOR",
+      "player": "Eren Demiray",
+      "note": "TFF doğrulama araştırması"
+    },
+    {
+      "minute": "75",
+      "type": "goal",
+      "team": "KİLİS BLD.SPOR",
+      "player": "Uğur Yalçın",
+      "note": "Ayakla gol; TFF doğrulama araştırması"
+    },
+    {
+      "minute": "75",
+      "type": "yellow_card",
+      "team": "Balıkesirspor",
+      "player": "Mustafa Burak Gündoğan",
+      "note": "TFF doğrulama araştırması"
+    },
+    {
+      "minute": "76",
+      "type": "yellow_card",
+      "team": "KİLİS BLD.SPOR",
+      "player": "Uğur Yalçın",
+      "note": "TFF doğrulama araştırması"
+    },
+    {
+      "minute": "90+2",
+      "type": "goal",
+      "team": "KİLİS BLD.SPOR",
+      "player": "Umut Koray Öz",
+      "note": "Ayakla gol; TFF doğrulama araştırması"
+    }
+  ],
+  "source": {
+    "name": "TFF",
+    "url": "https://www.tff.org/Default.aspx?macId=271250&pageID=528"
+  },
+  "dataQuality": {
+    "level": "official_tff_open_data",
+    "notes": [
+      "GPT/Gemini kontrol listesinde doğrulandı; 2024-2025 mevcut sezona kupa maçı olarak eklendi."
+    ]
+  },
+  "balkes": {
+    "isHome": false,
+    "opponent": "KİLİS BLD.SPOR",
+    "goalsFor": 0,
+    "goalsAgainst": 2,
+    "result": "L"
+  },
+  "lineups": {
+    "home": {
+      "team": "KİLİS BLD.SPOR",
+      "starting11": [],
+      "substitutes": [],
+      "coach": ""
+    },
+    "away": {
+      "team": "Balıkesirspor",
+      "starting11": [],
+      "substitutes": [],
+      "coach": ""
+    }
+  },
+  "halfTimeScore": {
+    "home": null,
+    "away": null,
+    "display": ""
+  }
+}

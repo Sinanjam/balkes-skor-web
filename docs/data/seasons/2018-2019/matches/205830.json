@@ -1,0 +1,81 @@
+{
+  "id": "205830",
+  "tffMatchId": "205830",
+  "season": "2018-2019",
+  "competition": "Ziraat Türkiye Kupası (Professional Team)",
+  "group": "",
+  "roundType": "cup",
+  "week": null,
+  "stage": "5. Tur",
+  "date": "2018-12-18",
+  "time": "15:00",
+  "dateDisplay": "18.12.2018 - 15:00",
+  "stadium": "BALIKESİR ATATÜRK",
+  "city": "BALIKESİR",
+  "referee": "Koray Gençerler",
+  "assistantReferees": [
+    "Samet Çiçek",
+    "İbrahim Bozbey"
+  ],
+  "fourthOfficial": "",
+  "homeTeam": "Balıkesirspor Baltok",
+  "awayTeam": "ÇAYKUR RİZESPOR A.Ş.",
+  "score": {
+    "home": 1,
+    "away": 1,
+    "display": "1-1",
+    "played": true
+  },
+  "events": [
+    {
+      "minute": "58",
+      "type": "penalty_goal",
+      "team": "ÇAYKUR RİZESPOR A.Ş.",
+      "player": "Oleksandr Gladkyy",
+      "note": "Penaltı golü; TFF doğrulama araştırması"
+    },
+    {
+      "minute": "75",
+      "type": "goal",
+      "team": "Balıkesirspor Baltok",
+      "player": "Sedat Şahintürk",
+      "note": "TFF doğrulama araştırması"
+    }
+  ],
+  "source": {
+    "name": "TFF",
+    "url": "https://www.tff.org/Default.aspx?macId=205830&pageID=528"
+  },
+  "dataQuality": {
+    "level": "official_tff_open_data",
+    "notes": [
+      "2018-2019 yeni sezon iskeletiyle tarihsel backfill olarak eklendi."
+    ]
+  },
+  "balkes": {
+    "isHome": true,
+    "opponent": "ÇAYKUR RİZESPOR A.Ş.",
+    "goalsFor": 1,
+    "goalsAgainst": 1,
+    "result": "D"
+  },
+  "lineups": {
+    "home": {
+      "team": "Balıkesirspor Baltok",
+      "starting11": [],
+      "substitutes": [],
+      "coach": ""
+    },
+    "away": {
+      "team": "ÇAYKUR RİZESPOR A.Ş.",
+      "starting11": [],
+      "substitutes": [],
+      "coach": ""
+    }
+  },
+  "halfTimeScore": {
+    "home": null,
+    "away": null,
+    "display": ""
+  }
+}

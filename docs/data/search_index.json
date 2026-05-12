@@ -2310,5 +2310,45 @@
       "name": "TFF",
       "url": "https://www.tff.org/Default.aspx?pageID=29&macId=316899"
     }
+  },
+  {
+    "id": "match_252547",
+    "type": "match",
+    "season": "2023-2024",
+    "title": "Balıkesirspor 0-1 BURHANİYE BELEDİYESPOR",
+    "subtitle": "2023-2024 • Ziraat Türkiye Kupası (Professional Team) • 1. Tur",
+    "keywords": "Balıkesirspor BURHANİYE BELEDİYESPOR Ziraat Türkiye Kupası (Professional Team) 1. Tur 252547"
+  },
+  {
+    "id": "match_271250",
+    "type": "match",
+    "season": "2024-2025",
+    "title": "KİLİS BLD.SPOR 2-0 Balıkesirspor",
+    "subtitle": "2024-2025 • Ziraat Türkiye Kupası (Professional Team) • 2. Tur",
+    "keywords": "KİLİS BLD.SPOR Balıkesirspor Ziraat Türkiye Kupası (Professional Team) 2. Tur 271250"
+  },
+  {
+    "id": "match_205830",
+    "type": "match",
+    "season": "2018-2019",
+    "title": "Balıkesirspor Baltok 1-1 ÇAYKUR RİZESPOR A.Ş.",
+    "subtitle": "2018-2019 • Ziraat Türkiye Kupası (Professional Team) • 5. Tur",
+    "keywords": "Balıkesirspor Baltok ÇAYKUR RİZESPOR A.Ş. Ziraat Türkiye Kupası (Professional Team) 5. Tur 205830"
+  },
+  {
+    "id": "match_195050",
+    "type": "match",
+    "season": "2018-2019",
+    "title": "BOLUSPOR 1-0 Balıkesirspor Baltok",
+    "subtitle": "2018-2019 • Spor Toto 1. Lig (Professional Team) • Lig",
+    "keywords": "BOLUSPOR Balıkesirspor Baltok Spor Toto 1. Lig (Professional Team) Lig 195050"
+  },
+  {
+    "id": "match_41478",
+    "type": "match",
+    "season": "1996-1997",
+    "title": "BUCASPOR 2-0 Balıkesirspor",
+    "subtitle": "1996-1997 • Lig B Klasman (Professional Team) • Lig B Klasman",
+    "keywords": "BUCASPOR Balıkesirspor Lig B Klasman (Professional Team) Lig B Klasman 41478"
   }
 ]

@@ -1,0 +1,65 @@
+{
+  "id": "41478",
+  "tffMatchId": "41478",
+  "season": "1996-1997",
+  "competition": "Lig B Klasman (Professional Team)",
+  "group": "",
+  "roundType": "league",
+  "week": null,
+  "stage": "Lig B Klasman",
+  "date": "1996-10-27",
+  "time": "14:00",
+  "dateDisplay": "27.10.1996 - 14:00",
+  "stadium": "BUCA İLÇE",
+  "city": "İZMİR",
+  "referee": "Seyit Otuzbiroğlu",
+  "assistantReferees": [
+    "Nedim Güneş"
+  ],
+  "fourthOfficial": "",
+  "homeTeam": "BUCASPOR",
+  "awayTeam": "Balıkesirspor",
+  "score": {
+    "home": 2,
+    "away": 0,
+    "display": "2-0",
+    "played": true
+  },
+  "events": [],
+  "source": {
+    "name": "TFF",
+    "url": "https://www.tff.org/Default.aspx?macId=41478&pageID=528"
+  },
+  "dataQuality": {
+    "level": "official_tff_open_data",
+    "notes": [
+      "1996-1997 yeni sezon iskeletiyle tarihsel backfill olarak eklendi."
+    ]
+  },
+  "balkes": {
+    "isHome": false,
+    "opponent": "BUCASPOR",
+    "goalsFor": 0,
+    "goalsAgainst": 2,
+    "result": "L"
+  },
+  "lineups": {
+    "home": {
+      "team": "BUCASPOR",
+      "starting11": [],
+      "substitutes": [],
+      "coach": ""
+    },
+    "away": {
+      "team": "Balıkesirspor",
+      "starting11": [],
+      "substitutes": [],
+      "coach": ""
+    }
+  },
+  "halfTimeScore": {
+    "home": null,
+    "away": null,
+    "display": ""
+  }
+}

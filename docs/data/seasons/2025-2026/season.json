@@ -20,7 +20,7 @@
     "goalsAgainst": 30,
     "goalDifference": 32,
     "points": 61,
-    "finalRank": 5
+    "finalRank": null
   },
   "files": {
     "matchesIndex": "seasons/2025-2026/matches_index.json",
@@ -28,6 +28,6 @@
   },
   "source": {
     "name": "TFF",
-    "fixtureUrl": "https://www.tff.org/Default.aspx?grupID=2786&pageID=971"
+    "note": "Açık TFF sayfalarından dönüştürülmüş veri"
   }
 }
