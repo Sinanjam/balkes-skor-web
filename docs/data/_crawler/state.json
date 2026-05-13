@@ -1,13 +1,14 @@
 {
-  "mode": "season_backfill",
+  "mode": "ai_season_backfill",
   "direction": "new_to_old",
+  "resetVersion": "ai-v1",
   "skipSeasons": [
     "2025-2026"
   ],
   "currentSeason": "2023-2024",
-  "completedSeasons": [
+  "completedSeasons": [],
+  "failedSeasons": [
     "2024-2025"
   ],
-  "failedSeasons": [],
-  "lastRun": "2026-05-11T11:34:14.404769+00:00"
+  "lastRun": "2026-05-13T00:24:39.281385+00:00"
 }

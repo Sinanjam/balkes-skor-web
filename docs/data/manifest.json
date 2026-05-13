@@ -12,46 +12,57 @@
   "availableSeasons": [
     {
       "id": "2025-2026",
+      "name": "2025-2026",
       "matchCount": 33
     },
     {
       "id": "2024-2025",
+      "name": "2024-2025",
       "matchCount": 33
     },
     {
       "id": "2023-2024",
+      "name": "2023-2024",
       "matchCount": 29
     },
     {
       "id": "2022-2023",
+      "name": "2022-2023",
       "matchCount": 37
     },
     {
       "id": "2018-2019",
+      "name": "2018-2019",
       "matchCount": 2
     },
     {
       "id": "2009-2010",
+      "name": "2009-2010",
       "matchCount": 1
     },
     {
       "id": "1996-1997",
+      "name": "1996-1997",
       "matchCount": 1
     },
     {
       "id": "1994-1995",
+      "name": "1994-1995",
       "matchCount": 1
     },
     {
       "id": "1992-1993",
+      "name": "1992-1993",
       "matchCount": 1
     },
     {
       "id": "1991-1992",
+      "name": "1991-1992",
       "matchCount": 1
     },
     {
       "id": "1990-1991",
+      "name": "1990-1991",
       "matchCount": 2
     }
   ],
@@ -61,7 +72,7 @@
     "searchIndexUrl": "search_index.json",
     "dataReportUrl": "data_report.json"
   },
-  "appDataVersion": 6,
+  "appDataVersion": 7,
   "appMinVersion": "0.5.0-beta-debug",
-  "lastUpdated": "2026-05-12T22:06:53.731455+00:00"
+  "lastUpdated": "2026-05-13T00:24:39.306188+00:00"
 }
