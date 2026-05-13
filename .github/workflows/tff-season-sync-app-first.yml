@@ -1,0 +1,139 @@
+name: Balkes TFF Season Sync App First
+
+on:
+  workflow_dispatch:
+    inputs:
+      season:
+        description: "Season to scan, e.g. 2021-2022, or auto"
+        required: true
+        default: "auto"
+      push_result:
+        description: "Commit and push if validation passes"
+        required: true
+        default: "true"
+      sync_android:
+        description: "Also sync docs/data to Sinanjam/balkes-skor data/"
+        required: true
+        default: "true"
+      max_search_queries:
+        description: "Max public search queries for this run; 0 = all planned queries"
+        required: true
+        default: "0"
+
+  schedule:
+    # 04:30 Europe/Istanbul = 01:30 UTC
+    - cron: "30 1 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: balkes-tff-season-sync
+  cancel-in-progress: false
+
+jobs:
+  sync-one-season:
+    runs-on: ubuntu-latest
+    timeout-minutes: 330
+
+    env:
+      SEASON_INPUT: ${{ github.event.inputs.season || 'auto' }}
+      PUSH_RESULT: ${{ github.event.inputs.push_result || 'true' }}
+      SYNC_ANDROID: ${{ github.event.inputs.sync_android || 'true' }}
+      MAX_SEARCH_QUERIES: ${{ github.event.inputs.max_search_queries || '0' }}
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      SYNC_PAT: ${{ secrets.SYNC_PAT }}
+
+    steps:
+      - name: Checkout web repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Setup Node for Gemini CLI
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4 lxml tqdm
+          npm install -g @google/gemini-cli@latest
+
+      - name: Sync one TFF season
+        run: |
+          python tools/tff_sync_one_season.py \
+            --season "$SEASON_INPUT" \
+            --data-dir docs/data \
+            --reports-dir reports/season-sync \
+            --queue tools/season_queue.json \
+            --max-search-queries "$MAX_SEARCH_QUERIES" \
+            --min-delay 1.8 \
+            --max-delay 4.5
+
+      - name: Gemini QA review
+        if: env.GEMINI_API_KEY != ''
+        continue-on-error: true
+        run: |
+          bash tools/gemini_review_season.sh
+
+      - name: Validate web data
+        run: |
+          python tools/validate_balkes_data.py \
+            --data-dir docs/data \
+            --reports-dir reports/season-sync
+
+      - name: Show web diff
+        run: |
+          git status --short
+          git diff --stat
+
+      - name: Commit and push web repo
+        if: env.PUSH_RESULT == 'true'
+        run: |
+          if git diff --quiet; then
+            echo "No web repo changes."
+            exit 0
+          fi
+
+          git config user.name "Balkes Season Sync Bot"
+          git config user.email "actions@github.com"
+
+          SEASON="$(cat reports/season-sync/LAST_SEASON.txt 2>/dev/null || echo unknown)"
+          git add docs/data reports/season-sync tools/season_queue.json
+          git commit -m "Sync TFF season data: ${SEASON}"
+          git push origin HEAD:main
+
+      - name: Sync data to Android repo
+        if: env.PUSH_RESULT == 'true' && env.SYNC_ANDROID == 'true'
+        run: |
+          if [ -z "$SYNC_PAT" ]; then
+            echo "SYNC_PAT secret is missing; web data was handled, Android sync skipped."
+            exit 0
+          fi
+
+          SEASON="$(cat reports/season-sync/LAST_SEASON.txt 2>/dev/null || echo unknown)"
+          WORK="$(mktemp -d)"
+          git clone "https://x-access-token:${SYNC_PAT}@github.com/Sinanjam/balkes-skor.git" "$WORK/balkes-skor"
+
+          rm -rf "$WORK/balkes-skor/data"
+          cp -a docs/data "$WORK/balkes-skor/data"
+
+          cd "$WORK/balkes-skor"
+          git config user.name "Balkes Season Sync Bot"
+          git config user.email "actions@github.com"
+
+          if git diff --quiet; then
+            echo "No Android repo data changes."
+            exit 0
+          fi
+
+          git add data
+          git commit -m "Sync app data from web season: ${SEASON}"
+          git push origin HEAD:main
