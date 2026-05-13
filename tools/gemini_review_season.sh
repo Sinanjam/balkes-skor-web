@@ -34,6 +34,6 @@ if os.path.exists(p):
 else:
     print("No matches_index.json")
 PY
-} | gemini --prompt "Review this Balkes Skor TFF season sync output. Do not invent data. Produce a concise technical QA report." > "$OUT"
+} | GEMINI_CLI_TRUST_WORKSPACE=true gemini --skip-trust --prompt "Review this Balkes Skor TFF season sync output. Do not invent data. Produce a concise technical QA report." > "$OUT"
 
 echo "Gemini review written to $OUT"
