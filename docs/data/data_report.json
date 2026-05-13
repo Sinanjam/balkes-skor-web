@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-11T08:34:52Z",
+  "generatedAt": "2026-05-13T03:28:13Z",
   "sourceZip": "balkes-tff-veri.zip",
   "uploadedScan": {
     "generated_at": "2026-05-11T10:54:26",
@@ -20,7 +20,7 @@
   },
   "convertedProfessionalMatchesFromScan": 104,
   "skippedOrNonProfessionalDetails": 13,
-  "totalAppMatches": 136,
+  "totalAppMatches": 141,
   "seasons": [
     {
       "id": "2025-2026",
@@ -76,6 +76,7 @@
   "notes": [
     "Uygulama kullanıcıya ham TFF metni, cache/debug veya kaynak içi teknik bilgi göstermez.",
     "Büyük taramada haftalık puan durumu çıkmadığı için puan durumu yalnızca 2025-2026 sezonunda hazırdır.",
-    "Fixture window kayıtları çok sayıda ham pencere olduğundan uygulamaya doğrudan maç olarak alınmadı; temiz maç ekranlarında yalnızca detay sayfası doğrulanmış maçlar kullanıldı."
+    "Fixture window kayıtları çok sayıda ham pencere olduğundan uygulamaya doğrudan maç olarak alınmadı; temiz maç ekranlarında yalnızca detay sayfası doğrulanmış maçlar kullanıldı.",
+    "Data report totalAppMatches manifest.availableSeasons toplamı ile eşitlendi."
   ]
 }

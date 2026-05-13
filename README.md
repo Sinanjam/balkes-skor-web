@@ -35,3 +35,7 @@ GoatCounter kodu siteye eklidir:
 ## Mini güncelleme
 
 Sitede GoatCounter üzerinden `Toplam Ziyaretçi Sayısı` kartı gösterilir. GoatCounter panelinde visitor counter izninin açık olması gerekir.
+
+## Live data fixpack notu
+
+Web `docs/data/` manifest/data_report değerleri canlı veri fixpack ile güncellendi. Android repo `data/` aynı veriyle eşitlendi.

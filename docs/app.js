@@ -65,7 +65,7 @@ function renderVisitorTotal() {
 function renderMetrics() {
   const totalMatches = seasons.reduce((a,s)=>a + Number(s.matchCount || s.summary?.matches || 0),0);
   $("#metric-seasons").textContent = n(seasons.length);
-  $("#metric-matches").textContent = n(report?.totalAppMatches || totalMatches);
+  $("#metric-matches").textContent = n(totalMatches);
   $("#metric-players").textContent = n(players.length || report?.playersIndexed || 0);
   $("#metric-opponents").textContent = n(opponents.length || report?.opponentsIndexed || 0);
 }
@@ -248,7 +248,7 @@ async function init() {
       getJson("manifest.json"),
       getJson("data_report.json").catch(()=>null),
       getJson("players_index.json").catch(()=>[]),
-      getJson("opponents_index.json").catch(()=>[])
+      getJson("opponents_index.json").catch(() => []).catch(()=>[])
     ]);
     seasons = [...(manifest.availableSeasons || [])].sort((a,b)=>String(b.id).localeCompare(String(a.id)));
     if (!seasons.length) throw new Error("Manifest içinde sezon bulunamadı.");
