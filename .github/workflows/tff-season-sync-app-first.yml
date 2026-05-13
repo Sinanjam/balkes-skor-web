@@ -1,4 +1,4 @@
-name: Balkes TFF Season Sync App First V2
+name: Balkes TFF Season Sync App First V2.1
 
 on:
   workflow_dispatch:
@@ -100,6 +100,26 @@ jobs:
           python tools/validate_balkes_data.py \
             --data-dir docs/data \
             --reports-dir reports/season-sync
+
+      - name: Print season reports
+        if: always()
+        run: |
+          SEASON="$(cat reports/season-sync/LAST_SEASON.txt 2>/dev/null || echo unknown)"
+          echo "SEASON=$SEASON"
+          echo "----- SUMMARY -----"
+          cat "reports/season-sync/${SEASON}/SUMMARY.md" 2>/dev/null || true
+          echo "----- ARCHIVE EXTRACTION -----"
+          cat "reports/season-sync/${SEASON}/archive_extraction.md" 2>/dev/null || true
+          echo "----- VALIDATION -----"
+          cat "reports/season-sync/VALIDATION.md" 2>/dev/null || true
+
+      - name: Upload season reports artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: season-sync-reports
+          path: reports/season-sync
+          if-no-files-found: ignore
 
       - name: Show web diff
         run: |

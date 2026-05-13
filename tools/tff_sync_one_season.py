@@ -453,56 +453,26 @@ def season_summary(index):
 
 
 def update_global_indexes(data_dir: Path):
-    manifest = load_json(data_dir / "manifest.json", {})
-    all_matches = []
-    opponents = {}
-    search = []
-    for s in manifest.get("availableSeasons", []) or []:
-        sid = s.get("id")
-        idx = load_json(data_dir / "seasons" / sid / "matches_index.json", [])
-        if isinstance(idx, list):
-            all_matches.extend(idx)
+    """
+    V2.1 app-first safety:
+    Do not wholesale-regenerate players/opponents/search indexes in the season sync job.
 
-    for m in all_matches:
-        b = m.get("balkes") or {}
-        opp = b.get("opponent") or ""
-        if not opp:
-            continue
-        rec = opponents.setdefault(opp, {
-            "name": opp, "matches": 0, "wins": 0, "draws": 0, "losses": 0,
-            "goalsFor": 0, "goalsAgainst": 0, "lastMatchDate": "",
-            "seasons": [], "matchIds": []
-        })
-        rec["matches"] += 1
-        rec["goalsFor"] += int(b.get("goalsFor") or 0)
-        rec["goalsAgainst"] += int(b.get("goalsAgainst") or 0)
-        if b.get("result") == "W": rec["wins"] += 1
-        if b.get("result") == "D": rec["draws"] += 1
-        if b.get("result") == "L": rec["losses"] += 1
-        if m.get("season") not in rec["seasons"]:
-            rec["seasons"].append(m.get("season"))
-        rec["matchIds"].append(m.get("id"))
-        if m.get("date") and m.get("date") > rec.get("lastMatchDate", ""):
-            rec["lastMatchDate"] = m.get("date")
+    V2 generated a very large diff in search_index/opponents_index during a partial season test.
+    That is risky for the installed app because the season sync parser is intentionally minimal.
+    Root index rebuild should be a separate, explicit maintenance job.
 
-        title = f"{m.get('homeTeam','')} {m.get('score',{}).get('display','')} {m.get('awayTeam','')}".strip()
-        search.append({
-            "id": f"match_{m.get('id')}",
-            "type": "match",
-            "season": m.get("season"),
-            "title": title,
-            "subtitle": f"{m.get('season')} • {m.get('competition','')} • {m.get('stage','')}",
-            "keywords": f"{m.get('homeTeam','')} {m.get('awayTeam','')} {m.get('score',{}).get('display','')} {m.get('id')} {m.get('stage','')}",
-        })
-
-    players_path = data_dir / "players_index.json"
-    players = load_json(players_path, [])
-    if not isinstance(players, list):
-        players = []
-    dump_json(players_path, players)
-    dump_json(data_dir / "opponents_index.json", sorted(opponents.values(), key=lambda x: x["name"]))
-    dump_json(data_dir / "search_index.json", search)
-
+    Here we only ensure the root index files exist and are valid JSON, preserving existing content.
+    """
+    defaults = {
+        "players_index.json": [],
+        "opponents_index.json": [],
+        "search_index.json": [],
+    }
+    for name, fallback in defaults.items():
+        path = data_dir / name
+        obj = load_json(path, fallback)
+        if not isinstance(obj, list):
+            dump_json(path, fallback)
 
 def update_manifest_and_report(data_dir: Path, season: str, index: list, summary: dict):
     manifest_path = data_dir / "manifest.json"
@@ -681,6 +651,10 @@ def main():
             encoding="utf-8"
         )
         print(f"No verified matches for {season}")
+        print(f"Archive URLs tried: {len(archive_urls)}")
+        print(f"Archive macId candidates: {len(archive_ids)}")
+        print(f"Archive fixture rows: {len(archive_rows)}")
+        print(f"Uncertain candidates: {len(uncertain)}")
         return 0
 
     details = [make_detail(m, season) for m in good]
@@ -759,6 +733,10 @@ def main():
     ]
     (season_report_dir / "SUMMARY.md").write_text("\n".join(summary_md) + "\n", encoding="utf-8")
     print(f"Season {season}: verified {len(index)} matches, status={status}")
+    print(f"Archive URLs tried: {len(archive_urls)}")
+    print(f"Archive macId candidates: {len(archive_ids)}")
+    print(f"Archive fixture rows: {len(archive_rows)}")
+    print(f"Uncertain candidates: {len(uncertain)}")
 
 
 if __name__ == "__main__":
