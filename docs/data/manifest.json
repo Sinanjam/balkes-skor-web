@@ -1,10 +1,9 @@
 {
   "app": "Balkes Skor",
   "schemaVersion": 2,
-  "dataVersion": 7,
+  "dataVersion": 8,
   "appVersion": "0.5.0-beta-debug",
   "generatedAt": "2026-05-12T22:06:53.731455Z",
-  "dataBaseUrl": "https://raw.githubusercontent.com/Sinanjam/balkes-skor-web/main/docs/data/",
   "team": "Balıkesirspor",
   "assets": {
     "logo": "assets/logo_balkes_skor.png"
@@ -29,6 +28,11 @@
       "id": "2022-2023",
       "name": "2022-2023",
       "matchCount": 37
+    },
+    {
+      "id": "2021-2022",
+      "name": "2021-2022",
+      "matchCount": 36
     },
     {
       "id": "2018-2019",
@@ -72,7 +76,8 @@
     "searchIndexUrl": "search_index.json",
     "dataReportUrl": "data_report.json"
   },
-  "appDataVersion": 8,
+  "appDataVersion": 9,
   "appMinVersion": "0.5.0-beta-debug",
-  "lastUpdated": "2026-05-13T03:28:13Z"
+  "lastUpdated": "2026-05-14T01:15:00Z",
+  "dataBaseUrl": "https://raw.githubusercontent.com/Sinanjam/balkes-skor-web/main/docs/data/"
 }
