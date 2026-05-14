@@ -1,1 +1,343 @@
-[{"id":"223295","season":"2021-2022","roundType":"league","date":"2021-08-14","time":"21:45","dateDisplay":"14.08.2021 - 21:45","homeTeam":"Balıkesirspor","awayTeam":"BEYPİLİÇ BOLUSPOR","score":{"home":1,"away":0,"display":"1-0","played":true},"balkes":{"isHome":true,"opponent":"BEYPİLİÇ BOLUSPOR","goalsFor":1,"goalsAgainst":0,"result":"W"},"week":1,"stage":"1. Hafta","source":{"name":"TFF","url":"https://www.tff.org/Default.aspx?macId=223295&pageID=528"}},{"id":"223304","season":"2021-2022","roundType":"league","date":"2021-08-20","time":"20:30","dateDisplay":"20.08.2021 - 20:30","homeTeam":"YILPORT SAMSUNSPOR","awayTeam":"Balıkesirspor","score":{"home":3,"away":1,"display":"3-1","played":true},"balkes":{"isHome":false,"opponent":"YILPORT SAMSUNSPOR","goalsFor":1,"goalsAgainst":3,"result":"L"},"week":2,"stage":"2. Hafta","source":{"name":"TFF","url":"https://www.tff.org/Default.aspx?macId=223304&pageID=528"}},{"id":"223321","season":"2021-2022","roundType":"league","date":"2021-09-13","time":"20:00","dateDisplay":"13.09.2021 - 20:00","homeTeam":"Balıkesirspor","awayTeam":"TUZLASPOR A.Ş.","score":{"home":0,"away":1,"display":"0-1","played":true},"balkes":{"isHome":true,"opponent":"TUZLASPOR A.Ş.","goalsFor":0,"goalsAgainst":1,"result":"L"},"week":3,"stage":"3. Hafta","source":{"name":"TFF","url":"https://www.tff.org/Default.aspx?macId=223321&pageID=528"}},{"id":"223330","season":"2021-2022","roundType":"league","date":"2021-09-16","time":"17:30","dateDisplay":"16.09.2021 - 17:30","homeTeam":"KOCAELİSPOR","awayTeam":"Balıkesirspor","score":{"home":3,"away":1,"display":"3-1","played":true},"balkes":{"isHome":false,"opponent":"KOCAELİSPOR","goalsFor":1,"goalsAgainst":3,"result":"L"},"week":4,"stage":"4. Hafta","source":{"name":"TFF","url":"https://www.tff.org/Default.aspx?macId=223330&pageID=528"}},{"id":"223339","season":"2021-2022","roundType":"league","date":"2021-09-20","time":"20:00","dateDisplay":"20.09.2021 - 20:00","homeTeam":"Balıkesirspor","awayTeam":"ANKARA KEÇİÖRENGÜCÜ","score":{"home":2,"away":1,"display":"2-1","played":true},"balkes":{"isHome":true,"opponent":"ANKARA KEÇİÖRENGÜCÜ","goalsFor":2,"goalsAgainst":1,"result":"W"},"week":5,"stage":"5. Hafta","source":{"name":"TFF","url":"https://www.tff.org/Default.aspx?macId=223339&pageID=528"}},{"id":"223348","season":"2021-2022","roundType":"league","date":"2021-09-26","time":"16:00","dateDisplay":"26.09.2021 - 16:00","homeTeam":"İSTANBULSPOR A.Ş.","awayTeam":"Balıkesirspor","score":{"home":1,"away":0,"display":"1-0","played":true},"balkes":{"isHome":false,"opponent":"İSTANBULSPOR A.Ş.","goalsFor":0,"goalsAgainst":1,"result":"L"},"week":6,"stage":"6. Hafta","source":{"name":"TFF","url":"https://www.tff.org/Default.aspx?macId=223348&pageID=528"}},{"id":"223357","season":"2021-2022","roundType":"league","date":"2021-10-02","time":"16:00","dateDisplay":"2.10.2021 - 16:00","homeTeam":"Balıkesirspor","awayTeam":"GENÇLERBİRLİĞİ","score":{"home":0,"away":2,"display":"0-2","played":true},"balkes":{"isHome":true,"opponent":"GENÇLERBİRLİĞİ","goalsFor":0,"goalsAgainst":2,"result":"L"},"week":7,"stage":"7. Hafta","source":{"name":"TFF","url":"https://www.tff.org/Default.aspx?macId=223357&pageID=528"}},{"id":"223366","season":"2021-2022","roundType":"league","date":"2021-10-16","time":"16:00","dateDisplay":"16.10.2021 - 16:00","homeTeam":"ALTAŞ DENİZLİSPOR","awayTeam":"Balıkesirspor","score":{"home":2,"away":1,"display":"2-1","played":true},"balkes":{"isHome":false,"opponent":"ALTAŞ DENİZLİSPOR","goalsFor":1,"goalsAgainst":2,"result":"L"},"week":8,"stage":"8. Hafta","source":{"name":"TFF","url":"https://www.tff.org/Default.aspx?macId=223366&pageID=528"}},{"id":"223375","season":"2021-2022","roundType":"league","date":"2021-10-24","time":"16:00","dateDisplay":"24.10.2021 - 16:00","homeTeam":"Balıkesirspor","awayTeam":"BURSASPOR","score":{"home":0,"away":2,"display":"0-2","played":true},"balkes":{"isHome":true,"opponent":"BURSASPOR","goalsFor":0,"goalsAgainst":2,"result":"L"},"week":9,"stage":"9. Hafta","source":{"name":"TFF","url":"https://www.tff.org/Default.aspx?macId=223375&pageID=528"}},{"id":"223384","season":"2021-2022","roundType":"league","date":"2021-10-31","time":"16:00","dateDisplay":"31.10.2021 - 16:00","homeTeam":"BÜYÜKŞEHİR BELEDİYE ERZURUMSPOR","awayTeam":"Balıkesirspor","score":{"home":2,"away":1,"display":"2-1","played":true},"balkes":{"isHome":false,"opponent":"BÜYÜKŞEHİR BELEDİYE ERZURUMSPOR","goalsFor":1,"goalsAgainst":2,"result":"L"},"week":10,"stage":"10. Hafta","source":{"name":"TFF","url":"https://www.tff.org/Default.aspx?macId=223384&pageID=528"}},{"id":"223393","season":"2021-2022","roundType":"league","date":"2021-11-07","time":"16:00","dateDisplay":"7.11.2021 - 16:00","homeTeam":"Balıkesirspor","awayTeam":"ADANASPOR A.Ş.","score":{"home":1,"away":2,"display":"1-2","played":true},"balkes":{"isHome":true,"opponent":"ADANASPOR A.Ş.","goalsFor":1,"goalsAgainst":2,"result":"L"},"week":11,"stage":"11. Hafta","source":{"name":"TFF","url":"https://www.tff.org/Default.aspx?macId=223393&pageID=528"}},{"id":"223402","season":"2021-2022","roundType":"league","date":"2021-11-20","time":"16:00","dateDisplay":"20.11.2021 - 16:00","homeTeam":"NASADOGE MENEMENSPOR","awayTeam":"Balıkesirspor","score":{"home":2,"away":1,"display":"2-1","played":true},"balkes":{"isHome":false,"opponent":"NASADOGE MENEMENSPOR","goalsFor":1,"goalsAgainst":2,"result":"L"},"week":12,"stage":"12. Hafta","source":{"name":"TFF","url":"https://www.tff.org/Default.aspx?macId=223402&pageID=528"}},{"id":"223411","season":"2021-2022","roundType":"league","date":"2021-11-26","time":"17:30","dateDisplay":"26.11.2021 - 17:30","homeTeam":"Balıkesirspor","awayTeam":"MANİSA FUTBOL KULÜBÜ","score":{"home":0,"away":0,"display":"0-0","played":true},"balkes":{"isHome":true,"opponent":"MANİSA FUTBOL KULÜBÜ","goalsFor":0,"goalsAgainst":0,"result":"D"},"week":13,"stage":"13. Hafta","source":{"name":"TFF","url":"https://www.tff.org/Default.aspx?macId=223411&pageID=528"}},{"id":"223420","season":"2021-2022","roundType":"league","date":"2021-12-06","time":"20:00","dateDisplay":"6.12.2021 - 20:00","homeTeam":"MKE ANKARAGÜCÜ","awayTeam":"Balıkesirspor","score":{"home":2,"away":0,"display":"2-0","played":true},"balkes":{"isHome":false,"opponent":"MKE ANKARAGÜCÜ","goalsFor":0,"goalsAgainst":2,"result":"L"},"week":14,"stage":"14. Hafta","source":{"name":"TFF","url":"https://www.tff.org/Default.aspx?macId=223420&pageID=528"}},{"id":"223429","season":"2021-2022","roundType":"league","date":"2021-12-11","time":"19:00","dateDisplay":"11.12.2021 - 19:00","homeTeam":"Balıkesirspor","awayTeam":"BEREKET SİGORTA ÜMRANİYESPOR","score":{"home":1,"away":2,"display":"1-2","played":true},"balkes":{"isHome":true,"opponent":"BEREKET SİGORTA ÜMRANİYESPOR","goalsFor":1,"goalsAgainst":2,"result":"L"},"week":15,"stage":"15. Hafta","source":{"name":"TFF","url":"https://www.tff.org/Default.aspx?macId=223429&pageID=528"}},{"id":"223439","season":"2021-2022","roundType":"league","date":"2021-12-15","time":"13:30","dateDisplay":"15.12.2021 - 13:30","homeTeam":"ROYAL HASTANESİ BANDIRMASPOR","awayTeam":"Balıkesirspor","score":{"home":3,"away":0,"display":"3-0","played":true},"balkes":{"isHome":false,"opponent":"ROYAL HASTANESİ BANDIRMASPOR","goalsFor":0,"goalsAgainst":3,"result":"L"},"week":16,"stage":"16. Hafta","source":{"name":"TFF","url":"https://www.tff.org/Default.aspx?macId=223439&pageID=528"}},{"id":"223448","season":"2021-2022","roundType":"league","date":"2021-12-18","time":"19:00","dateDisplay":"18.12.2021 - 19:00","homeTeam":"Balıkesirspor","awayTeam":"ALTINORDU","score":{"home":3,"away":4,"display":"3-4","played":true},"balkes":{"isHome":true,"opponent":"ALTINORDU","goalsFor":3,"goalsAgainst":4,"result":"L"},"week":17,"stage":"17. Hafta","source":{"name":"TFF","url":"https://www.tff.org/Default.aspx?macId=223448&pageID=528"}},{"id":"223457","season":"2021-2022","roundType":"league","date":"2021-12-26","time":"19:00","dateDisplay":"26.12.2021 - 19:00","homeTeam":"EYÜPSPOR","awayTeam":"Balıkesirspor","score":{"home":1,"away":1,"display":"1-1","played":true},"balkes":{"isHome":false,"opponent":"EYÜPSPOR","goalsFor":1,"goalsAgainst":1,"result":"D"},"week":18,"stage":"18. Hafta","source":{"name":"TFF","url":"https://www.tff.org/Default.aspx?macId=223457&pageID=528"}},{"id":"223466","season":"2021-2022","roundType":"league","date":"2022-01-09","time":"16:00","dateDisplay":"9.01.2022 - 16:00","homeTeam":"BEYPİLİÇ BOLUSPOR","awayTeam":"Balıkesirspor","score":{"home":1,"away":0,"display":"1-0","played":true},"balkes":{"isHome":false,"opponent":"BEYPİLİÇ BOLUSPOR","goalsFor":0,"goalsAgainst":1,"result":"L"},"week":19,"stage":"19. Hafta","source":{"name":"TFF","url":"https://www.tff.org/Default.aspx?macId=223466&pageID=528"}},{"id":"223475","season":"2021-2022","roundType":"league","date":"2022-01-16","time":"16:00","dateDisplay":"16.01.2022 - 16:00","homeTeam":"Balıkesirspor","awayTeam":"YILPORT SAMSUNSPOR","score":{"home":0,"away":2,"display":"0-2","played":true},"balkes":{"isHome":true,"opponent":"YILPORT SAMSUNSPOR","goalsFor":0,"goalsAgainst":2,"result":"L"},"week":20,"stage":"20. Hafta","source":{"name":"TFF","url":"https://www.tff.org/Default.aspx?macId=223475&pageID=528"}},{"id":"223492","season":"2021-2022","roundType":"league","date":"2022-02-05","time":"13:30","dateDisplay":"5.02.2022 - 13:30","homeTeam":"TUZLASPOR A.Ş.","awayTeam":"Balıkesirspor","score":{"home":0,"away":2,"display":"0-2","played":true},"balkes":{"isHome":false,"opponent":"TUZLASPOR A.Ş.","goalsFor":2,"goalsAgainst":0,"result":"W"},"week":21,"stage":"21. Hafta","source":{"name":"TFF","url":"https://www.tff.org/Default.aspx?macId=223492&pageID=528"}},{"id":"223501","season":"2021-2022","roundType":"league","date":"2022-02-12","time":"19:00","dateDisplay":"12.02.2022 - 19:00","homeTeam":"Balıkesirspor","awayTeam":"KOCAELİSPOR","score":{"home":1,"away":2,"display":"1-2","played":true},"balkes":{"isHome":true,"opponent":"KOCAELİSPOR","goalsFor":1,"goalsAgainst":2,"result":"L"},"week":22,"stage":"22. Hafta","source":{"name":"TFF","url":"https://www.tff.org/Default.aspx?macId=223501&pageID=528"}},{"id":"223510","season":"2021-2022","roundType":"league","date":"2022-02-16","time":"14:30","dateDisplay":"16.02.2022 - 14:30","homeTeam":"ANKARA KEÇİÖRENGÜCÜ","awayTeam":"Balıkesirspor","score":{"home":3,"away":1,"display":"3-1","played":true},"balkes":{"isHome":false,"opponent":"ANKARA KEÇİÖRENGÜCÜ","goalsFor":1,"goalsAgainst":3,"result":"L"},"week":23,"stage":"23. Hafta","source":{"name":"TFF","url":"https://www.tff.org/Default.aspx?macId=223510&pageID=528"}},{"id":"223519","season":"2021-2022","roundType":"league","date":"2022-02-20","time":"16:00","dateDisplay":"20.02.2022 - 16:00","homeTeam":"Balıkesirspor","awayTeam":"İSTANBULSPOR A.Ş.","score":{"home":1,"away":3,"display":"1-3","played":true},"balkes":{"isHome":true,"opponent":"İSTANBULSPOR A.Ş.","goalsFor":1,"goalsAgainst":3,"result":"L"},"week":24,"stage":"24. Hafta","source":{"name":"TFF","url":"https://www.tff.org/Default.aspx?macId=223519&pageID=528"}},{"id":"223528","season":"2021-2022","roundType":"league","date":"2022-02-26","time":"19:00","dateDisplay":"26.02.2022 - 19:00","homeTeam":"GENÇLERBİRLİĞİ","awayTeam":"Balıkesirspor","score":{"home":2,"away":0,"display":"2-0","played":true},"balkes":{"isHome":false,"opponent":"GENÇLERBİRLİĞİ","goalsFor":0,"goalsAgainst":2,"result":"L"},"week":25,"stage":"25. Hafta","source":{"name":"TFF","url":"https://www.tff.org/Default.aspx?macId=223528&pageID=528"}},{"id":"223537","season":"2021-2022","roundType":"league","date":"2022-03-07","time":"20:00","dateDisplay":"7.03.2022 - 20:00","homeTeam":"Balıkesirspor","awayTeam":"ALTAŞ DENİZLİSPOR","score":{"home":0,"away":1,"display":"0-1","played":true},"balkes":{"isHome":true,"opponent":"ALTAŞ DENİZLİSPOR","goalsFor":0,"goalsAgainst":1,"result":"L"},"week":26,"stage":"26. Hafta","source":{"name":"TFF","url":"https://www.tff.org/Default.aspx?macId=223537&pageID=528"}},{"id":"223546","season":"2021-2022","roundType":"league","date":"2022-03-20","time":"16:00","dateDisplay":"20.03.2022 - 16:00","homeTeam":"BURSASPOR","awayTeam":"Balıkesirspor","score":{"home":2,"away":1,"display":"2-1","played":true},"balkes":{"isHome":false,"opponent":"BURSASPOR","goalsFor":1,"goalsAgainst":2,"result":"L"},"week":27,"stage":"27. Hafta","source":{"name":"TFF","url":"https://www.tff.org/Default.aspx?macId=223546&pageID=528"}},{"id":"223555","season":"2021-2022","roundType":"league","date":"2022-04-03","time":"16:00","dateDisplay":"3.04.2022 - 16:00","homeTeam":"Balıkesirspor","awayTeam":"BÜYÜKŞEHİR BELEDİYE ERZURUMSPOR","score":{"home":1,"away":5,"display":"1-5","played":true},"balkes":{"isHome":true,"opponent":"BÜYÜKŞEHİR BELEDİYE ERZURUMSPOR","goalsFor":1,"goalsAgainst":5,"result":"L"},"week":28,"stage":"28. Hafta","source":{"name":"TFF","url":"https://www.tff.org/Default.aspx?macId=223555&pageID=528"}},{"id":"223564","season":"2021-2022","roundType":"league","date":"2022-04-09","time":"20:30","dateDisplay":"9.04.2022 - 20:30","homeTeam":"ADANASPOR A.Ş.","awayTeam":"Balıkesirspor","score":{"home":3,"away":1,"display":"3-1","played":true},"balkes":{"isHome":false,"opponent":"ADANASPOR A.Ş.","goalsFor":1,"goalsAgainst":3,"result":"L"},"week":29,"stage":"29. Hafta","source":{"name":"TFF","url":"https://www.tff.org/Default.aspx?macId=223564&pageID=528"}},{"id":"223573","season":"2021-2022","roundType":"league","date":"2022-04-16","time":"13:30","dateDisplay":"16.04.2022 - 13:30","homeTeam":"Balıkesirspor","awayTeam":"NASADOGE MENEMENSPOR","score":{"home":1,"away":1,"display":"1-1","played":true},"balkes":{"isHome":true,"opponent":"NASADOGE MENEMENSPOR","goalsFor":1,"goalsAgainst":1,"result":"D"},"week":30,"stage":"30. Hafta","source":{"name":"TFF","url":"https://www.tff.org/Default.aspx?macId=223573&pageID=528"}},{"id":"223582","season":"2021-2022","roundType":"league","date":"2022-04-20","time":"13:30","dateDisplay":"20.04.2022 - 13:30","homeTeam":"MANİSA FUTBOL KULÜBÜ","awayTeam":"Balıkesirspor","score":{"home":3,"away":0,"display":"3-0","played":true},"balkes":{"isHome":false,"opponent":"MANİSA FUTBOL KULÜBÜ","goalsFor":0,"goalsAgainst":3,"result":"L"},"week":31,"stage":"31. Hafta","source":{"name":"TFF","url":"https://www.tff.org/Default.aspx?macId=223582&pageID=528"}},{"id":"223591","season":"2021-2022","roundType":"league","date":"2022-04-24","time":"20:30","dateDisplay":"24.04.2022 - 20:30","homeTeam":"Balıkesirspor","awayTeam":"MKE ANKARAGÜCÜ","score":{"home":0,"away":2,"display":"0-2","played":true},"balkes":{"isHome":true,"opponent":"MKE ANKARAGÜCÜ","goalsFor":0,"goalsAgainst":2,"result":"L"},"week":32,"stage":"32. Hafta","source":{"name":"TFF","url":"https://www.tff.org/Default.aspx?macId=223591&pageID=528"}},{"id":"223600","season":"2021-2022","roundType":"league","date":"2022-05-01","time":"16:00","dateDisplay":"1.05.2022 - 16:00","homeTeam":"BEREKET SİGORTA ÜMRANİYESPOR","awayTeam":"Balıkesirspor","score":{"home":4,"away":1,"display":"4-1","played":true},"balkes":{"isHome":false,"opponent":"BEREKET SİGORTA ÜMRANİYESPOR","goalsFor":1,"goalsAgainst":4,"result":"L"},"week":33,"stage":"33. Hafta","source":{"name":"TFF","url":"https://www.tff.org/Default.aspx?macId=223600&pageID=528"}},{"id":"223610","season":"2021-2022","roundType":"league","date":"2022-05-08","time":"16:00","dateDisplay":"8.05.2022 - 16:00","homeTeam":"Balıkesirspor","awayTeam":"ROYAL HASTANESİ BANDIRMASPOR","score":{"home":1,"away":5,"display":"1-5","played":true},"balkes":{"isHome":true,"opponent":"ROYAL HASTANESİ BANDIRMASPOR","goalsFor":1,"goalsAgainst":5,"result":"L"},"week":34,"stage":"34. Hafta","source":{"name":"TFF","url":"https://www.tff.org/Default.aspx?macId=223610&pageID=528"}},{"id":"223619","season":"2021-2022","roundType":"league","date":"2022-05-14","time":"16:00","dateDisplay":"14.05.2022 - 16:00","homeTeam":"ALTINORDU","awayTeam":"Balıkesirspor","score":{"home":2,"away":1,"display":"2-1","played":true},"balkes":{"isHome":false,"opponent":"ALTINORDU","goalsFor":1,"goalsAgainst":2,"result":"L"},"week":35,"stage":"35. Hafta","source":{"name":"TFF","url":"https://www.tff.org/Default.aspx?macId=223619&pageID=528"}},{"id":"223628","season":"2021-2022","roundType":"league","date":"2022-05-20","time":"20:00","dateDisplay":"20.05.2022 - 20:00","homeTeam":"Balıkesirspor","awayTeam":"EYÜPSPOR","score":{"home":0,"away":3,"display":"0-3","played":true},"balkes":{"isHome":true,"opponent":"EYÜPSPOR","goalsFor":0,"goalsAgainst":3,"result":"L"},"week":36,"stage":"36. Hafta","source":{"name":"TFF","url":"https://www.tff.org/Default.aspx?macId=223628&pageID=528"}}]
+[
+  {
+    "id": "223393",
+    "season": "2021-2022",
+    "competition": "TRENDYOL SÜPER LİG",
+    "roundType": "cup",
+    "week": null,
+    "stage": "",
+    "date": "2021-07-11",
+    "time": "16:00",
+    "dateDisplay": "11.07.2021 - 16:00",
+    "homeTeam": "",
+    "awayTeam": "",
+    "score": {
+      "home": null,
+      "away": null,
+      "display": "",
+      "played": true
+    },
+    "balkes": {
+      "isHome": false,
+      "opponent": "",
+      "goalsFor": null,
+      "goalsAgainst": null,
+      "result": ""
+    },
+    "detailUrl": "seasons/2021-2022/matches/223393.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=223393&pageID=528"
+    }
+  },
+  {
+    "id": "223429",
+    "season": "2021-2022",
+    "competition": "TRENDYOL SÜPER LİG",
+    "roundType": "cup",
+    "week": null,
+    "stage": "",
+    "date": "2021-11-12",
+    "time": "19:00",
+    "dateDisplay": "12.11.2021 - 19:00",
+    "homeTeam": "",
+    "awayTeam": "",
+    "score": {
+      "home": null,
+      "away": null,
+      "display": "",
+      "played": true
+    },
+    "balkes": {
+      "isHome": false,
+      "opponent": "",
+      "goalsFor": null,
+      "goalsAgainst": null,
+      "result": ""
+    },
+    "detailUrl": "seasons/2021-2022/matches/223429.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=223429&pageID=528"
+    }
+  },
+  {
+    "id": "223321",
+    "season": "2021-2022",
+    "competition": "TRENDYOL SÜPER LİG",
+    "roundType": "cup",
+    "week": null,
+    "stage": "",
+    "date": "2021-13-09",
+    "time": "20:00",
+    "dateDisplay": "09.13.2021 - 20:00",
+    "homeTeam": "",
+    "awayTeam": "",
+    "score": {
+      "home": null,
+      "away": null,
+      "display": "",
+      "played": true
+    },
+    "balkes": {
+      "isHome": false,
+      "opponent": "",
+      "goalsFor": null,
+      "goalsAgainst": null,
+      "result": ""
+    },
+    "detailUrl": "seasons/2021-2022/matches/223321.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=223321&pageID=528"
+    }
+  },
+  {
+    "id": "223295",
+    "season": "2021-2022",
+    "competition": "TRENDYOL SÜPER LİG",
+    "roundType": "cup",
+    "week": null,
+    "stage": "",
+    "date": "2021-14-08",
+    "time": "21:45",
+    "dateDisplay": "08.14.2021 - 21:45",
+    "homeTeam": "",
+    "awayTeam": "",
+    "score": {
+      "home": null,
+      "away": null,
+      "display": "",
+      "played": true
+    },
+    "balkes": {
+      "isHome": false,
+      "opponent": "",
+      "goalsFor": null,
+      "goalsAgainst": null,
+      "result": ""
+    },
+    "detailUrl": "seasons/2021-2022/matches/223295.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=223295&pageID=528"
+    }
+  },
+  {
+    "id": "223439",
+    "season": "2021-2022",
+    "competition": "TRENDYOL SÜPER LİG",
+    "roundType": "cup",
+    "week": null,
+    "stage": "",
+    "date": "2021-15-12",
+    "time": "13:30",
+    "dateDisplay": "12.15.2021 - 13:30",
+    "homeTeam": "",
+    "awayTeam": "",
+    "score": {
+      "home": null,
+      "away": null,
+      "display": "",
+      "played": true
+    },
+    "balkes": {
+      "isHome": false,
+      "opponent": "",
+      "goalsFor": null,
+      "goalsAgainst": null,
+      "result": ""
+    },
+    "detailUrl": "seasons/2021-2022/matches/223439.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=223439&pageID=528"
+    }
+  },
+  {
+    "id": "223330",
+    "season": "2021-2022",
+    "competition": "TRENDYOL SÜPER LİG",
+    "roundType": "cup",
+    "week": null,
+    "stage": "",
+    "date": "2021-16-09",
+    "time": "17:30",
+    "dateDisplay": "09.16.2021 - 17:30",
+    "homeTeam": "",
+    "awayTeam": "",
+    "score": {
+      "home": null,
+      "away": null,
+      "display": "",
+      "played": true
+    },
+    "balkes": {
+      "isHome": false,
+      "opponent": "",
+      "goalsFor": null,
+      "goalsAgainst": null,
+      "result": ""
+    },
+    "detailUrl": "seasons/2021-2022/matches/223330.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=223330&pageID=528"
+    }
+  },
+  {
+    "id": "223366",
+    "season": "2021-2022",
+    "competition": "TRENDYOL SÜPER LİG",
+    "roundType": "cup",
+    "week": null,
+    "stage": "",
+    "date": "2021-16-10",
+    "time": "16:00",
+    "dateDisplay": "10.16.2021 - 16:00",
+    "homeTeam": "",
+    "awayTeam": "",
+    "score": {
+      "home": null,
+      "away": null,
+      "display": "",
+      "played": true
+    },
+    "balkes": {
+      "isHome": false,
+      "opponent": "",
+      "goalsFor": null,
+      "goalsAgainst": null,
+      "result": ""
+    },
+    "detailUrl": "seasons/2021-2022/matches/223366.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=223366&pageID=528"
+    }
+  },
+  {
+    "id": "223448",
+    "season": "2021-2022",
+    "competition": "TRENDYOL SÜPER LİG",
+    "roundType": "cup",
+    "week": null,
+    "stage": "",
+    "date": "2021-18-12",
+    "time": "19:00",
+    "dateDisplay": "12.18.2021 - 19:00",
+    "homeTeam": "",
+    "awayTeam": "",
+    "score": {
+      "home": null,
+      "away": null,
+      "display": "",
+      "played": true
+    },
+    "balkes": {
+      "isHome": false,
+      "opponent": "",
+      "goalsFor": null,
+      "goalsAgainst": null,
+      "result": ""
+    },
+    "detailUrl": "seasons/2021-2022/matches/223448.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=223448&pageID=528"
+    }
+  },
+  {
+    "id": "223600",
+    "season": "2021-2022",
+    "competition": "TRENDYOL SÜPER LİG",
+    "roundType": "cup",
+    "week": null,
+    "stage": "",
+    "date": "2022-01-05",
+    "time": "16:00",
+    "dateDisplay": "05.01.2022 - 16:00",
+    "homeTeam": "",
+    "awayTeam": "",
+    "score": {
+      "home": null,
+      "away": null,
+      "display": "",
+      "played": true
+    },
+    "balkes": {
+      "isHome": false,
+      "opponent": "",
+      "goalsFor": null,
+      "goalsAgainst": null,
+      "result": ""
+    },
+    "detailUrl": "seasons/2021-2022/matches/223600.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=223600&pageID=528"
+    }
+  },
+  {
+    "id": "223555",
+    "season": "2021-2022",
+    "competition": "TRENDYOL SÜPER LİG",
+    "roundType": "cup",
+    "week": null,
+    "stage": "",
+    "date": "2022-03-04",
+    "time": "16:00",
+    "dateDisplay": "04.03.2022 - 16:00",
+    "homeTeam": "",
+    "awayTeam": "",
+    "score": {
+      "home": null,
+      "away": null,
+      "display": "",
+      "played": true
+    },
+    "balkes": {
+      "isHome": false,
+      "opponent": "",
+      "goalsFor": null,
+      "goalsAgainst": null,
+      "result": ""
+    },
+    "detailUrl": "seasons/2021-2022/matches/223555.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=223555&pageID=528"
+    }
+  },
+  {
+    "id": "223492",
+    "season": "2021-2022",
+    "competition": "TRENDYOL SÜPER LİG",
+    "roundType": "cup",
+    "week": null,
+    "stage": "",
+    "date": "2022-05-02",
+    "time": "13:30",
+    "dateDisplay": "02.05.2022 - 13:30",
+    "homeTeam": "",
+    "awayTeam": "",
+    "score": {
+      "home": null,
+      "away": null,
+      "display": "",
+      "played": true
+    },
+    "balkes": {
+      "isHome": false,
+      "opponent": "",
+      "goalsFor": null,
+      "goalsAgainst": null,
+      "result": ""
+    },
+    "detailUrl": "seasons/2021-2022/matches/223492.json",
+    "source": {
+      "name": "TFF",
+      "url": "https://www.tff.org/Default.aspx?macId=223492&pageID=528"
+    }
+  }
+]

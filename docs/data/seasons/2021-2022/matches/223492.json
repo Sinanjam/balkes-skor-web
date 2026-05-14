@@ -1,0 +1,68 @@
+{
+  "id": "223492",
+  "tffMatchId": "223492",
+  "season": "2021-2022",
+  "competition": "TRENDYOL SÜPER LİG",
+  "group": "",
+  "roundType": "cup",
+  "week": null,
+  "stage": "",
+  "date": "2022-05-02",
+  "time": "13:30",
+  "dateDisplay": "02.05.2022 - 13:30",
+  "stadium": "",
+  "venue": "",
+  "city": "",
+  "referee": "",
+  "assistantReferees": [],
+  "fourthOfficial": "",
+  "referees": [],
+  "homeTeam": "",
+  "awayTeam": "",
+  "score": {
+    "home": null,
+    "away": null,
+    "display": "",
+    "played": true
+  },
+  "halfTimeScore": {
+    "home": null,
+    "away": null,
+    "display": ""
+  },
+  "events": [],
+  "homeCoach": "",
+  "awayCoach": "",
+  "lineups": {
+    "home": {
+      "team": "",
+      "starting11": [],
+      "substitutes": [],
+      "coach": ""
+    },
+    "away": {
+      "team": "",
+      "starting11": [],
+      "substitutes": [],
+      "coach": ""
+    }
+  },
+  "source": {
+    "name": "TFF",
+    "url": "https://www.tff.org/Default.aspx?macId=223492&pageID=528"
+  },
+  "dataQuality": {
+    "level": "official_tff_open_data",
+    "notes": [
+      "Takım adları TFF textinden otomatik güvenle ayrıştırılamadı.",
+      "Skor TFF textinden otomatik güvenle ayrıştırılamadı."
+    ]
+  },
+  "balkes": {
+    "isHome": false,
+    "opponent": "",
+    "goalsFor": null,
+    "goalsAgainst": null,
+    "result": ""
+  }
+}

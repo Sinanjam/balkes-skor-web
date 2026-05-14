@@ -1,1 +1,41 @@
-{"id":"2021-2022","name":"2021-2022","competition":"TFF 1. Lig (Profesyonel Takım)","group":"","summary":{"matches":36,"wins":3,"draws":3,"losses":30,"goalsFor":26,"goalsAgainst":77,"goalDifference":-51},"files":{"matchesIndex":"seasons/2021-2022/matches_index.json","standingsByWeek":"seasons/2021-2022/standings_by_week.json"}}
+{
+  "id": "2021-2022",
+  "name": "2021-2022",
+  "team": {
+    "id": "balikesirspor",
+    "name": "Balıkesirspor",
+    "tffClubId": "135"
+  },
+  "competition": "TRENDYOL SÜPER LİG",
+  "group": "",
+  "summary": {
+    "matches": 11,
+    "leagueMatches": 0,
+    "playoffMatches": 0,
+    "cupMatches": 11,
+    "wins": 0,
+    "draws": 0,
+    "losses": 0,
+    "goalsFor": 0,
+    "goalsAgainst": 0,
+    "goalDifference": 0,
+    "points": null,
+    "finalRank": null
+  },
+  "files": {
+    "matchesIndex": "seasons/2021-2022/matches_index.json",
+    "standingsByWeek": "seasons/2021-2022/standings_by_week.json"
+  },
+  "source": {
+    "name": "TFF",
+    "note": "Açık TFF sayfalarından dönüştürülmüş veri"
+  },
+  "dataQuality": {
+    "level": "official_tff_open_data",
+    "notes": [
+      "Bu sezon GitHub Actions season sync V2 ile otomatik güncellendi.",
+      "V2 resmi TFF arşiv sayfalarını önce dener, sonra arama fallback kullanır.",
+      "Otomatik parserın güvenle ayıramadığı alanlar match dataQuality.notes içinde işaretlenir."
+    ]
+  }
+}

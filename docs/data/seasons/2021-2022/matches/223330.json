@@ -1,0 +1,68 @@
+{
+  "id": "223330",
+  "tffMatchId": "223330",
+  "season": "2021-2022",
+  "competition": "TRENDYOL SÜPER LİG",
+  "group": "",
+  "roundType": "cup",
+  "week": null,
+  "stage": "",
+  "date": "2021-16-09",
+  "time": "17:30",
+  "dateDisplay": "09.16.2021 - 17:30",
+  "stadium": "",
+  "venue": "",
+  "city": "",
+  "referee": "",
+  "assistantReferees": [],
+  "fourthOfficial": "",
+  "referees": [],
+  "homeTeam": "",
+  "awayTeam": "",
+  "score": {
+    "home": null,
+    "away": null,
+    "display": "",
+    "played": true
+  },
+  "halfTimeScore": {
+    "home": null,
+    "away": null,
+    "display": ""
+  },
+  "events": [],
+  "homeCoach": "",
+  "awayCoach": "",
+  "lineups": {
+    "home": {
+      "team": "",
+      "starting11": [],
+      "substitutes": [],
+      "coach": ""
+    },
+    "away": {
+      "team": "",
+      "starting11": [],
+      "substitutes": [],
+      "coach": ""
+    }
+  },
+  "source": {
+    "name": "TFF",
+    "url": "https://www.tff.org/Default.aspx?macId=223330&pageID=528"
+  },
+  "dataQuality": {
+    "level": "official_tff_open_data",
+    "notes": [
+      "Takım adları TFF textinden otomatik güvenle ayrıştırılamadı.",
+      "Skor TFF textinden otomatik güvenle ayrıştırılamadı."
+    ]
+  },
+  "balkes": {
+    "isHome": false,
+    "opponent": "",
+    "goalsFor": null,
+    "goalsAgainst": null,
+    "result": ""
+  }
+}

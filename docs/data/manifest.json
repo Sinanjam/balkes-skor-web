@@ -1,7 +1,7 @@
 {
   "app": "Balkes Skor",
   "schemaVersion": 2,
-  "dataVersion": 8,
+  "dataVersion": 9,
   "appVersion": "0.5.0-beta-debug",
   "generatedAt": "2026-05-12T22:06:53.731455Z",
   "team": "Balıkesirspor",
@@ -32,7 +32,20 @@
     {
       "id": "2021-2022",
       "name": "2021-2022",
-      "matchCount": 36
+      "matchCount": 11,
+      "competition": "TRENDYOL SÜPER LİG",
+      "group": "",
+      "summary": {
+        "matches": 11,
+        "wins": 0,
+        "draws": 0,
+        "losses": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0,
+        "goalDifference": 0,
+        "points": null,
+        "finalRank": null
+      }
     },
     {
       "id": "2018-2019",
@@ -76,8 +89,8 @@
     "searchIndexUrl": "search_index.json",
     "dataReportUrl": "data_report.json"
   },
-  "appDataVersion": 9,
+  "appDataVersion": 10,
   "appMinVersion": "0.5.0-beta-debug",
-  "lastUpdated": "2026-05-14T01:15:00Z",
+  "lastUpdated": "2026-05-14T05:19:50Z",
   "dataBaseUrl": "https://raw.githubusercontent.com/Sinanjam/balkes-skor-web/main/docs/data/"
 }
